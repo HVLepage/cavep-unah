@@ -1,0 +1,17 @@
+---
+title: 'Online platform is released!'
+date: 2022-08-09 16:30:00 
+author: hvlepage
+version: 1.0.0
+category: Website
+---
+
+Hi! Welcome to the first live version of the Cambidge-UNAH online distribution platform!
+
+Please feel free to contribute to the project by asking questions and engaging with our research. Each page contains a comments section at the bottom.
+
+---
+
+¡Hola! ¡Bienvenidos a la primera versión en vivo de la plataforma de distribución en línea Cambidge-UNAH!
+
+No dude en contribuir al proyecto haciendo preguntas y participando en nuestra investigación. Cada página contiene una sección de comentarios en la parte inferior.
