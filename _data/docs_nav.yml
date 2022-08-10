@@ -1,0 +1,10 @@
+- title: Research
+  docs:
+    - link: /docs/
+    - link: /docs/remote-sensing/
+    - link: /docs/hydro-geochemistry/
+    - link: /docs/field-manuals/
+    - link: /docs/observation-sites/
+- title: Observation Sites
+  docs:
+    - link: /docs/site001/

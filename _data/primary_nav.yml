@@ -1,0 +1,15 @@
+- title: Home
+  link: /
+  show_on_mobile: true
+- title: Documentation
+  link: /docs/
+  show_on_mobile: true
+- title: Publications
+  link: /publications/
+  show_on_mobile: true
+- title: News
+  link: /news/
+  show_on_mobile: true
+- title: Team
+  link: /team/
+  show_on_mobile: true
