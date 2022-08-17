@@ -28,5 +28,5 @@ Principal investigator
 * **Dra. Delia Palmira Gamarra Gamarra**.
   
 Co-investigators (or their successors)
-* **Dr. Jorge Isaac Castro Bedrifiana**.
+* **Dr. Jorge Isaac Castro Bedriñana**.
 * **Dr. Juvenal Castromonte Salinas**.
