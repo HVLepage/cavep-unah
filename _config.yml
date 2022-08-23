@@ -2,8 +2,8 @@
 version: 4.0.0
 name: CavEP • Cavendish Environmental Physics
 description: Monitoring and assessment of environmental resources
-url: https://undc.ep.phy.cam.ac.uk
-repository: https://github.com/hvlepage/cavep-undc
+url: https://unah.ep.phy.cam.ac.uk
+repository: https://github.com/hvlepage/cavep-unah
 timezone: Europe/London
 #twitter:
 #  username: 
