@@ -1,6 +1,6 @@
 ---
-title: 'Diagnostic visit by UCAM'
-date: 2022-10-04 
+title: 'Day 2 - Diagnostic visit by UCAM'
+date: 2022-10-05 
 author: jforrest
 version: 1.0.0
 category: Visits
