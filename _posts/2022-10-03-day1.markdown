@@ -1,0 +1,12 @@
+---
+title: 'Diagnostic visit by UCAM'
+date: 2022-10-03 
+author: jforrest
+version: 1.0.0
+category: Visits
+---
+
+![Signing](/assets/posts/LSVPresentation.JPG)
+
+On 
+'Morphological analysis of soils and sediments' 
