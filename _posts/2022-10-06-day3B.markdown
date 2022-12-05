@@ -1,0 +1,11 @@
+---
+title: 'Diagnostic visit by UCAM'
+date: 2022-10-04 
+author: jforrest
+version: 1.0.0
+category: Visits
+---
+
+![Signing](/assets/posts/3Cloudforest.JPG)
+
+On 
