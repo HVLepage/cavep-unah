@@ -16,6 +16,6 @@ Project reports can be found here as the project advances.
 
 ## Publications
 
-The most relevant publications that we have refererd to will be listed here as they are referred to.
+The most relevant publications that we have referred to will be listed here.
 
 
