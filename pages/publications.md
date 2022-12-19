@@ -8,6 +8,14 @@ permalink: /publications/
 
 Our journal publications will be listed here as they are published.
 
+
 ## Project reports
 
-Project reports can be found here once the project advances.
+Project reports can be found here as the project advances.
+
+
+## Publications
+
+The most relevant publications that we have refererd to will be listed here as they are referred to.
+
+
