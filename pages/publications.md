@@ -4,19 +4,18 @@ title: Publications & Reports
 permalink: /publications/
 ---
 
-## Journal papers
+## JOURNAL PAPERS
 
 Our journal publications will be listed here as they are published.
 
 
-## Project reports
+## PROJECT REPORTS
 
 Project reports can be found here as the project advances.
 
 
-## Publications
-
-The most relevant publications that we have referred to will be listed here.
+## PUBLICATIONS
+The most relevant publications that have been referred to by the project will be listed here.
 
 ## Geology -
 *Giesso, Martín, et al. ["XRF obsidian analysis from Ayacucho Basin in Huamanga province, south‐eastern Peru."] Archaeometry 62.2 (2020): 215-231. (https://onlinelibrary.wiley.com/doi/epdf/10.1111/arcm.12529?saml_referrer)
