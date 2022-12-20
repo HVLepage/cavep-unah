@@ -5,12 +5,10 @@ permalink: /publications/
 ---
 
 ## JOURNAL PAPERS
-
 Our journal publications will be listed here as they are published.
 
 
 ## PROJECT REPORTS
-
 Project reports can be found here as the project advances.
 
 
