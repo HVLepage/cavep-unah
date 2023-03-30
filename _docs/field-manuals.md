@@ -10,3 +10,7 @@ permalink: /docs/field-manuals/
 ### Field manuals
 * [Fieldwork & Laboratory Manual (EN)](https://drive.google.com/file/d/1eRdFHEXn_z_1stItIUtUnvcbIpVXTjLT/view?usp=sharing)
 * [Manual de laboratorio y trabajo de campo (ES)](https://drive.google.com/file/d/1eVUN_DHGcy8VkNxAHxVGBajE5HeL61hQ/view?usp=sharing)
+
+### Equipment manuals
+* [Valeport - Model 801 EM Operating Manual](https://drive.google.com/file/d/1enudJLRS-wYvhZ1oc0jE0PNgtmdO0EcD/view?usp=sharing)
+* [Hanna HI98194 multiparemter manual (ES)](https://drive.google.com/file/d/1eYM9pRnRae-7sCKer84MZGDBjRAgFS7K/view?usp=sharing)
