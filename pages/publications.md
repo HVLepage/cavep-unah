@@ -27,5 +27,16 @@ The most relevant publications that have been referred to by the project will be
 * Wise, J. M., and D. C. Noble. ["Late Pliocene inception of external drainage and erosion of intermontane basins in the highlands of Central Perú."](https://www.researchgate.net/publication/228491299_Late_Pliocene_inception_of_external_drainage_and_erosion_of_intermontane_basins_in_the_highlands_of_Central_Peru) Revista de la Sociedad Geológica de España 21.1 (2008): 73-91.
 
 ### Soils
+
+
+### Biodiversity
+
+
+### Remote sensing
+
+
+### Bofedales
+
+
 * Correa, Sly W., et al. ["Soil erosion risk associated with climate change at Mantaro River basin, Peruvian Andes."](https://www.researchgate.net/publication/305830061_Soil_erosion_risk_associated_with_climate_change_at_Mantaro_River_basin_Peruvian_Andes) Catena 147 (2016): 110-124.
 
