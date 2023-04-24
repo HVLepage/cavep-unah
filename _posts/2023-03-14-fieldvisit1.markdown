@@ -1,5 +1,5 @@
 ---
-title: 'First full field visit by UCAM'
+title: 'First field visit by UCAM - March 2023'
 date: 2022-04-05 16:00:00 
 author: jforrest
 version: 1.0.0
