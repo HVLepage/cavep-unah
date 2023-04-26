@@ -111,7 +111,7 @@ Rio Iguian Huamangilla (Sitio 3.3) - UNAH students collect river characteristic 
 Río Iguian Huamangilla (Sitio 3.3) - Los estudiantes de la UNAH recogen datos característicos del río (velocidad) utilizando un caudalímetro básico adecuado para canales pequeños.
 
 
-![Recent Field Work](/assets/posts/25.3Biodiversity.JPG)
+![Recent Field Work](/assets/posts/25.3Biodiversity.jpg)
 Lake Tocctococha - Eustace Barnes (UCAM) awaits UNAH staff and students to outline ecosystem characteristics of a high Andean bofedal and lake.
 
 Lago Tocctococha - Eustace Barnes (UCAM) espera a personal y estudiantes de la UNAH para explicar las características del ecosistema de un bofedal y lago altoandino.
