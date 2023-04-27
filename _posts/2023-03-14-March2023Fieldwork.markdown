@@ -1,9 +1,9 @@
 ---
 title: 'First fieldwork visit by UCAM - March 2023'
-date: 2022-04-05 16:00:00 
+date: 2023-04-05 16:00:00 
 author: jforrest
 version: 1.0.0
-category: March 2023 Fieldwork
+category: field-work
 ---
 
 
