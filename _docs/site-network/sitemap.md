@@ -29,6 +29,3 @@ Water study sites map. (March 2023) (John Forrest)
 |     MH01         |     Huapar manantial                            |     -12.925453         |     -74.293884    |     2353        |
 
 
-
-### RC01
-
