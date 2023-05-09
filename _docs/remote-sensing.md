@@ -113,9 +113,10 @@ Google Earth Engine combines a multi-petabyte catalog of satellite imagery and g
 
 The public data archive includes more than thirty years of historical imagery and scientific datasets, updated and expanded daily. It contains over twenty petabytes of geospatial data instantly available for analysis.
 
-It is a fast and useful tool to process and analyse large quantities of multispectral images of the Earth. An example setup for the online code editor can be seen in the firgure below.
+It is a fast and useful tool to process and analyse large quantities of multispectral images of the Earth. 
+<!-- An example setup for the online code editor can be seen in the firgure below. -->
 
-![GEE IDE](https://www.dropbox.com/s/bs74vwbwihe48s1/GEE_IDE.png?raw=1)
+<!-- ![GEE IDE](https://www.dropbox.com/s/bs74vwbwihe48s1/GEE_IDE.png?raw=1) -->
 
 ## Analysis Methods
 
