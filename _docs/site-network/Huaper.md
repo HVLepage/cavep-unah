@@ -25,6 +25,10 @@ The study site / El lugar del estudio (March 2023) (John Forrest)
 
 ### Data analysis
 
+NB.The water quality data is taken from one of the lagoons in the manantial while the river characteristic data recorded to obtain a dischrage figure was taken from the outflow from the manantial.
+NB: Los datos de calidad del agua proceden de una de las lagunas del manantial, mientras que los datos característicos del río registrados para obtener una medida de caudal se tomaron de la desembocadura del manantial.
+
+
 |     Site / Sitio: MH01                                   |     March 2023                 |
 |----------------------------------------------------------|--------------------------------|
 |     Season / Temporada:                                  |     Austral Summer / Verano    |
