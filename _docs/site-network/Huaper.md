@@ -6,9 +6,21 @@ permalink: /docs/Huaper/
 
 ### Site MH01 - Manantial Huaper
 
+![Huaper](/assets/sites/ManantialHuaper1.jpg)
+Aerial view of study site / Vista aérea del lugar del estudio (March 2023) (John Forrest)
+
+
+![Huaper](/assets/sites/ManantialHuaper.jpg)
+Close up aerial view of study site / Vista muy cerca del aérea del lugar del estudio (March 2023) (John Forrest)
+
+
+![Huaper](/assets/sites/Huaper.jpg)
+The study site / El lugar del estudio (March 2023) (John Forrest)
+
 
 
 ### Site description
+
 
 
 ### Data analysis
