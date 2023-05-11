@@ -14,7 +14,7 @@ Aerial view of study site / Vista aérea del lugar del estudio (March 2023) (Joh
 Close up aerial view of study site / Vista muy cerca del aérea del lugar del estudio (March 2023) (John Forrest)
 
 
-![Huaper](/assets/sites/Huaper.jpg)
+![Huaper](/assets/sites/Huaper.JPG)
 The study site / El lugar del estudio (March 2023) (John Forrest)
 
 
