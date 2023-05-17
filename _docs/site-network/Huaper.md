@@ -6,6 +6,10 @@ permalink: /docs/Huaper/
 
 ### Site MH01 - Manantial Huaper
 
+GPS:  S12°925453, W74°293884. 
+Elevation:  2353m asl.
+
+
 ![Huaper](/assets/sites/ManantialHuaper1.jpg)
 Aerial view of study site / Vista aérea del lugar del estudio (March 2023) (John Forrest)
 
