@@ -43,7 +43,7 @@ The following river and water quality data was collected from this site:
 
 En este lugar se recogieron los siguientes datos fluviales y de calidad del agua:
 
-|     Site / Sitio: MH01                                   |     March 2023                 |
+|     Site / Sitio: MH01                                   |     March / marzo 2023                 |
 |----------------------------------------------------------|--------------------------------|
 |     Season / Temporada:                                  |     Austral Summer / Verano    |
 |     Date / Fecha:                                        |     24.3.23                    |
