@@ -25,13 +25,22 @@ The study site / El lugar del estudio (March 2023) (John Forrest)
 
 ### Site description
 
+MH01 is located north-west of Huanta amongst the foothills lining the eastern flank of the Cachi valley. It is backed by a steep slope while the slope towards the river Cachi is much gentler.
+
+The study site is situated within the manantial, on the edge of one of the larger pools, while water samples and measurements were taken from a lagoon towards the centre of the Huaper. 
+
+Discharge measurements were taken at the Huaper outflow but it should be noted that this is not an accurate measure of the discharge from the Huaper because –
+-it is a manmade outflow channel, artificially setting the outflow.
+-water may also be lost through subterranean flow.
+
+(Comments on geology, vegetation and fauna will be added post-future field visits).
 
 
 ### Data analysis
 
-Analytical comments with respect to the data will be posted once a site has been visited at least twice.
+(Analytical comments with respect to the data will be posted once a site has been visited at least twice).
 
-Los comentarios analíticos con respecto a los datos se publicarán una vez que se haya visitado un sitio al menos dos veces.
+(Los comentarios analíticos con respecto a los datos se publicarán una vez que se haya visitado un sitio al menos dos veces).
 
 NB.The water quality data is taken from one of the lagoons in the manantial while the river characteristic data recorded to obtain a dischrage figure was taken from the outflow from the manantial.
 
