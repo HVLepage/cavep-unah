@@ -35,8 +35,24 @@ Discharge measurements were taken at the Huaper outflow but it should be noted t
 
 (Comments on geology, vegetation and fauna will be added post-future field visits).
 
+### Descripción del sitio
 
-### Data analysis
+MH01 está situado al noroeste de Huanta, entre las estribaciones que bordean el flanco oriental del valle de Cachi. Está respaldado por una ladera abrupta, mientras que la pendiente hacia el río Cachi es mucho más suave.
+
+El lugar de estudio está situado dentro del manantial, al borde de una de las pozas más grandes.
+
+Las muestras de agua y las mediciones se tomaron en una laguna situada hacia el centro del Huaper.
+
+Las mediciones de caudal se realizaron en la desembocadura del Huaper.
+
+NB. Esta no es una medida exacta de la descarga del Huaper porque...
+-se trata de un canal de desagüe construido por el hombre, que fija artificialmente el caudal de salida.
+-también puede perderse agua por el flujo subterráneo.
+
+(Los comentarios sobre la geología, vegetación y fauna se añadirán tras de futuras visitas de campo).
+
+
+### Data analysis / Análisis de datos
 
 (Analytical comments with respect to the data will be posted once a site has been visited at least twice).
 
@@ -46,7 +62,7 @@ NB.The water quality data is taken from one of the lagoons in the manantial whil
 
 NB: Los datos de calidad del agua proceden de una de las lagunas del manantial, mientras que los datos característicos del río registrados para obtener una medida de caudal se tomaron de la desembocadura del manantial.
 
-### Water quality data
+### River & water quality data / Datos fluviales y de calidad del agua
 
 The following river and water quality data was collected from this site:
 
