@@ -12,7 +12,7 @@
         </div>
       </li> -->
     </ul>
-    <h4>Recent Field Work</h4>
+    <h4>Field Work</h4>
     <ul>
       {% for post in site.categories.field-work %}
       <li {%- if page.title == post.title %} class="current" {%- endif %}>
@@ -23,16 +23,32 @@
       </li>
       {% endfor %}
     </ul>
+
+    <h4>UNAH UK visits</h4>
+    <ul>
+      {% for post in site.categories.visits %}
+      <li {%- if page.title == post.title %} class="current" {%- endif %}>
+        <div id="menu-nav">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+        
+      </li>
+      {% endfor %}
+    </ul>
+
+
     <h4>Other News</h4>
     <ul>
       {% for post in site.posts %}
-        {% unless post.categories contains 'field-work' %}
-        <li {%- if page.title == post.title %} class="current" {%- endif %}>
-          <div id="menu-nav">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </div>
-          
-        </li>
+        {% unless post.categories contains 'field-work'%}
+          {% unless post.categories contains 'visits'%}
+          <li {%- if page.title == post.title %} class="current" {%- endif %}>
+            <div id="menu-nav">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </div>
+            
+          </li>
+          {% endunless %}
         {% endunless %}
       {% endfor %}
     </ul>
