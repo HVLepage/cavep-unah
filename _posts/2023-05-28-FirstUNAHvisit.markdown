@@ -41,7 +41,7 @@ Posteriormente, el trabajo de laboratorio demostró el uso de Adobe audition par
 
 ![FieldTripSchedule](/assets/posts/UKMay3.jpeg)
 
-visiting Monks Wood /  Visita a Monks Wood
+Using bioacoustic equipment in Monks Wood /  Utilizando el equipo bioacustica en Monks Wood
 
 
 ## Nature’s microstructures
@@ -61,7 +61,7 @@ W.Castro working in the lab. / W.Castro trabajando en el lab.
 
 ## Sediments
 Three researchers from the University of Huanta, Peru were trained over three days to obtain information from the major chemical elements contained in sediment from the river bed and banks of the rio Cachi and three of its tributaries: rio Opanaccay, Huanta and Huamanguilla-Iguian. The samples were collected during the field visit in March 2023.
-On the first day, the visitors were introduced to the equipment in the Cavendish laboratory for analysing inorganic samples. It is important when using such sensitive equipment to place emphasis on the condition of the atmosphere and temperature of the samples.
+On the first day, the visitors were introduced to the equipment in the Cavendish laboratory for analysing inorganic samples (See photo A. below). It is important when using such sensitive equipment to place emphasis on the condition of the atmosphere and temperature of the samples.
 
 On the second day, the researchers were introduced to the techniques for analysing the sediment samples. In Figure 1 (left photo) the researchers were introduced to analysing the iron/iron-oxide components in the sediment samples from their magnetic behaviour. Every training session was followed by discussions and questions to ensure the researchers had understood the explanations.
 
@@ -69,19 +69,27 @@ The third day was devoted to hands on activities in the lab. The researchers wer
 
 ## Sedimentos 
 Tres investigadores de la Universidad de Huanta fueron capacitados durante tres días para obtener información de los principales elementos químicos contenidos en sedimentos del lecho y riberas del río Cachi y tres de sus afluentes: río Opanaccay, Huanta y Huamanguilla-Iguian. Las muestras fueron recogidas durante la visita de campo en marzo de 2023.
-El primer día, los visitantes fueron introducidos a los equipos del laboratorio Cavendish para el análisis de muestras inorgánicas. Es importante, cuando se utiliza un equipo tan sensible, hacer hincapié en el estado de la atmósfera y la temperatura de las muestras.
+El primer día, los visitantes fueron introducidos a los equipos del laboratorio Cavendish para el análisis de muestras inorgánicas (Ver la foto A. abajo). Es importante, cuando se utiliza un equipo tan sensible, hacer hincapié en el estado de la atmósfera y la temperatura de las muestras.
 
-El segundo día, los investigadores se familiarizaron con las técnicas de análisis de las muestras de sedimentos. En la figura 1 (foto de la izquierda), los investigadores aprendieron a analizar los componentes de hierro y óxido de hierro de las muestras de sedimentos a partir de su comportamiento magnético. Cada sesión de formación iba seguida de debates y preguntas para asegurarse de que los investigadores habían entendido las explicaciones.
+El segundo día, los investigadores se familiarizaron con las técnicas de análisis de las muestras de sedimentos. En la figura, los investigadores aprendieron a analizar los componentes de hierro y óxido de hierro de las muestras de sedimentos a partir de su comportamiento magnético. Cada sesión de formación iba seguida de debates y preguntas para asegurarse de que los investigadores habían entendido las explicaciones.
 
 El tercer día se dedicó a actividades prácticas en el laboratorio. Se enseñó a los investigadores a manipular las muestras, colocarlas en el portamuestras y utilizar el equipo. La figura 2 (fotos de la fila superior) muestra a los investigadores visitantes preparando las muestras y colocándolas en el portamuestras. La figura 3 (fotos de la fila inferior) muestra la formación de los investigadores en el uso del equipo. La composición química principal de las muestras se obtuvo mediante espectroscopia de dispersión de energía de rayos X (EDX). Los resultados mostraron que la composición elemental principal de las muestras era Si, Al, Ca, Na y O, correspondiendo con depósitos de aluminio-silicatos que son típicos de sedimentos y arenas.
 
+![FieldTripSchedule](/assets/posts/UKMay9.jpg)
+
+A.
+
 ![FieldTripSchedule](/assets/posts/UKMay7.jpg)
+
+B. 
 
 ![FieldTripSchedule](/assets/posts/UKMay5.jpg)
 
+C.
+
 ![FieldTripSchedule](/assets/posts/UKMay8.jpg)
 
-![FieldTripSchedule](/assets/posts/UKMay9.jpg)
+D.
 
 
 ## Remote Sensing
