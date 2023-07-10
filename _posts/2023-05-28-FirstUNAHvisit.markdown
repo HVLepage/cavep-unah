@@ -51,8 +51,6 @@ Los visitantes de la UNAH y P. Newton y E. Barnes de la UCAM utilizaron microsco
 También se demostró el uso de un microscopio óptico compatible con el campo (dino-lite) y se exploraron las dos variedades de escamas del ala de la mariposa morpho didius -las escamas transparentes pueden verse superpuestas a las escamas azules de la superficie del ala-. A continuación, investigamos estas estructuras mediante microscopía electrónica (el Helios FIB/SEM), observando las estructuras de la superficie tanto de las escamas transparentes como de las aparentemente azules con gran aumento. Esto nos permitió ver la esperada estructura de "árbol de Navidad" en las escamas azules, viendo claramente características menores de 100 nm. 
 También se utilizó un micrótomo para cortar un trozo de ala de mariposa, que se fijó con pegamento y se estudió al microscopio electrónico. Este tipo de investigaciones son fundamentales para comprender las estructuras fotónicas de las escamas de las alas de las mariposas y pueden dar lugar a futuros desarrollos tecnológicos o de detección medioambiental.
 
-![FieldTripSchedule](/assets/posts/UKMay5.jpg)
-
 ![FieldTripSchedule](/assets/posts/UKMay6.jpeg)
 
 
@@ -72,11 +70,13 @@ El segundo día, los investigadores se familiarizaron con las técnicas de anál
 
 El tercer día se dedicó a actividades prácticas en el laboratorio. Se enseñó a los investigadores a manipular las muestras, colocarlas en el portamuestras y utilizar el equipo. La figura 2 (fotos de la fila superior) muestra a los investigadores visitantes preparando las muestras y colocándolas en el portamuestras. La figura 3 (fotos de la fila inferior) muestra la formación de los investigadores en el uso del equipo. La composición química principal de las muestras se obtuvo mediante espectroscopia de dispersión de energía de rayos X (EDX). Los resultados mostraron que la composición elemental principal de las muestras era Si, Al, Ca, Na y O, correspondiendo con depósitos de aluminio-silicatos que son típicos de sedimentos y arenas.
 
-![FieldTripSchedule](/assets/posts/UKMay7.jpeg)
+![FieldTripSchedule](/assets/posts/UKMay7.jpg)
 
-![FieldTripSchedule](/assets/posts/UKMay8.jpeg)
+![FieldTripSchedule](/assets/posts/UKMay5.jpg)
 
-![FieldTripSchedule](/assets/posts/UKMay9.jpeg)
+![FieldTripSchedule](/assets/posts/UKMay8.jpg)
+
+![FieldTripSchedule](/assets/posts/UKMay9.jpg)
 
 
 ## Remote Sensing
@@ -97,8 +97,8 @@ El segundo día estudiamos el postprocesamiento de datos. Examinamos cuatro prog
 3. 3. Se utilizó QGIS para importar la ortofoto creada con WebODM y se utilizó el álgebra de bandas espectrales para elaborar un índice de vegetación. Calculamos y visualizamos la salud de las plantas en una granja de tomates que habíamos visitado en marzo de 2023. (Ver imagen).
 4. Se utilizó Google Earth Engine para mostrar cómo podemos llevar a cabo investigaciones más intensivas utilizando datos de satélite. Estudiamos muchos índices diferentes (vegetación, agua, elevación, pendiente, relieve) y vimos una introducción al uso del análisis estadístico para categorizar diferentes tipos de terreno.
    
-![FieldTripSchedule](/assets/posts/UKMay10.jpeg)
+![FieldTripSchedule](/assets/posts/UKMay10.jpg)
 
-![FieldTripSchedule](/assets/posts/UKMay11.jpeg)
+![FieldTripSchedule](/assets/posts/UKMay11.jpg)
 
 
