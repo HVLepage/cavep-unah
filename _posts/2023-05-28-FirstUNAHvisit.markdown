@@ -26,13 +26,6 @@ In the afternoon, a visit was made to the Trinity Science Park, on the outskirts
 
 Subsequently, laboratory work demonstrated the use of Adobe audition to edit field recordings of birdsong. Additionally, the development of a sound library and sonographic database was described and demonstrated. 
 
-![FieldTripSchedule](/assets/posts/UKMay1.jpg)
-
-(/assets/posts/UKMay2.jpeg)
-
-(/assets/posts/UKMay3.jpeg)
-
-
 ## Bioacústica y biodiversidad: visita sobre el terreno a Monks Wood, Woodwalton Fen y Ouse Washes
 Demostración de sistemas de micrófonos direccionales y omnidireccionales combinados con el uso de grabadoras digitales - se dedicó una mañana completa a visitar las reservas naturales nacionales de Monks Wood y Woodwalton Fen para demostrar el uso de sistemas de micrófonos direccionales y omnidireccionales en combinación con grabadoras digitales. Los docentes de la UNAH tuvo que colocar los micrófonos cerca del canto de los pájaros y grabarlo.
 
@@ -41,11 +34,20 @@ Por la tarde, se visitó el Trinity Science Park, en las afueras de Cambridge, p
 
 Posteriormente, el trabajo de laboratorio demostró el uso de Adobe audition para editar grabaciones de campo del canto de los pájaros. Además, se describió y demostró el desarrollo de una biblioteca de sonidos y una base de datos sonográfica.
 
+![FieldTripSchedule](/assets/posts/UKMay1.jpg)
+
+![FieldTripSchedule](/assets/posts/UKMay2.jpeg)
+
+![FieldTripSchedule](/assets/posts/UKMay3.jpeg)
+
 
 ## Nature’s microstructures
 The UNAH visitors and P.Newton & E.Barnes from UCAM, used both optical microscopy (in the Wet lab.) and electron microscopy (in the Cavendish microscopy suite) to demonstrate the microscopic structures of butterfly wings to UNAH staff.
 The use of a field-compatible optical microscope (dino-lite) was also demonstrated and the two varieties of scales on the wing of the morpho didius butterfly – the transparent scales can be seen to overlay the blue scales on the surface of the wing-  were explored. We then investigated these structures using electron microscopy (the Helios FIB/SEM), looking at the structures on the surface of both the transparent and apparently blue scales under high magnification. This allowed us to see the expected “Christmas tree” structure on the blue scales, clearly seeing features smaller than 100 nm. 
 We also used a microtome to make a slice of a piece of butterfly wing which was then set in glue and studied this under the electron microscope. These sorts of imaging investigations are critical for understanding the photonic structures in butterfly wing scales and may lead to future developments in technology or environmental sensing.
+
+![FieldTripSchedule](/assets/posts/UKMay4.jpeg)
+
 
 ## Microestructuras de la naturaleza
 Los visitantes de la UNAH y P. Newton y E. Barnes de la UCAM utilizaron microscopía óptica (en el laboratorio Wet) y microscopía electrónica (en la sala de microscopía Cavendish) para demostrar al personal de la UNAH las estructuras microscópicas de las alas de las mariposas.
