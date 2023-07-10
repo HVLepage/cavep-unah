@@ -26,7 +26,7 @@ In the afternoon, a visit was made to the Trinity Science Park, on the outskirts
 
 Subsequently, laboratory work demonstrated the use of Adobe audition to edit field recordings of birdsong. Additionally, the development of a sound library and sonographic database was described and demonstrated. 
 
-## Bioacústica y biodiversidad: visita sobre el terreno a Monks Wood, Woodwalton Fen y Ouse Washes.
+## Bioacústica y biodiversidad: visita sobre el terreno a Monks Wood, Woodwalton Fen y Ouse Washes
 Demostración de sistemas de micrófonos direccionales y omnidireccionales combinados con el uso de grabadoras digitales - se dedicó una mañana completa a visitar las reservas naturales nacionales de Monks Wood y Woodwalton Fen para demostrar el uso de sistemas de micrófonos direccionales y omnidireccionales en combinación con grabadoras digitales. Los docentes de la UNAH tuvo que colocar los micrófonos cerca del canto de los pájaros y grabarlo.
 
 Visita a los Ouse Washes para debatir sobre el cambio del paisaje: la zona ha sido completamente ganada al mar en la época medieval; el cambio climático: la zona es muy baja y está por debajo del nivel del mar en algunos lugares, por lo que es esencial mantener el complejo sistema de drenaje; y la restauración del hábitat: para mitigar el impacto de las técnicas agrícolas modernas que emplean un uso extensivo de fertilizantes y pesticidas.
