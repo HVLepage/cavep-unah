@@ -46,13 +46,19 @@ The UNAH visitors and P.Newton & E.Barnes from UCAM, used both optical microscop
 The use of a field-compatible optical microscope (dino-lite) was also demonstrated and the two varieties of scales on the wing of the morpho didius butterfly – the transparent scales can be seen to overlay the blue scales on the surface of the wing-  were explored. We then investigated these structures using electron microscopy (the Helios FIB/SEM), looking at the structures on the surface of both the transparent and apparently blue scales under high magnification. This allowed us to see the expected “Christmas tree” structure on the blue scales, clearly seeing features smaller than 100 nm. 
 We also used a microtome to make a slice of a piece of butterfly wing which was then set in glue and studied this under the electron microscope. These sorts of imaging investigations are critical for understanding the photonic structures in butterfly wing scales and may lead to future developments in technology or environmental sensing.
 
-![FieldTripSchedule](/assets/posts/UKMay4.jpeg)
+![FieldTripSchedule](/assets/posts/UKMay4.jpg)
 
 
 ## Microestructuras de la naturaleza
 Los visitantes de la UNAH y P. Newton y E. Barnes de la UCAM utilizaron microscopía óptica (en el laboratorio Wet) y microscopía electrónica (en la sala de microscopía Cavendish) para demostrar al personal de la UNAH las estructuras microscópicas de las alas de las mariposas.
 También se demostró el uso de un microscopio óptico compatible con el campo (dino-lite) y se exploraron las dos variedades de escamas del ala de la mariposa morpho didius -las escamas transparentes pueden verse superpuestas a las escamas azules de la superficie del ala-. A continuación, investigamos estas estructuras mediante microscopía electrónica (el Helios FIB/SEM), observando las estructuras de la superficie tanto de las escamas transparentes como de las aparentemente azules con gran aumento. Esto nos permitió ver la esperada estructura de "árbol de Navidad" en las escamas azules, viendo claramente características menores de 100 nm. 
 También se utilizó un micrótomo para cortar un trozo de ala de mariposa, que se fijó con pegamento y se estudió al microscopio electrónico. Este tipo de investigaciones son fundamentales para comprender las estructuras fotónicas de las escamas de las alas de las mariposas y pueden dar lugar a futuros desarrollos tecnológicos o de detección medioambiental.
+
+![FieldTripSchedule](/assets/posts/UKMay5.jpeg)
+
+![FieldTripSchedule](/assets/posts/UKMay6.jpeg)
+
+![FieldTripSchedule](/assets/posts/UKMay7.jpeg)
 
 
 ## Sediments
