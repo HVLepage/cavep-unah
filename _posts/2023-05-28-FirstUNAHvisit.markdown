@@ -26,6 +26,13 @@ In the afternoon, a visit was made to the Trinity Science Park, on the outskirts
 
 Subsequently, laboratory work demonstrated the use of Adobe audition to edit field recordings of birdsong. Additionally, the development of a sound library and sonographic database was described and demonstrated. 
 
+(/assets/posts/UKMay1.JPG)
+
+(/assets/posts/UKMay2.JPG)
+
+(/assets/posts/UKMay3.JPG)
+
+
 ## Bioacústica y biodiversidad: visita sobre el terreno a Monks Wood, Woodwalton Fen y Ouse Washes
 Demostración de sistemas de micrófonos direccionales y omnidireccionales combinados con el uso de grabadoras digitales - se dedicó una mañana completa a visitar las reservas naturales nacionales de Monks Wood y Woodwalton Fen para demostrar el uso de sistemas de micrófonos direccionales y omnidireccionales en combinación con grabadoras digitales. Los docentes de la UNAH tuvo que colocar los micrófonos cerca del canto de los pájaros y grabarlo.
 
