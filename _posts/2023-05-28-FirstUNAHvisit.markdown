@@ -9,7 +9,10 @@ category: visits
 
 [Field Trip Schedule](/assets/posts/UNAH_UK_programme_(spanish)_-_Final.pdf)
 
-On 15th May three UNAH staff – Bio.Walter Castro Aponte, Ing.Juan Quispe Rodriguez and Ing.Santos Herrera Diaz arrived for a two week visit to the Dept.of Physics, in the Cavendish laboratory at Cambridge University.
+## UNAH UK visit – May 2023
+On 15th May three UNAH staff – Bio.Walter Castro Aponte, Ing.Juan Quispe Rodriguez and Ing.Santos Herrera Diaz arrived for a two week visit to the Dept.of Physics, in the Cavendish laboratory at the University of Cambridge. This was the first of several planned academic visits to be made by UNAH staff to UCAM.
+To view the visit programme, please use the link above entitled 'Field Trip Schedule'.
+
 
 ## Bioacoustics & Biodiversity – field visit to Monks Wood, Woodwalton Fen & Ouse Washes
 Demonstration of directional and omnidirectional microphone systems combined with use of digital recorders. 
