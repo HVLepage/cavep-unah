@@ -26,11 +26,11 @@ In the afternoon, a visit was made to the Trinity Science Park, on the outskirts
 
 Subsequently, laboratory work demonstrated the use of Adobe audition to edit field recordings of birdsong. Additionally, the development of a sound library and sonographic database was described and demonstrated. 
 
-(/assets/posts/UKMay1.JPG)
+(/assets/posts/UKMay1.jpg)
 
-(/assets/posts/UKMay2.JPG)
+(/assets/posts/UKMay2.jpeg)
 
-(/assets/posts/UKMay3.JPG)
+(/assets/posts/UKMay3.jpeg)
 
 
 ## Bioacústica y biodiversidad: visita sobre el terreno a Monks Wood, Woodwalton Fen y Ouse Washes
