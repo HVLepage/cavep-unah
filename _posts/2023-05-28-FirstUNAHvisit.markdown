@@ -22,6 +22,7 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 Demonstration of directional and omnidirectional microphone systems combined with use of digital recorders - a full morning was spent visiting Monks Wood and Woodwalton Fen national nature reserves to demonstrate the use of directional and omnidirectional microphone systems in combination with digital recorders. UNAH staff were required to deploy microphones in the vicinity of birdsong and record it. 
 
 Visit to the Ouse Washes to discuss landscape change: the area has been completely reclaimed from the sea in medieval times; climate change: the area is very low lying and below sea-level in places so maintaining the complex drainage system is essential; and habitat restoration: to mitigate the impact of modern farming techniques employing extensive use of fertilisers and pesticides.
+
 In the afternoon, a visit was made to the Trinity Science Park, on the outskirts of Cambridge, to demonstrate the connection between scientific research, technological advance and economic development. 
 
 Subsequently, laboratory work demonstrated the use of Adobe audition to edit field recordings of birdsong. Additionally, the development of a sound library and sonographic database was described and demonstrated. 
@@ -40,6 +41,8 @@ Posteriormente, el trabajo de laboratorio demostró el uso de Adobe audition par
 
 ![FieldTripSchedule](/assets/posts/UKMay3.jpeg)
 
+visiting Monks Wood /  Visita a Monks Wood
+
 
 ## Nature’s microstructures
 The UNAH visitors and P.Newton & E.Barnes from UCAM, used both optical microscopy (in the Wet lab.) and electron microscopy (in the Cavendish microscopy suite) to demonstrate the microscopic structures of butterfly wings to UNAH staff.
@@ -52,6 +55,8 @@ También se demostró el uso de un microscopio óptico compatible con el campo (
 También se utilizó un micrótomo para cortar un trozo de ala de mariposa, que se fijó con pegamento y se estudió al microscopio electrónico. Este tipo de investigaciones son fundamentales para comprender las estructuras fotónicas de las escamas de las alas de las mariposas y pueden dar lugar a futuros desarrollos tecnológicos o de detección medioambiental.
 
 ![FieldTripSchedule](/assets/posts/UKMay6.jpeg)
+
+W.Castro working in the lab. / W.Castro trabajando en el lab.
 
 
 ## Sediments
@@ -80,25 +85,26 @@ El tercer día se dedicó a actividades prácticas en el laboratorio. Se enseñ�
 
 
 ## Remote Sensing
-On the first day, we looked at the UK drone pilot license requirements and drone mission planning. The visitors took the UK CAA theory exam and all successfully obtained their UK Drone Pilot licenses (see photo). We then talked about the extensive pre-planning that goes into preparing a drone mission – with respect to both the legal side and the logistics of flying over a region of interest.
+On the first day, we looked at the UK drone pilot license requirements and drone mission planning. The visitors took the UK CAA theory exam and all successfully obtained their UK Drone Pilot licenses. We then talked about the extensive pre-planning that goes into preparing a drone mission – with respect to both the legal side and the logistics of flying over a region of interest.
 
 On the second day, we looked at data post-processing. We looked at four common (free) softwares for data analysis:
 1. WebODM was used to aggregate drone footage from a mission we had performed in Huanta, in March 2023. With all the images, we created an orthophoto (large map) that we were able to export to other software.
 2. Google Earth Pro was used to investigate historical satellite data of the area (what the countryside and fields looked like 20 years ago).
-3. QGIS was used to import the orthophoto we created using WebODM and used spectral band algebra to compile a vegetation index. We calculated and visualised the health of the plants on a tomato farm we had visited in March 2023. (See image).
+3. QGIS was used to import the orthophoto we created using WebODM and used spectral band algebra to compile a vegetation index. We calculated and visualised the health of the plants on a tomato farm we had visited in March 2023. (See final image below).
 4. Google Earth Engine was used to show how we can undertake more intensive investigations using satellite data. We looked at many different indices (vegetation, water, elevation, slope, hillshade) and we looked at an introduction to using statistical analysis to categorise different land types.
 
 ## Teledetección
-El primer día estudiamos los requisitos para obtener la licencia de piloto de drones en el Reino Unido y la planificación de misiones con drones. Los visitantes realizaron el examen teórico de la CAA británica y todos obtuvieron con éxito sus licencias de piloto de drones del Reino Unido (véase la foto). A continuación, hablamos de la exhaustiva planificación previa que hay que realizar para preparar una misión con drones, tanto en lo que respecta al aspecto legal como a la logística de sobrevolar una región de interés.
+El primer día estudiamos los requisitos para obtener la licencia de piloto de drones en el Reino Unido y la planificación de misiones con drones. Los visitantes realizaron el examen teórico de la CAA británica y todos obtuvieron con éxito sus licencias de piloto de drones del Reino Unido. A continuación, hablamos de la exhaustiva planificación previa que hay que realizar para preparar una misión con drones, tanto en lo que respecta al aspecto legal como a la logística de sobrevolar una región de interés.
 
 El segundo día estudiamos el postprocesamiento de datos. Examinamos cuatro programas informáticos comunes (gratuitos) para el análisis de datos:
 1. WebODM se utilizó para agregar imágenes de drones de una misión que habíamos realizado en Huanta, en marzo de 2023. Con todas las imágenes, creamos una ortofoto (mapa grande) que pudimos exportar a otro software.
 2. Google Earth Pro se utilizó para investigar datos históricos de satélite de la zona (cómo eran el campo y los campos hace 20 años).
-3. 3. Se utilizó QGIS para importar la ortofoto creada con WebODM y se utilizó el álgebra de bandas espectrales para elaborar un índice de vegetación. Calculamos y visualizamos la salud de las plantas en una granja de tomates que habíamos visitado en marzo de 2023. (Ver imagen).
+3. 3. Se utilizó QGIS para importar la ortofoto creada con WebODM y se utilizó el álgebra de bandas espectrales para elaborar un índice de vegetación. Calculamos y visualizamos la salud de las plantas en una granja de tomates que habíamos visitado en marzo de 2023. (Ver imagen final abajo).
 4. Se utilizó Google Earth Engine para mostrar cómo podemos llevar a cabo investigaciones más intensivas utilizando datos de satélite. Estudiamos muchos índices diferentes (vegetación, agua, elevación, pendiente, relieve) y vimos una introducción al uso del análisis estadístico para categorizar diferentes tipos de terreno.
    
 ![FieldTripSchedule](/assets/posts/UKMay10.jpg)
 
-![FieldTripSchedule](/assets/posts/UKMay11.jpg)
+UNAH visitors with their drone 'pilots license' / Visitantes de la UNAH con su "licencia de pilotos" de drones.
 
+![FieldTripSchedule](/assets/posts/UKMay11.jpg)
 
