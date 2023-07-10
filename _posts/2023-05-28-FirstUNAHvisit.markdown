@@ -85,11 +85,11 @@ B.UNAH researchers are introduced to equipment for analysing iron/iron-oxide com
 
 ![FieldTripSchedule](/assets/posts/UKMay8.jpg)
 
-C.
+C.UNAH visitors preparing and mounting the sediment samples / Los investigadores de la UNAH preparando y colcando las muestras de sedimentos.
 
 ![FieldTripSchedule](/assets/posts/UKMay7.jpg)
 
-D.
+D.UNAH researchers training in using the equipment / Los investigadores de la UNAH reciben entrenamiento en el uso del equipo.
 
 
 ## Remote Sensing
