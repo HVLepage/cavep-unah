@@ -65,7 +65,7 @@ On the first day, the visitors were introduced to the equipment in the Cavendish
 
 On the second day, the researchers were introduced to the techniques for analysing the sediment samples. In Figure B. the researchers were introduced to analysing the iron/iron-oxide components in the sediment samples from their magnetic behaviour (See photo B. below). Every training session was followed by discussions and questions to ensure the researchers had understood the explanations.
 
-The third day was devoted to hands on activities in the lab. The researchers were trained in handling the samples, placing them in the sample holder and using the equipment. Figure 2 (top row photos) shows the research visitors preparing the samples and mounting them in the holder sample. Photo D. below shows the researchers training in using the equipment. The major chemical composition of the samples were obtained by energy dispersive X ray (EDX) spectroscopy. The results showed that the main elemental composition of the samples were Si, Al, Ca, Na and O, corresponding with deposits of aluminium-silicates which are typical of sediments and sands.
+The third day was devoted to hands on activities in the lab. The researchers were trained in handling the samples, placing them in the sample holder and using the equipment. Photo C. below shows the research visitors preparing the samples and mounting them in the holder sample. Photo D. below shows the researchers training in using the equipment. The major chemical composition of the samples were obtained by energy dispersive X ray (EDX) spectroscopy. The results showed that the main elemental composition of the samples were Si, Al, Ca, Na and O, corresponding with deposits of aluminium-silicates which are typical of sediments and sands.
 
 ## Sedimentos 
 Tres investigadores de la Universidad de Huanta fueron capacitados durante tres días para obtener información de los principales elementos químicos contenidos en sedimentos del lecho y riberas del río Cachi y tres de sus afluentes: río Opanaccay, Huanta y Huamanguilla-Iguian. Las muestras fueron recogidas durante la visita de campo en marzo de 2023.
@@ -73,21 +73,21 @@ El primer día, los visitantes fueron introducidos a los equipos del laboratorio
 
 El segundo día, los investigadores se familiarizaron con las técnicas de análisis de las muestras de sedimentos. En la figura B., los investigadores aprendieron a analizar los componentes de hierro y óxido de hierro de las muestras de sedimentos a partir de su comportamiento magnético. Cada sesión de formación iba seguida de debates y preguntas para asegurarse de que los investigadores habían entendido las explicaciones.
 
-El tercer día se dedicó a actividades prácticas en el laboratorio. Se enseñó a los investigadores a manipular las muestras, colocarlas en el portamuestras y utilizar el equipo. La figura 2 (fotos de la fila superior) muestra a los investigadores visitantes preparando las muestras y colocándolas en el portamuestras. La foto D. muestra la formación de los investigadores en el uso del equipo. La composición química principal de las muestras se obtuvo mediante espectroscopia de dispersión de energía de rayos X (EDX). Los resultados mostraron que la composición elemental principal de las muestras era Si, Al, Ca, Na y O, correspondiendo con depósitos de aluminio-silicatos que son típicos de sedimentos y arenas.
+El tercer día se dedicó a actividades prácticas en el laboratorio. Se enseñó a los investigadores a manipular las muestras, colocarlas en el portamuestras y utilizar el equipo. La foto C. muestra a los investigadores visitantes preparando las muestras y colocándolas en el portamuestras. La foto D. muestra la formación de los investigadores en el uso del equipo. La composición química principal de las muestras se obtuvo mediante espectroscopia de dispersión de energía de rayos X (EDX). Los resultados mostraron que la composición elemental principal de las muestras era Si, Al, Ca, Na y O, correspondiendo con depósitos de aluminio-silicatos que son típicos de sedimentos y arenas.
 
 ![FieldTripSchedule](/assets/posts/UKMay9.jpg)
 
 A.UNAH visitors receiving explanations about the equipment for analysing inorganic samples / Visitantes de la UNAH reciben explicaciones sobre el equipo de análisis de muestras inorgánicas.
 
-![FieldTripSchedule](/assets/posts/UKMay7.jpg)
+![FieldTripSchedule](/assets/posts/UKMay5.jpg)
 
 B.UNAH researchers are introduced to equipment for analysing iron/iron-oxide components in the sediment samples from their magnetic behaviour / Los investigadores de la UNAH conocen los equipos para analizar los componentes de hierro/óxido de hierro de las muestras de sedimentos a partir de su comportamiento magnético.
 
-![FieldTripSchedule](/assets/posts/UKMay5.jpg)
+![FieldTripSchedule](/assets/posts/UKMay8.jpg)
 
 C.
 
-![FieldTripSchedule](/assets/posts/UKMay8.jpg)
+![FieldTripSchedule](/assets/posts/UKMay7.jpg)
 
 D.
 
