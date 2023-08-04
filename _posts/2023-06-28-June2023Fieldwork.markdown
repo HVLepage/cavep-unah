@@ -1,4 +1,3 @@
-
 ---
 title: 'Second fieldwork visit by UCAM - June 2023'
 date: 2023-04-05 16:00:00 
