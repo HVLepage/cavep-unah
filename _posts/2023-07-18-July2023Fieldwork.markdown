@@ -7,3 +7,6 @@ category: field-work
 ---
 
 
+[Field Trip Schedule](/assets/posts/UCAM_LSVvisit_July23.pdf)
+
+
