@@ -6,7 +6,7 @@ version: 1.0.0
 category: field-work
 ---
 
-
+[Field Trip Schedule](/assets/posts/UCAM_schedule_March23.pdf)
 
 ![March2023Fieldwork](/assets/posts/14.3RC01Water.JPG)
 Rio Cachi (Site RC01) - Hugo Lepage (UCAM) and UNAH staff discuss the importance of collecting water quality data.
