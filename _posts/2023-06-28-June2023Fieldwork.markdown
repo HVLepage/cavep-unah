@@ -6,4 +6,6 @@ version: 1.0.0
 category: field-work
 ---
 
+[Field Trip Schedule](/assets/posts/UCAM_schedule_June23.pdf)
+
 
