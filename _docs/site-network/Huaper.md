@@ -88,7 +88,7 @@ En este lugar se recogieron los siguientes datos fluviales y de calidad del agua
 |     Conductivity / Conductividad (µS/cm)                 |     866                        |
 |     Total Dissolved Solids (TDS / STD)  (ppm)            |     433                        |
 |     ORP (mV)                                             |     - 126.3                    |
-|     Turbidity / Turbidez                                 |     Clear /  Transparente      |
+|     Turbidity / Turbidez                                 |     Clear / Transparente      |
 |     Alkalinity/Alkalinidad   (Titración) (mg/l CaCO₃)    |     367 (1.6N)                 |
 |     Alkalinity Field Tester (Hanna) (ppm CaCO₃)          |     311                        |
 
