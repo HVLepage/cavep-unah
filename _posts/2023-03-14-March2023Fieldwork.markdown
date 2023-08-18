@@ -17,7 +17,7 @@ Huanta valley - a UNAH student pilots the drone to fly a mission over a tomato f
 Valle de Huanta: un estudiante de la UNAH pilota el dron para sobrevolar un campo de tomates y demostrar el potencial de los drones para registrar la salud de las plantas y los tipos de suelo.
 
 
-![March2023Fieldwork](/assets/posts/19.3Q2.3.JPG)
+![March2023Fieldwork](/assets/posts/19.3Q2.4.JPG)
 Huanta valley (Sitio Q2.4) - a UNAH student sends the drone up the valley to record land use, vegetation and river characteristics several kilometres from the study site.
 
 Valle de Huanta (Sitio Q2.4) - un estudiante de la UNAH envía el dron valle arriba para registrar el uso del suelo, la vegetación y las características del río a varios kilómetros del lugar de estudio.
@@ -54,6 +54,12 @@ Huanta.
 Rio Huanta (Sitio Q2.3) - UNAH staff and students use the Valeport flowmeter to collect river velocity data.
 
 Río Huanta (Sitio Q2.3) - Personal y estudiantes de la UNAH utilizan el caudalímetro Valeport para recoger datos de velocidad de la corriente del rio.
+
+
+![March2023Fieldwork](/assets/posts/19.3Q2.3.JPG)
+Huanta valley (Sitio Q2.4) - a UNAH student sends the drone up the valley to record land use, vegetation and river characteristics several kilometres from the study site.
+
+Valle de Huanta (Sitio Q2.4) - un estudiante de la UNAH envía el dron valle arriba para registrar el uso del suelo, la vegetación y las características del río a varios kilómetros del lugar de estudio.
 
 
 ![March2023Fieldwork](/assets/posts/19.3Lunch.JPG)
