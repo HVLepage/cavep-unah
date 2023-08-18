@@ -11,18 +11,18 @@ category: field-work
 
 
 ![June2023Fieldwork](/assets/posts/6.23Class1.JPG)
-Hugo Lepage (UCAM) delivers a class to UNAH staff and students.
+Hugo Lepage (UCAM) delivers a remote sensing class to UNAH staff and students.
 
 
 ![June2023Fieldwork](/assets/posts/6.23Class2.JPG)
-Hugo Lepage (UCAM) delivers a class to UNAH staff and students.
+Hugo Lepage (UCAM) delivers a remote sensing class to UNAH staff and students.
 
 
 ![June2023Fieldwork](/assets/posts/6.23Class2.JPG)
-Hugo Lepage (UCAM) delivers a class to UNAH staff and students.
+Hugo Lepage (UCAM) delivers a remote sensing class to UNAH staff and students.
 
 
-![June2023Fieldwork](/assets/posts/6.23Hyaper.JPG)
+![June2023Fieldwork](/assets/posts/6.23Huaper.JPG)
 Hugo Lepage (UCAM) delivers a class to UNAH staff and students.
 
 
