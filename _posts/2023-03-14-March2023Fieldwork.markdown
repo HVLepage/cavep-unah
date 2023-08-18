@@ -46,20 +46,13 @@ Río Opanccay (Sitio 1.3) - Estudiantes de la UNAH recogen datos sobre las carac
 ![March2023Fieldwork](/assets/posts/17.3Q1.2Water.JPG)
 Rio Huanta (Sitio Q2.1) - UNAH students use a Valeport flowmeter to record channel characteristics (depth & velocity) of the rio Huanta.
 
-Río Huanta (Sitio Q2.1) - Los estudiantes de la UNAH utilizan un caudalímetro Valeport para registrar las características del canal (profundidad y velocidad) del río 
-Huanta.
+Río Huanta (Sitio Q2.1) - Los estudiantes de la UNAH utilizan un caudalímetro Valeport para registrar las características del canal (profundidad y velocidad) del río Huanta.
 
 
 ![March2023Fieldwork](/assets/posts/19.3Q2.4.JPG)
 Rio Huanta (Sitio Q2.3) - UNAH staff and students use the Valeport flowmeter to collect river velocity data.
 
 Río Huanta (Sitio Q2.3) - Personal y estudiantes de la UNAH utilizan el caudalímetro Valeport para recoger datos de velocidad de la corriente del rio.
-
-
-![March2023Fieldwork](/assets/posts/19.3Q2.3.JPG)
-Huanta valley (Sitio Q2.4) - a UNAH student sends the drone up the valley to record land use, vegetation and river characteristics several kilometres from the study site.
-
-Valle de Huanta (Sitio Q2.4) - un estudiante de la UNAH envía el dron valle arriba para registrar el uso del suelo, la vegetación y las características del río a varios kilómetros del lugar de estudio.
 
 
 ![March2023Fieldwork](/assets/posts/19.3Lunch.JPG)
