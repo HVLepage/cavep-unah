@@ -11,6 +11,12 @@ category: field-work
 
 ### Remote sensing
 
+![March2023Fieldwork](/assets/posts/15.3Q1.1Drone.JPG)
+Rio Opanccay (Site Q1.1) - UNAH staff and students receive tuition from Hugo Lepage (UCAM) in the piloting and use of drones to undertake fieldwork.
+
+Río Opanccay (Sitio Q1.1) - Docentes y estudiantes de la UNAH reciben instrucción de Hugo Lepage (UCAM) en el pilotaje y uso de drones para realizar trabajo de campo.
+
+
 ![March2023Fieldwork](/assets/posts/17.3Tomato.JPG)
 Huanta valley - a UNAH student pilots the drone to fly a mission over a tomato field to demonstrate the potential to use drones to record plant health and soil types.
 
@@ -29,12 +35,6 @@ Valle de Huanta (Sitio Q2.4) - un estudiante de la UNAH envía el dron valle arr
 Rio Cachi (Site RC01) - Hugo Lepage (UCAM) and UNAH staff discuss the importance of collecting water quality data.
 
 Río Cachi (sitio RC01) - Hugo Lepage (UCAM) y docentes de la UNAH hablan sobre la importancia de obtener datos sobre la calidad del agua.
-
-
-![March2023Fieldwork](/assets/posts/15.3Q1.1Drone.JPG)
-Rio Opanccay (Site Q1.1) - UNAH staff and students receive tuition from Hugo Lepage (UCAM) in the piloting and use of drones to undertake fieldwork.
-
-Río Opanccay (Sitio Q1.1) - Docentes y estudiantes de la UNAH reciben instrucción de Hugo Lepage (UCAM) en el pilotaje y uso de drones para realizar trabajo de campo.
 
 
 ![March2023Fieldwork](/assets/posts/21.3Q1.3.JPG)
