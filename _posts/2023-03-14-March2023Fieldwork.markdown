@@ -119,12 +119,6 @@ Iguian Huamangilla valley - Eustace Barnes (UCAM) explains to UNAH staff and stu
 Valle de Iguian Huamangilla - Eustace Barnes (UCAM) explica a docentes y estudiantes de la UNAH la importancia de la avifauna como indicador de la biodiversidad.
 
 
-![March2023Fieldwork](/assets/posts/23.3Birding.JPG)
-Iguian Huamangilla valley - Eustace Barnes (UCAM) explains to UNAH staff and students the importance of avifauna as an indicator of biodiversity.
-
-Valle de Iguian Huamangilla - Eustace Barnes (UCAM) explica a docentes y estudiantes de la UNAH la importancia de la avifauna como indicador de la biodiversidad.
-
-
 ### Water sample processing
 
 ![March2023Fieldwork](/assets/posts/24.3Filtration.JPG)
