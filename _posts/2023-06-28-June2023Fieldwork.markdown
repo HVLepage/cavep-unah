@@ -18,6 +18,6 @@ Hugo Lepage (UCAM) delivers an active remote sensing class to identify and analy
 Hugo Lepage (UCAM) explains to UNAH staff and students how to programme Google Earth to identify and analyse a specific satellite image of the Huanta area.
 
 
-![June2023Fieldwork](/assets/posts/6.23Huaper.jpg)
+![June2023Fieldwork](/assets/posts/6.23Huaper.JPG)
 Hugo Lepage (UCAM) demonstrates to two UNAH students how to undertake a mission over the Huaper manantial to identify its vegetation characteristics.
 
