@@ -49,7 +49,7 @@ Rio Huanta (Sitio Q2.1) - UNAH students use a Valeport flowmeter to record chann
 Río Huanta (Sitio Q2.1) - Los estudiantes de la UNAH utilizan un caudalímetro Valeport para registrar las características del canal (profundidad y velocidad) del río Huanta.
 
 
-![March2023Fieldwork](/assets/posts/19.3Q2.4.JPG)
+![March2023Fieldwork](/assets/posts/19.3Q2.3.JPG)
 Rio Huanta (Sitio Q2.3) - UNAH staff and students use the Valeport flowmeter to collect river velocity data.
 
 Río Huanta (Sitio Q2.3) - Personal y estudiantes de la UNAH utilizan el caudalímetro Valeport para recoger datos de velocidad de la corriente del rio.
