@@ -8,6 +8,23 @@ category: field-work
 
 [Field Trip Schedule](/assets/posts/UCAM_schedule_March23.pdf)
 
+
+### Remote sensing
+
+![March2023Fieldwork](/assets/posts/17.3Tomato.JPG)
+Huanta valley - a UNAH student pilots the drone to fly a mission over a tomato field to demonstrate the potential to use drones to record plant health and soil types.
+
+Valle de Huanta: un estudiante de la UNAH pilota el dron para sobrevolar un campo de tomates y demostrar el potencial de los drones para registrar la salud de las plantas y los tipos de suelo.
+
+
+![March2023Fieldwork](/assets/posts/19.3Q2.3.JPG)
+Huanta valley (Sitio Q2.4) - a UNAH student sends the drone up the valley to record land use, vegetation and river characteristics several kilometres from the study site.
+
+Valle de Huanta (Sitio Q2.4) - un estudiante de la UNAH envía el dron valle arriba para registrar el uso del suelo, la vegetación y las características del río a varios kilómetros del lugar de estudio.
+
+
+### Water sample \& data collection
+
 ![March2023Fieldwork](/assets/posts/14.3RC01Water.JPG)
 Rio Cachi (Site RC01) - Hugo Lepage (UCAM) and UNAH staff discuss the importance of collecting water quality data.
 
@@ -18,12 +35,6 @@ Río Cachi (sitio RC01) - Hugo Lepage (UCAM) y docentes de la UNAH hablan sobre 
 Rio Opanccay (Site Q1.1) - UNAH staff and students receive tuition from Hugo Lepage (UCAM) in the piloting and use of drones to undertake fieldwork.
 
 Río Opanccay (Sitio Q1.1) - Docentes y estudiantes de la UNAH reciben instrucción de Hugo Lepage (UCAM) en el pilotaje y uso de drones para realizar trabajo de campo.
-
-
-![March2023Fieldwork](/assets/posts/16.3Q1.2Intro.JPG)
-Rio Opanccay (Sitio Q1.2) - Eustace Barnes (UCAM) outlines the importance of the rio Cachii tributary quebradas for biodiversity in the Huanta area.
-
-Río Opanccay (Sitio Q1.2) - Eustace Barnes (UCAM) explica a docentes y estudiantes de la UNAH la importancia de las quebradas tributarias del río Cachi para la biodiversidad en la zona de Huanta.
 
 
 ![March2023Fieldwork](/assets/posts/21.3Q1.3.JPG)
@@ -39,28 +50,10 @@ Río Huanta (Sitio Q2.1) - Los estudiantes de la UNAH utilizan un caudalímetro 
 Huanta.
 
 
-![March2023Fieldwork](/assets/posts/17.3Tomato.JPG)
-Huanta valley - a UNAH student pilots the drone to fly a mission over a tomato field to demonstrate the potential to use drones to record plant health and soil types.
-
-Valle de Huanta: un estudiante de la UNAH pilota el dron para sobrevolar un campo de tomates y demostrar el potencial de los drones para registrar la salud de las plantas y los tipos de suelo.
-
-
-![March2023Fieldwork](/assets/posts/18.3Q2.2.JPG)
-Huanta valley - Eustace Barnes (UCAM) & Santos Herrera (UNAH) collect soil samples for further analysis.
-
-Valle de Huanta - Eustace Barnes (UCAM) y Santos Herrera (UNAH) recogen muestras de suelo para su posterior análisis.
-
-
 ![March2023Fieldwork](/assets/posts/19.3Q2.4.JPG)
 Rio Huanta (Sitio Q2.3) - UNAH staff and students use the Valeport flowmeter to collect river velocity data.
 
 Río Huanta (Sitio Q2.3) - Personal y estudiantes de la UNAH utilizan el caudalímetro Valeport para recoger datos de velocidad de la corriente del rio.
-
-
-![March2023Fieldwork](/assets/posts/19.3Q2.3.JPG)
-Huanta valley (Sitio Q2.4) - a UNAH student sends the drone up the valley to record land use, vegetation and river characteristics several kilometres from the study site.
-
-Valle de Huanta (Sitio Q2.4) - un estudiante de la UNAH envía el dron valle arriba para registrar el uso del suelo, la vegetación y las características del río a varios kilómetros del lugar de estudio.
 
 
 ![March2023Fieldwork](/assets/posts/19.3Lunch.JPG)
@@ -93,22 +86,26 @@ Rio Iguian Huamangilla (Sitio 3.2) - UNAH students collect river water for furth
 Río Iguian Huamangilla (Sitio 3.2) - Estudiantes de la UNAH recogen agua del río para su posterior análisis (Metales, Aniones y Cationes, DQO, etc.)
 
 
-![March2023Fieldwork](/assets/posts/23.3Birding.JPG)
-Iguian Huamangilla valley - Eustace Barnes (UCAM) explains to UNAH staff and students the importance of avifauna as an indicator of biodiversity.
-
-Valle de Iguian Huamangilla - Eustace Barnes (UCAM) explica a docentes y estudiantes de la UNAH la importancia de la avifauna como indicador de la biodiversidad.
-
-
-![March2023Fieldwork](/assets/posts/23.3Intro.JPG)
-Iguian Huamangilla valley (Site 3.3) - Eustace Barnes (UCAM) explains to UNAH staff and students how vegetation and land use has drastically changed over recent centuries in high Andean valleys.
-
-Valle de Iguian Huamangilla (sitio 3.3) - Eustace Barnes (UCAM) explica a docentes y estudiantes de la UNAH cómo la vegetación y el uso del suelo han cambiado drásticamente en los últimos siglos en los valles altoandinos.
-
-
 ![March2023Fieldwork](/assets/posts/23.3Q3.3.JPG)
 Rio Iguian Huamangilla (Sitio 3.3) - UNAH students collect river characteristic data (velocity) using a basic flowmeter suited to small channels.
 
 Río Iguian Huamangilla (Sitio 3.3) - Los estudiantes de la UNAH recogen datos característicos del río (velocidad) utilizando un caudalímetro básico adecuado para canales pequeños.
+
+
+### Soil sampling
+
+![March2023Fieldwork](/assets/posts/18.3Q2.2.JPG)
+Huanta valley - Eustace Barnes (UCAM) & Santos Herrera (UNAH) collect soil samples for further analysis.
+
+Valle de Huanta - Eustace Barnes (UCAM) y Santos Herrera (UNAH) recogen muestras de suelo para su posterior análisis.
+
+
+### Biodiversity
+
+![March2023Fieldwork](/assets/posts/16.3Q1.2Intro.JPG)
+Rio Opanccay (Sitio Q1.2) - Eustace Barnes (UCAM) outlines the importance of the rio Cachii tributary quebradas for biodiversity in the Huanta area.
+
+Río Opanccay (Sitio Q1.2) - Eustace Barnes (UCAM) explica a docentes y estudiantes de la UNAH la importancia de las quebradas tributarias del río Cachi para la biodiversidad en la zona de Huanta.
 
 
 ![March2023Fieldwork](/assets/posts/25.3Biodiversity.jpg)
@@ -116,6 +113,20 @@ Lake Tocctococha - Eustace Barnes (UCAM) awaits UNAH staff and students to outli
 
 Lago Tocctococha - Eustace Barnes (UCAM) espera a personal y estudiantes de la UNAH para explicar las características del ecosistema de un bofedal y lago altoandino.
 
+
+![March2023Fieldwork](/assets/posts/23.3Birding.JPG)
+Iguian Huamangilla valley - Eustace Barnes (UCAM) explains to UNAH staff and students the importance of avifauna as an indicator of biodiversity.
+
+Valle de Iguian Huamangilla - Eustace Barnes (UCAM) explica a docentes y estudiantes de la UNAH la importancia de la avifauna como indicador de la biodiversidad.
+
+
+![March2023Fieldwork](/assets/posts/23.3Birding.JPG)
+Iguian Huamangilla valley - Eustace Barnes (UCAM) explains to UNAH staff and students the importance of avifauna as an indicator of biodiversity.
+
+Valle de Iguian Huamangilla - Eustace Barnes (UCAM) explica a docentes y estudiantes de la UNAH la importancia de la avifauna como indicador de la biodiversidad.
+
+
+### Water sample processing
 
 ![March2023Fieldwork](/assets/posts/24.3Filtration.JPG)
 UNAH laboratory - UNAH students filter river water samples using a Geopump to prepare them for analysis, including for metals and anions & cations.
