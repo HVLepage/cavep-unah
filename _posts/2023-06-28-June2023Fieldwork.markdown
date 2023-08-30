@@ -59,13 +59,13 @@ Estudiantes de la UNAH tomando medidas de profundidad y velocidad utilizando un 
 ![June2023Fieldwork](/assets/6.Q2.2.JPG)
 UNAH students observing the load (sediment) size and shape in the river channel at site Q2.2.
 
-Estudiantes de la UNAH observando el tamaño y la forma de los sedimento en el canal del río Huanta en el sitio Q2.2.
+Estudiantes de la UNAH observando el tamaño y la forma de los sedimentos en el canal del río Huanta en el sitio Q2.2.
 
 
 ![June2023Fieldwork](/assets/6.Q2.3.JPG)
-Ing.Herrera and UNAH students using a multiparameter to record water quality data such as pH and conductivity in the river Hunata at site Q2.3.
+Ing.Herrera and UNAH students using a multiparameter to record water quality data such as pH and conductivity in the river Huanta at site Q2.3.
 
-Ing.Herrera y estudiantes de la UNAH utilizando un multiparametro para registrar datos de calidad del agua como pH y conductividad en el rio Hunata en el sitio Q2.3.
+Ing.Herrera y estudiantes de la UNAH utilizando un multiparametro para registrar datos de calidad del agua como pH y conductividad en el rio Huanta en el sitio Q2.3.
 
 
 ![June2023Fieldwork](/assets/6.Q2.4.JPG)
