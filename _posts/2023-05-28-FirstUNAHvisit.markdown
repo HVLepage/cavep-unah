@@ -107,12 +107,12 @@ El primer día estudiamos los requisitos para obtener la licencia de piloto de d
 El segundo día estudiamos el postprocesamiento de datos. Examinamos cuatro programas informáticos comunes (gratuitos) para el análisis de datos:
 1. WebODM se utilizó para agregar imágenes de drones de una misión que habíamos realizado en Huanta, en marzo de 2023. Con todas las imágenes, creamos una ortofoto (mapa grande) que pudimos exportar a otro software.
 2. Google Earth Pro se utilizó para investigar datos históricos de satélite de la zona (cómo eran el campo y los campos hace 20 años).
-3. 3. Se utilizó QGIS para importar la ortofoto creada con WebODM y se utilizó el álgebra de bandas espectrales para elaborar un índice de vegetación. Calculamos y visualizamos la salud de las plantas en una granja de tomates que habíamos visitado en marzo de 2023. (Ver imagen final abajo).
+3. Se utilizó QGIS para importar la ortofoto creada con WebODM y se utilizó el álgebra de bandas espectrales para elaborar un índice de vegetación. Calculamos y visualizamos la salud de las plantas en una granja de tomates que habíamos visitado en marzo de 2023. (Ver imagen final abajo).
 4. Se utilizó Google Earth Engine para mostrar cómo podemos llevar a cabo investigaciones más intensivas utilizando datos de satélite. Estudiamos muchos índices diferentes (vegetación, agua, elevación, pendiente, relieve) y vimos una introducción al uso del análisis estadístico para categorizar diferentes tipos de terreno.
    
 ![FieldTripSchedule](/assets/posts/UKMay10.jpg)
 
-UNAH visitors with their drone 'pilots license' / Visitantes de la UNAH con su "licencia de pilotos" de drones.
+UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su "licencias de pilotos" de drones.
 
 ![FieldTripSchedule](/assets/posts/UKMay11.jpg)
 
