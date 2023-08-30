@@ -26,5 +26,39 @@ Hugo Lepage (UCAM) demonstrates to two UNAH students how to undertake a mission 
 
 ### Water 
 
+![June2023Fieldwork](/assets/6.RC01.JPG)
 
-~~
+
+![June2023Fieldwork](/assets/6.Q1.1.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q1.2.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q1.3.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q2.1.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q2.2.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q2.3.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q2.4.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q3.1.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q3.2.JPG)
+
+
+![June2023Fieldwork](/assets/6.Q3.3.JPG)
+
+
+![June2023Fieldwork](/assets/6.RC02.JPG)
+
+
