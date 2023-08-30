@@ -55,6 +55,12 @@ Rio Huanta (Sitio Q2.3) - UNAH staff and students use the Valeport flowmeter to 
 Río Huanta (Sitio Q2.3) - Personal y estudiantes de la UNAH utilizan el caudalímetro Valeport para recoger datos de velocidad de la corriente del rio.
 
 
+![March2023Fieldwork](/assets/posts/19.3Q2.4.JPG)
+Rio Huanta (Sitio Q2.4) - UNAH staff and students use the Valeport flowmeter to collect river velocity data.
+
+Río Huanta (Sitio Q2.4) - Personal y estudiantes de la UNAH utilizan el caudalímetro Valeport para recoger datos de velocidad de la corriente del rio.
+
+
 ![March2023Fieldwork](/assets/posts/19.3Lunch.JPG)
 UCAM & UNAH staff and students enjoy a lunch of fried trout close to site Q2.4.
 
