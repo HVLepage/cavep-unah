@@ -56,9 +56,9 @@ Río Huanta (Sitio Q2.3) - Personal y estudiantes de la UNAH utilizan el caudal�
 
 
 ![March2023Fieldwork](/assets/posts/19.3Q2.4.JPG)
-Rio Huanta (Sitio Q2.4) - UNAH staff and students use the Valeport flowmeter to collect river velocity data. 
+Rio Huanta (Sitio Q2.4) - UNAH staff and students send the drone to survey up the valley.
 
-Río Huanta (Sitio Q2.4) - Personal y estudiantes de la UNAH utilizan el caudalímetro Valeport para recoger datos de velocidad de la corriente del rio.
+Río Huanta (Sitio Q2.4) - Los docentes y los estudiantes de la UNAH envían el dron a investigar el valle rio arriba.
 
 
 ![March2023Fieldwork](/assets/posts/19.3Lunch.JPG)
