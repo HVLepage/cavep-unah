@@ -101,32 +101,31 @@ Estudiantes de la UNAH cruzan la puente peatonal sobre el río Cachi para accede
 ### Water sample analysis in the Laboratory
 
 ![June2023Fieldwork](/assets/posts/6.23Lab2.JPG)
-UNAH students filter water using a Geopump.
-Estudiantes de la UNAH filtran agua utilizando una geobomba.
+A UNAH teacher and students filter water using a Geopump. A student who has been trained to use a Geopump explains to the other two students how to use it.
+
+Un docente y estudiantes de la UNAH filtran agua utilizando una Geobomba. Un estudiante que ha recibido formación para utilizar una Geobomba explica a los otros dos estudinates cómo utilizarla.
 
 
 ![June2023Fieldwork](/assets/posts/6.23Lab5.JPG)
-UNAH students filter water using a Geopump.
-Estudiantes de la UNAH filtran agua utilizando una geobomba.
+A UNAH teacher and students filter water using a Geopump. A student who has been trained to use a Geopump explains to the other two students how to use it.
+
+Un docente y estudiantes de la UNAH filtran agua utilizando una Geobomba. Un estudiante que ha recibido formación para utilizar una Geobomba explica a los otros dos estudinates cómo utilizarla.
 
 
 ![June2023Fieldwork](/assets/posts/6.26Lab1.JPG)
-UNAH students test alkalinity levels using a titrator.
-Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator.
+UNAH students test alkalinity levels using a titrator. The students are required to adopt full protective gear to meet the health and safety requirements for this process in which drops of sulphuric acid are introduced to the sample.
+
+Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator. Los estudiantes deben adoptar el equipo de protección completo para cumplir los requisitos de salud y seguridad de este proceso en el que se introducen gotas de ácido sulfúrico en la muestra.
 
 
 ![June2023Fieldwork](/assets/posts/6.23Lab3.JPG)
-UNAH students test alkalinity levels using a titrator.
-Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator.
+UNAH students test alkalinity levels using a titrator. The students are required to adopt full protective gear to meet the health and safety requirements for this process in which drops of sulphuric acid are introduced to the sample.
+
+Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator. Los estudiantes deben adoptar el equipo de protección completo para cumplir los requisitos de salud y seguridad de este proceso en el que se introducen gotas de ácido sulfúrico en la muestra.
 
 
 ![June2023Fieldwork](/assets/posts/6.23Lab4.JPG)
-UNAH students test alkalinity levels using a titrator.
-Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator.
+UNAH students test alkalinity levels using a titrator. The sample should turn bright pink to indicate the process is complete but with this sample - Q3.3B (June 2023) - it turned orange.
 
-
-![June2023Fieldwork](/assets/posts/6.23Lab5.JPG)
-UNAH students test alkalinity levels using a titrator.
-Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator.
-
+Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator. La muestra debería volverse rosa brillante para indicar que el proceso se ha completado, pero con esta muestra - Q3.3B (junio de 2023) - se volvió naranja.
 
