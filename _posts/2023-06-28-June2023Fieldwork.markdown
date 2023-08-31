@@ -100,8 +100,18 @@ Estudiantes de la UNAH cruzan la puente peatonal sobre el río Cachi para accede
 
 ### Water sample analysis in the Laboratory
 
+![June2023Fieldwork](/assets/posts/6.23Lab2.JPG)
+
+
 ![June2023Fieldwork](/assets/posts/6.26Lab1.JPG)
 
 
-![June2023Fieldwork](/assets/posts/6.23Lab2.JPG)
+![June2023Fieldwork](/assets/posts/6.23Lab3.JPG)
+
+
+![June2023Fieldwork](/assets/posts/6.23Lab4.JPG)
+
+
+![June2023Fieldwork](/assets/posts/6.23Lab5.JPG)
+
 
