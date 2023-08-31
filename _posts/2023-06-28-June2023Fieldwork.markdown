@@ -101,17 +101,32 @@ Estudiantes de la UNAH cruzan la puente peatonal sobre el río Cachi para accede
 ### Water sample analysis in the Laboratory
 
 ![June2023Fieldwork](/assets/posts/6.23Lab2.JPG)
-
-
-![June2023Fieldwork](/assets/posts/6.26Lab1.JPG)
-
-
-![June2023Fieldwork](/assets/posts/6.23Lab3.JPG)
-
-
-![June2023Fieldwork](/assets/posts/6.23Lab4.JPG)
+UNAH students filter water using a Geopump.
+Estudiantes de la UNAH filtran agua utilizando una geobomba.
 
 
 ![June2023Fieldwork](/assets/posts/6.23Lab5.JPG)
+UNAH students filter water using a Geopump.
+Estudiantes de la UNAH filtran agua utilizando una geobomba.
+
+
+![June2023Fieldwork](/assets/posts/6.26Lab1.JPG)
+UNAH students test alkalinity levels using a titrator.
+Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator.
+
+
+![June2023Fieldwork](/assets/posts/6.23Lab3.JPG)
+UNAH students test alkalinity levels using a titrator.
+Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator.
+
+
+![June2023Fieldwork](/assets/posts/6.23Lab4.JPG)
+UNAH students test alkalinity levels using a titrator.
+Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator.
+
+
+![June2023Fieldwork](/assets/posts/6.23Lab5.JPG)
+UNAH students test alkalinity levels using a titrator.
+Los estudiantes de la UNAH comprueban los niveles de alcalinidad utilizando un titrator.
 
 
