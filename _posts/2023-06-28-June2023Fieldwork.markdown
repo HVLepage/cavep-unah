@@ -97,3 +97,11 @@ UNAH staff and students cross the footbridge over the river Cachi to access site
 
 Estudiantes de la UNAH cruzan la puente peatonal sobre el río Cachi para acceder el sitio RC02.
 
+
+### Water sample analysis in the Laboratory
+
+![June2023Fieldwork](/assets/posts/6.26Lab1.JPG)
+
+
+![June2023Fieldwork](/assets/posts/6.23Lab2.JPG)
+
