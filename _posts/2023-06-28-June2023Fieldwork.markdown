@@ -38,11 +38,17 @@ H.Lepage (UCAM) addresses UNAH students at lake Toctococha about surveying and i
 H.Lepage (UCAM) se dirige a los estudiantes de la UNAH en el lago Toctococha para hablarles de la prospección e interpretación del paisaje circundante.
 
 
-![June2023Fieldwork](/assets/posts/6.23Lake3.jpg)
-M.Lezama (UCAM) addresses UNAH students at lake Toctococha.
-
 ![June2023Fieldwork](/assets/posts/6.23Lake5.jpg)
-H.Lepage (UCAM) addresses UNAH students at lake Toctococha.
+H.Lepage (UCAM) addresses UNAH students at lake Toctococha about surveying and interpreting the surrounding landscape.
+
+H.Lepage (UCAM) se dirige a los estudiantes de la UNAH en el lago Toctococha para hablarles de la prospección e interpretación del paisaje circundante.
+
+
+![June2023Fieldwork](/assets/posts/6.23Lake3.jpg)
+M.Lezama (UCAM) addresses UNAH students about ornithological and eco-tourism related research possibilities at lake Toctococha.
+
+M.Lezama (UCAM) se dirige a los estudiantes de la UNAH sobre las posibilidades de investigación ornitológica y ecoturística en el lago Toctococha.
+
 
 ![June2023Fieldwork](/assets/posts/6.23Lake2.jpg)
 W.Castro (UNAH) assists UNAH students to develop their ideas about potential ecosystem / biodiversity related investigations that could be undertaken at lake Toctococha.
