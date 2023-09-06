@@ -30,6 +30,26 @@ Hugo Lepage (UCAM) demonstrates to two UNAH students how to undertake a mission 
 Hugo Lepage (UCAM) demuestra a dos estudiantes de la UNAH cómo emprender una misión sobre el manantial de Huaper para identificar las características de su vegetación.
 
 
+### Biodiversity
+
+![June2023Fieldwork](/assets/6.23Lake1.JPG)
+
+![June2023Fieldwork](/assets/6.23Lake2.JPG)
+
+![June2023Fieldwork](/assets/6.23Lake3.JPG)
+
+![June2023Fieldwork](/assets/6.23Lake4.JPG)
+
+![June2023Fieldwork](/assets/6.23Lake5.JPG)
+
+
+### Biodiversity: Butterflies
+
+![June2023Fieldwork](/assets/6.23Butterfly1.JPG)
+UCAM and UNAH team Biodiversity members prepare a trap of rotting fish to attarct butterflies.
+
+
+
 ### Water 
 
 ![June2023Fieldwork](/assets/6.23RC01.JPG)
