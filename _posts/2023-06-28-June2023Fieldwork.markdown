@@ -32,8 +32,6 @@ Hugo Lepage (UCAM) demuestra a dos estudiantes de la UNAH cómo emprender una mi
 
 ### Biodiversity
 
-![June2023Fieldwork](/assets//posts/6.23Lake2.jpg)
-
 ![June2023Fieldwork](/assets/posts/6.23Lake3.jpg)
 
 ![June2023Fieldwork](/assets/posts/6.23Lake4.jpg)
@@ -42,11 +40,15 @@ Hugo Lepage (UCAM) demuestra a dos estudiantes de la UNAH cómo emprender una mi
 
 ![June2023Fieldwork](/assets/posts/6.23Lake1.jpg)
 
+![June2023Fieldwork](/assets//posts/6.23Lake2.jpg)
+
 
 ### Biodiversity: Butterflies
 
 ![June2023Fieldwork](/assets/posts/6.23Butterfly1.jpg)
-UCAM and UNAH team Biodiversity members prepare a trap of rotting fish to attarct butterflies.
+UCAM and UNAH Biodiversity team members prepare a trap of rotting fish to attract butterflies.
+
+Miembros del equipo de Biodiversidad de la UCAM y la UNAH preparan una trampa de pescado podrido para atraer mariposas.
 
 
 
