@@ -36,10 +36,14 @@ Hugo Lepage (UCAM) demuestra a dos estudiantes de la UNAH cómo emprender una mi
 H.Lepage (UCAM) addresses UNAH students at lake Toctococha.
 
 ![June2023Fieldwork](/assets/posts/6.23Lake3.jpg)
-
-![June2023Fieldwork](/assets/posts/6.23Lake1.jpg)
+H.Lepage (UCAM) addresses UNAH students at lake Toctococha.
 
 ![June2023Fieldwork](/assets/posts/6.23Lake5.jpg)
+H.Lepage (UCAM) addresses UNAH students at lake Toctococha.
+
+![June2023Fieldwork](/assets/posts/6.23Lake2.jpg)
+H.Lepage (UCAM) addresses UNAH students at lake Toctococha.
+
 
 
 ### Biodiversity: Butterflies
