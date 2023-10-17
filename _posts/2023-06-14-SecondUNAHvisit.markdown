@@ -147,11 +147,14 @@ UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su 
 
 ![FieldTripSchedule](/assets/posts/9.23Remote2.jpg)
 
-
 ![FieldTripSchedule](/assets/posts/9.23Remote3.png)
 
 
-## Visit to Vetinaray with Luis de los Santos Valladares
+## Visit to the Veterinary School of the University of Cambridge with Luis de los Santos Valladares
+Constanza Toro Valdivieso of the University Veterinary School kindly provided a tour of the Schools facilities.
+
+## Visita a la Facultad de Veterinaria de la Universidad de Cambridge con Luis de los Santos Valladares
+Constanza Toro Valdivieso, de la Facultad de Veterinaria de la Universidad, tuvo la amabilidad de ofrecer una visita guiada por las instalaciones de la Facultad.
 
 ![FieldTripSchedule](/assets/posts/9.23Vet1.jpg)
 
@@ -159,6 +162,10 @@ UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su 
 
 
 ## London Science Museum visit with John Forrest
+The UNAH visitors made a day trip to London to visit the Science, Geology and Natural History Museums as well as various tourist sites such as St.Pauls Cathedral, Westminster Abbey, Buckingham Palace, Tower Bridge and the Tower of London.
+
+## Visita al Museo de la Ciencia de Londres con John Forrest
+Los visitantes de la UNAH hicieron una excursión de un día a Londres para visitar los Museos de Ciencias, Geologia y de Historia Natural, así como diversos lugares turísticos como la Catedral de San Pablo, la Abadía de Westminster, el Palacio de Buckingham, el Puente de la Torre y la Torre de Londres.
 
 ![FieldTripSchedule](/assets/posts/9.23Museum1.JPG)
 
@@ -168,6 +175,10 @@ UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su 
 
 
 ## UNAH Presentations
+The three UNAH visitors were invited to make brief presentations about their research current interests. The presentations took place in the Maxwell centre, part of the Cavendish laboratory.
+
+## Presentaciones de la UNAH
+Se invitó a los tres visitantes de la UNAH a realizar breves presentaciones sobre sus intereses actuales de investigación. Las presentaciones tuvieron lugar en el centro Maxwell, que forma parte del laboratorio Cavendish.
 
 ![FieldTripSchedule](/assets/posts/9.23Talk1.JPG)
 
