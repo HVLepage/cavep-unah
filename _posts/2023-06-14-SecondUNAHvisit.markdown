@@ -94,22 +94,28 @@ Observamos una serie de especímenes de mariposa utilizando tres microscopios ó
 
 
 ## Sediments with Luis de los Santos Valladares
+The three researchers from the University of Huanta, visited the Cavendish Laboratory and were trained in three activities.
 
+## 1.	Preparing gold coatings as sample holders for Raman spectroscopy measurements of sediment samples: 
+The first training consisted of demonstrating how to fabricate gold sample holders for Raman Spectroscopy to measure sediments. The training was performed in the Clean Room (1000 Class) in the Cavendish Laboratory. The visitors were trained in the use of an Edwards Evaporator for preparing the samples.
 
-Three researchers from the University of Huanta, Peru were trained over three days to obtain information from the major chemical elements contained in sediment from the river bed and banks of the rio Cachi and three of its tributaries: rio Opanaccay, Huanta and Huamanguilla-Iguian. The samples were collected during the field visit in March 2023.
-On the first day, the visitors were introduced to the equipment in the Cavendish laboratory for analysing inorganic samples (See photo A. below). It is important when using such sensitive equipment to place emphasis on the condition of the atmosphere and temperature of the samples.
+## 2.	Explanation of the identification of iron components in soil samples by using a magnetometer:
+The visitors were instructed how to identify the iron composition in soil samples by using a Magnetic Property Measurement System (MPMS-SQUID) magnetometer from Quantum Device Inc. The iron components in soils and sediments are not easily identifiable by other techniques, such as X-ray Diffraction (XRD) since they usually constitute less than 3% of the total component. However, these components can be identified through their magnetic behaviour by using a Superconducting Quantum Interference Device (SQUID) sensor in a magnetometer.
 
-On the second day, the researchers were introduced to the techniques for analysing the sediment samples. In Figure B. the researchers were introduced to analysing the iron/iron-oxide components in the sediment samples from their magnetic behaviour (See photo B. below). Every training session was followed by discussions and questions to ensure the researchers had understood the explanations.
+## 3.Measuring major chemical composition by EDX of sediments from the water treatment station located in Luricocha:
+The visitors were taught how to identify the major chemical composition of sediments by using an Energy Dispersive X-ray (EDX) spectrometer. Some sediment samples had been collected from a water treatment station located in Luricocha, and they were placed in a Helious Microscope equipped with an Oxford X-Max sensor device. The measurements showed that the major elemental composition of the samples were Si, Al, Ca, Na and O, corresponding to aluminium-silicates which are typical of sediments and sands. 
 
-The third day was devoted to hands on activities in the lab. The researchers were trained in handling the samples, placing them in the sample holder and using the equipment. Photo C. below shows the research visitors preparing the samples and mounting them in the holder sample. Photo D. below shows the researchers training in using the equipment. The major chemical composition of the samples were obtained by energy dispersive X ray (EDX) spectroscopy. The results showed that the main elemental composition of the samples were Si, Al, Ca, Na and O, corresponding with deposits of aluminium-silicates which are typical of sediments and sands.
+## Sedimentos con Luis de los Santos Valladares
+Los tres investigadores de la Universidad de Huanta, visitaron el Laboratorio Cavendish y fueron capacitados en tres actividades.
 
-## Sedimentos 
-Tres investigadores de la Universidad de Huanta fueron capacitados durante tres días para obtener información de los principales elementos químicos contenidos en sedimentos del lecho y riberas del río Cachi y tres de sus afluentes: río Opanaccay, Huanta y Huamanguilla-Iguian. Las muestras fueron recogidas durante la visita de campo en marzo de 2023.
-El primer día, los visitantes fueron introducidos a los equipos del laboratorio Cavendish para el análisis de muestras inorgánicas (Ver foto A. abajo). Es importante, cuando se utiliza un equipo tan sensible, hacer hincapié en el estado de la atmósfera y la temperatura de las muestras.
+## 1.	Preparación de revestimientos de oro como portamuestras para mediciones de espectroscopia Raman de muestras de sedimentos: 
+La primera formación consistió en demostrar cómo fabricar portamuestras de oro para Espectroscopia Raman para medir sedimentos. La formación se llevó a cabo en la Sala Limpia (Clase 1000) del Laboratorio Cavendish. Los visitantes recibieron formación sobre el uso de un evaporador Edwards para preparar las muestras.
 
-El segundo día, los investigadores se familiarizaron con las técnicas de análisis de las muestras de sedimentos. En la figura B., los investigadores aprendieron a analizar los componentes de hierro y óxido de hierro de las muestras de sedimentos a partir de su comportamiento magnético. Cada sesión de formación iba seguida de debates y preguntas para asegurarse de que los investigadores habían entendido las explicaciones.
+## 2.	Explicación de la identificación de los componentes de hierro en muestras de suelo mediante el uso de un magnetómetro:
+Los visitantes recibieron instrucciones sobre cómo identificar la composición de hierro en muestras de suelo utilizando un magnetómetro del Sistema de Medición de Propiedades Magnéticas (MPMS-SQUID) de Quantum Device Inc. Los componentes de hierro en suelos y sedimentos no son fácilmente identificables mediante otras técnicas, como la difracción de rayos X (DRX), ya que suelen constituir menos del 3% del componente total. Sin embargo, estos componentes pueden identificarse a través de su comportamiento magnético utilizando un sensor SQUID (Superconducting Quantum Interference Device) en un magnetómetro.
 
-El tercer día se dedicó a actividades prácticas en el laboratorio. Se enseñó a los investigadores a manipular las muestras, colocarlas en el portamuestras y utilizar el equipo. La foto C. muestra a los investigadores visitantes preparando las muestras y colocándolas en el portamuestras. La foto D. muestra la formación de los investigadores en el uso del equipo. La composición química principal de las muestras se obtuvo mediante espectroscopia de dispersión de energía de rayos X (EDX). Los resultados mostraron que la composición elemental principal de las muestras era Si, Al, Ca, Na y O, correspondiendo con depósitos de aluminio-silicatos que son típicos de sedimentos y arenas.
+## 3.Medición de la composición química mayoritaria por EDX de los sedimentos de la estación de tratamiento de aguas ubicada en Luricocha:
+Se enseñó a los visitantes a identificar la composición química mayor de los sedimentos utilizando un espectrómetro de rayos X de energía dispersiva (EDX). Se recogieron algunas muestras de sedimentos de una estación de tratamiento de aguas situada en Luricocha, y se colocaron en un microscopio Helious equipado con un dispositivo sensor Oxford X-Max. Las mediciones mostraron que la composición elemental mayoritaria de las muestras era Si, Al, Ca, Na y O, correspondientes a silicatos de aluminio típicos de sedimentos y arenas. 
 
 ![FieldTripSchedule](/assets/posts/9.23Soils1.jpg)
 
