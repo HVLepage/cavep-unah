@@ -54,6 +54,20 @@ Por la tarde, se visitó el Trinity Science Park, en las afueras de Cambridge, p
 
 
 ## Nature’s microstructures
+The UNAH visitors were introduced by Peter Newton, Oliver Basquette and Eustace Barnes to the work being undertaken into naturally occurring micro- and meso-structures, specifically those structures found in butterflies and moths. There is a wide variety of research interestin the value of both the structural and functional attributes of microstructures. These range from the use of colours to their applications in sensors. 
+
+During field trips in the districts of Huanta and La Mar, butterfly specimens have been collected in the humid subtropics, where diversity is high, for investigation in the UCAM laboratories.
+
+The UCAM rseearchers discussed the general motivation for the research and introduced some recent work that has been performed. In particular, the physics of structural colour was discussed, focusing on interference in light, along with reflection and scattering phenomena. Simulation techniques of “Christmas tree” like structures using the software package MEEP were inrtroduced.
+
+The UCAM research involves a number of studies: 
+1) understanding butterfly diversity in a poorly known region;
+2) variation in meso- and micro-structures and their correlation with humidity and elevational gradients;
+3) developing an understanding of microstructure function. 
+
+We looked at a range of butterfly specimens using three optical microscopes – two portable USB Dino-lite microscopes and a Kern laboratory microscope. Using these it was possible to observe variations in the overall shape and colour of scales on the wings of the butterfly specimens. Such investigations allow us to determine which samples might be most interesting to investigate using more time intensive electron microscopy processes. Remarkable variations can be observed in scale morphology both within and between individual species.
+
+
 The UNAH visitors and P.Newton & E.Barnes from UCAM, used both optical microscopy (in the Wet lab.) and electron microscopy (in the Cavendish microscopy suite) to demonstrate the microscopic structures of butterfly wings to UNAH staff.
 The use of a field-compatible optical microscope (dino-lite) was also demonstrated and the two varieties of scales on the wing of the morpho didius butterfly – the transparent scales can be seen to overlay the blue scales on the surface of the wing-  were explored. We then investigated these structures using electron microscopy (the Helios FIB/SEM), looking at the structures on the surface of both the transparent and apparently blue scales under high magnification. This allowed us to see the expected “Christmas tree” structure on the blue scales, clearly seeing features smaller than 100 nm. 
 We also used a microtome to make a slice of a piece of butterfly wing which was then set in glue and studied this under the electron microscope. These sorts of imaging investigations are critical for understanding the photonic structures in butterfly wing scales and may lead to future developments in technology or environmental sensing.
@@ -66,8 +80,6 @@ También se utilizó un micrótomo para cortar un trozo de ala de mariposa, que 
 ![FieldTripSchedule](/assets/posts/9.23Micro1.jpg)
 
 ![FieldTripSchedule](/assets/posts/9.23Micro2.jpg)
-
-![FieldTripSchedule](/assets/posts/9.23Micro3.jpg)
 
 ![FieldTripSchedule](/assets/posts/9.23Micro4.jpg)
 
