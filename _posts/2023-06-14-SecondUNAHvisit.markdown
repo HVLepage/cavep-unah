@@ -97,22 +97,22 @@ Observamos una serie de especímenes de mariposa utilizando tres microscopios ó
 
 ![FieldTripSchedule](/assets/posts/9.23Micro1.jpg)
 
-At work in the microscopy suite, investigating the differential characteristics of scale morphology / Trabajando en la sala de microscopía, investigando las características diferenciales de la morfología de las escamas.
+Ing.T.Paytan looks at scale structure in those butterfly species considered to be of most immediate interest / Ing.T.Paytan observa la estructura de las escamas en las especies de mariposas consideradas de interés más inmediato.
 
 
 ![FieldTripSchedule](/assets/posts/9.23Micro2.jpg)
 
-At work in the microscopy suite, investigating the differential characteristics of scale morphology / Trabajando en la sala de microscopía, investigando las características diferenciales de la morfología de las escamas.
+In the microscopy suite, investigating the differential characteristics of scale morphology / En la sala de microscopía, investigando las características diferenciales de la morfología de las escamas.
 
 
 ![FieldTripSchedule](/assets/posts/9.23Micro4.jpg)
 
-At work in the microscopy suite, investigating the differential characteristics of scale morphology / Trabajando en la sala de microscopía, investigando las características diferenciales de la morfología de las escamas.
+In the microscopy suite, investigating the differential characteristics of scale morphology / En la sala de microscopía, investigando las características diferenciales de la morfología de las escamas.
 
 
 ![FieldTripSchedule](/assets/posts/9.23Micro5.jpg)
 
-At work in the microscopy suite, investigating the differential characteristics of scale morphology / Trabajando en la sala de microscopía, investigando las características diferenciales de la morfología de las escamas.
+In the microscopy suite, investigating the differential characteristics of scale morphology / En la sala de microscopía, investigando las características diferenciales de la morfología de las escamas.
 
 
 ![FieldTripSchedule](/assets/posts/9.23Micro6.jpg)
@@ -196,9 +196,17 @@ Los visitantes de la UNAH hicieron una excursión de un día a Londres para visi
 
 ![FieldTripSchedule](/assets/posts/9.23Museum1.JPG)
 
+An exhibit of an early powerful computer with the same capabilities as a mobile phone today / Exposición de un de los primeros ordenadores poderosos con las mismas capacidades que un celular de hoy.
+
+
 ![FieldTripSchedule](/assets/posts/9.23Museum2.JPG)
 
+Beside an original enigma decoding machine from WWII / Junto a un descodificador enigma original de la Segunda Guerra Mundial.
+
+
 ![FieldTripSchedule](/assets/posts/9.23Museum3.JPG)
+
+Visiting the interactive section of the museum / Visita a la sección interactiva del museo.
 
 
 ## UNAH Presentations
@@ -209,7 +217,15 @@ Se invitó a los tres visitantes de la UNAH a realizar breves presentaciones sob
 
 ![FieldTripSchedule](/assets/posts/9.23Talk1.JPG)
 
+Ing.T.Paytan makes his presentation / Ing.T.Paytan hace su presentación.
+
+
 ![FieldTripSchedule](/assets/posts/9.23Talk2.JPG)
 
+Ing.A.Cardenas makes her presentation / Ing.A.Cardenas hace su presentación.
+
+
 ![FieldTripSchedule](/assets/posts/9.23Talk3.JPG)
+
+Members of the UCAM / UNAH research teams / Miembros de los equipos de investigación de la UCAM y la UNAH.
 
