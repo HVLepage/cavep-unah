@@ -148,6 +148,6 @@ UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su 
 ![FieldTripSchedule](/assets/posts/9.23Remote2.jpg)
 
 
-![FieldTripSchedule](/assets/posts/9.23Remote3.jpg)
+![FieldTripSchedule](/assets/posts/9.23Remote3.png)
 
 
