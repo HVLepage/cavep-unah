@@ -102,7 +102,7 @@ The first training consisted of demonstrating how to fabricate gold sample holde
 2.	Explanation of the identification of iron components in soil samples by using a magnetometer:
 The visitors were instructed how to identify the iron composition in soil samples by using a Magnetic Property Measurement System (MPMS-SQUID) magnetometer from Quantum Device Inc. The iron components in soils and sediments are not easily identifiable by other techniques, such as X-ray Diffraction (XRD) since they usually constitute less than 3% of the total component. However, these components can be identified through their magnetic behaviour by using a Superconducting Quantum Interference Device (SQUID) sensor in a magnetometer.
 
-3.Measuring major chemical composition by EDX of sediments from the water treatment station located in Luricocha:
+3. Measuring major chemical composition by EDX of sediments from the water treatment station located in Luricocha:
 The visitors were taught how to identify the major chemical composition of sediments by using an Energy Dispersive X-ray (EDX) spectrometer. Some sediment samples had been collected from a water treatment station located in Luricocha, and they were placed in a Helious Microscope equipped with an Oxford X-Max sensor device. The measurements showed that the major elemental composition of the samples were Si, Al, Ca, Na and O, corresponding to aluminium-silicates which are typical of sediments and sands. 
 
 ## Sedimentos con Luis de los Santos Valladares
@@ -114,7 +114,7 @@ La primera formación consistió en demostrar cómo fabricar portamuestras de or
 2.	Explicación de la identificación de los componentes de hierro en muestras de suelo mediante el uso de un magnetómetro:
 Los visitantes recibieron instrucciones sobre cómo identificar la composición de hierro en muestras de suelo utilizando un magnetómetro del Sistema de Medición de Propiedades Magnéticas (MPMS-SQUID) de Quantum Device Inc. Los componentes de hierro en suelos y sedimentos no son fácilmente identificables mediante otras técnicas, como la difracción de rayos X (DRX), ya que suelen constituir menos del 3% del componente total. Sin embargo, estos componentes pueden identificarse a través de su comportamiento magnético utilizando un sensor SQUID (Superconducting Quantum Interference Device) en un magnetómetro.
 
-3.Medición de la composición química mayoritaria por EDX de los sedimentos de la estación de tratamiento de aguas ubicada en Luricocha:
+3. Medición de la composición química mayoritaria por EDX de los sedimentos de la estación de tratamiento de aguas ubicada en Luricocha:
 Se enseñó a los visitantes a identificar la composición química mayor de los sedimentos utilizando un espectrómetro de rayos X de energía dispersiva (EDX). Se recogieron algunas muestras de sedimentos de una estación de tratamiento de aguas situada en Luricocha, y se colocaron en un microscopio Helious equipado con un dispositivo sensor Oxford X-Max. Las mediciones mostraron que la composición elemental mayoritaria de las muestras era Si, Al, Ca, Na y O, correspondientes a silicatos de aluminio típicos de sedimentos y arenas. 
 
 ![FieldTripSchedule](/assets/posts/9.23Soils1.jpg)
@@ -127,20 +127,26 @@ Se enseñó a los visitantes a identificar la composición química mayor de los
 ## Remote Sensing with Hugo Lepage
 The visitors started their introduction to remote sensing by successfully obtaining their UK flyers license for small UAVs. This involved learning the UK rules and regulations by taking a theory test produced by the Civil Aviation Authority (CAA). This license is required in the UK, but not in Peru. However, it is still valuable to have such a license since the laws in Peru are almost the same as in the UK.
 
-We then planned a mission using the DJI Pilot app and went outside to fly the drone in a test case.
-This flight plan was executed in a field just outside the Cavendish Laboratory. They were all able to  practice with the manual flight mode before running the automated mission.
+We then planned a mission using the DJI Pilot app and went outside to fly the drone in a test case. This flight plan was executed in a field just outside the Cavendish Laboratory. They were all able to  practice with the manual flight mode before running the automated mission.
 
 We used WebODM to extract all the pictures from the test mission and used them to create a GeoTIFF map of the area. Using WebODM, we were able to get preliminary data on plant health and elevations in the field. In this example, the field is very flat and the vegetation is uniform, but in previous missions in Peru, we saw that this often isn’t always the case.
 
 We then spent time coding a python notebook in Google Colab to download, extract and analyse data from the Sentinel-2 satellite and using Google Earth Engine as our interface between the raw satellite data and our code. We used Google Maps to trace out regions of interest (bofedales, different fields, urban areas, etc.) and imported these into our code. Using vegetation and water indices, we created histograms and scatter plots for the different traced areas and compared their evolution in time. Each of the UNAH visitors now has a working copy of the code used in the tutorial.
 
 ## Teledetección con Hugo Lepage
+Los visitantes comenzaron su introducción a la teledetección obteniendo con éxito su licencia británica de piloto de pequeños vehículos aéreos no tripulados. Para ello tuvieron que aprender las normas y reglamentos del Reino Unido realizando un examen teórico elaborado por la Autoridad de Aviación Civil (CAA). Esta licencia es necesaria en el Reino Unido, pero no en Perú. Sin embargo, sigue siendo valioso tener una licencia de este tipo ya que las leyes en Perú son casi las mismas que en el Reino Unido.
 
+A continuación, planificamos una misión con la aplicación DJI Pilot y salimos a volar el dron en un caso de prueba. Este plan de vuelo se ejecutó en un campo a las afueras del Laboratorio Cavendish. Todos pudieron practicar con el modo de vuelo manual antes de ejecutar la misión automatizada.
+
+Utilizamos WebODM para extraer todas las imágenes de la misión de prueba y las utilizamos para crear un mapa GeoTIFF de la zona. Gracias a WebODM, pudimos obtener datos preliminares sobre la salud de las plantas y las elevaciones del terreno. En este ejemplo, el campo es muy llano y la vegetación es uniforme, pero en misiones anteriores en Perú vimos que esto no siempre es así.
+
+A continuación, nos dedicamos a codificar un cuaderno python en Google Colab para descargar, extraer y analizar datos del satélite Sentinel-2 y a utilizar Google Earth Engine como interfaz entre los datos brutos del satélite y nuestro código. Utilizamos Google Maps para trazar regiones de interés (bofedales, distintos campos, zonas urbanas, etc.) e importarlas a nuestro código. Utilizando índices de vegetación y agua, creamos histogramas y gráficos de dispersión para las distintas zonas trazadas y comparamos su evolución en el tiempo. Cada uno de los visitantes de la UNAH dispone ahora de una copia de trabajo del código utilizado en el tutorial.
 
 ![FieldTripSchedule](/assets/posts/9.23Remote1.jpg)
 UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su "licencias de pilotos" de drones.
 
 ![FieldTripSchedule](/assets/posts/9.23Remote2.jpg)
+
 
 ![FieldTripSchedule](/assets/posts/9.23Remote3.jpg)
 
