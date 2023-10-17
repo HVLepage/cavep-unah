@@ -53,29 +53,34 @@ Por la tarde, se visitó el Trinity Science Park, en las afueras de Cambridge, p
 ![FieldTripSchedule](/assets/posts/9.23Fens4.jpg)
 
 
-## Nature’s microstructures
-The UNAH visitors were introduced by Peter Newton, Oliver Basquette and Eustace Barnes to the work being undertaken into naturally occurring micro- and meso-structures, specifically those structures found in butterflies and moths. There is a wide variety of research interestin the value of both the structural and functional attributes of microstructures. These range from the use of colours to their applications in sensors. 
+## Nature’s microstructures with Peter Newton, Oliver Basquette and Eustace Barnes 
+The UCAM rseearchers presented the work being undertaken into naturally occurring micro- and meso-structures, specifically those structures found in butterflies and moths. There is a wide variety of research interestin the value of both the structural and functional attributes of microstructures. These range from the use of colours to their applications in sensors. 
 
 During field trips in the districts of Huanta and La Mar, butterfly specimens have been collected in the humid subtropics, where diversity is high, for investigation in the UCAM laboratories.
 
-The UCAM rseearchers discussed the general motivation for the research and introduced some recent work that has been performed. In particular, the physics of structural colour was discussed, focusing on interference in light, along with reflection and scattering phenomena. Simulation techniques of “Christmas tree” like structures using the software package MEEP were inrtroduced.
+The UCAM researchers discussed the general motivation for the research and introduced some recent work that has been performed. In particular, the physics of structural colour was discussed, focusing on interference in light, along with reflection and scattering phenomena. Simulation techniques of “Christmas tree” like structures using the software package MEEP were inrtroduced.
 
 The UCAM research involves a number of studies: 
 1) understanding butterfly diversity in a poorly known region;
 2) variation in meso- and micro-structures and their correlation with humidity and elevational gradients;
 3) developing an understanding of microstructure function. 
 
-We looked at a range of butterfly specimens using three optical microscopes – two portable USB Dino-lite microscopes and a Kern laboratory microscope. Using these it was possible to observe variations in the overall shape and colour of scales on the wings of the butterfly specimens. Such investigations allow us to determine which samples might be most interesting to investigate using more time intensive electron microscopy processes. Remarkable variations can be observed in scale morphology both within and between individual species.
+We looked at a range of butterfly specimens using three optical microscopes – two portable USB Dino-lite microscopes and a Kern laboratory microscope. Using these it was possible to observe variations in the overall shape and colour of scales on the wings of the butterfly specimens. Such investigations allow us to determine which samples might be most interesting to investigate using more time intensive electron microscopy (Helios FIB/SEM) processes. Remarkable variations can be observed in scale morphology both within and between individual species.
 
 
-The UNAH visitors and P.Newton & E.Barnes from UCAM, used both optical microscopy (in the Wet lab.) and electron microscopy (in the Cavendish microscopy suite) to demonstrate the microscopic structures of butterfly wings to UNAH staff.
-The use of a field-compatible optical microscope (dino-lite) was also demonstrated and the two varieties of scales on the wing of the morpho didius butterfly – the transparent scales can be seen to overlay the blue scales on the surface of the wing-  were explored. We then investigated these structures using electron microscopy (the Helios FIB/SEM), looking at the structures on the surface of both the transparent and apparently blue scales under high magnification. This allowed us to see the expected “Christmas tree” structure on the blue scales, clearly seeing features smaller than 100 nm. 
-We also used a microtome to make a slice of a piece of butterfly wing which was then set in glue and studied this under the electron microscope. These sorts of imaging investigations are critical for understanding the photonic structures in butterfly wing scales and may lead to future developments in technology or environmental sensing.
+## Microestructuras de la naturaleza con Peter Newton, Oliver Basquette y Eustace Barnes
+Los investigadores de la UCAM presentaron a los visitantes de la UNAH los trabajos sobre microestructuras y mesoestructuras naturales, en particular las de mariposas y polillas. Hay una gran variedad de investigaciones interesadas en el valor de los atributos estructurales y funcionales de las microestructuras. Desde el uso de colores hasta sus aplicaciones en sensores. 
 
-## Microestructuras de la naturaleza
-Los visitantes de la UNAH y P. Newton y E. Barnes de la UCAM utilizaron microscopía óptica (en el laboratorio Wet) y microscopía electrónica (en la sala de microscopía Cavendish) para demostrar al personal de la UNAH las estructuras microscópicas de las alas de las mariposas.
-También se demostró el uso de un microscopio óptico compatible con el campo (dino-lite) y se exploraron las dos variedades de escamas del ala de la mariposa morpho didius -las escamas transparentes pueden verse superpuestas a las escamas azules de la superficie del ala-. A continuación, investigamos estas estructuras mediante microscopía electrónica (el Helios FIB/SEM), observando las estructuras de la superficie tanto de las escamas transparentes como de las aparentemente azules con gran aumento. Esto nos permitió ver la esperada estructura de "árbol de Navidad" en las escamas azules, viendo claramente características menores de 100 nm. 
-También se utilizó un micrótomo para cortar un trozo de ala de mariposa, que se fijó con pegamento y se estudió al microscopio electrónico. Este tipo de investigaciones son fundamentales para comprender las estructuras fotónicas de las escamas de las alas de las mariposas y pueden dar lugar a futuros desarrollos tecnológicos o de detección medioambiental.
+Durante los viajes de campo en los distritos de Huanta y La Mar, se han recolectado especímenes de mariposas en los subtrópicos húmedos, donde la diversidad es alta, para su investigación en los laboratorios de la UCAM.
+
+Los investigadores de la UCAM explicaron la motivación general de la investigación y presentaron algunos trabajos recientes que se han realizado. En particular, se explicó la física del color estructural, centrándose en la interferencia de la luz, junto con los fenómenos de reflexión y dispersión. Se presentaron técnicas de simulación de estructuras similares a un "árbol de Navidad" utilizando el programa informático MEEP.
+
+La investigación de la UCAM incluye varios estudios: 
+1) comprensión de la diversidad de mariposas en una región poco conocida;
+2) la variación de las mesoestructuras y microestructuras y su correlación con la humedad y los gradientes de altitud;
+3) el desarrollo de una comprensión de la función de las microestructuras. 
+
+Observamos una serie de especímenes de mariposa utilizando tres microscopios ópticos: dos microscopios portátiles USB Dino-lite y un microscopio de laboratorio Kern. Con ellos pudimos observar variaciones en la forma general y el color de las escamas de las alas de las mariposas. Estas investigaciones nos permiten determinar qué muestras podrían ser más interesantes para investigar mediante procesos de microscopía electrónica (Helios FIB/SEM) que requieren más tiempo. Se observan notables variaciones en la morfología de las escamas tanto dentro de una misma especie como entre distintas especies.
 
 ![FieldTripSchedule](/assets/posts/9.23Micro1.jpg)
 
