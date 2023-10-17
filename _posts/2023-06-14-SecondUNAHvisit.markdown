@@ -93,3 +93,28 @@ Observamos una serie de especímenes de mariposa utilizando tres microscopios ó
 ![FieldTripSchedule](/assets/posts/9.23Micro6.jpg)
 
 
+## Sediments with Luis de los Santos Valladares
+
+
+Three researchers from the University of Huanta, Peru were trained over three days to obtain information from the major chemical elements contained in sediment from the river bed and banks of the rio Cachi and three of its tributaries: rio Opanaccay, Huanta and Huamanguilla-Iguian. The samples were collected during the field visit in March 2023.
+On the first day, the visitors were introduced to the equipment in the Cavendish laboratory for analysing inorganic samples (See photo A. below). It is important when using such sensitive equipment to place emphasis on the condition of the atmosphere and temperature of the samples.
+
+On the second day, the researchers were introduced to the techniques for analysing the sediment samples. In Figure B. the researchers were introduced to analysing the iron/iron-oxide components in the sediment samples from their magnetic behaviour (See photo B. below). Every training session was followed by discussions and questions to ensure the researchers had understood the explanations.
+
+The third day was devoted to hands on activities in the lab. The researchers were trained in handling the samples, placing them in the sample holder and using the equipment. Photo C. below shows the research visitors preparing the samples and mounting them in the holder sample. Photo D. below shows the researchers training in using the equipment. The major chemical composition of the samples were obtained by energy dispersive X ray (EDX) spectroscopy. The results showed that the main elemental composition of the samples were Si, Al, Ca, Na and O, corresponding with deposits of aluminium-silicates which are typical of sediments and sands.
+
+## Sedimentos 
+Tres investigadores de la Universidad de Huanta fueron capacitados durante tres días para obtener información de los principales elementos químicos contenidos en sedimentos del lecho y riberas del río Cachi y tres de sus afluentes: río Opanaccay, Huanta y Huamanguilla-Iguian. Las muestras fueron recogidas durante la visita de campo en marzo de 2023.
+El primer día, los visitantes fueron introducidos a los equipos del laboratorio Cavendish para el análisis de muestras inorgánicas (Ver foto A. abajo). Es importante, cuando se utiliza un equipo tan sensible, hacer hincapié en el estado de la atmósfera y la temperatura de las muestras.
+
+El segundo día, los investigadores se familiarizaron con las técnicas de análisis de las muestras de sedimentos. En la figura B., los investigadores aprendieron a analizar los componentes de hierro y óxido de hierro de las muestras de sedimentos a partir de su comportamiento magnético. Cada sesión de formación iba seguida de debates y preguntas para asegurarse de que los investigadores habían entendido las explicaciones.
+
+El tercer día se dedicó a actividades prácticas en el laboratorio. Se enseñó a los investigadores a manipular las muestras, colocarlas en el portamuestras y utilizar el equipo. La foto C. muestra a los investigadores visitantes preparando las muestras y colocándolas en el portamuestras. La foto D. muestra la formación de los investigadores en el uso del equipo. La composición química principal de las muestras se obtuvo mediante espectroscopia de dispersión de energía de rayos X (EDX). Los resultados mostraron que la composición elemental principal de las muestras era Si, Al, Ca, Na y O, correspondiendo con depósitos de aluminio-silicatos que son típicos de sedimentos y arenas.
+
+![FieldTripSchedule](/assets/posts/9.23Soils1.jpg)
+
+![FieldTripSchedule](/assets/posts/9.23Soils2.jpg)
+
+![FieldTripSchedule](/assets/posts/9.23Soils3.jpg)
+
+
