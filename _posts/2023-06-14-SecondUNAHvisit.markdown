@@ -20,22 +20,37 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 ## Bioacoustics & Biodiversity – field visit to Monks Wood, Woodwalton Fen & Ouse Washes with E.Barnes
 This day was aimed at visiting two National Nature Reserves: Monks Wood and Woodwalton Fen, where environmental research is advancing rapidly. At both sites there are research centres where environmental investigations are being undertaken.
 
-At Monks Wood investigations are looking into the impacts of climate change on vegetation dynamics, species diversity and the spread of disease in natural systems. In particular, investigations are looking at newly arrived insects from Europe, changes in species composition in avifauna and lepidoptera, and Ash die-back and its connection to climate change. 
+At Monks Wood investigations are looking into the impacts of climate change on vegetation dynamics, species diversity and the spread of disease in natural systems. In particular, investigations are looking at newly arrived insect species from Europe, changes in species composition in avifauna and lepidoptera, and Ash die-back and its connection to climate change. 
 
 One component of the UCAM agreement with UNAH involves the development and use of bioacoustics in environmental assessments. At Monks Wood NNR we looked at some of the equipment being used to develop these new methods for generating environmental data and making assessments of environmental quality and change. This included practising with directional and omnidirectional microphone systems in combination with digital recorders. UNAH staff were required to deploy microphones in the vicinity of birdsong and record it. 
 
 At Woodwalton Fen NNR investigations are providing data demonstrating the importance of peatlands for carbon capture and water resource management. The concrete support posts of the research centre have marks which show the drop in soil level and a series of floods affecting the area since 1950. This Fen and many others in the area are part of the Great Fenland project. A project designed to restore a small area of the once vast Fenlands to contribute to mitigating the impacts of climate change and assist with the management of water resources.   
 
-The Ouse Washes have been completely reclaimed from the sea since medieval times. The impact of agricultural practices on soil erosion, falling land levels and the loss of soil fertility - much of the Fens lie below sea-level - were clearly observed.
+At the Ouse Washes the UNAH visitors saw a vast flat area of farmland that was completely reclaimed from the sea in medieval times - much of the Fens lie below sea-level today. However, modern agricultural practices have lead to increasing amounts of soil erosion, falling land levels and the loss of soil fertility, all of which were clearly observed.
 
 In the afternoon, a visit was made to the Trinity Science Park, on the outskirts of Cambridge, to demonstrate the connection between scientific research, technological advance and economic development. 
 
 
-## Bioacústica y biodiversidad: visita sobre el terreno a Monks Wood, Woodwalton Fen y Ouse Washes
+## Bioacústica y biodiversidad: visita al campo a Monks Wood, Woodwalton Fen y los Ouse Washes
+Esta jornada tenía por objeto visitar dos Reservas Naturales Nacionales: Monks Wood y Woodwalton Fen, donde la investigación medioambiental avanza rápidamente. En ambos sitios hay centros de investigación donde se llevan a cabo investigaciones medioambientales.
 
+En Monks Wood se investigan los efectos del cambio climático en la dinámica de la vegetación, la diversidad de especies y la propagación de enfermedades en los sistemas naturales. En particular, se estudian los nuevos especies de insectos recién llegados de Europa, los cambios en la composición de especies de avifauna y lepidópteros, y la muerte de los fresnos y su relación con el cambio climático. 
 
+Uno de los componentes del acuerdo de la UCAM con la UNAH implica el desarrollo y uso de la bioacústica en las evaluaciones medioambientales. En el RNN de Monks Wood examinamos algunos de los equipos que se utilizan para desarrollar estos nuevos métodos de generación de datos medioambientales y de evaluación de la calidad y los cambios medioambientales. Esto incluyó prácticas con sistemas de micrófonos direccionales y omnidireccionales en combinación con grabadoras digitales. El personal de la UNAH tuvo que colocar micrófonos cerca del canto de los pájaros y grabarlo. 
+
+En el RNN de Woodwalton Fen las investigaciones están aportando datos que demuestran la importancia de las turberas para la captura de carbono y la gestión de los recursos hídricos. Los postes de hormigón del centro de investigación tienen marcas que muestran el descenso del nivel de la tierra y una serie de inundaciones que han afectado a la zona desde los 1950s. Este Fen y muchos otros de la zona forman parte del proyecto Great Fenland. Un proyecto destinado a restaurar una pequeña zona de los antaño vastos Fenlands para contribuir a mitigar los efectos del cambio climático y ayudar a la gestión de los recursos hídricos.   
+
+En un area que se llama los Ouse Washes, los visitantes de la UNAH vieron una zona enorme llana de cultivos reclamada completamente del mar en la época medieval: gran parte de los Fens se encuentran hoy por debajo del nivel del mar. Sin embargo, las prácticas agrícolas modernas han provocado un aumento de la erosión del suelo, el descenso del nivel de la tierra y la pérdida de fertilidad del suelo, todos ellos claramente observados.
 
 Por la tarde, se visitó el Trinity Science Park, en las afueras de Cambridge, para demostrar la conexión entre investigación científica, avance tecnológico y desarrollo económico.
 
-
 ![FieldTripSchedule](/assets/posts/9.23Fens1.jpg)
+
+![FieldTripSchedule](/assets/posts/9.23Fens2.jpg)
+
+![FieldTripSchedule](/assets/posts/9.23Fens3.jpg)
+
+![FieldTripSchedule](/assets/posts/9.23Fens4.jpg)
+
+
+
