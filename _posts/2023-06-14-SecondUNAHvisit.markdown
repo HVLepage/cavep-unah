@@ -146,9 +146,14 @@ Se enseñó a los visitantes a identificar la composición química mayor de los
 
 ![FieldTripSchedule](/assets/posts/9.23Soils1.jpg)
 
+UNAH visitors receive training in the use of a MPMS magnometer to identify iron components in the sediment samples / UNAH visitantes reciben formación sobre el uso de un magnetómetro MPMS para identificar componentes de hierro en muestras de sedimentos.
+
+
 ![FieldTripSchedule](/assets/posts/9.23Soils2.jpg)
 
 ![FieldTripSchedule](/assets/posts/9.23Soils3.jpg)
+
+UNAH visitors receive an explanation about the fabrication of gold substrates for Raman Spectroscopy measurements of sediment samples / UNAH visitantes reciben una explicación sobre la fabricación de sustratos de oro para mediciones de Espectroscopía Raman de muestras de sedimentos.
 
 
 ## Remote Sensing with Hugo Lepage
@@ -172,9 +177,15 @@ A continuación, nos dedicamos a codificar un cuaderno python en Google Colab pa
 ![FieldTripSchedule](/assets/posts/9.23Remote1.jpg)
 UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su "licencias de pilotos" de drones.
 
+
 ![FieldTripSchedule](/assets/posts/9.23Remote2.jpg)
 
+UNAH visitors fly drone missions outside the Cavendish Laboratory / Visitantes de la UNAH vuelan misiones con drones fuera del Laboratorio Cavendish.
+
+
 ![FieldTripSchedule](/assets/posts/9.23Remote3.png)
+
+The image generated of the field using WebODM based on preliminary data on plant health and elevations shows that the field is very flat and the vegetation is uniform / La imagen generada del campo mediante WebODM a partir de los datos preliminares sobre la salud de las plantas y las elevaciones muestra que el campo es muy llano y la vegetación es uniforme .
 
 
 ## Visit to the Veterinary School of the University of Cambridge with Luis de los Santos Valladares
@@ -185,7 +196,12 @@ Constanza Toro Valdivieso, de la Facultad de Veterinaria de la Universidad, tuvo
 
 ![FieldTripSchedule](/assets/posts/9.23Vet1.jpg)
 
+The UNAH visitors arrive for their visit to the Veterinary School of the University of Cambridge / Los visitantes de la UNAH llegan para su visita a la Facultad de Veterinaria de la Universidad de Cambridge.
+
+
 ![FieldTripSchedule](/assets/posts/9.23Vet2.jpg)
+
+Constanza Toro Valdivieso shows the UNAH visitors around the Veterinary School of the University of Cambridge / Constanza Toro Valdivieso muestra a los UNAH visitantes la Facultad de Veterinaria de la Universidad de Cambridge.
 
 
 ## London Science Museum visit with John Forrest
