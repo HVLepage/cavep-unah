@@ -17,7 +17,7 @@ El 12 de septiembre tres miembros del personal de la UNAH - Dr Juvenal Castromon
 Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Trip Schedule'.
 
 
-## Bioacoustics & Biodiversity – field visit to Monks Wood, Woodwalton Fen & Ouse Washes with E.Barnes
+## Bioacoustics & Biodiversity – field visit to Monks Wood, Woodwalton Fen & Ouse Washes with Eustace Barnes
 This day was aimed at visiting two National Nature Reserves: Monks Wood and Woodwalton Fen, where environmental research is advancing rapidly. At both sites there are research centres where environmental investigations are being undertaken.
 
 At Monks Wood investigations are looking into the impacts of climate change on vegetation dynamics, species diversity and the spread of disease in natural systems. In particular, investigations are looking at newly arrived insect species from Europe, changes in species composition in avifauna and lepidoptera, and Ash die-back and its connection to climate change. 
@@ -31,7 +31,7 @@ At the Ouse Washes the UNAH visitors saw a vast flat area of farmland that was c
 In the afternoon, a visit was made to the Trinity Science Park, on the outskirts of Cambridge, to demonstrate the connection between scientific research, technological advance and economic development. 
 
 
-## Bioacústica y biodiversidad: visita al campo a Monks Wood, Woodwalton Fen y los Ouse Washes
+## Bioacústica y biodiversidad: visita al campo a Monks Wood, Woodwalton Fen y los Ouse Washes con Eustace Barnes
 Esta jornada tenía por objeto visitar dos Reservas Naturales Nacionales: Monks Wood y Woodwalton Fen, donde la investigación medioambiental avanza rápidamente. En ambos sitios hay centros de investigación donde se llevan a cabo investigaciones medioambientales.
 
 En Monks Wood se investigan los efectos del cambio climático en la dinámica de la vegetación, la diversidad de especies y la propagación de enfermedades en los sistemas naturales. En particular, se estudian los nuevos especies de insectos recién llegados de Europa, los cambios en la composición de especies de avifauna y lepidópteros, y la muerte de los fresnos y su relación con el cambio climático. 
@@ -150,4 +150,28 @@ UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su 
 
 ![FieldTripSchedule](/assets/posts/9.23Remote3.png)
 
+
+## Visit to Vetinaray with Luis de los Santos Valladares
+
+![FieldTripSchedule](/assets/posts/9.23Vet1.jpg)
+
+![FieldTripSchedule](/assets/posts/9.23Vet2.jpg)
+
+
+## London Science Museum visit with John Forrest
+
+![FieldTripSchedule](/assets/posts/9.23Museum1.JPG)
+
+![FieldTripSchedule](/assets/posts/9.23Museum2.JPG)
+
+![FieldTripSchedule](/assets/posts/9.23Museum3.JPG)
+
+
+## UNAH Presentations
+
+![FieldTripSchedule](/assets/posts/9.23Talk1.JPG)
+
+![FieldTripSchedule](/assets/posts/9.23Talk2.JPG)
+
+![FieldTripSchedule](/assets/posts/9.23Talk3.JPG)
 
