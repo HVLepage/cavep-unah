@@ -45,13 +45,16 @@ En un area que se llama los Ouse Washes, los visitantes de la UNAH vieron una zo
 Por la tarde, se visitó el Trinity Science Park, en las afueras de Cambridge, para demostrar la conexión entre investigación científica, avance tecnológico y desarrollo económico.
 
 ![FieldTripSchedule](/assets/posts/9.23Fens1.jpg)
+The entrance to the Monks Wood NNR / La entrada al RNN de Monks Wood.
 
 ![FieldTripSchedule](/assets/posts/9.23Fens2.jpg)
+Monks Wood NNR: demonstrating the use of equipment in the field for bioacoustic research / RNN de Monks Wood:  demostración del uso de equipos de campo para su utilización en investigaciones de bioacústica.
 
 ![FieldTripSchedule](/assets/posts/9.23Fens3.jpg)
+Monks Wood NNR: demonstrating the use of equipment in the field for bioacoustic research / RNN de Monks Wood:  demostración del uso de equipos de campo para su utilización en investigaciones de bioacústica.
 
 ![FieldTripSchedule](/assets/posts/9.23Fens4.jpg)
-
+Walking on an embankment beside a drainage canal in the Ouse Washes / Caminando encima de un dique junto a un canal de drenaje en los Ouse Washes.
 
 ## Nature’s microstructures with Peter Newton, Oliver Basquette and Eustace Barnes 
 The UCAM rseearchers presented the work being undertaken into naturally occurring micro- and meso-structures, specifically those structures found in butterflies and moths. There is a wide variety of research interestin the value of both the structural and functional attributes of microstructures. These range from the use of colours to their applications in sensors. 
