@@ -124,3 +124,24 @@ Se enseñó a los visitantes a identificar la composición química mayor de los
 ![FieldTripSchedule](/assets/posts/9.23Soils3.jpg)
 
 
+## Remote Sensing with Hugo Lepage
+The visitors started their introduction to remote sensing by successfully obtaining their UK flyers license for small UAVs. This involved learning the UK rules and regulations by taking a theory test produced by the Civil Aviation Authority (CAA). This license is required in the UK, but not in Peru. However, it is still valuable to have such a license since the laws in Peru are almost the same as in the UK.
+
+We then planned a mission using the DJI Pilot app and went outside to fly the drone in a test case.
+This flight plan was executed in a field just outside the Cavendish Laboratory. They were all able to  practice with the manual flight mode before running the automated mission.
+
+We used WebODM to extract all the pictures from the test mission and used them to create a GeoTIFF map of the area. Using WebODM, we were able to get preliminary data on plant health and elevations in the field. In this example, the field is very flat and the vegetation is uniform, but in previous missions in Peru, we saw that this often isn’t always the case.
+
+We then spent time coding a python notebook in Google Colab to download, extract and analyse data from the Sentinel-2 satellite and using Google Earth Engine as our interface between the raw satellite data and our code. We used Google Maps to trace out regions of interest (bofedales, different fields, urban areas, etc.) and imported these into our code. Using vegetation and water indices, we created histograms and scatter plots for the different traced areas and compared their evolution in time. Each of the UNAH visitors now has a working copy of the code used in the tutorial.
+
+## Teledetección con Hugo Lepage
+
+
+![FieldTripSchedule](/assets/posts/9.23Remote1.jpg)
+UNAH visitors with their drone 'pilots licenses' / Visitantes de la UNAH con su "licencias de pilotos" de drones.
+
+![FieldTripSchedule](/assets/posts/9.23Remote2.jpg)
+
+![FieldTripSchedule](/assets/posts/9.23Remote3.jpg)
+
+
