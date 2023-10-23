@@ -22,3 +22,11 @@ The formal risk assessment forms will be completed during the next few weeks by 
 2.- Workshop about collection and first treatment of soil/sediment samples.
 A visit as made to the Huaper lake with UNAH staff and students to demonstrate the procedure for the collection of soil/sediment samples. Approximately 0.5 kg of soil/sediment was collected from 17 points inside the perimeter of the lake impacted area by the students. The samples were numbered 0, 1, 2,…, 15 and centre. Each sample was collected by groups of four to five students. Some initial observations during the collection of the samples were prepared by the students.
 
+![June2023Fieldwork](/assets/posts/7.23LSV.jpg)
+
+![June2023Fieldwork](/assets/posts/7.23LSV1.jpg)
+
+![June2023Fieldwork](/assets/posts/7.23LSV2.jpg)
+
+![June2023Fieldwork](/assets/posts/7.23LSV3jpg)
+
