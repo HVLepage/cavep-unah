@@ -28,6 +28,24 @@ A visit as made to the Huaper lake with UNAH staff and students to demonstrate t
 The samples were taken to the laboratory of the National University of Huanta to receive their first treatment. In the laboratory, the samples were dried at 37 degrees Celcius to remove any organic matter and then inspected with an optical microscope.
 
 
+## Talleres UCAM
+
+El Dr. Luis De Los Santos Valladares impartió dos talleres durante su visita a la Universidad Nacional de Huanta, en julio de 2023. El primero abarcó la elaboración de evaluaciones de riesgo para todos los laboratorios y equipos de laboratorio y el segundo trató sobre la recolección y tratamiento de muestras de suelos/sedimentos. 
+
+## Taller de evaluación de riesgos
+
+-Día 1: El Dr. L.de Los Santos Valladares brindó una charla sobre las definiciones, importancia y procedimientos para la elaboración de evaluaciones de riesgos para la Universidad Nacional de Huanta. 
+
+-Día 2: el taller se dedicó a la preparación de evaluaciones de riesgo específicas para los laboratorios y equipos de los laboratorios de la Universidad Nacional de Huanta. Un formato de evaluación de riesgos fue presentado por el Dr. De Los Santos Valladares. El archivo original fue dejado al personal y estudiantes de la UNAH para su uso futuro.
+
+A continuación se realizaron visitas a algunos de los laboratorios de la UNAH con estudiantes y personal para rellenar formularios de evaluación de riesgos de muestra. Los formularios formales de evaluación de riesgos serán cumplimentados durante las próximas semanas por el personal de la UNAH encargado de cada laboratorio y de los equipos que contienen. Se presentarán en futuros informes.
+
+## Taller de recogida y primer tratamiento de muestras de suelo/sedimento
+Se realizó una visita al lago Huaper con docentes y estudiantes de la UNAH para demostrar el procedimiento de recogida de muestras de suelo/sedimento. Los estudiantes recogieron aproximadamente 0.5 kg de suelo/sedimento en 17 puntos dentro del perímetro de la zona afectada por el lago. Las muestras fueron recogidas por grupos de cuatro a cinco estudiantes y fueron codificadas. Durante la recogida de las muestras, los alumnos prepararon algunas observaciones iniciales mientras se encontraban en el lago.
+
+Las muestras fueron llevadas al laboratorio de la Universidad Nacional de Huanta para recibir su primer tratamiento. En el laboratorio, las muestras se secaron a 37 grados Celsius para eliminar cualquier materia orgánica y luego se inspeccionaron con un microscopio óptico.
+
+
 ![June2023Fieldwork](/assets/posts/7.23LSV.jpg)
 
 Poster advertising the Workshop activities presented by Dr. Luis De Los Santos Valladares at the UNAH.
