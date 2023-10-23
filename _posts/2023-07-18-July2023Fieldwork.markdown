@@ -16,7 +16,6 @@ Two workshops were given by Dr. Luis De Los Santos Valladares during a visit to 
 
 ## Risk assessment workshop
 
-1. Workshop about the preparation of the risk assessment for the laboratories and laboratory equipment -
 -Day 1: Dr. L.de Los Santos Valladares gave a talk about the definitions, importance and procedures for the preparation of risk assessments for the National University of Huanta. 
 
 -Day 2: the workshop was devoted to preparing specific risk assessments for the laboratories and equipment in the laboratories of the National University of Huanta. A risk assessment format was presented by Dr. De Los Santos Valladares. The original file was left with the UNAH staff and students for future use.
@@ -26,17 +25,17 @@ Visits were then made to some of the UNAH laboratories with students and staff t
 ## Collection and first treatment of soil/sediment samples workshop
 A visit as made to the Huaper lake with UNAH staff and students to demonstrate the procedure for the collection of soil/sediment samples. Approximately 0.5kg of soil/sediment was collected from 17 points inside the perimeter of the lake impacted area by the students. The samples were collected by groups of four to five students and were coded. Some initial observations during the collection of the samples were prepared by the students while at the lake site.
 
-The samples were taken to the laboratory of the National University of Huanta to receive their first treatment. In the laboratory, the samples were dried at 27 degrees Celcius and inspected with an optical microscope.
+The samples were taken to the laboratory of the National University of Huanta to receive their first treatment. In the laboratory, the samples were dried at 37 degrees Celcius and inspected with an optical microscope.
 
 
 ![June2023Fieldwork](/assets/posts/7.23LSV.jpg)
-
+Poster advertising the Workshop activities presented by Dr. Luis De Los Santos Valladares at the UNAH.
 
 ![June2023Fieldwork](/assets/posts/7.23LSV1.jpg)
-
+Collection of soil/sediment samples from the Waper lake - the samples were collected after the removal of the surface vegetation.
 
 ![June2023Fieldwork](/assets/posts/7.23LSV2.jpg)
+Collection of soil/sediment samples from the Waper lake - the samples were collected after the removal of the surface vegetation.
 
-
-![June2023Fieldwork](/assets/posts/7.23LSV3jpg)
-
+![June2023Fieldwork](/assets/posts/7.23LSV3.jpg)
+UNAH students inspect the soil/sediment samples through an optical microscope.
