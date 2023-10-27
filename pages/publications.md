@@ -49,17 +49,17 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ### Water / Agua 
-*Aylas-Quispe, A., et al. ["Evaluation of the Quality of Drinking Water and Rivers in the Mantaro Valley, Central Peru."](https://iopscience.iop.org/article/10.1088/1755-1315/943/1/012002/meta) IOP Conference Series: Earth and Environmental Science. Vol. 943. No. 1. IOP Publishing, 2021.
+* Aylas-Quispe, A., et al. ["Evaluation of the Quality of Drinking Water and Rivers in the Mantaro Valley, Central Peru."](https://iopscience.iop.org/article/10.1088/1755-1315/943/1/012002/meta) IOP Conference Series: Earth and Environmental Science. Vol. 943. No. 1. IOP Publishing, 2021.
 
-*Battista, Robert, et al. ["Assessing changing water quality in Peru due to glacial recession."](https://kb.osu.edu/handle/1811/59646) (2014).
+* Battista, Robert, et al. ["Assessing changing water quality in Peru due to glacial recession."](https://kb.osu.edu/handle/1811/59646) (2014).
 
-*Choque-Quispe, David, et al. ["Proposal of a water-quality index for high Andean basins: application to the Chumbao river, Andahuaylas, Peru."](https://www.mdpi.com/2073-4441/14/4/654) Water 14.4 (2022): 654.
+* Choque-Quispe, David, et al. ["Proposal of a water-quality index for high Andean basins: application to the Chumbao river, Andahuaylas, Peru."](https://www.mdpi.com/2073-4441/14/4/654) Water 14.4 (2022): 654.
 
-*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Multivariate assessment of water quality in the Utcubamba Basin (Peru)."](https://www.scielo.org.mx/scielo.php?pid=S2007-24222018000500033&script=sci_arttext&tlng=en) Tecnología y ciencias del agua 9.5 (2018): 33-57.
+* Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Multivariate assessment of water quality in the Utcubamba Basin (Peru)."](https://www.scielo.org.mx/scielo.php?pid=S2007-24222018000500033&script=sci_arttext&tlng=en) Tecnología y ciencias del agua 9.5 (2018): 33-57.
 
-*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Evaluación multivariante de la calidad del agua en la cuenca del Utcubamba (Perú)."](https://www.scielo.org.mx/scielo.php?pid=S2007-24222018000500033&script=sci_arttext) Tecnología y ciencias del agua 9.5 (2018): 33-57.
+* Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Evaluación multivariante de la calidad del agua en la cuenca del Utcubamba (Perú)."](https://www.scielo.org.mx/scielo.php?pid=S2007-24222018000500033&script=sci_arttext) Tecnología y ciencias del agua 9.5 (2018): 33-57.
 
-*Martinez, Rodrigo, Kevin M. Green, & Amielle DeWan. ["Establishing reciprocal agreements for water and biodiversity conservation through a social marketing campaign in Quanda Watershed, Peru."](https://www.changewildlifeconsumers.org/site/assets/files/1358/2013-martinez-et-al_water-and-biodiversity-conservation-5193.pdf) Conservation Evidence 10 (2013): 42-47.
+* Martinez, Rodrigo, Kevin M. Green, & Amielle DeWan. ["Establishing reciprocal agreements for water and biodiversity conservation through a social marketing campaign in Quanda Watershed, Peru."](https://www.changewildlifeconsumers.org/site/assets/files/1358/2013-martinez-et-al_water-and-biodiversity-conservation-5193.pdf) Conservation Evidence 10 (2013): 42-47.
 
 
 ### Soils / Suelos
@@ -72,11 +72,11 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ### Bofedales / Bofedales
-*Garcia Dulanto, Jorge Luis. ["Implementación de una metodología para la identificación de bofedales usando datos imágenes satelitales Landsat-caso estudio: bofedal Chunal, cuenca alta del río Chillón."](https://cybertesis.unmsm.edu.pe/handle/20.500.12672/10446) Tesis, Universidad Nacional Mayor de San Marcos (2018).
+* Garcia Dulanto, Jorge Luis. ["Implementación de una metodología para la identificación de bofedales usando datos imágenes satelitales Landsat-caso estudio: bofedal Chunal, cuenca alta del río Chillón."](https://cybertesis.unmsm.edu.pe/handle/20.500.12672/10446) Tesis, Universidad Nacional Mayor de San Marcos (2018).
 
-*Ñahui Martinez, Elvis. ["Comportamiento y Estrategias de Conservación del Recurso Hídrico de Bofedales en Callqui Chico, Huancavelica-2021."](https://repositorio.unh.edu.pe/handle/UNH/4070) Tesis, Universidad de Huancavelica (2021).
+* Ñahui Martinez, Elvis. ["Comportamiento y Estrategias de Conservación del Recurso Hídrico de Bofedales en Callqui Chico, Huancavelica-2021."](https://repositorio.unh.edu.pe/handle/UNH/4070) Tesis, Universidad de Huancavelica (2021).
 
-*Uzquiano Céspedes, Félix Josué, and Emelyn Hireida Machuca Peña. ["Evaluación del estado de salud de bofedales mediante teledetección en la microcuenca de Acocancha-Lima 2021."](https://repositorio.ucv.edu.pe/handle/20.500.12692/74862) Tesis, Universidad Cesar Vallejo, Lima.
+* Uzquiano Céspedes, Félix Josué, and Emelyn Hireida Machuca Peña. ["Evaluación del estado de salud de bofedales mediante teledetección en la microcuenca de Acocancha-Lima 2021."](https://repositorio.ucv.edu.pe/handle/20.500.12692/74862) Tesis, Universidad Cesar Vallejo, Lima.
 
 
 ### Others / Otras
