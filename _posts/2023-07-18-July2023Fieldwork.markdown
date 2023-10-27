@@ -1,5 +1,5 @@
 ---
-title: 'Third fieldwork visit by UCAM - July 2023'
+title: 'First workshop visit by UCAM - July 2023'
 date: 2023-07-18 16:00:00 
 author: jforrest
 version: 1.0.0
