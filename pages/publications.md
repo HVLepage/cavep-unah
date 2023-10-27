@@ -72,6 +72,11 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ### Bofedales / Bofedales
+*Garcia Dulanto, Jorge Luis. ["Implementación de una metodología para la identificación de bofedales usando datos imágenes satelitales Landsat-caso estudio: bofedal Chunal, cuenca alta del río Chillón."](https://cybertesis.unmsm.edu.pe/handle/20.500.12672/10446) Tesis, Universidad Nacional Mayor de San Marcos (2018).
+
+*Ñahui Martinez, Elvis. ["Comportamiento y Estrategias de Conservación del Recurso Hídrico de Bofedales en Callqui Chico, Huancavelica-2021."](https://repositorio.unh.edu.pe/handle/UNH/4070) Tesis, Universidad de Huancavelica (2021).
+
+*Uzquiano Céspedes, Félix Josué, and Emelyn Hireida Machuca Peña. ["Evaluación del estado de salud de bofedales mediante teledetección en la microcuenca de Acocancha-Lima 2021."](https://repositorio.ucv.edu.pe/handle/20.500.12692/74862) Tesis, Universidad Cesar Vallejo, Lima.
 
 
 ### Others / Otras
