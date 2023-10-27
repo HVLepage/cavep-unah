@@ -63,6 +63,11 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ### Soils / Suelos
+* Mendoza, Edith Orellana, et al. ["Heavy metals in soils from high andean zones and potential ecological risk assessment in Peru’s central andes."](http://www.jeeng.net/pdf-127094-55306?filename=Heavy%20Metals%20in.pdf) Journal of Ecological Engineering 21.8 (2020).
+
+* Mestanza, Carlos J., and Julio C. Nazario. ["Pedometric Mapping of Soil Classes: A Case Study of San Mateo de Otao, Peru."](https://www.hindawi.com/journals/aess/2022/7939894/) Applied and Environmental Soil Science 2022 (2022).
+
+* Rivera Ramos, Roy Josue, and Clinton Nilton Vargas Arroyo. ["Condiciones del suelo y de la biota en el humedal Huaper altamente impactado por actividades antropogénicas en la comunidad de Azángaro del distrito de Luricocha, provincia de Huanta, región Ayacucho–2021."](https://repositorio.ucv.edu.pe/handle/20.500.12692/74367) Universidad Cesar Vallejo, Lima (2021).
 
 
 ### Biodiversity / Biodiversidad
