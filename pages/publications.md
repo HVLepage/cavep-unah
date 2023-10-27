@@ -39,27 +39,27 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ###  / Microestructuras
-* Giraldo, M. A. & D. G. Stavenga. ["Brilliant iridescence of Morpho butterfly wing scales is due to both a thin film lower lamina and a multilayered upper lamina."] Journal of Comparative Physiology A 202.5 (2016): 381-388.
+* Giraldo, M. A. & D. G. Stavenga. ["Brilliant iridescence of Morpho butterfly wing scales is due to both a thin film lower lamina and a multilayered upper lamina."]() Journal of Comparative Physiology A 202.5 (2016): 381-388.
 
-* Kinoshita, Shuichi, Shinya Yoshioka, & Kenji Kawagoe. ["Mechanisms of structural colour in the Morpho butterfly: cooperation of regularity and irregularity in an iridescent scale."] Proceedings of the Royal Society of London. Series B: Biological Sciences 269.1499 (2002): 1417-1421.
+* Kinoshita, Shuichi, Shinya Yoshioka, & Kenji Kawagoe. ["Mechanisms of structural colour in the Morpho butterfly: cooperation of regularity and irregularity in an iridescent scale."]() Proceedings of the Royal Society of London. Series B: Biological Sciences 269.1499 (2002): 1417-1421.
 
-* Lee, R. Todd, & Glenn S. Smith. ["Detailed electromagnetic simulation for the structural color of butterfly wings."] Applied Optics 48.21 (2009): 4177-4190.
+* Lee, R. Todd, & Glenn S. Smith. ["Detailed electromagnetic simulation for the structural color of butterfly wings."]() Applied Optics 48.21 (2009): 4177-4190.
 
-* Steindorfer, Michael A., et al. ["Detailed simulation of structural color generation inspired by the Morpho butterfly."] Optics Express 20.19 (2012): 21485-21494.
+* Steindorfer, Michael A., et al. ["Detailed simulation of structural color generation inspired by the Morpho butterfly."]() Optics Express 20.19 (2012): 21485-21494.
 
 
 ### Water / Agua 
-*Aylas-Quispe, A., et al. ["Evaluation of the Quality of Drinking Water and Rivers in the Mantaro Valley, Central Peru."] IOP Conference Series: Earth and Environmental Science. Vol. 943. No. 1. IOP Publishing, 2021.
+*Aylas-Quispe, A., et al. ["Evaluation of the Quality of Drinking Water and Rivers in the Mantaro Valley, Central Peru."]() IOP Conference Series: Earth and Environmental Science. Vol. 943. No. 1. IOP Publishing, 2021.
 
 *Battista, Robert, et al. ["Assessing changing water quality in Peru due to glacial recession."] (2014).
 
-*Choque-Quispe, David, et al. ["Proposal of a water-quality index for high Andean basins: application to the Chumbao river, Andahuaylas, Peru."] Water 14.4 (2022): 654.
+*Choque-Quispe, David, et al. ["Proposal of a water-quality index for high Andean basins: application to the Chumbao river, Andahuaylas, Peru."]() Water 14.4 (2022): 654.
 
-*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Multivariate assessment of water quality in the Utcubamba Basin (Peru)."] Tecnología y ciencias del agua 9.5 (2018): 33-57.
+*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Multivariate assessment of water quality in the Utcubamba Basin (Peru)."]() Tecnología y ciencias del agua 9.5 (2018): 33-57.
 
-*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Evaluación multivariante de la calidad del agua en la cuenca del Utcubamba (Perú)."] Tecnología y ciencias del agua 9.5 (2018): 33-57.
+*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Evaluación multivariante de la calidad del agua en la cuenca del Utcubamba (Perú)."]() Tecnología y ciencias del agua 9.5 (2018): 33-57.
 
-*Martinez, Rodrigo, Kevin M. Green, & Amielle DeWan. ["Establishing reciprocal agreements for water and biodiversity conservation through a social marketing campaign in Quanda Watershed, Peru."] Conservation Evidence 10 (2013): 42-47.
+*Martinez, Rodrigo, Kevin M. Green, & Amielle DeWan. ["Establishing reciprocal agreements for water and biodiversity conservation through a social marketing campaign in Quanda Watershed, Peru."]() Conservation Evidence 10 (2013): 42-47.
 
 
 ### Soils / Suelos
