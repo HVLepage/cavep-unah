@@ -4,22 +4,26 @@ title: Publications & Reports
 permalink: /publications/
 ---
 
-## JOURNAL PAPERS
+## JOURNAL PAPERS / PUBLICACIONES EN REVISTAS 
 Journal publications resulting from the UNAH/UCAM research agreement will be listed below as they are published.
 
+Las publicaciones en revistas derivadas del acuerdo de investigación UNAH/UCAM se enumerarán a continuación a medida que se publiquen.
 
-## PROJECT REPORTS
+
+## PROJECT REPORTS / INFORMES DE LOS PROYECTOS
 Project reports will be listed below as the project advances.
 
-Report No.1  January 2023
+Los informes de los proyectos se irán enumerando a medida que avance el proyecto.
 
-Report No.2  July 2023
+Report No.1  January 2023  /  Informe No.1 enero 2023
+
+Report No.2  August 2023  /  Informe No.2 agosto 2023
 
 
-## REFERENCES
+## REFERENCES / REFERENCIAS
 The most relevant publications that have been referred to by the project will be listed below.
 
-### Geology
+### Geology / Geologia
 * Giesso, Martín, et al. ["XRF obsidian analysis from Ayacucho Basin in Huamanga province, south‐eastern Peru."](https://onlinelibrary.wiley.com/doi/epdf/10.1111/arcm.12529?saml_referrer) Archaeometry 62.2 (2020): 215-231. 
 
 * Marocco, René, Alain Lavenu, and R. Baudino. ["Intermontane late Paleogene-Neogene basins of the Andes of Ecuador and Peru: Sedimentologic and tectonic characteristics."](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers20-05/010027567.pdf) (1995): 597-613.
@@ -30,18 +34,29 @@ The most relevant publications that have been referred to by the project will be
 
 * Wise, J. M., and D. C. Noble. ["Late Pliocene inception of external drainage and erosion of intermontane basins in the highlands of Central Perú."](https://www.researchgate.net/publication/228491299_Late_Pliocene_inception_of_external_drainage_and_erosion_of_intermontane_basins_in_the_highlands_of_Central_Peru) Revista de la Sociedad Geológica de España 21.1 (2008): 73-91.
 
-### Soils
+
+###  / Microestructuras
+* Giraldo, M. A., and D. G. Stavenga. "Brilliant iridescence of Morpho butterfly wing scales is due to both a thin film lower lamina and a multilayered upper lamina." Journal of Comparative Physiology A 202.5 (2016): 381-388.
+
+* Kinoshita, Shuichi, Shinya Yoshioka, and Kenji Kawagoe. "Mechanisms of structural colour in the Morpho butterfly: cooperation of regularity and irregularity in an iridescent scale." Proceedings of the Royal Society of London. Series B: Biological Sciences 269.1499 (2002): 1417-1421.
+
+* Lee, R. Todd, and Glenn S. Smith. "Detailed electromagnetic simulation for the structural color of butterfly wings." Applied Optics 48.21 (2009): 4177-4190.
+
+* Steindorfer, Michael A., et al. "Detailed simulation of structural color generation inspired by the Morpho butterfly." Optics Express 20.19 (2012): 21485-21494.
 
 
-### Biodiversity
+### Soils / Suelos
 
 
-### Remote sensing
+### Biodiversity / Biodiversidad
 
 
-### Bofedales
+### Remote sensing / Teledeteccion
 
 
-### Others
+### Bofedales / Bofedales
+
+
+### Others / Otras
 * Correa, Sly W., et al. ["Soil erosion risk associated with climate change at Mantaro River basin, Peruvian Andes."](https://www.researchgate.net/publication/305830061_Soil_erosion_risk_associated_with_climate_change_at_Mantaro_River_basin_Peruvian_Andes) Catena 147 (2016): 110-124.
 
