@@ -23,6 +23,9 @@ Report No.2  August 2023  /  Informe No.2 agosto 2023
 ## REFERENCES / REFERENCIAS
 The most relevant publications that have been referred to by the project will be listed below.
 
+A continuación se enumeran las publicaciones más relevantes a las que ha hecho referencia el proyecto.
+
+
 ### Geology / Geologia
 * Giesso, Martín, et al. ["XRF obsidian analysis from Ayacucho Basin in Huamanga province, south‐eastern Peru."](https://onlinelibrary.wiley.com/doi/epdf/10.1111/arcm.12529?saml_referrer) Archaeometry 62.2 (2020): 215-231. 
 
@@ -43,6 +46,20 @@ The most relevant publications that have been referred to by the project will be
 * Lee, R. Todd, and Glenn S. Smith. "Detailed electromagnetic simulation for the structural color of butterfly wings." Applied Optics 48.21 (2009): 4177-4190.
 
 * Steindorfer, Michael A., et al. "Detailed simulation of structural color generation inspired by the Morpho butterfly." Optics Express 20.19 (2012): 21485-21494.
+
+
+### Water / Agua 
+*Aylas-Quispe, A., et al. "Evaluation of the Quality of Drinking Water and Rivers in the Mantaro Valley, Central Peru." IOP Conference Series: Earth and Environmental Science. Vol. 943. No. 1. IOP Publishing, 2021.
+
+*Battista, Robert, et al. "Assessing changing water quality in Peru due to glacial recession." (2014).
+
+*Choque-Quispe, David, et al. "Proposal of a water-quality index for high Andean basins: application to the Chumbao river, Andahuaylas, Peru." Water 14.4 (2022): 654.
+
+*Corroto, Fernando, Oscar Gamarra, and Elgar Barboza. "Multivariate assessment of water quality in the Utcubamba Basin (Peru)." Tecnología y ciencias del agua 9.5 (2018): 33-57.
+
+*Corroto, Fernando, Oscar Gamarra, and Elgar Barboza. "Evaluación multivariante de la calidad del agua en la cuenca del Utcubamba (Perú)." Tecnología y ciencias del agua 9.5 (2018): 33-57.
+
+*Martinez, Rodrigo, Kevin M. Green, and Amielle DeWan. "Establishing reciprocal agreements for water and biodiversity conservation through a social marketing campaign in Quanda Watershed, Peru." Conservation Evidence 10 (2013): 42-47.
 
 
 ### Soils / Suelos
