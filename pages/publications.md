@@ -39,27 +39,27 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ###  / Microestructuras
-* Giraldo, M. A. & D. G. Stavenga. ["Brilliant iridescence of Morpho butterfly wing scales is due to both a thin film lower lamina and a multilayered upper lamina."]() Journal of Comparative Physiology A 202.5 (2016): 381-388.
+* Giraldo, M. A. & D. G. Stavenga. ["Brilliant iridescence of Morpho butterfly wing scales is due to both a thin film lower lamina and a multilayered upper lamina."](https://link.springer.com/article/10.1007/s00359-016-1084-1) Journal of Comparative Physiology A 202.5 (2016): 381-388.
 
-* Kinoshita, Shuichi, Shinya Yoshioka, & Kenji Kawagoe. ["Mechanisms of structural colour in the Morpho butterfly: cooperation of regularity and irregularity in an iridescent scale."]() Proceedings of the Royal Society of London. Series B: Biological Sciences 269.1499 (2002): 1417-1421.
+* Kinoshita, Shuichi, Shinya Yoshioka, & Kenji Kawagoe. ["Mechanisms of structural colour in the Morpho butterfly: cooperation of regularity and irregularity in an iridescent scale."](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2002.2019) Proceedings of the Royal Society of London. Series B: Biological Sciences 269.1499 (2002): 1417-1421.
 
-* Lee, R. Todd, & Glenn S. Smith. ["Detailed electromagnetic simulation for the structural color of butterfly wings."]() Applied Optics 48.21 (2009): 4177-4190.
+* Lee, R. Todd, & Glenn S. Smith. ["Detailed electromagnetic simulation for the structural color of butterfly wings."](https://opg.optica.org/ao/fulltext.cfm?uri=ao-48-21-4177&id=183635) Applied Optics 48.21 (2009): 4177-4190.
 
-* Steindorfer, Michael A., et al. ["Detailed simulation of structural color generation inspired by the Morpho butterfly."]() Optics Express 20.19 (2012): 21485-21494.
+* Steindorfer, Michael A., et al. ["Detailed simulation of structural color generation inspired by the Morpho butterfly."](https://opg.optica.org/oe/fulltext.cfm?uri=oe-20-19-21485&id=241224) Optics Express 20.19 (2012): 21485-21494.
 
 
 ### Water / Agua 
-*Aylas-Quispe, A., et al. ["Evaluation of the Quality of Drinking Water and Rivers in the Mantaro Valley, Central Peru."]() IOP Conference Series: Earth and Environmental Science. Vol. 943. No. 1. IOP Publishing, 2021.
+*Aylas-Quispe, A., et al. ["Evaluation of the Quality of Drinking Water and Rivers in the Mantaro Valley, Central Peru."](https://iopscience.iop.org/article/10.1088/1755-1315/943/1/012002/meta) IOP Conference Series: Earth and Environmental Science. Vol. 943. No. 1. IOP Publishing, 2021.
 
-*Battista, Robert, et al. ["Assessing changing water quality in Peru due to glacial recession."] (2014).
+*Battista, Robert, et al. ["Assessing changing water quality in Peru due to glacial recession."](https://kb.osu.edu/handle/1811/59646) (2014).
 
-*Choque-Quispe, David, et al. ["Proposal of a water-quality index for high Andean basins: application to the Chumbao river, Andahuaylas, Peru."]() Water 14.4 (2022): 654.
+*Choque-Quispe, David, et al. ["Proposal of a water-quality index for high Andean basins: application to the Chumbao river, Andahuaylas, Peru."](https://www.mdpi.com/2073-4441/14/4/654) Water 14.4 (2022): 654.
 
-*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Multivariate assessment of water quality in the Utcubamba Basin (Peru)."]() Tecnología y ciencias del agua 9.5 (2018): 33-57.
+*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Multivariate assessment of water quality in the Utcubamba Basin (Peru)."](https://www.scielo.org.mx/scielo.php?pid=S2007-24222018000500033&script=sci_arttext&tlng=en) Tecnología y ciencias del agua 9.5 (2018): 33-57.
 
-*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Evaluación multivariante de la calidad del agua en la cuenca del Utcubamba (Perú)."]() Tecnología y ciencias del agua 9.5 (2018): 33-57.
+*Corroto, Fernando, Oscar Gamarra, & Elgar Barboza. ["Evaluación multivariante de la calidad del agua en la cuenca del Utcubamba (Perú)."](https://www.scielo.org.mx/scielo.php?pid=S2007-24222018000500033&script=sci_arttext) Tecnología y ciencias del agua 9.5 (2018): 33-57.
 
-*Martinez, Rodrigo, Kevin M. Green, & Amielle DeWan. ["Establishing reciprocal agreements for water and biodiversity conservation through a social marketing campaign in Quanda Watershed, Peru."]() Conservation Evidence 10 (2013): 42-47.
+*Martinez, Rodrigo, Kevin M. Green, & Amielle DeWan. ["Establishing reciprocal agreements for water and biodiversity conservation through a social marketing campaign in Quanda Watershed, Peru."](https://www.changewildlifeconsumers.org/site/assets/files/1358/2013-martinez-et-al_water-and-biodiversity-conservation-5193.pdf) Conservation Evidence 10 (2013): 42-47.
 
 
 ### Soils / Suelos
