@@ -10,7 +10,7 @@ Journal publications resulting from the UNAH/UCAM research agreement will be lis
 Las publicaciones en revistas derivadas del acuerdo de investigación UNAH/UCAM se enumerarán a continuación a medida que se publiquen.
 
 
-## PROJECT REPORTS / INFORMES DE LOS PROYECTOS
+## PROJECT REPORTS / INFORMES DEL PROYECTO
 Project reports will be listed below as the project advances.
 
 Los informes de los proyectos se irán enumerando a medida que avance el proyecto.
