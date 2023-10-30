@@ -71,6 +71,13 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ### Biodiversity / Biodiversidad
+* Gibbons, Richard Edward. ["Bird ecology and conservation in Peru's high Andean petlands."](https://www.proquest.com/openview/e8cfbfcb746072c3219d29e939cc5435/1?pq-origsite=gscholar&cbl=18750&diss=y) Louisiana State University and Agricultural & Mechanical College, 2012.
+
+* Montano-Centellas, Flavia A., and Álvaro Garitano-Zavala. ["Andean bird responses to human disturbances along an elevational gradient."](https://www.sciencedirect.com/science/article/pii/S1146609X15000545?casa_token=pH_Sd1wULjUAAAAA:x89xycr0kBGdvZi2j--wcSs2QEQAehP3PDRWr-cFJdU__dVB7xI2J_2fFi1OVml02jVGtq4u0Q) Acta Oecologica 65 (2015): 51-60.
+
+* Quintero Rivero, Maria Esther. ["Avian Diversification in the Andes: Understanding Endemism Patterns and Historical Biogeography."](https://academiccommons.columbia.edu/doi/10.7916/D8348RPF) Diss. Columbia University, 2011.
+
+* Sahley, Catherine Teresa, et al. ["Primary seed dispersal by a sigmodontine rodent assemblage in a Peruvian montane forest."](https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/primary-seed-dispersal-by-a-sigmodontine-rodent-assemblage-in-a-peruvian-montane-forest/FD286699CA5284DBB7BB1D543E04B713) Journal of Tropical Ecology 32.2 (2016): 125-134.
 
 
 ### Remote sensing / Teledeteccion
