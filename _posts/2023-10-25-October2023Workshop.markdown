@@ -3,11 +3,12 @@ title: 'Second workshop visit by UCAM - October 2023'
 date: 2023-07-18 16:00:00 
 author: jforrest
 version: 1.0.0
-category: workshop
+category: field-work
 ---
 
+## UCAM workshop visit No.2
 
-### Visit to the University of Huanta, 23-25.10.2023 (Dr A.Ionescu, University of Cambridge)
+Dr A.Ionescu of the University of Cambridge visited the University of Huanta, 23-25.10.2023.
 
 The program -
 
