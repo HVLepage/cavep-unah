@@ -10,7 +10,7 @@ category: field-work
 [Field Trip Schedule](/assets/posts/UCAM_LSVvisit_July23.pdf)
 
 
-## UCAM workshops
+## UCAM workshop visit No.1
 
 Two workshops were given by Dr. Luis De Los Santos Valladares during a visit to the National University of Huanta, in July 2023. The first one covered the preparation of risk assessments for all the laboratories and laboratory equipment and the second was about the collection and treatment of soil/sediment samples. 
 
