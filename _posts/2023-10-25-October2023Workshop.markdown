@@ -13,13 +13,13 @@ The program -
 
 ### Day 1 (23/10/23) 
 Activity: Visit to the University and its laboratories.
-Coordination meeting:  Laboratory security. 
+Coordination meeting: Laboratory security. 
 Workshop: “What to consider when designing a laboratory because of the risks associated with an experiment?”.
 
 ### Day 2 (24/10/23) 
 Activity: Visit to the Library and the location of the new University campus, in Luricocha.
 Coordination meeting: Discussion with the Architectural Design Engineer: 'Establishment of an environmental research laboratory'.
-Workshop: “Principios de las técnicas de caracterización de sedimentos”.
+Workshop: 'Technical principals in the characterisation of sediments'.
 
 ### Day 3 (25/10/23)
 Activity: Visit to the University.
@@ -55,16 +55,15 @@ A mediados de octubre realicé una breve e informativa visita a Huanta, donde re
 
 ![October2023Workshop](/assets/posts/Adrian1.png)
 
-Pos
+A.Ionescu (UCAM) visits a new UNAH laboratory. 
 
 
 ![October2023Workshop](/assets/posts/Adrian2.png)
 
-Pos
+A.Ionescu (UCAM) visits the new UNAH campus.
 
 
 ![October2023Workshop](/assets/posts/Adrian3.png)
 
-Pos
+A.Ionescu (UCAM) delivers a lecture on laboratory design and risk assessment.
 
-Pos
