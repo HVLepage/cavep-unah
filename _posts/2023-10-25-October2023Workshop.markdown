@@ -57,13 +57,19 @@ A mediados de octubre realicé una breve e informativa visita a Huanta, donde re
 
 A.Ionescu (UCAM) visits a new UNAH laboratory. 
 
+A.Ionescu (UCAM) visita un nuevo laboratorio de la UNAH. 
+
 
 ![October2023Workshop](/assets/posts/Adrian2.png)
 
-A.Ionescu (UCAM) visits the new UNAH campus.
+A.Ionescu (UCAM) visits the recently acquired UNAH campus site where new laboratories will be built.
+
+A.Ionescu (UCAM) visita el terreno recién adquirido para construir el nuevo campus y laboratorios de la UNAH.
 
 
 ![October2023Workshop](/assets/posts/Adrian3.png)
 
 A.Ionescu (UCAM) delivers a lecture on laboratory design and risk assessment.
+
+A.Ionescu (UCAM) imparte una conferencia sobre diseño de laboratorios y evaluación de riesgos.
 
