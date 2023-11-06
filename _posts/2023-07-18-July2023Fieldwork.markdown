@@ -12,6 +12,8 @@ category: field-work
 
 ## UCAM workshop visit No.1
 
+Dr. Luis De Los Santos Valladares of the University of Cambridge visited the University of Huanta, in mid-July 2023.
+
 Two workshops were given by Dr. Luis De Los Santos Valladares during a visit to the National University of Huanta, in July 2023. The first one covered the preparation of risk assessments for all the laboratories and laboratory equipment and the second was about the collection and treatment of soil/sediment samples. 
 
 ## Risk assessment workshop
