@@ -53,17 +53,17 @@ Visitas a los laboratorios de la UNAH y planificación de la construcción de un
 A mediados de octubre realicé una breve e informativa visita a Huanta, donde recibí una acogida extremadamente amistosa por parte de todo el personal y los estudiantes de la universidad. Aproveché la oportunidad para hablar extensamente con el personal técnico del laboratorio para conocer sus laboratorios y sus normas de seguridad. El objetivo de la visita era conocer mejor sus aspiraciones futuras con respecto a la realización de estudios de física y medio ambiente en las nuevas instalaciones del laboratorio de investigación y sugerir cómo avanzar. En particular, examiné las evaluaciones de riesgos relacionadas con los experimentos que se realizan actualmente en las clases de los estudiantes, que sirven de primer paso para preparar otras más elaboradas para los montajes experimentales que se alojarán en el nuevo centro de investigación. También examiné los planos del nuevo centro y compartí mis sugerencias con el diseñador arquitectónico del edificio. La Universidad de Huanta me pareció una entidad próspera, moderna y muy motivada, con un verdadero deseo de aprender cosas nuevas. Los resultados de mi visita y mis sugerencias se enviarán a la administración de la UNAH a su debido tiempo.
 
 
-![October2023Workshop](/assets/posts/Adrian1.jpg)
+![October2023Workshop](/assets/posts/Adrian1.png)
 
 Pos
 
 
-![October2023Workshop](/assets/posts/Adrian2.jpg)
+![October2023Workshop](/assets/posts/Adrian2.png)
 
 Pos
 
 
-![October2023Workshop](/assets/posts/Adrian3.jpg)
+![October2023Workshop](/assets/posts/Adrian3.png)
 
 Pos
 
