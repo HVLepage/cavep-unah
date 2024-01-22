@@ -10,3 +10,33 @@ category: field-work
 [Field Trip Schedule](/assets/posts/UCAM_schedule_Nov23.pdf)
 
 
+### Remote Sensing
+
+![November2023Fieldwork](/assets/posts/xxxxxx.JPG)
+Hugo Lepage (UCAM) delivers an active remote sensing class to identify and analyse satellite images to UNAH staff and students.
+
+
+
+
+### Biodiversity
+
+![November2023Fieldwork](/assets/posts/xxxxxxx.jpg)
+H.Lepage (UCAM) addresses UNAH students at lake Toctococha about surveying and interpreting the surrounding landscape.
+
+
+
+
+### Water 
+
+![November2023Fieldwork](/assets/xxxxxxx.JPG)
+Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+
+
+
+
+### Water sample analysis in the Laboratory
+
+![November2023Fieldwork](/assets/xxxxxxx.JPG)
+Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+
+
