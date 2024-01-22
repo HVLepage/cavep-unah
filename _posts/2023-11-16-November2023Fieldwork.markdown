@@ -7,6 +7,6 @@ category: field-work
 ---
 
 
-[Field Trip Schedule](/assets/posts/XXXX.pdf)
+[Field Trip Schedule](/assets/posts/UCAM_schedule_Nov23.pdf)
 
 
