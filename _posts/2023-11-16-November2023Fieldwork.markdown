@@ -13,31 +13,35 @@ category: field-work
 ### Conference
 
 ![November2023Fieldwork](/assets/posts/11.23Conf.HLE.JPG)
-Hugo Lepage (UCAM) delivers his presentation.
+Hugo Lepage (UCAM) delivers his presentation entitled: "Greening and Browning Trends on the Pacific Slope of Peru and Northern Chile".
+
+Hugo Lepage (UCAM) presenta su ponencia titulada: "Tendencias de enverdecimiento y pardeamiento en la vertiente pacífica de Perú y el norte de Chile".
 
 
 ![November2023Fieldwork](/assets/posts/11.23Conf.EBA.JPG)
-Eustace Barnes (UCAM) delivers his presentation.
+Eustace Barnes (UCAM) delivers his presentation entitled: "Andean biodiversity and vegetation dynamics in central Peru."
+
+Eustace Barnes (UCAM) presenta su ponencia titulada: "Biodiversidad andina y dinámica de la vegetación en Perú central".
 
 
 ![November2023Fieldwork](/assets/posts/11.23Conf.JFO.JPG)
-John Forrest (UCAM) delivers his presentation.
+John Forrest (UCAM) delivers his presentation entitled: “Investigating environmental systems and ecosystem services in Peru’s Huanta region”.
+
+John Forrest (UCAM) presenta su ponencia titulada: “Investigación de los sistemas ambientales y los servicios del ecosistema en la región de Huanta del Perú”.
 
 
 
 ### Remote Sensing
 
 ![November2023Fieldwork](/assets/posts/xxxxxx.JPG)
-Hugo Lepage (UCAM) delivers an active remote sensing class to identify and analyse satellite images to UNAH staff and students.
-
+Hugo Lepage (UCAM) 
 
 
 
 ### Biodiversity
 
 ![November2023Fieldwork](/assets/posts/xxxxxxx.jpg)
-Hugo Lepage (UCAM) addresses UNAH students at lake Toctococha about surveying and interpreting the surrounding landscape.
-
+Eustace Barnes (UCAM) 
 
 
 
@@ -80,5 +84,4 @@ UNAH students carry out titration to test the alkalinity of the sample.
 
 ![November2023Fieldwork](/assets/posts/11.23Lab4.JPG)
 UNAH students carry out titration to test the alkalinity of the sample.
-
 
