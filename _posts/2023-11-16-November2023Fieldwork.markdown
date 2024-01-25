@@ -28,15 +28,42 @@ H.Lepage (UCAM) addresses UNAH students at lake Toctococha about surveying and i
 
 ### Water 
 
-![November2023Fieldwork](/assets/xxxxxxx.JPG)
+![November2023Fieldwork](/assets/RC01.JPG)
 Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
 
+
+![November2023Fieldwork](/assets/RC02.JPG)
+Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+
+
+![November2023Fieldwork](/assets/Q1.1.JPG)
+Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+
+
+![November2023Fieldwork](/assets/Q1.3.JPG)
+Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+
+
+![November2023Fieldwork](/assets/Q2.3.JPG)
+Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
 
 
 
 ### Water sample analysis in the Laboratory
 
-![November2023Fieldwork](/assets/xxxxxxx.JPG)
-Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+![November2023Fieldwork](/assets/11.23Lab1.JPG)
+Ing.
+
+
+![November2023Fieldwork](/assets/11.23Lab2.JPG)
+Ing.
+
+
+![November2023Fieldwork](/assets/11.23Lab3.JPG)
+Ing.
+
+
+![November2023Fieldwork](/assets/11.23Lab4.JPG)
+Ing.
 
 
