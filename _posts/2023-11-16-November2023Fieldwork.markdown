@@ -12,6 +12,8 @@ category: field-work
 
 ### Conference
 
+### “VI CONGRESO INTERNACIONAL de INVESTIGACIÓN e INNOVACIÓN (COINOVA) - UNAH, 15-17 de noviembre 2023” 
+
 ![November2023Fieldwork](/assets/posts/11.23Conf.HLE.JPG)
 Hugo Lepage (UCAM) delivers his presentation entitled: "Greening and Browning Trends on the Pacific Slope of Peru and Northern Chile".
 
@@ -50,22 +52,31 @@ Eustace Barnes (UCAM)
 ![November2023Fieldwork](/assets/posts/11.23RC01.JPG)
 UNAH students taking a water sample from the river Cachi at RC01.
 
+Estudiantes de la UNAH tomando una muestra de agua del río Cachi en el RC01.
+
 
 ![November2023Fieldwork](/assets/posts/11.23RC02.JPG)
 UNAH student Bradford Sanchez Zea using the Valeport flowmeter to record the velocity of the river Cachi at RC02.
+
+Bradford Sánchez Zea, un estudiante de la UNAH, usando el caudalímetro Valeport para registrar la velocidad del río Cachi en el RC02.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Q1.1.JPG)
 Ing.Santos Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Opanccay at Q1.1.
 
+Ing.Santos Herrera y dos estudiantes de la UNAH utilizando el caudalimetro Valeport para registrar la velocidad del rio Opanccay en Q1.1.
+
 
 ![November2023Fieldwork](/assets/posts/11.23Q1.3.JPG)
 Ing.Michel Huisa and two UNAH students using the Valeport flowmeter to record the velocity of the river Opanccay (norte) at Q1.3.
+
+Ing.Michel Huisa y dos estudiantes de la UNAH utilizando el caudalimetro Valeport para registrar la velocidad del rio Opanccay (norte) en Q1.3.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Q2.3.JPG)
 Two UNAH students using the Valeport flowmeter to record the velocity of the river Huanta at Q2.3.
 
+Dos estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la velocidad del río Huanta en Q2.3.
 
 
 ### Water sample analysis in the Laboratory
@@ -73,15 +84,24 @@ Two UNAH students using the Valeport flowmeter to record the velocity of the riv
 ![November2023Fieldwork](/assets/posts/11.23Lab1.JPG)
 UNAH students use the Geopump to filter and transfer a sample prior to further analysis.
 
+Estudiantes de la UNAH utilizan la Geobomba para filtrar y transferir una muestra antes de su posterior análisis.
+
 
 ![November2023Fieldwork](/assets/posts/11.23Lab2.JPG)
 UNAH students carry out titration to test the alkalinity of the sample.
+
+Estudiantes de la UNAH realizan una valoración para comprobar la alcalinidad de la muestra.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Lab3.JPG)
 UNAH students carry out titration to test the alkalinity of the sample.
 
+Estudiantes de la UNAH realizan una valoración para comprobar la alcalinidad de la muestra.
+
 
 ![November2023Fieldwork](/assets/posts/11.23Lab4.JPG)
 UNAH students carry out titration to test the alkalinity of the sample.
+
+Estudiantes de la UNAH realizan una valoración para comprobar la alcalinidad de la muestra.
+
 
