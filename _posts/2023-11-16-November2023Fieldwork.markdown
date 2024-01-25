@@ -10,6 +10,19 @@ category: field-work
 [Field Trip Schedule](/assets/posts/UCAM_schedule_Nov23.pdf)
 
 
+### Conference
+
+![November2023Fieldwork](/assets/Conf.HLE.JPG)
+Ing.
+
+
+![November2023Fieldwork](/assets/Conf.EBA.JPG)
+
+
+![November2023Fieldwork](/assets/Conf.JFO.JPG)
+
+
+
 ### Remote Sensing
 
 ![November2023Fieldwork](/assets/posts/xxxxxx.JPG)
