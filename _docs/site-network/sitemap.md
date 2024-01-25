@@ -4,11 +4,11 @@ permalink: /docs/sitemap/
 ---
 
 
-### Water: location of the study sites (March 2023) / Agua: ubicacion de los sitios de estudio (marzo 2023)
+### Water: location of the study sites / Agua: ubicacion de los sitios de estudio
 
 
-![Sites map](/assets/sites/AllsitesMarch2023.jpg)
-Water study sites map. (March 2023) (John Forrest)
+![Sites map](/assets/sites/Allsites.jpg)
+Water study sites map. (November 2023) (John Forrest)
 
 
 |     Site code    |     Site name                                   |     GPS Coordinates    |                   |     Altitude    |
@@ -28,5 +28,4 @@ Water study sites map. (March 2023) (John Forrest)
 |     Q3.2         |     Middle Huamanguilla - Puente Ayahuarcuna    |     -13.005275         |     -74.208628    |     2855        |
 |     Q3.3         |     Upper Huamanguilla -                        |     -12.958332         |     -74.129012    |     4060        |
 |     MH01         |     Huapar manantial                            |     -12.925453         |     -74.293884    |     2353        |
-
 
