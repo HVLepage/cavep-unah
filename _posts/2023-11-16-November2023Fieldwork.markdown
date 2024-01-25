@@ -13,13 +13,15 @@ category: field-work
 ### Conference
 
 ![November2023Fieldwork](/assets/posts/11.23Conf.HLE.JPG)
-Ing.
+Hugo Lepage (UCAM) delivers his presentation.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Conf.EBA.JPG)
+Eustace Barnes (UCAM) delivers his presentation.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Conf.JFO.JPG)
+John Forrest (UCAM) delivers his presentation.
 
 
 
@@ -34,7 +36,7 @@ Hugo Lepage (UCAM) delivers an active remote sensing class to identify and analy
 ### Biodiversity
 
 ![November2023Fieldwork](/assets/posts/xxxxxxx.jpg)
-H.Lepage (UCAM) addresses UNAH students at lake Toctococha about surveying and interpreting the surrounding landscape.
+Hugo Lepage (UCAM) addresses UNAH students at lake Toctococha about surveying and interpreting the surrounding landscape.
 
 
 
@@ -42,41 +44,41 @@ H.Lepage (UCAM) addresses UNAH students at lake Toctococha about surveying and i
 ### Water 
 
 ![November2023Fieldwork](/assets/posts/11.23RC01.JPG)
-Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+UNAH students taking a water sample from the river Cachi at RC01.
 
 
 ![November2023Fieldwork](/assets/posts/11.23RC02.JPG)
-Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+UNAH student Bradford Sanchez Zea using the Valeport flowmeter to record the velocity of the river Cachi at RC02.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Q1.1.JPG)
-Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+Ing.Santos Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Opanccay at Q1.1.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Q1.3.JPG)
-Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+Ing.Michel Huisa and two UNAH students using the Valeport flowmeter to record the velocity of the river Opanccay (norte) at Q1.3.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Q2.3.JPG)
-Ing.Herrera and two UNAH students using the Valeport flowmeter to record the velocity of the river Cachi at RC01.
+Two UNAH students using the Valeport flowmeter to record the velocity of the river Huanta at Q2.3.
 
 
 
 ### Water sample analysis in the Laboratory
 
 ![November2023Fieldwork](/assets/posts/11.23Lab1.JPG)
-Ing.
+UNAH students use the Geopump to filter and transfer a sample prior to further analysis.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Lab2.JPG)
-Ing.
+UNAH students carry out titration to test the alkalinity of the sample.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Lab3.JPG)
-Ing.
+UNAH students carry out titration to test the alkalinity of the sample.
 
 
 ![November2023Fieldwork](/assets/posts/11.23Lab4.JPG)
-Ing.
+UNAH students carry out titration to test the alkalinity of the sample.
 
 
