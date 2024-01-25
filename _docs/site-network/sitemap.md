@@ -7,7 +7,7 @@ permalink: /docs/sitemap/
 ### Water: location of the study sites / Agua: ubicacion de los sitios de estudio
 
 
-![Sites map](/assets/sites/AllsitesHuanta.JPG)
+![Sites map](/assets/sites/AllsitesHuanta.jpg)
 Water study sites map. (November 2023) (John Forrest)
 
 
