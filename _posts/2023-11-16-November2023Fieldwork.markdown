@@ -33,17 +33,28 @@ John Forrest (UCAM) presenta su ponencia titulada: “Investigación de los sist
 
 
 
-### Remote Sensing
+### Biodiversity & Tourism
 
-![November2023Fieldwork](/assets/posts/xxxxxx.JPG)
-Hugo Lepage (UCAM) 
+A trip was made over the sierra Razuhuillca to Tambo on a little used road to investigate the biodiversity of the area and the potential for developing ecotourism, with particular reference to the Sierra de Razuhuillca. 
+
+From Tambo further trips were made in to the nearby cloudforest and surrounding valleys to explore potential sites for establishing ecotourist facilities and tour routes more widely in the Huanta region.
 
 
+Se realizó un viaje por la sierra Razuhuillca hasta Tambo por una carretera poco transitada para investigar la biodiversidad de la zona y el potencial de desarrollo del ecoturismo, con especial referencia a la sierra de Razuhuillca. 
 
-### Biodiversity
+Desde Tambo se realizaron otros viajes al bosque nuboso y a los valles circanos para explorar sitios potenciales para establecer instalaciones ecoturísticas y rutas turísticas más amplias en la región de Huanta.
 
-![November2023Fieldwork](/assets/posts/xxxxxxx.jpg)
-Eustace Barnes (UCAM) 
+
+![November2023Fieldwork](/assets/posts/Tambo1.jpg)
+UNAH tourism students reviewing the days activities and planning the activities for the following day.
+
+Estudiantes de turismo de la UNAH revisan las actividades del día y planifican las del día siguiente.
+
+
+![November2023Fieldwork](/assets/posts/Tambo2.jpg)
+UNAH tourism students in the field in a remote valley near Tambo.
+
+Estudiantes de turismo de la UNAH en el campo en un valle remoto cerca de Tambo.
 
 
 
