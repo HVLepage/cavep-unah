@@ -21,3 +21,12 @@ El 3 de febrero de 2024 siete estudiantes de la UNAH - Javier Agama Romani, Gime
 Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Trip Schedule'.
 
 
+
+
+## London visit with John Forrest
+The UNAH visitors made a day trip to London to visit the Science, Geology and Natural History Museums as well as various tourist sites such as the Houes of Parliament, Buckingham Palace, Tower Bridge and the Tower of London.
+
+## Visita al Museo de la Ciencia de Londres con John Forrest
+Los visitantes de la UNAH hicieron una excursión de un día a Londres para visitar los Museos de Ciencias, Geologia y de Historia Natural, así como diversos lugares turísticos como la Casa de Parlemento, el Palacio de Buckingham, el Puente de la Torre y la Torre de Londres.
+
+
