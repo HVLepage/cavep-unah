@@ -37,7 +37,7 @@ Visiting the Space exhibition in the Science museum / Visitar la exposición Esp
 
 ![FieldTripSchedule](/assets/posts/2.24London2.JPG)
 
-Beside the DNA model (developed at the Cavendish laboratory) exhibit / Junto al modelo de ADN (desarrollado en el laboratorio Cavendish) exponer
+Beside the DNA model (developed at the Cavendish laboratory) exhibit / Junto a la exposición del modelo de ADN (desarrollado en el laboratorio Cavendish)
 
 
 ![FieldTripSchedule](/assets/posts/2.24London3.JPG)
@@ -47,7 +47,7 @@ Dazzled by the gems in the Geology museum / Deslumbrado por las gemas del museo 
 
 ![FieldTripSchedule](/assets/posts/2.24London4.JPG)
 
-Students standing tall with the giraffes in the Natural History museum / Alumnos en pie junto a las jirafas del museo de Historia Natural 
+Students standing tall with the giraffes in the Natural History museum / Estudiantes en pie junto a las jirafas del museo de Historia Natural 
 
 
 ![FieldTripSchedule](/assets/posts/2.24London5.JPG)
@@ -57,7 +57,7 @@ Students with a complete dinosaur fossil in the Natural History museum / Estudia
 
 ![FieldTripSchedule](/assets/posts/2.24London6.JPG)
 
-In front of Buckingham Palace hoping to catch sight of King Charles III / Frente al palacio de Buckingham con la esperanza de ver al rey Carlos III 
+In front of Buckingham Palace hoping to catch sight of King Charles III! / Frente al palacio de Buckingham con la esperanza de ver al rey Carlos III!
 
 
 ![FieldTripSchedule](/assets/posts/2.24London7.JPG)
