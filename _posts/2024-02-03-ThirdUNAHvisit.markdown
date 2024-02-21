@@ -44,12 +44,12 @@ Bruno Cardenas presenting his research project to the group / Bruno Cardenas pre
 
 ![FieldTripSchedule](/assets/posts/2.24Talk3.JPG)
 
-Gimena Ayala presenting progress made with her research project while at UCAM to the group / Gimena Ayala presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM
+Gimena Ayala presenting to the group progress made with her research project since her arrival at UCAM / Gimena Ayala presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM
 
 
 ![FieldTripSchedule](/assets/posts/2.24Talk4.JPG)
 
-Dina Huanaco presenting progress made with her research project while at UCAM to the group / Dina Huanaco presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM
+Dina Huanaco presenting to the group progress made with her research project since her arrival at UCAM / Dina Huanaco presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM
 
 
 ![FieldTripSchedule](/assets/posts/2.24Talk5.JPG)
