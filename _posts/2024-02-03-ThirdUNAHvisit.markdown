@@ -22,6 +22,37 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 
 
+## English class with Elizabetta Garletti
+
+![FieldTripSchedule](/assets/posts/2.24English1.JPG)
+
+Elizabetta Garletti delivering an english lesson to the UNAH stduents in the Red room at the Maxwell centre, Cavendish laboratory / Elizabetta Garletti impartiendo una clase de inglés a los estudiantes de la UNAH en la sala roja del centro Maxwell, laboratorio Cavendish.
+
+
+
+## UNAH students present their research projects to the UCAM team and guests
+
+![FieldTripSchedule](/assets/posts/2.24Talk1.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24Talk2.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24Talk3.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24Talk4.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24Talk5.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24Talk6.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24Talk7.JPG)
+
+
 
 ## London visit with John Forrest
 The UNAH visitors made a day trip to London to visit the Science, Geology and Natural History Museums as well as various tourist sites such as the Houses of Parliament, Buckingham Palace, Tower Bridge and the Tower of London.
