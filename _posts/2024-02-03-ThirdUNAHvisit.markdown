@@ -32,26 +32,40 @@ Los visitantes de la UNAH hicieron una excursión de un día a Londres para visi
 
 ![FieldTripSchedule](/assets/posts/2.24London1.JPG)
 
-Beside an original enigma decoding machine from WWII / Junto a un descodificador enigma original de la Segunda Guerra Mundial.
+Visiting the Space exhibition in the Science museum / Visitar la exposición Espacio en el Museo de las Ciencias 
 
 
 ![FieldTripSchedule](/assets/posts/2.24London2.JPG)
 
+Beside the DNA model (developed at the Cavendish laboratory) exhibit / Junto al modelo de ADN (desarrollado en el laboratorio Cavendish) exponer
+
 
 ![FieldTripSchedule](/assets/posts/2.24London3.JPG)
+
+Dazzled by the gems in the Geology museum / Deslumbrado por las gemas del museo de Geología 
 
 
 ![FieldTripSchedule](/assets/posts/2.24London4.JPG)
 
+Students standing tall with the giraffes in the Natural History museum / Alumnos en pie junto a las jirafas del museo de Historia Natural 
+
 
 ![FieldTripSchedule](/assets/posts/2.24London5.JPG)
+
+Students with a complete dinosaur fossil in the Natural History museum / Estudiantes con un fósil completo de dinosaurio en el museo de Historia Natural
 
 
 ![FieldTripSchedule](/assets/posts/2.24London6.JPG)
 
+In front of Buckingham Palace hoping to catch sight of King Charles III / Frente al palacio de Buckingham con la esperanza de ver al rey Carlos III 
+
 
 ![FieldTripSchedule](/assets/posts/2.24London7.JPG)
 
+In front of the Houses of Parliament & Big Ben  / Frente al Parlamento y el Big Ben 
+
 
 ![FieldTripSchedule](/assets/posts/2.24London8.JPG)
+
+Beside the Tower of London with Tower Bridge in the background / Junto a la Torre de Londres con el Puente de la Torre al fondo
 
