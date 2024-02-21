@@ -24,7 +24,7 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 ## English class with Elizabetta Garletti
 
-![FieldTripSchedule](/assets/posts/2.24English1.JPG)
+![FieldTripSchedule](/assets/posts/2.24English1.jpg)
 
 Elizabetta Garletti delivering an english lesson to the UNAH stduents in the Red room at the Maxwell centre, Cavendish laboratory / Elizabetta Garletti impartiendo una clase de inglés a los estudiantes de la UNAH en la sala roja del centro Maxwell, laboratorio Cavendish.
 
@@ -45,12 +45,6 @@ Elizabetta Garletti delivering an english lesson to the UNAH stduents in the Red
 
 
 ![FieldTripSchedule](/assets/posts/2.24Talk5.JPG)
-
-
-![FieldTripSchedule](/assets/posts/2.24Talk6.JPG)
-
-
-![FieldTripSchedule](/assets/posts/2.24Talk7.JPG)
 
 
 
