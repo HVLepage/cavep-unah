@@ -34,18 +34,27 @@ Elizabetta Garletti delivering an english lesson to the UNAH stduents in the Red
 
 ![FieldTripSchedule](/assets/posts/2.24Talk1.JPG)
 
+Dina Huanaco presenting her research project to the group / Dina Huanaco presenta su proyecto de investigación al grupo 
+
 
 ![FieldTripSchedule](/assets/posts/2.24Talk2.JPG)
+
+Bruno Cardenas presenting his research project to the group / Bruno Cardenas presenta su proyecto de investigación al grupo 
 
 
 ![FieldTripSchedule](/assets/posts/2.24Talk3.JPG)
 
+Gimena Ayala presenting progress made with her research project while at UCAM to the group / Gimena Ayala presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM
+
 
 ![FieldTripSchedule](/assets/posts/2.24Talk4.JPG)
+
+Dina Huanaco presenting progress made with her research project while at UCAM to the group / Dina Huanaco presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM
 
 
 ![FieldTripSchedule](/assets/posts/2.24Talk5.JPG)
 
+UNAH students with UCAM staff in the Red room at the Maxwell centre, Cavendish laboratory post-presentations / Estudiantes de la UNAH con personal de la UCAM en la sala Roja del centro Maxwell, laboratorio Cavendish después de las presentaciones
 
 
 ## London visit with John Forrest
