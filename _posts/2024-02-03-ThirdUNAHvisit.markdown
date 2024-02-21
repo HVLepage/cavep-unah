@@ -30,3 +30,28 @@ The UNAH visitors made a day trip to London to visit the Science, Geology and Na
 Los visitantes de la UNAH hicieron una excursión de un día a Londres para visitar los Museos de Ciencias, Geologia y de Historia Natural, así como diversos lugares turísticos como la Casa de Parlemento, el Palacio de Buckingham, el Puente de la Torre y la Torre de Londres.
 
 
+![FieldTripSchedule](/assets/posts/2.24London1.JPG)
+
+Beside an original enigma decoding machine from WWII / Junto a un descodificador enigma original de la Segunda Guerra Mundial.
+
+
+![FieldTripSchedule](/assets/posts/2.24London2.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24London3.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24London4.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24London5.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24London6.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24London7.JPG)
+
+
+![FieldTripSchedule](/assets/posts/2.24London8.JPG)
+
