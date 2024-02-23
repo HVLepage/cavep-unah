@@ -25,7 +25,7 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 ![FieldTripSchedule](/assets/posts/2.24Cambridge1.jpg)
 
-On Day 1, Luis de los Santos Valladares gave the stduents a guided tour of the historic centre of Cambridge and visited some of the Colleges / El primer día, Luis de los Santos Valladares ofreció a los estudiantes una visita guiada por el centro histórico de Cambridge y visitó algunos de los Colleges.
+On Day 1, Luis de los Santos Valladares gave the students a guided tour of the historic centre of Cambridge and visited some of the Colleges / El primer día, Luis de los Santos Valladares ofreció a los estudiantes una visita guiada por el centro histórico de Cambridge y visitó algunos de los Colleges.
 
 
 ## Cavendish Laboratory Health & Safety course
@@ -39,24 +39,29 @@ Day 2 began with the Cavendish Laboratory on-line Health & Safety course (in eng
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments1.jpg)
 
+Luis de los santos Valladares 
 
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments2.jpg)
 
+Dina Huanaco 
 
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments3.jpg)
 
+Dina Huanaco 
 
 
 ## Micro-structure analysis
 
 ![FieldTripSchedule](/assets/posts/2.24Butterfly2.webp)
 
+The Zeiss microscope used for high magnification optical microscopy / El microscopio Zeiss utilizado para microscopía óptica de gran aumento.
 
 
 ![FieldTripSchedule](/assets/posts/2.24Butterfly1.webp)
 
+The scales of a Morpho butterfly viewed from optical microscopy at 100x magnification. The base scales (blue) and cover scales (transparent) are clearly visible. A speckle pattern can be observed on many of the base scales / Las escamas de una mariposa Morpho vistas con microscopio óptico a 100 aumentos. Se aprecian claramente las escamas de la base (azules) y las de la cubierta (transparentes). En muchas de las escamas de base se observa un patrón moteado. 
 
 
 ## Remote Sensing 
