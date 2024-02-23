@@ -21,9 +21,9 @@ El 3 de febrero de 2024 siete estudiantes de la UNAH - Javier Agama Romani, Gime
 Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Trip Schedule'.
 
 
-![FieldTripSchedule](/assets/posts/2.24Cambridge1.JPG)
+![FieldTripSchedule](/assets/posts/2.24Cambridge1.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Cambridge2.JPG)
+![FieldTripSchedule](/assets/posts/2.24Cambridge2.jpg)
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments1.jpg)
 
@@ -35,9 +35,9 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 ![FieldTripSchedule](/assets/posts/2.24Butterfly1.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Remote1.jpg)
+![FieldTripSchedule](/assets/posts/2.24Remote1.png)
 
-![FieldTripSchedule](/assets/posts/2.24Remote2.jpg)
+![FieldTripSchedule](/assets/posts/2.24Remote2.png)
 
 ![FieldTripSchedule](/assets/posts/2.24Remote3.jpg)
 
