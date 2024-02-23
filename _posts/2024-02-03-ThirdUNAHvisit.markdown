@@ -31,9 +31,9 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments3.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Butterfly2.jpg)
+![FieldTripSchedule](/assets/posts/2.24Butterfly2.webp)
 
-![FieldTripSchedule](/assets/posts/2.24Butterfly1.jpg)
+![FieldTripSchedule](/assets/posts/2.24Butterfly1.webp)
 
 ![FieldTripSchedule](/assets/posts/2.24Remote1.png)
 
