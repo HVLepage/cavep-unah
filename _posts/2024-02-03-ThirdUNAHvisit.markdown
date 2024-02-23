@@ -22,7 +22,7 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 
 
-## English class with Elizabetta Garletti
+## English classes
 
 ![FieldTripSchedule](/assets/posts/2.24English1.jpeg)
 
@@ -57,11 +57,11 @@ Dina Huanaco presenting to the group progress made with her research project sin
 UNAH students with UCAM staff in the Red room at the Maxwell centre, Cavendish laboratory post-presentations / Estudiantes de la UNAH con personal de la UCAM en la sala Roja del centro Maxwell, laboratorio Cavendish después de las presentaciones
 
 
-## London visit with John Forrest
-The UNAH visitors made a day trip to London to visit the Science, Geology and Natural History Museums as well as various tourist sites such as the Houses of Parliament, Buckingham Palace, Tower Bridge and the Tower of London.
+## London visit 
+The UNAH visitors made a day trip to London accompanied by John Forrest to visit the Science, Geology and Natural History Museums as well as various tourist sites such as the Houses of Parliament, Buckingham Palace, Tower Bridge and the Tower of London.
 
-## Visita a Londres con John Forrest
-Los visitantes de la UNAH hicieron una excursión de un día a Londres para visitar los Museos de Ciencias, Geologia y de Historia Natural, así como diversos lugares turísticos como la Casa de Parlemento, el Palacio de Buckingham, el Puente de la Torre y la Torre de Londres.
+## Visita a Londres 
+Los visitantes de la UNAH hicieron una excursión de un día a Londres con John Forrest para visitar los Museos de Ciencias, Geologia y de Historia Natural, así como diversos lugares turísticos como la Casa de Parlemento, el Palacio de Buckingham, el Puente de la Torre y la Torre de Londres.
 
 
 ![FieldTripSchedule](/assets/posts/2.24London1.JPG)
