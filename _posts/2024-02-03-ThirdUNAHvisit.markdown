@@ -25,21 +25,21 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 ![FieldTripSchedule](/assets/posts/2.24Cambridge2.JPG)
 
-![FieldTripSchedule](/assets/posts/2.24Sediments1.JPG)
+![FieldTripSchedule](/assets/posts/2.24Sediments1.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Sediments2.JPG)
+![FieldTripSchedule](/assets/posts/2.24Sediments2.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Sediments3.JPG)
+![FieldTripSchedule](/assets/posts/2.24Sediments3.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Butterfly2.JPG)
+![FieldTripSchedule](/assets/posts/2.24Butterfly2.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Butterfly1.JPG)
+![FieldTripSchedule](/assets/posts/2.24Butterfly1.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Remote1.JPG)
+![FieldTripSchedule](/assets/posts/2.24Remote1.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Remote2.JPG)
+![FieldTripSchedule](/assets/posts/2.24Remote2.jpg)
 
-![FieldTripSchedule](/assets/posts/2.24Remote3.JPG)
+![FieldTripSchedule](/assets/posts/2.24Remote3.jpg)
 
 
 
