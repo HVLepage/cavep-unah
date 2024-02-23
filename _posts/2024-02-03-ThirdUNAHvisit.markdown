@@ -56,7 +56,7 @@ Dina Huanaco received additional training from another UCAM academic - Prof.Juma
 
 ![FieldTripSchedule](/assets/posts/2.24Butterfly2.webp)
 
-The Zeiss microscope used for high magnification optical microscopy / El microscopio Zeiss utilizado para microscopía óptica de gran aumento.
+UNAH student Nathaly Huallanca used a Zeiss microscope for high magnification optical microscopy of Blue Morpho butterfly wings / La estudiante de la UNAH Nathaly Huallanca utilizó un microscopio Zeiss para microscopía óptica de gran aumento de las alas de la mariposa Blue Morpho.
 
 
 ![FieldTripSchedule](/assets/posts/2.24Butterfly1.webp)
@@ -68,15 +68,12 @@ The scales of a Morpho butterfly viewed from optical microscopy at 100x magnific
 
 ![FieldTripSchedule](/assets/posts/2.24Remote1.png)
 
+UNAH student Gimena Ayala outlined hundreds of bofedales in five areas in the Huanta region. She then used satellite imagery to compare the vegetation (NDVI) and moisture levels (NDWI) of each bofedal. The bofedales to the top right of the graph are healthier, while those towards the bottom left are less healthy / Gimena Ayala, estudiante de la UNAH, delimitó cientos de bofedales en cinco zonas de la región de Huanta. A continuación, utilizó imágenes de satélite para comparar la vegetación (NDVI) y los niveles de humedad (NDWI) de cada bofedal. Los bofedales de la parte superior derecha del gráfico están en mejor condición, mientras que los de la parte inferior izquierda están en un opeor condición.
 
 
 ![FieldTripSchedule](/assets/posts/2.24Remote2.png)
 
-
-
-![FieldTripSchedule](/assets/posts/2.24Remote3.jpg)
-
-
+A detailed analysis of each bofedal provides reasons for its condition. In this case, a dam / bridge across the bofedal is having an impact / Un a.nálisis detallado de cada bofedal proporciona las razones de su estado. En este caso, una presa / puente que cruza el bofedal está teniendo un impacto.
 
 
 ## English classes
