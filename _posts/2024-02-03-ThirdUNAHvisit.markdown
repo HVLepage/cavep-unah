@@ -25,12 +25,14 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 ![FieldTripSchedule](/assets/posts/2.24Cambridge1.jpg)
 
+On Day 1, Luis de los Santos Valladares gave the stduents a guided tour of the historic centre of Cambridge and visited some of the Colleges / El primer día, Luis de los Santos Valladares ofreció a los estudiantes una visita guiada por el centro histórico de Cambridge y visitó algunos de los Colleges.
 
 
 ## Cavendish Laboratory Health & Safety course
 
 ![FieldTripSchedule](/assets/posts/2.24Cambridge2.jpg)
 
+Day 2 began with the Cavendish Laboratory on-line Health & Safety course (in english) which all visiting academics must undertake prior to working in the Laboratory / El segundo día comenzó con el curso en línea de Salud y Seguridad del Laboratorio Cavendish (en inglés), que todos los visitantes deben realizar antes de trabajar en el Laboratorio.
 
 
 ## Sediment analysis
