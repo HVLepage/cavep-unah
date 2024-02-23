@@ -25,31 +25,31 @@ Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Tr
 
 ![FieldTripSchedule](/assets/posts/2.24Cambridge1.jpg)
 
-On Day 1, Luis de los Santos Valladares gave the students a guided tour of the historic centre of Cambridge and visited some of the Colleges / El primer día, Luis de los Santos Valladares ofreció a los estudiantes una visita guiada por el centro histórico de Cambridge y visitó algunos de los Colleges.
+On Day 1, Luis de los Santos Valladares gave the students a guided tour of the historic centre of Cambridge, which included visiting the famous Botanical Gardens, the Fitzwilliam museum and some of the Colleges / El primer día, Luis de los Santos Valladares ofreció a los estudiantes una visita guiada por el centro histórico de Cambridge, que incluyó una visita a los famosos Jardines Botánicos, el museo Fitzwilliam y algunos de los Colleges.
 
 
 ## Cavendish Laboratory Health & Safety course
 
 ![FieldTripSchedule](/assets/posts/2.24Cambridge2.jpg)
 
-Day 2 began with the Cavendish Laboratory on-line Health & Safety course (in english) which all visiting academics must undertake prior to working in the Laboratory / El segundo día comenzó con el curso en línea de Salud y Seguridad del Laboratorio Cavendish (en inglés), que todos los visitantes deben realizar antes de trabajar en el Laboratorio.
+Day 2 began with the Cavendish Laboratory on-line Health & Safety course (in english) which explains the risks of working in the laboratory. All visiting academics must undertake the course prior to working in the Laboratory / La segunda dia comenzó con el curso en línea de Salud y Seguridad del Laboratorio Cavendish (en inglés), en el que se explican los riesgos de trabajar en el laboratorio. Todos los visitantes deben realizar el curso antes de trabajar en el laboratorio.
 
 
 ## Sediment analysis
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments1.jpg)
 
-Luis de los santos Valladares 
+Luis de los Santos Valladares training UNAH student Dina Huanaco in preparing samples for X-ray diffraction measurements / Luis de los Santos Valladares entrenando a la estudiante de la UNAH Dina Huanaco en la preparación de muestras para mediciones de difracción de rayos X.
 
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments2.jpg)
 
-Dina Huanaco 
+Dina Huanaco prepares sediment samples in an agata mortar following strict cleaning procedures prior to their analysis using X-ray diffraction / Dina Huanaco prepara muestras de sedimentos en un mortero de ágata siguiendo estrictos procedimientos de limpieza antes de su análisis mediante difracción de rayos X. 
 
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments3.jpg)
 
-Dina Huanaco 
+Dina Huanaco received additional training from another UCAM academic - Prof.Jumat Kargin in  analysing the morphology and grain size of sediments from the water treatment plants located close to Huanta / Dina Huanaco recibió formación adicional de otro académico de la UCAM, el profesor Jumat Kargin, en el análisis de la morfología y la granulometría de los sedimentos procedentes de las plantas de tratamiento de aguas situadas cerca de Huanta.
 
 
 ## Micro-structure analysis
