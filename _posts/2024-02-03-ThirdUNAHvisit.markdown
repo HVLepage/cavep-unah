@@ -21,25 +21,54 @@ El 3 de febrero de 2024 siete estudiantes de la UNAH - Javier Agama Romani, Gime
 Para ver el programa de la visita, utilice el enlace anterior titulado 'Field Trip Schedule'.
 
 
+## Visit to the historic centre of Cambridge 
+
 ![FieldTripSchedule](/assets/posts/2.24Cambridge1.jpg)
+
+
+
+## Cavendish Laboratory Health & Safety course
 
 ![FieldTripSchedule](/assets/posts/2.24Cambridge2.jpg)
 
+
+
+## Sediment analysis
+
 ![FieldTripSchedule](/assets/posts/2.24Sediments1.jpg)
+
+
 
 ![FieldTripSchedule](/assets/posts/2.24Sediments2.jpg)
 
+
+
 ![FieldTripSchedule](/assets/posts/2.24Sediments3.jpg)
+
+
+
+## Micro-structure analysis
 
 ![FieldTripSchedule](/assets/posts/2.24Butterfly2.webp)
 
+
+
 ![FieldTripSchedule](/assets/posts/2.24Butterfly1.webp)
+
+
+
+## Remote Sensing 
 
 ![FieldTripSchedule](/assets/posts/2.24Remote1.png)
 
+
+
 ![FieldTripSchedule](/assets/posts/2.24Remote2.png)
 
+
+
 ![FieldTripSchedule](/assets/posts/2.24Remote3.jpg)
+
 
 
 
