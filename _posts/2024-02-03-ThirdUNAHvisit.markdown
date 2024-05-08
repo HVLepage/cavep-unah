@@ -80,7 +80,7 @@ A detailed analysis of each bofedal provides reasons for its condition. In this 
 
 ![FieldTripSchedule](/assets/posts/2.24English1.jpeg)
 
-Elizabetta Garletti delivering an english lesson to the UNAH stduents in the Red room at the Maxwell centre, Cavendish laboratory. Students had a 90 minute english lesson every day during the first week of the visit. / Elizabetta Garletti impartiendo una clase de inglés a los estudiantes de la UNAH en la sala roja del centro Maxwell, laboratorio Cavendish. Durante la primera semana de la visita, los estudinates recibieron diariamente una clase de inglés de 90 minutos. 
+Elisabetta Garletti delivering an english lesson to the UNAH stduents in the Red room at the Maxwell centre, Cavendish laboratory. Students had a 90 minute english lesson every day during the first week of the visit. / Elizabetta Garletti impartiendo una clase de inglés a los estudiantes de la UNAH en la sala roja del centro Maxwell, laboratorio Cavendish. Durante la primera semana de la visita, los estudinates recibieron diariamente una clase de inglés de 90 minutos. 
 
 
 ## UNAH students present their research projects to the UCAM team and guests
