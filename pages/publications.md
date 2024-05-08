@@ -81,7 +81,13 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ### Remote sensing / Teledeteccion
+* Lepage, Hugo V., et al. ["Greening and Browning Trends on the Pacific Slope of Peru and Northern Chile."](https://doi.org/10.3390/rs12152418) Remote Sensing 15.14 (2023): 3628.
 
+* Maldonado Fonkén, Mónica Sofía. ["An introduction to the bofedales of the Peruvian High Andes."](https://www.cabidigitallibrary.org/doi/pdf/10.5555/20173032782) (2014): Article-05.
+
+* Turpo Cayo, Efrain Yury, et al. ["Mapping three decades of changes in the tropical Andean glaciers using landsat data processed in the Earth engine."](https://doi.org/10.3390/rs14091974) Remote Sensing 14.9 (2022): 1974.
+
+* Beck, H.E., McVicar, T.R., Vergopolan, N. et al. [High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections.](https://doi.org/10.1038/s41597-023-02549-6) Sci Data 10, 724 (2023).
 
 ### Bofedales / Bofedales
 * Garcia Dulanto, Jorge Luis. ["Implementación de una metodología para la identificación de bofedales usando datos imágenes satelitales Landsat-caso estudio: bofedal Chunal, cuenca alta del río Chillón."](https://cybertesis.unmsm.edu.pe/handle/20.500.12672/10446) Tesis, Universidad Nacional Mayor de San Marcos (2018).
