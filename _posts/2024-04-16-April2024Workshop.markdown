@@ -7,7 +7,7 @@ category: workshop
 ---
 
 
-[Field Trip Schedule](/assets/posts/UCAM_LSVvisit_April24.pdf)
+[Field Trip Schedule](/assets/posts/UCAM_LSVvisit_April24.jpg)
 
 
 ## UCAM workshop visit No.3
