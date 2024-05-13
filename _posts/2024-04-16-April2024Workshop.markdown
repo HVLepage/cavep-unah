@@ -6,4 +6,11 @@ version: 1.0.0
 category: workshop
 ---
 
-Coming soon...
+
+[Field Trip Schedule](/assets/posts/UCAM_LSVvisit_April24.pdf)
+
+
+## UCAM workshop visit No.3
+
+
+
