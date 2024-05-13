@@ -18,7 +18,7 @@ Title of the presentation: 'Morfologia y analisis quimico elemental de suelos y 
 
 A presentation was given about the morphological analysis of soils and sediments. For the morphological analysis discussions, the talk focused on the Scanning Electron Microscope (SEM) technique. The fundamentals of the technique were explained and parts of a SEM were described. For the chemical analysis, the Energy Dispersive X-ray spectroscopy (EDX) was explained and also compared with other similar techniques such as X-ray Fluorescence (XRF) spectroscopy. At the end of the talk all the questions from the public were resolved. 
 
-![March2024Fieldwork](/assets/posts/4.24Luis1.JPG)
+![April2024Fieldwork](/assets/posts/4.24Luis1.JPG)
 
 
 ## 2. Workshop 
