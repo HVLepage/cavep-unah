@@ -13,7 +13,13 @@ category: field-work
 
 ## Hydrology
 
+## Students in the field / Estudiantes en el campo
+
 ![March2024Fieldwork](/assets/posts/3.24Field1.JPG)
+
+Two UNAH students using the Valeport flowmeter to record the velocity of the river Huanta at Q2.3.
+
+Dos estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la velocidad del río Huanta en Q2.3.
 
 
 ![March2024Fieldwork](/assets/posts/3.24Field2.JPG)
@@ -30,6 +36,9 @@ category: field-work
 
 ![March2024Fieldwork](/assets/posts/3.24Field7.JPG)
 
+
+
+## Students in the laboratory / Estudinates en el laboratorio
 
 ![March2024Fieldwork](/assets/posts/3.24Student1.JPG)
 
