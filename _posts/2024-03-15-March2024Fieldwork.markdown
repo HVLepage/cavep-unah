@@ -6,4 +6,7 @@ version: 1.0.0
 category: field-work
 ---
 
-Coming soon...
+
+
+[Field Trip Schedule](/assets/posts/UCAM_schedule_March24.pdf)
+
