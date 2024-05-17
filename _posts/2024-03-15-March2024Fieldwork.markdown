@@ -31,16 +31,16 @@ Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la ve
 
 ![March2024Fieldwork](/assets/posts/3.24Field3.JPG)
 
-UNAH students using the multiparameter to record water quality data of the river Huanta at Q1.2N.
+UNAH students using the multiparameter to record water quality data of the river Opanccay Sur at Q1.2N.
 
-Estudiantes de la UNAH utilizando el multiparameter para registrar la calidad del agua del río Huanta en Q1.2N.
+Estudiantes de la UNAH utilizando el multiparameter para registrar la calidad del agua del río Opanccay Sur en Q1.2N.
 
 
 ![March2024Fieldwork](/assets/posts/3.24Field4.JPG)
 
-UNAH students using the Valeport flowmeter to record the velocity of the river Opanccay Sur at Q2.2L.
+UNAH students using the Valeport flowmeter to record the velocity of the river Huanta at Q2.2L.
 
-Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la velocidad del río Opanccay Sur en Q2.2L.
+Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la velocidad del río Huanta en Q2.2L.
 
 
 ![March2024Fieldwork](/assets/posts/3.24Field6.JPG)
@@ -51,6 +51,10 @@ Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la ve
 
 
 ![March2024Fieldwork](/assets/posts/3.24Field7.JPG)
+
+UNAH students analysing a river Cachi water sample for alkalinity at sitio RC01.
+
+Estudiantes de la UNAH analizando una muestra de agua del río Cachi por su nivel de alkalinidad en sitio RC01.
 
 
 
