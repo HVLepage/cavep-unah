@@ -16,4 +16,36 @@ category: field-work
 ![March2024Fieldwork](/assets/posts/3.24Field1.JPG)
 
 
+![March2024Fieldwork](/assets/posts/3.24Field2.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Field3.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Field4.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Field5.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Field6.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Field7.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Student1.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Student2.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Student3.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Student4.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Student5.JPG)
+
 
