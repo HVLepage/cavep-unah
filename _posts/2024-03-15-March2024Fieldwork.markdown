@@ -25,9 +25,6 @@ category: field-work
 ![March2024Fieldwork](/assets/posts/3.24Field4.JPG)
 
 
-![March2024Fieldwork](/assets/posts/3.24Field5.JPG)
-
-
 ![March2024Fieldwork](/assets/posts/3.24Field6.JPG)
 
 
