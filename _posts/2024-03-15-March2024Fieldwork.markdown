@@ -45,6 +45,10 @@ Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la ve
 
 ![March2024Fieldwork](/assets/posts/3.24Field6.JPG)
 
+UNAH students using the Valeport flowmeter to record the velocity of the river Huamanguilla-Iguian at Q3.1.
+
+Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la velocidad del río Huamanguilla-Iguian en Q3.1.
+
 
 ![March2024Fieldwork](/assets/posts/3.24Field7.JPG)
 
