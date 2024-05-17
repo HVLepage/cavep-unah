@@ -54,7 +54,7 @@ Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la ve
 
 UNAH students analysing a river Cachi water sample for alkalinity at sitio RC01.
 
-Estudiantes de la UNAH analizando una muestra de agua del río Cachi por su nivel de alkalinidad en sitio RC01.
+Estudiantes de la UNAH analizando una muestra de agua del río Cachi por su nivel de alcalinidad en sitio RC01.
 
 
 
@@ -64,18 +64,26 @@ Estudiantes de la UNAH analizando una muestra de agua del río Cachi por su nive
 
 Students pass a water sample through a filter using the Geopump.
 
-Los alumnos pasan una muestra de agua por un filtro utilizando la Geobomba.
+Un grupo de estudiantes pasan una muestra de agua por un filtro utilizando la Geobomba.
 
 
 ![March2024Fieldwork](/assets/posts/3.24Student2.JPG)
 
+Students test the alkalinity level of a water sample using titration.
+
+Un grupo de estudiantes comprueban el nivel de alcalinidad de una muestra de agua mediante titración.
+
 
 ![March2024Fieldwork](/assets/posts/3.24Student3.JPG)
 
+Students test the alkalinity level of a water sample using titration.
 
-![March2024Fieldwork](/assets/posts/3.24Student4.JPG)
+Un grupo de estudiantes comprueban el nivel de alcalinidad de una muestra de agua mediante titración.
 
 
 ![March2024Fieldwork](/assets/posts/3.24Student5.JPG)
 
+Students test the alkalinity level of a water sample using titration.
+
+Un grupo de estudiantes comprueban el nivel de alcalinidad de una muestra de agua mediante titración.
 
