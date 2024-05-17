@@ -24,8 +24,14 @@ Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la ve
 
 ![March2024Fieldwork](/assets/posts/3.24Field2.JPG)
 
+UNAH students using the Valeport flowmeter to record the velocity of the river Huanta at Q2.3.
+
+Estudiantes de la UNAH utilizando el caudalímetro Valeport para registrar la velocidad del río Huanta en Q2.3.
+
 
 ![March2024Fieldwork](/assets/posts/3.24Field3.JPG)
+
+
 
 
 ![March2024Fieldwork](/assets/posts/3.24Field4.JPG)
