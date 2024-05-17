@@ -62,6 +62,10 @@ Estudiantes de la UNAH analizando una muestra de agua del río Cachi por su nive
 
 ![March2024Fieldwork](/assets/posts/3.24Student1.JPG)
 
+Students pass a water sample through a filter using the Geopump.
+
+Los alumnos pasan una muestra de agua por un filtro utilizando la Geobomba.
+
 
 ![March2024Fieldwork](/assets/posts/3.24Student2.JPG)
 
