@@ -10,3 +10,10 @@ category: field-work
 
 [Field Trip Schedule](/assets/posts/UCAM_schedule_March24.pdf)
 
+
+## Hydrology
+
+![March2024Fieldwork](/assets/posts/3.24Field1.JPG)
+
+
+
