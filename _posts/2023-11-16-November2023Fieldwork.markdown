@@ -58,7 +58,7 @@ Estudiantes de turismo de la UNAH en el campo en un valle remoto cerca de Tambo.
 
 
 
-### Water 
+### Hydrology
 
 ![November2023Fieldwork](/assets/posts/11.23RC01.JPG)
 UNAH students taking a water sample from the river Cachi at RC01.
