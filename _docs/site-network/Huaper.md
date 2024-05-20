@@ -25,9 +25,9 @@ The study site / El lugar del estudio (March 2023) (John Forrest)
 
 ### Site description
 
-MH01 is located north-west of Huanta amongst the foothills lining the eastern flank of the Cachi valley. It is backed by a steep slope while the slope towards the river Cachi is much gentler.
+MH01 is located north-west of Huanta amongst the foothills lining the eastern flank of the Cachi valley. It is backed by a steep slope while the slope towards the river Cachi is gentler.
 
-The study site is situated within the manantial, on the edge of one of the larger pools, while water samples and measurements were taken from a lagoon towards the centre of the Huaper. 
+The study site is situated within the manantial, on the edge of one of the larger lagoons towards the centre of the Huaper, where the water samples and water quality measurements were taken. 
 
 Discharge measurements were taken at the Huaper outflow but it should be noted that this is not an accurate measure of the discharge from the Huaper because –
 -it is a manmade outflow channel, artificially setting the outflow.
@@ -37,15 +37,11 @@ Discharge measurements were taken at the Huaper outflow but it should be noted t
 
 ### Descripción del sitio
 
-MH01 está situado al noroeste de Huanta, entre las estribaciones que bordean el flanco oriental del valle de Cachi. Está respaldado por una ladera abrupta, mientras que la pendiente hacia el río Cachi es mucho más suave.
+MH01 está situado al noroeste de Huanta, entre las estribaciones que bordean el flanco oriental del valle de Cachi. Está respaldado por una ladera abrupta, mientras que la pendiente hacia el río Cachi es más suave.
 
-El lugar de estudio está situado dentro del manantial, al borde de una de las pozas más grandes.
+El lugar de estudio está situado dentro del manantial, al borde de una de las lagunas más grandes. Las muestras de agua y las mediciones se tomaron en una laguna situada hacia el centro del Huaper.
 
-Las muestras de agua y las mediciones se tomaron en una laguna situada hacia el centro del Huaper.
-
-Las mediciones de caudal se realizaron en la desembocadura del Huaper.
-
-NB. Esta no es una medida exacta de la descarga del Huaper porque...
+Las mediciones de caudal se realizaron en la desembocadura del Huaper. NB. Esta no es una medida exacta de la descarga del Huaper porque ...
 -se trata de un canal de desagüe construido por el hombre, que fija artificialmente el caudal de salida.
 -también puede perderse agua por el flujo subterráneo.
 
@@ -58,7 +54,7 @@ NB. Esta no es una medida exacta de la descarga del Huaper porque...
 
 (Los comentarios analíticos con respecto a los datos se publicarán una vez que se haya visitado un sitio al menos dos veces).
 
-NB.The water quality data is taken from one of the lagoons in the manantial while the river characteristic data recorded to obtain a dischrage figure was taken from the outflow from the manantial.
+NB.The water quality data is taken from one of the lagoons within the manantial while the river characteristic data recorded to obtain a discharge figure was taken from the outflow from the manantial.
 
 NB: Los datos de calidad del agua proceden de una de las lagunas del manantial, mientras que los datos característicos del río registrados para obtener una medida de caudal se tomaron de la desembocadura del manantial.
 
@@ -69,7 +65,7 @@ The following river and water quality data was collected from this site:
 
 En este lugar se recogieron los siguientes datos fluviales y de calidad del agua:
 
-|     Site / Sitio: MH01                                   |     March 2023                 |     November / noviembre 2023          |      March / marzo 2024                |   |
+|     Site / Sitio: MH01                                   |     March / marzo 2023                 |     November / noviembre 2023          |      March / marzo 2024                |   |
 |----------------------------------------------------------|--------------------------------|----------------------------------------|----------------------------------------|---|
 |     Season / Temporada:                                  |     Austral Summer / Verano    |     Austral Winter / Invierno          |     Austral Summer / Verano            |   |
 |     Date / Fecha:                                        |     24.3.23                    |     28.11.23                           |     27.3.24                            |   |
@@ -92,4 +88,5 @@ En este lugar se recogieron los siguientes datos fluviales y de calidad del agua
 |     Turbidity / Turbidez                                 |     Clear /  Transparente      |     Slightly turbid / Poco turbidez    |     Slightly turbid / Poco turbidez    |   |
 |     Alkalinity/Alkalinidad   (Titración) (mg/l CaCO₃)    |     367 (1.6N)                 |     363 (1.6N)                         |     338 (1.6N)                         |   |
 |     Alkalinity Field Tester (Hanna) (ppm CaCO₃)          |     311                        |     347                                |     310                                |   |
+
 
