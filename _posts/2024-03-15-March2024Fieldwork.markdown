@@ -135,11 +135,15 @@ Recording the pH and temperature of the soil / Registro del pH y la temperatura 
 
 ![March2024Fieldwork](/assets/posts/3.24Labsoils1.JPG)
 
+Grinding soil samples to reduce them to powder / Pulverizando de muestras de suelo para reducirlas a polvo.
+
 
 ![March2024Fieldwork](/assets/posts/3.24Labsoils2.JPG)
+
+Comparing the colour of a soil sample to Munsell soil colour charts to identify the soil type / Comparación del color de una muestra de suelo con las tablas de colores Munsell para identificar el tipo de suelo.
 
 
 ![March2024Fieldwork](/assets/posts/3.24Labsoils3.JPG)
 
-
+Grinding soil samples to reduce them to powder / Pulverizando de muestras de suelo para reducirlas a polvo.
 
