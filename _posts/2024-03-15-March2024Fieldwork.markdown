@@ -103,20 +103,32 @@ Un grupo de estudiantes comprueban el nivel de alcalinidad de una muestra de agu
 
 ![March2024Fieldwork](/assets/posts/3.24Soils4.JPG)
 
+Collecting a soil sample / Recogida de una muestra de suelo.
+
 
 ![March2024Fieldwork](/assets/posts/3.24Soils5.JPG)
+
+Using an auger to measure soil depth / Uso de una barrena para medir la profundidad del suelo.
 
 
 ![March2024Fieldwork](/assets/posts/3.24Soils6.JPG)
 
+Marking the auger to record the soil depth / Marcado de la barrena para registrar la profundidad del suelo.
+
 
 ![March2024Fieldwork](/assets/posts/3.24Soils3.JPG)
+
+Recording the conductivity and temperature of the soil / Registro de la conductividad y la temperatura del suelo.
 
 
 ![March2024Fieldwork](/assets/posts/3.24Soils2.JPG)
 
+Recording the conductivity and temperature of the soil / Registro de la conductividad y la temperatura del suelo.
+
 
 ![March2024Fieldwork](/assets/posts/3.24Soils9.JPG)
+
+Recording the pH and temperature of the soil / Registro del pH y la temperatura del suelo.
 
 
 ## Students in the laboratory / Estudiantes en el laboratorio
