@@ -64,7 +64,7 @@ Estudiantes de la UNAH analizando una muestra de agua del río Cachi por su nive
 
 
 
-## Students in the laboratory / Estudinates en el laboratorio
+## Students in the laboratory / Estudiantes en el laboratorio
 
 ![March2024Fieldwork](/assets/posts/3.24Student1.JPG)
 
@@ -94,4 +94,9 @@ Un grupo de estudiantes comprueban el nivel de alcalinidad de una muestra de agu
 Students test the alkalinity level of a water sample using titration.
 
 Un grupo de estudiantes comprueban el nivel de alcalinidad de una muestra de agua mediante titración.
+
+
+
+## Soils
+
 
