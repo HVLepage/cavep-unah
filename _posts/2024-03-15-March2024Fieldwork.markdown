@@ -99,4 +99,35 @@ Un grupo de estudiantes comprueban el nivel de alcalinidad de una muestra de agu
 
 ## Soils
 
+## Students in the field / Estudiantes en el campo
+
+![March2024Fieldwork](/assets/posts/3.24Soils4.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Soils5.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Soils6.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Soils3.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Soils2.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Soils9.JPG)
+
+
+## Students in the laboratory / Estudiantes en el laboratorio
+
+![March2024Fieldwork](/assets/posts/3.24Labsoils1.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Labsoils2.JPG)
+
+
+![March2024Fieldwork](/assets/posts/3.24Labsoils3.JPG)
+
+
 
