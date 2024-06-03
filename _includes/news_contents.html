@@ -14,18 +14,11 @@
     </ul>
     <h4>Field Work & Workshops</h4>
     <ul>
-      {% for post in site.categories.field-work %}
+      {% assign sortedPosts = site.categories['field-work'] | concat: site.categories['workshop'] | sort: 'date' | reverse %}
+      {% for post in sortedPosts %}
       <li {%- if page.title == post.title %} class="current" {%- endif %}>
       <div id="menu-nav">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-      
-      </li>
-      {% endfor %}
-      {% for post in site.categories.workshop %}
-      <li {%- if page.title == post.title %} class="current" {%- endif %}>
-      <div id="menu-nav">
-        <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       </div>
       
       </li>
