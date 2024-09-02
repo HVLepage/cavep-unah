@@ -6,4 +6,10 @@ version: 1.0.0
 category: field-work
 ---
 
-Coming soon...
+[Field Trip Schedule](/assets/posts/UCAMscheduleJune24.pdf)
+
+
+## Hydrology
+
+## Students in the field / Estudiantes en el campo
+
