@@ -124,10 +124,37 @@ Group photo of the participants in the first UCAM UNAH Rivers of Huanta data ana
 Foto de grupo de los participantes en el primer taller UCAM UNAH de análisis de datos de los rios de Huanta.
 
 
+
 ## Soils
 
 ## Students in the field / Estudiantes en el campo
 
 ![June2024Fieldwork](/assets/posts/6.24Lab7.JPG)
 
-Collecting a soil sample / Recogida de una muestra de suelo.
+Students struggling to measure the soil depth using an auger. 
+
+Los estudiantes se esfuerzan por medir la profundidad del suelo utilizando una barrena. 
+
+
+![June2024Fieldwork](/assets/posts/6.24Lab7.JPG)
+
+Students collecting a soil sample and measuring the pH and conductivity of the soil.
+
+Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
+
+
+## Students in the laboratory / Estudiantes en el laboratorio
+
+![June2024Fieldwork](/assets/posts/6.24Lab6.JPG)
+
+Students referring to Munsell charts to identify soil types and characteristics.
+
+Los estudiantes se refieren a las tablas Munsell para identificar los tipos y las características del suelo.
+
+
+![June2024Fieldwork](/assets/posts/6.24Lab7.JPG)
+
+Students use a pestle and mortar to pulverise the soil samples and reduce them to a fine powder.
+
+Los estudiantes utilizan un mortero para pulverizar las muestras de suelo y reducirlas a un polvo fino.
+
