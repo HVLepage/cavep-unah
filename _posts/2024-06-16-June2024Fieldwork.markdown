@@ -8,7 +8,7 @@ category: field-work
 
 [Field Trip Schedule](/assets/posts/UCAMscheduleJune24.pdf)
 
-[Field Trip Schedule](/assets/posts/LSVvisitJune2024.pdf)
+[Field Trip Schedule LSV](/assets/posts/LSVvisitJune2024.pdf)
 
 
 ## Hydrology
