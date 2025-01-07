@@ -22,7 +22,6 @@ Close up aerial view of study site / Vista muy cerca del aérea del lugar del es
 The study site / El lugar del estudio (March 2023) (John Forrest)
 
 
-
 ### Site description
 
 MH01 is located north-west of Huanta amongst the foothills lining the eastern flank of the Cachi valley. It is backed by a steep slope while the slope towards the river Cachi is gentler.
@@ -33,7 +32,6 @@ Discharge measurements were taken at the Huaper outflow but it should be noted t
 -it is a manmade outflow channel, artificially setting the outflow.
 -water may also be lost through subterranean flow.
 
-(Comments on geology, vegetation and fauna will be added post-future field visits).
 
 ### Descripción del sitio
 
@@ -45,14 +43,8 @@ Las mediciones de caudal se realizaron en la desembocadura del Huaper. NB. Esta 
 -se trata de un canal de desagüe construido por el hombre, que fija artificialmente el caudal de salida.
 -también puede perderse agua por el flujo subterráneo.
 
-(Los comentarios sobre la geología, vegetación y fauna se añadirán tras de futuras visitas de campo).
-
 
 ### Data analysis / Análisis de datos
-
-(Analytical comments with respect to the data will be posted once a site has been visited at least twice).
-
-(Los comentarios analíticos con respecto a los datos se publicarán una vez que se haya visitado un sitio al menos dos veces).
 
 NB.The water quality data is taken from one of the lagoons within the manantial while the river characteristic data recorded to obtain a discharge figure was taken from the outflow from the manantial.
 
