@@ -39,11 +39,15 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 
 ###  Microstructures / Microestructuras
+* Dolinko, A. et al. ["Analysis of the optical properties of the silvery spots on the wings of the Gulf Fritillary, Dione vanillae."] (https://www.researchgate.net/publication/354924818_Analysis_of_the_optical_properties_of_the_silvery_spots_on_the_wings_of_the_Gulf_Fritillary_Dione_vanillae) Scientific Reports 11(1):19341.
+
 * Giraldo, M. A. & D. G. Stavenga. ["Brilliant iridescence of Morpho butterfly wing scales is due to both a thin film lower lamina and a multilayered upper lamina."](https://link.springer.com/article/10.1007/s00359-016-1084-1) Journal of Comparative Physiology A 202.5 (2016): 381-388.
 
 * Kinoshita, Shuichi, Shinya Yoshioka, & Kenji Kawagoe. ["Mechanisms of structural colour in the Morpho butterfly: cooperation of regularity and irregularity in an iridescent scale."](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2002.2019) Proceedings of the Royal Society of London. Series B: Biological Sciences 269.1499 (2002): 1417-1421.
 
 * Lee, R. Todd, & Glenn S. Smith. ["Detailed electromagnetic simulation for the structural color of butterfly wings."](https://opg.optica.org/ao/fulltext.cfm?uri=ao-48-21-4177&id=183635) Applied Optics 48.21 (2009): 4177-4190.
+
+* * Ren, A. et al. ["Convergent Evolution of Broadband Reflectors Underlies Metallic Coloration in Butterflies."] (https://www.researchgate.net/publication/342555032_Convergent_Evolution_of_Broadband_Reflectors_Underlies_Metallic_Coloration_in_Butterflies) Frontiers in Ecology & Evolution 8:206.
 
 * Steindorfer, Michael A., et al. ["Detailed simulation of structural color generation inspired by the Morpho butterfly."](https://opg.optica.org/oe/fulltext.cfm?uri=oe-20-19-21485&id=241224) Optics Express 20.19 (2012): 21485-21494.
 
