@@ -157,9 +157,9 @@ Estudiantes recogen una muestra de suelo.
 
 ![November2024Fieldwork](/assets/posts/11.24Lab4.JPG)
 
-Students pulverising dried soil samples to prepare them for analysis.
+Students use a pestle and mortar to pulverise the soil samples to reduce them to a fine powder for further analysis.
 
-Estudiantes pulverizando muestras de suelos secas para prepararlas para el análisis.
+Los estudiantes utilizan un mortero para pulverizar las muestras de suelo y reducirlas a un polvo fino para analizarlas.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Lab5.JPG)
