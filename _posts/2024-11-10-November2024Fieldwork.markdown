@@ -17,130 +17,115 @@ Field Trip Schedule
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers1.JPG)
 
-Students using the Valeport flowmeter to record water velocity at site RC01 (Rio Cachi).
+Students using the Hanna multiparameter to record water characteristic data at site RC02 (Rio Cachi).
 
-Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio RC01 (Río Cachi).
+Estudiantes utilizando el Hanna multiparametro para registrar detalles de las caracteristicas del agua en el sitio RC02 (Río Cachi).
 
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers2.JPG)
 
-Students using the Valeport flowmeter to record water velocity at site Q3.2 (Rio Huamanguilla-Iguian).
+Students using the Valeport flowmeter to record water velocity at site Q1.1 (Rio Opanccay).
 
-Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio Q3.2 (Rio Huamanguilla-Iguian).
+Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio Q1.1 (Rio Opanccay).
 
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers3.JPG)
 
-Students using theGeopacks flowmeter to record water velocity at site Q3.1 (Rio Huamanguilla-Iguian).
+UNAH teacher and students using the Hanna multiparameter to record water characteristic data at site Q1.2S.M (Rio Opanccay).
 
-Estudiantes utilizando el caudalímetro Geopacks para registrar la velocidad del agua en el sitio Q3.1 (Rio Huamanguilla-Iguian).
+UNAH professor estudiantes utilizando el Hanna multiparametro para registrar detalles de las caracteristicas del agua en el sitio Q1.2S.M (Rio Opanccay).
 
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers4.JPG)
 
-Students using the Valeport flowmeter to record water velocity at site RC02 (Rio Cachi).
+UNAH teacher and students using the Valeport flowmeter to record water velocity at site Q2.1 (Rio Huanta).
 
-Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio RC02 (Rio Cachi).
+UNAH professor y estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio Q2.1 (Rio Huanta).
 
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers5.JPG)
 
-Students collecting water samples at Q1.2N.U (Rio Opanccay).
+UNAH students using a Geopacks flowmeter to record water velocity at Q3.2 (Rio Huamanguilla-Iguian).
 
-Estudiantes recogiendo muestras de agua en Q1.2N.U (Río Opanccay).
+Estudiantes recogiendo la velocidad del rio con un geopacks caudalmetro en el sitio Q3.2 (Rio Huamanguilla-Iguian).
 
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers6.JPG)
 
-Students analysing the alkalinity of the river water in the field at site Q2.2L.1.
+Students using the Valeport flowmeter to record water velocity at site Q2.3L (Rio Huanta).
 
-Estudiantes analizando en el campo la alcalinidad del agua del río en el sitio Q2.2L.1.
+Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio Q2.3L (Rio Huanta).
 
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers7.JPG)
 
-Students analysing the alkalinity of the river water in the field at site Q2.2L.1.
+Students using the Mettler Toledo meter to record dissolved oxygen levels at site Q1.2N.U (Rio Opanccay).
 
-Estudiantes analizando en el campo la alcalinidad del agua del río en el sitio Q2.2L.1.
+Estudiantes utilizando un Mettler Toledo para registrar niveles de oxigeno disuelto en el agua en el sitio Q1.2N.U (Rio Opanccay).
 
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
-![November2024Fieldwork](/assets/posts/11.24Lab1.JPG)
-
-Students using a Geopump to filter and prepare water samples for analysis.
-
-Estudiantes utilizando una Geobomba para filtrar y preparar muestras de agua para su análisis.
-
-
 ![November2024Fieldwork](/assets/posts/11.24Lab2.JPG)
 
-Students begin using a magnetic stirrer and a Hach titrator to analyse the alkalinity of a water sample.
+Dr Hugo Lepage (UCAM) demonstrates to UNAH students how to calibrate mutliparameter sensors.
 
-Los estudiantes comienzan a utilizar un agitador magnético y un titrator Hach para analizar la alcalinidad de una muestra de agua.
+El Dr. Hugo Lepage (UCAM) muestra a los estudiantes de la UNAH cómo se puede calibrar las sondas de un multiparamétrico.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Lab3.JPG)
 
-A student demonstrates using a magnetic stirrer and a Hach titrator to analyse the alkalinity of a water sample to other students.
+A student demonstrates using a magnetic stirrer and a Hach titrator to analyse the alkalinity of a water sample.
 
-Una estudinate hace una demostración a otros estudiantes del uso de un agitador magnético y un titrator Hach para analizar la alcalinidad de una muestra de agua.
-
-
-![November2024Fieldwork](/assets/posts/11.24Lab4.JPG)
-
-A student explains how to interpret the result of using a Hach titrator to analyse the alkalinity of a water sample.
-
-Un estudiante explica cómo interpretar el resultado de utilizar un valorador Hach para analizar la alcalinidad de una muestra de agua.
+Una estudiante usa un agitador magnético y un titrator Hach para analizar la alcalinidad de una muestra de agua.
 
 
-## Rivers Workshop
+## Rivers Workshop II
 
 ## Students taking part in the workshop / Estudiantes participando en el taller
 
 ![November2024Fieldwork](/assets/posts/11.24Workshop1.JPG)
 
-Students working in small groups - a different river per group - to begin to analyse the water data collected so far.
+Students review the river data collected to date in river based groups.
 
-Los estudiantes trabajan en pequeños grupos - un río diferente por grupo - para empezar a analizar los datos sobre el agua obtenidos hasta el momento.
-
-
-![Novbember2024Fieldwork](/assets/posts/11.24Workshop2.JPG)
-
-Students working in small groups to begin to analyse the water data - a different factor per student - collected so far.
-
-Los estudiantes trabajan en pequeños grupos para empezar a analizar los datos sobre el agua - un factor diferente por estudiante - recogidos hasta el momento.
+Estudiantes revisan en grupos los datos fluviales recogidos hasta la fecha.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Workshop3.JPG)
 
-UNAH staff and students working together to interpret the water data.
+Students attempt to explain a graphic derived from a principal component analysis of the water data.
 
-Un docente y estudiantes de la UNAH trabajan juntos para interpretar los datos sobre el agua.
+Estudiantes intentan explicar un gráfico derivado de un análisis de componentes principales de los datos del agua.
+
+
+![November2024Fieldwork](/assets/posts/11.24Workshop2.JPG)
+
+Students attempt to explain a graphic derived from a principal component analysis of the water data.
+
+Estudiantes intentan explicar un gráfico derivado de un análisis de componentes principales de los datos del agua.
 
 
 ### UNAH Annual Conference / Conferencia Anual de la UNAH
 
 ![November2024Fieldwork](/assets/posts/11.24Conference1.JPG)
 
-A student presents the findings of her group - their river - to the other groups.
+Peter Newton (UCAM) presents the findings of his research into the structure and properties of butterfly wings.
 
-Una estudiante presenta las conclusiones de su grupo - su río - a los demás grupos.
+El Dr Peter Newton (UCAM) presenta los resultados de sus investigaciones sobre la estructura y las propiedades de las alas de las mariposas.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Conference2.JPG)
 
-Group photo of the participants in the first UCAM UNAH Rivers of Huanta data analysis workshop.
+Hugo Lepage (UCAM) receives congratulations at the end of his presentation from the UNAH authorities.
 
-Foto de grupo de los participantes en el primer taller UCAM UNAH de análisis de datos de los rios de Huanta.
+]Hugo Lepage (UCAM) recibe la felicitación de las autoridades de la UNAH al final de su presentación.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Conference3.JPG)
 
-Group photo of the participants in the first UCAM UNAH Rivers of Huanta data analysis workshop.
+John Forrest (UCAM) presents the latest data obtained from the Huanta area river water quality research.
 
-Foto de grupo de los participantes en el primer taller UCAM UNAH de análisis de datos de los rios de Huanta.
-
+John Forrest (UCAM) presenta los últimos datos obtenidos en la investigación sobre la calidad del agua de los ríos por los alredores de Huanta.
 
 
 ## Soils
@@ -149,59 +134,37 @@ Foto de grupo de los participantes en el primer taller UCAM UNAH de análisis de
 
 ![November2024Fieldwork](/assets/posts/11.24Soils1.JPG)
 
-Students struggling to measure the soil depth using an auger. 
+Students prepare the soil sample site for data collection in a dried up former lake bed.
 
-Los estudiantes se esfuerzan por medir la profundidad del suelo utilizando una barrena. 
+Los estudiantes preparan el sitio de muestreo de suelo en el lecho seco de un lago antiguo.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Soils2.JPG)
 
-Students collecting a soil sample and measuring the pH and conductivity of the soil.
+A student measures the pH of the soil.
 
-Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
+Un estudiante mide el pH del suelo.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Soils3.JPG)
 
-Students collecting a soil sample and measuring the pH and conductivity of the soil.
+Students collecting a soil sample.
 
-Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
+Estudiantes recogen una muestra de suelo.
 
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
-![November2024Fieldwork](/assets/posts/11.24Lab1.JPG)
-
-Students struggling to measure the soil depth using an auger. 
-
-Los estudiantes se esfuerzan por medir la profundidad del suelo utilizando una barrena. 
-
-
-![November2024Fieldwork](/assets/posts/11.24Lab2.JPG)
-
-Students collecting a soil sample and measuring the pH and conductivity of the soil.
-
-Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
-
-
-![November2024Fieldwork](/assets/posts/11.24Lab3.JPG)
-
-Students collecting a soil sample and measuring the pH and conductivity of the soil.
-
-Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
-
-
 ![November2024Fieldwork](/assets/posts/11.24Lab4.JPG)
 
-Students collecting a soil sample and measuring the pH and conductivity of the soil.
+Students pulverising dried soil samples to prepare them for analysis.
 
-Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
+Estudiantes pulverizando muestras de suelos secas para prepararlas para el análisis.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Lab5.JPG)
 
-Students collecting a soil sample and measuring the pH and conductivity of the soil.
+Students using a Munsell soil guide to identify soil sample types.
 
-Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
-
+Estudinates utilizan la guía de suelos Munsell para identificar los tipos de muestras de suelo.
 
