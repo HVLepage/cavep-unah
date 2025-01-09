@@ -7,3 +7,160 @@ category: field-work
 ---
 
 Field Trip Schedule
+
+[Field Trip Schedule](/assets/posts/UCAMscheduleNov24.pdf)
+
+
+## Hydrology
+
+## Students in the field / Estudiantes en el campo
+
+![November2024Fieldwork](/assets/posts/11.24Rivers1.JPG)
+
+Students using the Valeport flowmeter to record water velocity at site RC01 (Rio Cachi).
+
+Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio RC01 (Río Cachi).
+
+
+![November2024Fieldwork](/assets/posts/11.24Rivers2.JPG)
+
+Students using the Valeport flowmeter to record water velocity at site Q3.2 (Rio Huamanguilla-Iguian).
+
+Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio Q3.2 (Rio Huamanguilla-Iguian).
+
+
+![November2024Fieldwork](/assets/posts/11.24Rivers3.JPG)
+
+Students using theGeopacks flowmeter to record water velocity at site Q3.1 (Rio Huamanguilla-Iguian).
+
+Estudiantes utilizando el caudalímetro Geopacks para registrar la velocidad del agua en el sitio Q3.1 (Rio Huamanguilla-Iguian).
+
+
+![November2024Fieldwork](/assets/posts/11.24Rivers4.JPG)
+
+Students using the Valeport flowmeter to record water velocity at site RC02 (Rio Cachi).
+
+Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio RC02 (Rio Cachi).
+
+
+![November2024Fieldwork](/assets/posts/11.24Rivers5.JPG)
+
+Students collecting water samples at Q1.2N.U (Rio Opanccay).
+
+Estudiantes recogiendo muestras de agua en Q1.2N.U (Río Opanccay).
+
+
+![November2024Fieldwork](/assets/posts/11.24Rivers6.JPG)
+
+Students analysing the alkalinity of the river water in the field at site Q2.2L.1.
+
+Estudiantes analizando en el campo la alcalinidad del agua del río en el sitio Q2.2L.1.
+
+
+
+## Students in the laboratory / Estudiantes en el laboratorio
+
+![November2024Fieldwork](/assets/posts/11.24Lab1.JPG)
+
+Students using a Geopump to filter and prepare water samples for analysis.
+
+Estudiantes utilizando una Geobomba para filtrar y preparar muestras de agua para su análisis.
+
+
+![November2024Fieldwork](/assets/posts/11.24Lab2.JPG)
+
+Students begin using a magnetic stirrer and a Hach titrator to analyse the alkalinity of a water sample.
+
+Los estudiantes comienzan a utilizar un agitador magnético y un titrator Hach para analizar la alcalinidad de una muestra de agua.
+
+
+![November2024Fieldwork](/assets/posts/11.24Lab3.JPG)
+
+A student demonstrates using a magnetic stirrer and a Hach titrator to analyse the alkalinity of a water sample to other students.
+
+Una estudinate hace una demostración a otros estudiantes del uso de un agitador magnético y un titrator Hach para analizar la alcalinidad de una muestra de agua.
+
+
+![November2024Fieldwork](/assets/posts/11.24Lab4.JPG)
+
+A student explains how to interpret the result of using a Hach titrator to analyse the alkalinity of a water sample.
+
+Un estudiante explica cómo interpretar el resultado de utilizar un valorador Hach para analizar la alcalinidad de una muestra de agua.
+
+
+## Rivers Workshop
+
+## Students taking part in the workshop / Estudiantes participando en el taller
+
+![November2024Fieldwork](/assets/posts/11.24Workshop1.JPG)
+
+Students working in small groups - a different river per group - to begin to analyse the water data collected so far.
+
+Los estudiantes trabajan en pequeños grupos - un río diferente por grupo - para empezar a analizar los datos sobre el agua obtenidos hasta el momento.
+
+
+![Novbember2024Fieldwork](/assets/posts/11.24Workshop2.JPG)
+
+Students working in small groups to begin to analyse the water data - a different factor per student - collected so far.
+
+Los estudiantes trabajan en pequeños grupos para empezar a analizar los datos sobre el agua - un factor diferente por estudiante - recogidos hasta el momento.
+
+
+![November2024Fieldwork](/assets/posts/11.24Workshop3.JPG)
+
+UNAH staff and students working together to interpret the water data.
+
+Un docente y estudiantes de la UNAH trabajan juntos para interpretar los datos sobre el agua.
+
+
+### UNAH Annual Conference / Conferencia Anual de la UNAH
+
+![November2024Fieldwork](/assets/posts/11.24Workshop1.JPG)
+
+A student presents the findings of her group - their river - to the other groups.
+
+Una estudiante presenta las conclusiones de su grupo - su río - a los demás grupos.
+
+
+![November2024Fieldwork](/assets/posts/11.24Workshop2.JPG)
+
+Group photo of the participants in the first UCAM UNAH Rivers of Huanta data analysis workshop.
+
+Foto de grupo de los participantes en el primer taller UCAM UNAH de análisis de datos de los rios de Huanta.
+
+
+
+## Soils
+
+## Students in the field / Estudiantes en el campo
+
+![November2024Fieldwork](/assets/posts/11.24Soils1.JPG)
+
+Students struggling to measure the soil depth using an auger. 
+
+Los estudiantes se esfuerzan por medir la profundidad del suelo utilizando una barrena. 
+
+
+![November2024Fieldwork](/assets/posts/11.24Soils2.JPG)
+
+Students collecting a soil sample and measuring the pH and conductivity of the soil.
+
+Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
+
+
+## Students in the laboratory / Estudiantes en el laboratorio
+
+![November2024Fieldwork](/assets/posts/11.24Soils3.JPG)
+
+Students struggling to measure the soil depth using an auger. 
+
+Los estudiantes se esfuerzan por medir la profundidad del suelo utilizando una barrena. 
+
+
+![November2024Fieldwork](/assets/posts/11.24Soils4.JPG)
+
+Students collecting a soil sample and measuring the pH and conductivity of the soil.
+
+Los estudiantes recogen una muestra de suelo, y miden el pH y la conductividad del suelo.
+
+
