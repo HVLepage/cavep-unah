@@ -31,7 +31,7 @@ Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del
 
 ![June2024Fieldwork](/assets/posts/6.24Rivers4.JPG)
 
-Students using theGeopacks flowmeter to record water velocity at site Q3.1 (Rio Huamanguilla-Iguian).
+Students using the Geopacks flowmeter to record water velocity at site Q3.1 (Rio Huamanguilla-Iguian).
 
 Estudiantes utilizando el caudalímetro Geopacks para registrar la velocidad del agua en el sitio Q3.1 (Rio Huamanguilla-Iguian).
 
@@ -77,7 +77,7 @@ Los estudiantes comienzan a utilizar un agitador magnético y un titrator Hach p
 
 A student demonstrates using a magnetic stirrer and a Hach titrator to analyse the alkalinity of a water sample to other students.
 
-Una estudinate hace una demostración a otros estudiantes del uso de un agitador magnético y un titrator Hach para analizar la alcalinidad de una muestra de agua.
+Una estudiante hace una demostración a otros estudiantes del uso de un agitador magnético y un titrator Hach para analizar la alcalinidad de una muestra de agua.
 
 
 ![June2024Fieldwork](/assets/posts/6.24Lab2.JPG)
@@ -123,7 +123,7 @@ Una estudiante presenta las conclusiones de su grupo - su río - a los demás gr
 
 Group photo of the participants in the first UCAM UNAH Rivers of Huanta data analysis workshop.
 
-Foto de grupo de los participantes en el primer taller UCAM UNAH de análisis de datos de los rios de Huanta.
+Foto del grupo de los participantes en el primer taller UCAM UNAH de análisis de datos de los rios de Huanta.
 
 
 
