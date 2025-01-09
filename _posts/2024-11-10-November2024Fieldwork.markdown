@@ -33,14 +33,14 @@ Estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del
 
 UNAH teacher and students using the Hanna multiparameter to record water characteristic data at site Q1.2S.M (Rio Opanccay).
 
-UNAH professor estudiantes utilizando el Hanna multiparametro para registrar detalles de las caracteristicas del agua en el sitio Q1.2S.M (Rio Opanccay).
+Un UNAH professor estudiantes utilizando el Hanna multiparametro para registrar detalles de las caracteristicas del agua en el sitio Q1.2S.M (Rio Opanccay).
 
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers4.JPG)
 
 UNAH teacher and students using the Valeport flowmeter to record water velocity at site Q2.1 (Rio Huanta).
 
-UNAH professor y estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio Q2.1 (Rio Huanta).
+Un UNAH professor y estudiantes utilizando el caudalímetro Valeport para registrar la velocidad del agua en el sitio Q2.1 (Rio Huanta).
 
 
 ![November2024Fieldwork](/assets/posts/11.24Rivers5.JPG)
@@ -143,7 +143,7 @@ Los estudiantes preparan el sitio de muestreo de suelo en el lecho seco de un la
 
 A student measures the pH of the soil.
 
-Un estudiante mide el pH del suelo.
+Una estudiante mide el pH del suelo.
 
 
 ![November2024Fieldwork](/assets/posts/11.24Soils3.JPG)
@@ -166,5 +166,5 @@ Estudiantes pulverizando muestras de suelos secas para prepararlas para el anál
 
 Students using a Munsell soil guide to identify soil sample types.
 
-Estudinates utilizan la guía de suelos Munsell para identificar los tipos de muestras de suelo.
+Estudiantes utilizan la guía de suelos Munsell para identificar los tipos de muestras de suelo.
 
