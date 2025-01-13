@@ -11,7 +11,7 @@ Field Trip Schedule
 [Field Trip Schedule](/assets/posts/UCAMscheduleNov24.pdf)
 
 
-## Hydrology
+## HYDROLOGY
 
 ## Students in the field / Estudiantes en el campo
 
@@ -128,7 +128,7 @@ John Forrest (UCAM) presents the latest data obtained from the Huanta area river
 John Forrest (UCAM) presenta los últimos datos obtenidos en la investigación sobre la calidad del agua de los ríos por los alredores de Huanta.
 
 
-## Soils
+## SOILS
 
 ## Students in the field / Estudiantes en el campo
 
@@ -167,4 +167,35 @@ Los estudiantes utilizan un mortero para pulverizar las muestras de suelo y redu
 Students using a Munsell soil guide to identify soil sample types.
 
 Estudiantes utilizan la guía de suelos Munsell para identificar los tipos de muestras de suelo.
+
+
+## MICROSTRUCTURES
+
+The following activities took place during the visit / Durante la visita se llevaron a cabo las siguientes actividades:
+
+## Optically Active Structures in Nature
+
+This presentation was given to two groups of students in the UNAH.
+An introduction to the physics of optical interference and structural colour in nature. The talk discussed the wave nature of light with reference to Maxwell’s equations, constructive and destructive interference, diffraction gratings, the physical limitations of optical microscopy and electron microscopy techniques. Finally, there was a brief introduction to the recent experimental and computational research being performed at UCAM.
+
+Esta presentación se impartió a dos grupos de estudiantes de la UNAH.
+Una introducción a la física de la interferencia óptica y el color estructural en la naturaleza. La charla trató sobre la naturaleza ondulatoria de la luz con referencia a las ecuaciones de Maxwell, la interferencia constructiva y destructiva, las rejillas de difracción, las limitaciones físicas de la microscopía óptica y las técnicas de microscopía electrónica. Por último, se hizo una breve introducción a la reciente investigación experimental y computacional que se está llevando a cabo en la UCAM.
+
+
+## 3D Imaging and Modelling of Butterfly Wing Nanostructures
+
+A repeat of the talk given at the UNAH conference was given to one group of students.
+A summary of the research work being performed at UCAM into nanostructures on the wings of butterflies. First the physics of interference is briefly introduced, next the methods of experimental work, particularly scanning electron microscopy and focussed ion beam milling. Recent experimental results are presented. Finally, computational results from simulations on the MEEP package are discussed, along with possible future work.
+
+Se repitió la charla dada en la conferencia de la UNAH a un grupo de estudiantes.
+Un resumen del trabajo de investigación que se está realizando en la UCAM sobre nanoestructuras en las alas de las mariposas. En primer lugar se presenta brevemente la física de la interferencia, a continuación los métodos de trabajo experimental, en particular la microscopía electrónica de barrido y el fresado por haz de iones focalizado. También se presentan resultados experimentales recientes. Por último, se discuten los resultados computacionales de las simulaciones en el paquete MEEP, junto con posibles trabajos futuros.
+
+
+## Experimental demonstration: Optical Imaging of Butterfly Wing Nanostructures
+
+With a small group of students, we investigated the scales on the wings of a handful of butterflies using the MicroLITE microscopes in the UNAH lab. This was mostly intended to be a demonstration of the use of equipment rather than a data collection exercise.
+
+Con un pequeño grupo de estudiantes, investigamos las escamas de las alas de un puñado de mariposas utilizando los microscopios MicroLITE del laboratorio de la UNAH. Se trataba más de una demostración del uso del equipo que de un ejercicio de recogida de datos.
+
+
 
