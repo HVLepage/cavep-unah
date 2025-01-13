@@ -11,6 +11,38 @@ Field Trip Schedule
 [Field Trip Schedule](/assets/posts/UCAMscheduleNov24.pdf)
 
 
+### UNAH ANNUAL CONFERENCE 2024 / Conferencia Anual de la UNAH 2024
+
+![November2024Fieldwork](/assets/posts/11.24Conference1.JPG)
+
+Peter Newton (UCAM) presents the findings of his research into the structure and properties of butterfly wings.
+
+El Dr Peter Newton (UCAM) presenta los resultados de sus investigaciones sobre la estructura y las propiedades de las alas de las mariposas.
+
+
+![November2024Fieldwork](/assets/posts/11.24Conference4.JPG)
+
+Eustace Barnes (UCAM) receives congratulations at the end of his presentation from the UNAH authorities.
+
+Eustace Barnes (UCAM) recibe la felicitación de las autoridades de la UNAH al final de su presentación.
+
+
+![November2024Fieldwork](/assets/posts/11.24Conference2.JPG)
+
+Hugo Lepage (UCAM) receives congratulations at the end of his presentation from the UNAH authorities.
+
+Hugo Lepage (UCAM) recibe la felicitación de las autoridades de la UNAH al final de su presentación.
+
+
+![November2024Fieldwork](/assets/posts/11.24Conference3.JPG)
+
+John Forrest (UCAM) presents the latest data obtained from the Huanta area river water quality research.
+
+John Forrest (UCAM) presenta los últimos datos obtenidos en la investigación sobre la calidad del agua de los ríos por los alredores de Huanta.
+
+
+
+
 ## HYDROLOGY
 
 ## Students in the field / Estudiantes en el campo
@@ -104,28 +136,6 @@ Students attempt to explain a graphic derived from a principal component analysi
 
 Estudiantes intentan explicar un gráfico derivado de un análisis de componentes principales de los datos del agua.
 
-
-### UNAH Annual Conference / Conferencia Anual de la UNAH
-
-![November2024Fieldwork](/assets/posts/11.24Conference1.JPG)
-
-Peter Newton (UCAM) presents the findings of his research into the structure and properties of butterfly wings.
-
-El Dr Peter Newton (UCAM) presenta los resultados de sus investigaciones sobre la estructura y las propiedades de las alas de las mariposas.
-
-
-![November2024Fieldwork](/assets/posts/11.24Conference2.JPG)
-
-Hugo Lepage (UCAM) receives congratulations at the end of his presentation from the UNAH authorities.
-
-]Hugo Lepage (UCAM) recibe la felicitación de las autoridades de la UNAH al final de su presentación.
-
-
-![November2024Fieldwork](/assets/posts/11.24Conference3.JPG)
-
-John Forrest (UCAM) presents the latest data obtained from the Huanta area river water quality research.
-
-John Forrest (UCAM) presenta los últimos datos obtenidos en la investigación sobre la calidad del agua de los ríos por los alredores de Huanta.
 
 
 ## SOILS
