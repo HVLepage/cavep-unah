@@ -20,7 +20,7 @@ Peter Newton (UCAM) presents the findings of his research into the structure and
 El Dr Peter Newton (UCAM) presenta los resultados de sus investigaciones sobre la estructura y las propiedades de las alas de las mariposas.
 
 
-![November2024Fieldwork](/assets/posts/11.24Conference4.JPG)
+![November2024Fieldwork](/assets/posts/11.24Conference4.jpg)
 
 Eustace Barnes (UCAM) receives congratulations at the end of his presentation from the UNAH authorities.
 
