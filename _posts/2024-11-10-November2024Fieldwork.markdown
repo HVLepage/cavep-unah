@@ -205,5 +205,25 @@ Peter Newton teaching UNAH students how to set up and calibrate a Dinolite micro
 Peter Newton enseñar a los estudiantes de la UNAH a configurar y calibrar un microscopio Dinolite.
 
 
+
 ## SEDIMENTS / SEDIMENTOS
+
+## Coordination meeting with the students
+
+The first days after my arrival to Huanta were spent in coordination meetings with the students in order to check their thesis progress and also to plan the next steps in their research for their thesis. Some theses refer to the physical and chemical characterization of soils and sediments collected from different areas around Huanta, such as from the Huaper lake and from the water plant treatments outside Huanta at Luricocha, Puca Puca and Ishpico. In the case of the water treatment plants, the sediment samples were collected as the waste water enters the plant, inside the plant and at the outflow from the plant. 
+
+The supervision was performed in person with each student in the auditorium of the “El Bosque” building of the University of Huanta, or the laboratories in CONSAC. Extensive discussions and redaction for the undergraduate plans for their theses were prepared consisting of how to treat the samples before the analysis, inspection by optical microscope, analysing the principal chemical composition and quantification of the chemical data by using the available database and statistical programs.
+
+
+## Workshop
+
+A workshop about the “Preparation of sediment samples for their physical and chemical analysis” was given about the initial treatment of sediment and soil samples for posterior measurements by different physical and chemical techniques. During the talk, the protocols for managing the samples before characterization were outlined  - drying them, sieving them, grinding them and initial inspection by optical microscope. The initial procedures for the digestion of the sediment samples were also explained. 
+
+
+## Visiting the Universidad Nacional Mayor de San Marcos
+
+Three students from the “Escuela Academica de Ingenieria y Gestion Ambiental” (IGA) of the UNAH: Shania Kathleen Jahuin Cardenas, Sammier Angelo Laura Cutti and Dina Marleni Huanaco Quispe visited the Faculty of Physics of the National University of San Marcos, in Lima, for one week.
+
+During the visit the students were trained in the preparation of soil and sediments samples for gamma spectroscopy analysis, Mossbauer analysis using a Fourier Transform - Infrared Spectrometer for inspecting the functional groups of the organic components on the surface of soil samples,  and using a ultra violet – visible – near infrared (UV-Vis-NIR) spectrometer for the physical and chemical analysis of soils and sediment samples. During their visit and their research activities, they planned future visits with the Dean of the Faculty of Physics of the University of San Marcos. At the end of the visit, the students from the UNAH were capable of training other students in the techniques learnt.
+
 
