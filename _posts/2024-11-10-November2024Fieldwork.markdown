@@ -214,10 +214,16 @@ The first days after my arrival to Huanta were spent in coordination meetings wi
 
 The supervision was performed in person with each student in the auditorium of the “El Bosque” building of the University of Huanta, or the laboratories in CONSAC. Extensive discussions and redaction for the undergraduate plans for their theses were prepared consisting of how to treat the samples before the analysis, inspection by optical microscope, analysing the principal chemical composition and quantification of the chemical data by using the available database and statistical programs.
 
+Los primeros días los dediqué a reuniones de coordinación con los estudiantes para verificar el avance de sus tesis y también para planificar los siguientes pasos en la investigación de sus tesis. Algunas tesis se refieren a la caracterización física y química de suelos y sedimentos recolectados de diferentes áreas alrededor de Huanta, como de la laguna Huaper y de las plantas de tratamiento de agua fuera de Huanta en Luricocha, Puca Puca e Ishpico. En el caso de las plantas de tratamiento de agua, las muestras de sedimentos fueron recolectadas al ingreso de las aguas residuales a la planta, dentro de la planta y a la salida de la planta. 
+
+La supervisión se realizó personalmente con cada estudiante en el auditorio del edificio «El Bosque» de la Universidad de Huanta, o en los laboratorios del CONSAC. Se prepararon extensas discusiones y redacciones para los planes de tesis de los estudiantes que consistieron en cómo tratar las muestras antes del análisis, la inspección por microscopio óptico, el análisis de la composición química principal y la cuantificación de los datos químicos utilizando la base de datos y los programas estadísticos disponibles.
+
 
 ## Workshop
 
 A workshop about the “Preparation of sediment samples for their physical and chemical analysis” was given about the initial treatment of sediment and soil samples for posterior measurements by different physical and chemical techniques. During the talk, the protocols for managing the samples before characterization were outlined  - drying them, sieving them, grinding them and initial inspection by optical microscope. The initial procedures for the digestion of the sediment samples were also explained. 
+
+Se impartió un taller sobre la «Preparación de muestras de sedimentos para su análisis físico y químico» acerca del tratamiento inicial de muestras de sedimentos y suelos para su posterior medición mediante distintas técnicas físicas y químicas. Durante la charla se expusieron los protocolos de manejo de las muestras antes de su caracterización: secado, tamizado, triturado e inspección inicial mediante microscopio óptico. También se explicaron los procedimientos iniciales para la digestión de las muestras de sedimentos. 
 
 
 ## Visiting the Universidad Nacional Mayor de San Marcos
@@ -226,4 +232,7 @@ Three students from the “Escuela Academica de Ingenieria y Gestion Ambiental�
 
 During the visit the students were trained in the preparation of soil and sediments samples for gamma spectroscopy analysis, Mossbauer analysis using a Fourier Transform - Infrared Spectrometer for inspecting the functional groups of the organic components on the surface of soil samples,  and using a ultra violet – visible – near infrared (UV-Vis-NIR) spectrometer for the physical and chemical analysis of soils and sediment samples. During their visit and their research activities, they planned future visits with the Dean of the Faculty of Physics of the University of San Marcos. At the end of the visit, the students from the UNAH were capable of training other students in the techniques learnt.
 
+Tres estudiantes de la «Escuela Académica de Ingeniería y Gestión Ambiental» (IGA) de la UNAH: Shania Kathleen Jahuin Cárdenas, Sammier Angelo Laura Cutti y Dina Marleni Huanaco Quispe visitaron durante una semana la Facultad de Física de la Universidad Nacional Mayor de San Marcos, en Lima.
+
+Durante la visita, los estudiantes recibieron formación sobre la preparación de muestras de suelos y sedimentos para el análisis por espectroscopia gamma, el análisis Mossbauer utilizando un espectrómetro de infrarrojos por transformada de Fourier para inspeccionar los grupos funcionales de los componentes orgánicos en la superficie de las muestras de suelo, y la utilización de un espectrómetro ultravioleta - visible - infrarrojo cercano (UV-Vis-NIR) para el análisis físico y químico de muestras de suelos y sedimentos. Durante su visita y sus actividades de investigación, planificaron futuras visitas con el Decano de la Facultad de Física de la Universidad de San Marcos. Al final de la visita, los estudiantes de la UNAH fueron capaces de formar a otros estudiantes en las técnicas aprendidas.
 
