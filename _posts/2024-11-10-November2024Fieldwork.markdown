@@ -218,10 +218,14 @@ Los primeros días los dediqué a reuniones de coordinación con los estudiantes
 
 La supervisión se realizó personalmente con cada estudiante en el auditorio del edificio «El Bosque» de la Universidad de Huanta, o en los laboratorios del CONSAC. Se prepararon extensas discusiones y redacciones para los planes de tesis de los estudiantes que consistieron en cómo tratar las muestras antes del análisis, la inspección por microscopio óptico, el análisis de la composición química principal y la cuantificación de los datos químicos utilizando la base de datos y los programas estadísticos disponibles.
 
+
 ![November2024Fieldwork](/assets/posts/11.24Luis1.jpg)
+
 Meeting with UNAH students to discuss their theses / Reunión con estudiantes de la UNAH para hablar de sus tesis.
 
+
 ![November2024Fieldwork](/assets/posts/11.24Luis2.jpg)
+
 Meeting with UNAH students to discuss their theses / Reunión con estudiantes de la UNAH para hablar de sus tesis.
 
 
@@ -231,9 +235,12 @@ A workshop about the “Preparation of sediment samples for their physical and c
 
 Se impartió un taller sobre la «Preparación de muestras de sedimentos para su análisis físico y químico» acerca del tratamiento inicial de muestras de sedimentos y suelos para su posterior medición mediante distintas técnicas físicas y químicas. Durante la charla se expusieron los protocolos de manejo de las muestras antes de su caracterización: secado, tamizado, triturado e inspección inicial mediante microscopio óptico. También se explicaron los procedimientos iniciales para la digestión de las muestras de sedimentos. 
 
+
 ![November2024Fieldwork](/assets/posts/11.24Luis3.jpg)
 
+
 ![November2024Fieldwork](/assets/posts/11.24Luis4.jpg)
+
 Workshop performed by Dr. Luis De Los Santos Valladares with UNAH students about managing sediment and soil samples for posterior measurements by different physical and chemical techniques / Taller realizado por el Dr. Luis De Los Santos Valladares con estudiantes de la UNAH sobre manejo de muestras de sedimentos y suelos para posteriores mediciones por diferentes técnicas físicas y químicas.
 
 
@@ -249,6 +256,7 @@ Durante la visita, los estudiantes recibieron formación sobre la preparación d
 
 
 ![November2024Fieldwork](/assets/posts/11.24Luis6.jpg)
+
 The three UNAH students from the “Escuela Academica de Ingenieria y Gestion Ambiental” (IGA) arrive at the Laboratorio de Ceramicos y Nanomateriales of the National University of San Marcos, in Lima / Los tres estudiantes de la Escuela Académica de Ingeniería y Gestión Ambiental (IGA) de la UNAH llegan al Laboratorio de Cerámicos y Nanomateriales de la Universidad Nacional Mayor de San Marcos, en Lima.
 
 
@@ -264,8 +272,11 @@ In th next four phtos students are shown begining their training in the preparat
 
 
 ![November2024Fieldwork](/assets/posts/11.24Luis11.jpg)
+
 The UNAH students were trained in using a Fourier Transform-Infrared Spectrometer for inspecting the functional groups of the organic components on the surface of soil samples / Los estudiantes de la UNAH recibieron formación sobre el uso de un espectrómetro de infrarrojos por transformada de Fourier para inspeccionar los grupos funcionales de los componentes orgánicos en la superficie de las muestras de suelo. 
 
+
 ![November2024Fieldwork](/assets/posts/11.24Luis12.jpg)
+
 The UNAH students were trained in using a ultra violet – visible – near infrared (UV-Vis-NIR) spectrometer / Los estudiantes de la UNAH recibieron formación sobre el uso de un espectrómetro ultravioleta, visible e infrarrojo cercano (UV-Vis-NIR).
 
