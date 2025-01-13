@@ -218,12 +218,22 @@ Los primeros días los dediqué a reuniones de coordinación con los estudiantes
 
 La supervisión se realizó personalmente con cada estudiante en el auditorio del edificio «El Bosque» de la Universidad de Huanta, o en los laboratorios del CONSAC. Se prepararon extensas discusiones y redacciones para los planes de tesis de los estudiantes que consistieron en cómo tratar las muestras antes del análisis, la inspección por microscopio óptico, el análisis de la composición química principal y la cuantificación de los datos químicos utilizando la base de datos y los programas estadísticos disponibles.
 
+![November2024Fieldwork](/assets/posts/11.24Luis1.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis2.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis3.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis4.JPG)
+
 
 ## Workshop
 
 A workshop about the “Preparation of sediment samples for their physical and chemical analysis” was given about the initial treatment of sediment and soil samples for posterior measurements by different physical and chemical techniques. During the talk, the protocols for managing the samples before characterization were outlined  - drying them, sieving them, grinding them and initial inspection by optical microscope. The initial procedures for the digestion of the sediment samples were also explained. 
 
 Se impartió un taller sobre la «Preparación de muestras de sedimentos para su análisis físico y químico» acerca del tratamiento inicial de muestras de sedimentos y suelos para su posterior medición mediante distintas técnicas físicas y químicas. Durante la charla se expusieron los protocolos de manejo de las muestras antes de su caracterización: secado, tamizado, triturado e inspección inicial mediante microscopio óptico. También se explicaron los procedimientos iniciales para la digestión de las muestras de sedimentos. 
+
+![November2024Fieldwork](/assets/posts/11.24Luis5.JPG)
 
 
 ## Visiting the Universidad Nacional Mayor de San Marcos
@@ -235,4 +245,18 @@ During the visit the students were trained in the preparation of soil and sedime
 Tres estudiantes de la «Escuela Académica de Ingeniería y Gestión Ambiental» (IGA) de la UNAH: Shania Kathleen Jahuin Cárdenas, Sammier Angelo Laura Cutti y Dina Marleni Huanaco Quispe visitaron durante una semana la Facultad de Física de la Universidad Nacional Mayor de San Marcos, en Lima.
 
 Durante la visita, los estudiantes recibieron formación sobre la preparación de muestras de suelos y sedimentos para el análisis por espectroscopia gamma, el análisis Mossbauer utilizando un espectrómetro de infrarrojos por transformada de Fourier para inspeccionar los grupos funcionales de los componentes orgánicos en la superficie de las muestras de suelo, y la utilización de un espectrómetro ultravioleta - visible - infrarrojo cercano (UV-Vis-NIR) para el análisis físico y químico de muestras de suelos y sedimentos. Durante su visita y sus actividades de investigación, planificaron futuras visitas con el Decano de la Facultad de Física de la Universidad de San Marcos. Al final de la visita, los estudiantes de la UNAH fueron capaces de formar a otros estudiantes en las técnicas aprendidas.
+
+![November2024Fieldwork](/assets/posts/11.24Luis6.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis7.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis8.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis9.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis10.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis11.JPG)
+
+![November2024Fieldwork](/assets/posts/11.24Luis12.JPG)
 
