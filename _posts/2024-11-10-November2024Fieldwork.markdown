@@ -193,9 +193,14 @@ Un resumen del trabajo de investigación que se está realizando en la UCAM sobr
 
 ## Experimental demonstration: Optical Imaging of Butterfly Wing Nanostructures
 
-With a small group of students, we investigated the scales on the wings of a handful of butterflies using the MicroLITE microscopes in the UNAH lab. This was mostly intended to be a demonstration of the use of equipment rather than a data collection exercise.
+With a small group of students, we investigated the scales on the wings of a handful of butterflies using the DINOLITE microscopes in the UNAH lab. This was mostly intended to be a demonstration of the use of equipment rather than a data collection exercise.
 
-Con un pequeño grupo de estudiantes, investigamos las escamas de las alas de un puñado de mariposas utilizando los microscopios MicroLITE del laboratorio de la UNAH. Se trataba más de una demostración del uso del equipo que de un ejercicio de recogida de datos.
+Con un pequeño grupo de estudiantes, investigamos las escamas de las alas de un puñado de mariposas utilizando los microscopios DINOLITE del laboratorio de la UNAH. Se trataba más de una demostración del uso del equipo que de un ejercicio de recogida de datos.
 
 
+![November2024Fieldwork](/assets/posts/11.24Lab1.JPG)
+
+Peter Newton teaching UNAH students how to set up and calibrate a Dinolite microscope.
+
+Peter Newton enseñar a los estudiantes de la UNAH a configurar y calibrar un microscopio Dinolite.
 
