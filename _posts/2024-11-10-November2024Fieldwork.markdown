@@ -292,7 +292,7 @@ The UNAH students were trained in using a ultra violet – visible – near infr
 
 
 
-## Data Modelling / 
+## Data Analysis & Modelling / 
 
 Hugo Lepage gave several lectures during the visit for UNAH staff and students -
 
@@ -327,5 +327,50 @@ Aparición de H.Lepage & E.Barnes en el programa de televisión en directo.
 
 
 ## BIODIVERSITY, BIOINDICATORS & ECO-TOURISM / BIODIVERSIDAD, BIOINDICADORES Y ECOTURISMO
+
+## Field research and data collection:  
+Dry forest and Polylepis biodiversity, Agro-ecology and vegetation dynamics and the value of hyperspectral imagery.
+
+3-4 November. Dry Forest fieldwork. UNAH staff and students worked in the upper elevation dry forest along the road to Huancavelica. Climbed to 3100m and collected biological specimens down to 2200m. 
+
+5-6 November. Dry forest fieldwork. UNAH staff and students worked in the upper elevation dry forest above La Merced in relictual groves of the endangered Jaci. 
+
+7 November. Dry forests fieldwork. UNAH staff and students continued to work in the upper elevation dry forest above La Merced. These forests are now highly fragmented through forest clearance and increasingly degraded through grazing pressure.
+
+8 November. Ecotourism fieldwork. UNAH staff and students visited La Merced to look at the possibility of establishing an ecotourism project. Agave sugar production sites were visited and the production of honey, syrup and flavoured drinks was explained and demonstrated.
+
+## Project development:
+9 November. Field visit to Toctococha.  
+TEACHING PLAN: Plannig projects and organising work schedules.  
+1 - Where are we? 
+2 - Is this a natural environment? 
+3 - Let’s find out about the interests of the students present.  Which 'careers' are you from?
+
+Projects? 
+How do we organise projects? What are the basic components of a project? Theme/title, objectives, data, methods, discussion. 
+Types of project.
+A - Hypothesis to be tested (Trout farms contaminate rivers. But do trout farms contaminate rivers?).
+B - Novel method to be applied (remote sensing, micro-structures, ......).
+C – Empirical (biological, botanical, ......) 
+Example: Quantify the impact of grazing animals on bofedales. How do we do this? 
+Activity: In groups of four.
+Plan your own project. 
+Student 1 - A theme and maybe a draft title. 
+Student 2 - Outline of objectives.
+Student 3 - Data to be collected and a schedule of activities. 
+Student 4 - An idea of what we might find out and the range of results we might expect.
+You have 1.5 hours. Each project to be presented back at UNSACO.
+
+10 - 13 November. Agroecology & remote sensing fieldwork. UNAH staff and students visited Polylepis woodlands near Vilcashuaman & the Rio Pampas to record agricultural land cover.
+
+15 November. Ecotourism fieldwork. Visit to Vinchos to investigate the possibility for the development of ecotourism. 
+
+16 November. Bioacoustic fieldwork. UNAH staff and students were trained to use high-specification equipment to record bird song on the lower slopes of the sierra Razuhuillca.
+
+18 - 19 November. Agroecology fieldwork. UNAH staff and students were trained in assessing land cover in the Huanta area.
+
+20 November. Project planning. A session for UNAH staff and students to develop project ideas held at UNSACO.
+
+
 
 
