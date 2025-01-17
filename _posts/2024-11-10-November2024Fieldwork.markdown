@@ -344,11 +344,31 @@ Dry forests above the Mantaro valley /
 UNAH students participate in fieldwork in the dry forests / 
 
 
+![November2024Fieldwork](/assets/posts/11.24EBA3.jpg)
+
+A UNAH student examines biological specimens using a Dinolite microscope / 
+
+
 5-6 November. Dry forest fieldwork. UNAH staff and students worked in the upper elevation dry forest above La Merced in relictual groves of the endangered Jaci. 
 
 7 November. Dry forests fieldwork. UNAH staff and students continued to work in the upper elevation dry forest above La Merced. These forests are now highly fragmented through forest clearance and increasingly degraded through grazing pressure.
 
+![November2024Fieldwork](/assets/posts/11.24EBA4.jpg)
+
+Dry forests above the Cachi valley looking towards Huanta / 
+
+
 8 November. Ecotourism fieldwork. UNAH staff and students visited La Merced to look at the possibility of establishing an ecotourism project. Agave sugar production sites were visited and the production of honey, syrup and flavoured drinks was explained and demonstrated.
+
+![November2024Fieldwork](/assets/posts/11.24EBA5.jpg)
+
+Investigating options for agro-ecological tourism at the agave farm / 
+
+
+![November2024Fieldwork](/assets/posts/11.24EBA15.jpg)
+
+Investigating options for agro-ecological tourism with a community near La Merced / 
+
 
 ## Project development:
 9 November. Field visit to Toctococha.  
