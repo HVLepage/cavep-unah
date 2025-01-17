@@ -129,13 +129,6 @@ Students review the river data collected to date in river based groups.
 Estudiantes revisan en grupos los datos fluviales recogidos hasta la fecha.
 
 
-![November2024Fieldwork](/assets/posts/11.24Workshop3.JPG)
-
-Students attempt to explain a graphic derived from a principal component analysis of the water data.
-
-Estudiantes intentan explicar un gráfico derivado de un análisis de componentes principales de los datos del agua.
-
-
 ![November2024Fieldwork](/assets/posts/11.24Workshop2.JPG)
 
 Students attempt to explain a graphic derived from a principal component analysis of the water data.
@@ -183,6 +176,8 @@ Los estudiantes utilizan un mortero para pulverizar las muestras de suelo y redu
 Students using a Munsell soil guide to identify soil sample types.
 
 Estudiantes utilizan la guía de suelos Munsell para identificar los tipos de muestras de suelo.
+
+
 
 
 ## MICROSTRUCTURES
@@ -254,7 +249,6 @@ Se impartió un taller sobre la «Preparación de muestras de sedimentos para su
 
 ![November2024Fieldwork](/assets/posts/11.24Luis3.jpg)
 
-
 ![November2024Fieldwork](/assets/posts/11.24Luis4.jpg)
 
 Workshop performed by Dr. Luis De Los Santos Valladares with UNAH students about managing sediment and soil samples for posterior measurements by different physical and chemical techniques / Taller realizado por el Dr. Luis De Los Santos Valladares con estudiantes de la UNAH sobre manejo de muestras de sedimentos y suelos para posteriores mediciones por diferentes técnicas físicas y químicas.
@@ -295,4 +289,43 @@ The UNAH students were trained in using a Fourier Transform-Infrared Spectromete
 ![November2024Fieldwork](/assets/posts/11.24Luis12.jpg)
 
 The UNAH students were trained in using a ultra violet – visible – near infrared (UV-Vis-NIR) spectrometer / Los estudiantes de la UNAH recibieron formación sobre el uso de un espectrómetro ultravioleta, visible e infrarrojo cercano (UV-Vis-NIR).
+
+
+
+
+
+Hugo Lepage gave several lectures during the visit for UNAH staff and students -
+
+•	Lecture on probability distributions: explained the different types of Normal (Gaussian) distributions using realistic examples to explain the mean, variance, skew and kurtosis and the interpretation of each for collected field data;
+
+•	Lecture on Google Earth Engine: taught those attending how to visualise different DEM layers (elevation, slope, hillshadow) and how these can be correlated with soil / vegetation characteristics. Concrete examples were used for the height and density of dry forests correlated with the slope of hillsides;
+
+•	Lecture on statistical analysis: used previously acquired field data by the UCAM team - river data for four rivers in the Huanta area. Introduction to the use of Google Colab, Python and Jupyter notebooks. Data preprocessing and visualisation using various different cluster analysis methods. Brief introduction to principal component analysis (PCA);
+
+![November2024Fieldwork](/assets/posts/11.24Workshop3.JPG)
+
+Students attempt to explain a graphic derived from a principal component analysis of the water data.
+
+Estudiantes intentan explicar un gráfico derivado de un análisis de componentes principales de los datos del agua.
+
+
+Small seminar for UNAH staff and students: a repeat of the conference talk with extra additions for student participation and the development of two possible research collaboration routes between UCAM and UNAH.
+
+A meeting was held with UNAH students to review and collaboratively improve their thesis projects. Talks were held with former UNAH student visitors to  Cambridge as well as with the next cohort of student visitors to Cambridge. Project methods and objectives were discussed and developed.
+
+A collaborative paper writing meeting was held to finalise the soon-to-be-submitted paper on bofedales with Eustace Barnes (UCAM), Walter Castro (UNAH) and Gimena Ayala (UNAH student).
+
+Finally, a live TV interview was given along with E.Barnes (UCAM) to a local TV station promoting the project and explaining how the UCAM / UNAH collaborative environmental projects impacts local communities in the Huanta area. It also detailed how UNAH staff and students participate in the project.
+
+
+![November2024Fieldwork](/assets/posts/11.24HLE1.JPG)
+
+Appearance of H.Lepage & E.Barnes on the live TV show.
+
+Aparición de H.Lepage & E.Barnes en el programa de televisión en directo.
+
+
+
+## BIODIVERSITY, BIOINDICATORS & ECO-TOURISM / BIODIVERSIDAD, BIOINDICADORES Y ECOTURISMO
+
 
