@@ -407,7 +407,7 @@ Student 4 - An idea of what we might find out and the range of results we might 
 
 You have 1.5 hours. Each project to be presented back at UNSACO.
 
-![November2024Fieldwork](/assets/posts/11.24EBA7.jpg)
+![November2024Fieldwork](/assets/posts/11.24EBA.7.jpg)
 
 UNAH students working in groups at Toctococha / 
 
@@ -421,7 +421,7 @@ UNAH students visiting a polylepis woodland near Vilcashuaman /
 
 15 November. Ecotourism fieldwork. Visit to Vinchos to investigate the possibility for the development of ecotourism. 
 
-![November2024Fieldwork](/assets/posts/11.24EBA14.jpg)
+![November2024Fieldwork](/assets/posts/11.24EBA.14.jpg)
 
 ![November2024Fieldwork](/assets/posts/11.24EBA10.jpg)
 
