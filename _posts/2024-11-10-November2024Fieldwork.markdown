@@ -292,100 +292,97 @@ The UNAH students were trained in using a ultra violet – visible – near infr
 
 
 
-## Data Analysis & Modelling / 
+## Data Analysis & Modelling / Análisis y modelización de datos
 
-Hugo Lepage gave several lectures during the visit for UNAH staff and students -
+Hugo Lepage gave several lectures during the visit for UNAH staff and students / Hugo Lepage dio varias conferencias durante la visita para los docentes y los estudiantes de la UNAH -
 
-•	Lecture on probability distributions: explained the different types of Normal (Gaussian) distributions using realistic examples to explain the mean, variance, skew and kurtosis and the interpretation of each for collected field data;
+•	Lecture on probability distributions: explained the different types of Normal (Gaussian) distributions using realistic examples to explain the mean, variance, skew and kurtosis and the interpretation of each for collected field data / Conferencia sobre las distribuciones de probabilidad: explicación de los diferentes tipos de distribuciones normales (Gaussian) mediante ejemplos realistas para explicar la media, la varianza, la inclinación y la curtosis y la interpretación de cada una de ellas para los datos de campo recogidos;
 
-•	Lecture on Google Earth Engine: taught those attending how to visualise different DEM layers (elevation, slope, hillshadow) and how these can be correlated with soil / vegetation characteristics. Concrete examples were used for the height and density of dry forests correlated with the slope of hillsides;
+•	Lecture on Google Earth Engine: taught those attending how to visualise different DEM layers (elevation, slope, hillshadow) and how these can be correlated with soil & vegetation characteristics. Concrete examples were used for the height and density of dry forests correlated with the slope of hillsides / Conferencia sobre Google Earth Engine: enseñó a los asistentes a visualizar diferentes capas DEM (elevación, pendiente, sombra de colina) y cómo éstas pueden correlacionarse con las características del suelo y vegetación. Se utilizaron ejemplos concretos de la altura y densidad de los bosques secos correlacionados con la pendiente de las laderas;
 
-•	Lecture on statistical analysis: used previously acquired field data by the UCAM team - river data for four rivers in the Huanta area. Introduction to the use of Google Colab, Python and Jupyter notebooks. Data preprocessing and visualisation using various different cluster analysis methods. Brief introduction to principal component analysis (PCA);
+•	Lecture on statistical analysis: used previously acquired field data by the UCAM team - river data for four rivers in the Huanta area. Introduction to the use of Google Colab, Python and Jupyter notebooks. Data preprocessing and visualisation using various different cluster analysis methods. Brief introduction to principal component analysis (PCA) / Conferencia sobre análisis estadístico: se utilizaron datos de campo previamente adquiridos por el equipo de la UCAM - datos fluviales de cuatro ríos de la zona de Huanta. Introducción al uso de Google Colab, Python y Jupyter notebooks. Preprocesamiento y visualización de datos utilizando diferentes métodos de análisis cluster. Breve introducción al análisis de componentes principales (ACP).
 
 ![November2024Fieldwork](/assets/posts/11.24Workshop3.JPG)
 
-Students attempt to explain a graphic derived from a principal component analysis of the water data.
-
-Estudiantes intentan explicar un gráfico derivado de un análisis de componentes principales de los datos del agua.
+Students attempt to explain a graphic derived from a principal component analysis of the water data / Estudiantes intentan explicar un gráfico derivado de un análisis de componentes principales de los datos del agua.
 
 
-Small seminar for UNAH staff and students: a repeat of the conference talk with extra additions for student participation and the development of two possible research collaboration routes between UCAM and UNAH.
+Small seminar for UNAH staff and students: a repeat of the conference talk with extra additions for student participation and the development of two possible research collaboration routes between UCAM and UNAH / Pequeño seminario para docentes y estudiantes de la UNAH: repetición de la charla de la conferencia con añadidos para la participación de los estudiantes y el desarrollo de dos posibles vías de colaboración en investigación entre la UCAM y la UNAH.
 
-A meeting was held with UNAH students to review and collaboratively improve their thesis projects. Talks were held with former UNAH student visitors to  Cambridge as well as with the next cohort of student visitors to Cambridge. Project methods and objectives were discussed and developed.
+A meeting was held with UNAH students to review and collaboratively improve their thesis projects. Talks were held with former UNAH student visitors to  Cambridge as well as with the next cohort of student visitors to Cambridge. Project methods and objectives were discussed and developed / Se celebró una reunión con estudiantes de la UNAH para revisar y mejorar en colaboración sus proyectos de tesis. Se celebraron charlas con estudiantes de la UNAH visitantes anteriores en Cambridge, así como con la próxima cohorte de estudiantes visitantes en Cambridge. Se debatieron y desarrollaron los métodos y objetivos del proyecto
 
-A collaborative paper writing meeting was held to finalise the soon-to-be-submitted paper on bofedales with Eustace Barnes (UCAM), Walter Castro (UNAH) and Gimena Ayala (UNAH student).
+A collaborative paper writing meeting was held to finalise the soon-to-be-submitted paper on bofedales with Eustace Barnes (UCAM), Walter Castro (UNAH) and Gimena Ayala (UNAH student) / Se celebró una reunión de redacción de artículos en colaboración con Eustace Barnes (UCAM), Walter Castro (UNAH) y Gimena Ayala (estudiante de la UNAH) para finalizar el artículo sobre bofedales que se presentará pronto.
 
-Finally, a live TV interview was given along with E.Barnes (UCAM) to a local TV station promoting the project and explaining how the UCAM / UNAH collaborative environmental projects impacts local communities in the Huanta area. It also detailed how UNAH staff and students participate in the project.
+Finally, a live TV interview was given along with E.Barnes (UCAM) to a local TV station promoting the project and explaining how the UCAM / UNAH collaborative environmental projects impacts local communities in the Huanta area. It also detailed how UNAH staff and students participate in the project / Finalmente, junto con E. Barnes (UCAM), se concedió una entrevista en directo a una cadena de televisión local en la que se promocionaba el proyecto y se explicaba cómo los proyectos medioambientales de colaboración entre la UCAM y la UNAH repercuten en las comunidades locales de la zona de Huanta. También se detalló cómo los docentes y los estudiantes de la UNAH participan en el proyecto. 
 
 
 ![November2024Fieldwork](/assets/posts/11.24HLE1.png)
 
-Appearance of H.Lepage & E.Barnes on the live TV show.
-
-Aparición de H.Lepage & E.Barnes en el programa de televisión en directo.
+Appearance of H.Lepage & E.Barnes on the live TV show / Aparición de H.Lepage & E.Barnes en el programa de televisión en directo.
 
 
 
 ## BIODIVERSITY, BIOINDICATORS & ECO-TOURISM / BIODIVERSIDAD, BIOINDICADORES Y ECOTURISMO
 
-## Field research and data collection:  
-Dry forest and Polylepis biodiversity, Agro-ecology and vegetation dynamics and the value of hyperspectral imagery.
+## Field research and data collection / Investigación de campo y recogida de datos:  
+Dry forest and Polylepis biodiversity, Agro-ecology and vegetation dynamics and the value of hyperspectral imagery / Biodiversidad del bosque seco y Polylepis, Agroecología y dinámica de la vegetación y valor de las imágenes hiperespectrales.
 
 3-4 November. Dry Forest fieldwork. UNAH staff and students worked in the upper elevation dry forest along the road to Huancavelica. Climbed to 3100m and collected biological specimens down to 2200m. 
 
+3-4 de noviembre. Trabajo de campo en el bosque seco. Docentes y estudiantes de la UNAH trabajaron en el bosque seco de altura a lo largo de la carretera a Huancavelica. Se ascendió hasta 3100m y se recolectaron especímenes biológicos hasta 2200m.
 
 ![November2024Fieldwork](/assets/posts/11.24EBA1.jpg)
 
-Dry forests above the Mantaro valley / 
+Dry forests above the Mantaro valley / Bosques secos sobre el valle del Mantaro.
 
 
 ![November2024Fieldwork](/assets/posts/11.24EBA2.jpg)
 
-UNAH students participate in fieldwork in the dry forests / 
+UNAH students participate in fieldwork in the dry forests / Estudiantes de la UNAH participan en trabajos de campo en los bosques secos.
 
 
 ![November2024Fieldwork](/assets/posts/11.24EBA4.jpg)
 
-A UNAH student examines biological specimens using a Dinolite microscope / 
+A UNAH student examines biological specimens using a Dinolite microscope / Un estudiante de la UNAH examina especímenes biológicos con un microscopio Dinolite.
 
 
 5-6 November. Dry forest fieldwork. UNAH staff and students worked in the upper elevation dry forest above La Merced in relictual groves of the endangered Jaci. 
 
+5-6 de noviembre. Trabajo de campo en bosque seco. Docentes y los estudiantes de la UNAH trabajaron en el bosque seco de altura por encima de La Merced, en arboledas relictuales de la amenazada Jaci. 
+
+
 7 November. Dry forests fieldwork. UNAH staff and students continued to work in the upper elevation dry forest above La Merced. These forests are now highly fragmented through forest clearance and increasingly degraded through grazing pressure.
+
+7 de noviembre. Trabajo de campo en bosques secos. Docentes y los estudiantes de la UNAH continuaron trabajando en el bosque seco de altura por encima de La Merced. Estos bosques están ahora muy fragmentados debido a la tala y cada vez más degradados por la presión del pastoreo.
 
 ![November2024Fieldwork](/assets/posts/11.24EBA3.jpg)
 
-Dry forests above the Cachi valley looking towards Huanta / 
+Dry forests above the Cachi valley looking towards Huanta / Bosques secos sobre el valle de Cachi mirando hacia Huanta.
 
 
 8 November. Ecotourism fieldwork. UNAH staff and students visited La Merced to look at the possibility of establishing an ecotourism project. Agave sugar production sites were visited and the production of honey, syrup and flavoured drinks was explained and demonstrated.
 
+8 de noviembre. Trabajo de campo sobre ecoturismo. Docentes y estudiantes de la UNAH visitaron La Merced para estudiar la posibilidad de establecer un proyecto de ecoturismo. Se visitaron sitios de producción de azúcar de agave y se explicó y demostró la producción de miel, jarabe y bebidas saborizadas.
+
 ![November2024Fieldwork](/assets/posts/11.24EBA5.jpg)
 
-Investigating options for agro-ecological tourism at the agave farm / 
-
+Investigating options for agro-ecological tourism at the agave farm / Investigando opciones para el turismo agroecológico en una finca de agave.
 
 ![November2024Fieldwork](/assets/posts/11.24EBA15.jpg)
 
-Investigating options for agro-ecological tourism with a community near La Merced / 
+Investigating options for agro-ecological tourism with a community near La Merced / Investigar opciones de turismo agroecológico con una comunidad cercana a La Merced.
 
 
-## Project development:
+## Project development / Desarrollo de proyectos:
 9 November. Field visit to Toctococha.  
 
-TEACHING PLAN: Plannig projects and organising work schedules.  
+9 de noviembre. Visita de campo a Toctococha.  
 
-1 - Where are we? 
+TEACHING PLAN: Plannig projects and organising work schedules - Where are we? Is this a natural environment? Let’s find out about the interests of the students present. Which 'careers' are you from?
 
-2 - Is this a natural environment? 
+Projects? How do we organise projects? What are the basic components of a project? Theme/title, objectives, data, methods, discussion. 
 
-3 - Let’s find out about the interests of the students present.  Which 'careers' are you from?
-
-Projects? 
-
-How do we organise projects? What are the basic components of a project? Theme/title, objectives, data, methods, discussion. 
-
-Types of project.
+Types of project:
 
 A - Hypothesis to be tested (Trout farms contaminate rivers. But do trout farms contaminate rivers?).
 
@@ -407,40 +404,77 @@ Student 4 - An idea of what we might find out and the range of results we might 
 
 You have 1.5 hours. Each project to be presented back at UNSACO.
 
+
+PLAN DE ENSEÑANZA: Planificación de proyectos y organización del trabajo - ¿Dónde estamos? ¿Es éste un entorno natural? Conozcamos los intereses de los estudiantes presentes. ¿De qué 'carreras' son?
+
+¿Proyectos? ¿Cómo organizamos los proyectos? ¿Cuáles son los componentes básicos de un proyecto? Tema/título, objetivos, datos, métodos, discusión. 
+
+Tipos de proyecto:
+
+A - Hipótesis que debe comprobarse (las piscifactorías de truchas contaminan los ríos, pero ¿las piscifactorías de truchas contaminan los ríos?).
+
+B - Método novedoso a aplicar (teledetección, microestructuras, ......).
+
+C - Empírico (biológico, botánico, ......). 
+
+Ejemplo: Cuantificar el impacto del pastoreo de animales en los bofedales. ¿Cómo hacerlo? 
+
+Actividad: En grupos de cuatro - Planifica su propio proyecto. 
+
+Estudiante 1 - Un tema y tal vez un proyecto de título. 
+
+Estudiante 2 - Esbozo de los objetivos.
+
+Estudiante 3 - Datos que deben recopilarse y calendario de actividades. 
+
+Estudiante 4 - Una idea de lo que podríamos averiguar y la gama de resultados que cabría esperar.
+
+Tienen 1,5 horas. Cada proyecto se presentará de nuevo en la UNSACO.
+
 ![November2024Fieldwork](/assets/posts/11.24EBA.7.jpg)
 
-UNAH students working in groups at Toctococha / 
+UNAH students working in groups at Toctococha / Estudiantes de la UNAH trabajando en grupos en Toctococha.
 
 
 10 - 13 November. Agroecology & remote sensing fieldwork. UNAH staff and students visited Polylepis woodlands near Vilcashuaman & the Rio Pampas to record agricultural land cover.
 
+10 - 13 de noviembre. Trabajo de campo sobre agroecología y teledetección. Personal y estudiantes de la UNAH visitaron los bosques de Polylepis cerca de Vilcashuaman y el Río Pampas para registrar la cobertura agrícola de la tierra.
+
 ![November2024Fieldwork](/assets/posts/11.24EBA8.jpg)
 
-UNAH students visiting a polylepis woodland near Vilcashuaman / 
+UNAH students visiting a polylepis woodland near Vilcashuaman / Estudiantes de la UNAH visitan un bosque de polylepis cerca de Vilcashuaman.
 
 
 15 November. Ecotourism fieldwork. Visit to Vinchos to investigate the possibility for the development of ecotourism. 
+
+15 de noviembre. Trabajo de campo sobre ecoturismo. Visita a Vinchos para investigar las posibilidades de desarrollo del ecoturismo. 
 
 ![November2024Fieldwork](/assets/posts/11.24EBA.14.jpg)
 
 ![November2024Fieldwork](/assets/posts/11.24EBA10.jpg)
 
-UNAH students recording data in the field and viisting a guinea-pig farm / 
+UNAH students recording data in the field and viisting a guinea-pig farm / Estudiantes de la UNAH registrando datos en el campo y visitando un criadero de cuyes.
 
 
 16 November. Bioacoustic fieldwork. UNAH staff and students were trained to use high-specification equipment to record bird song on the lower slopes of the sierra Razuhuillca.
 
+16 de noviembre. Trabajo de campo bioacústico. Docentes y estudiantes de la UNAH recibieron formación sobre el uso de equipos de alta especificación para grabar el canto de las aves en las laderas más bajas de la sierra Razuhuillca.
+
 ![November2024Fieldwork](/assets/posts/11.24EBA9.jpg)
 
-UNAH students being trained by E.Barnes (UCAM) to record bioacoustic data in the field / 
+UNAH students being trained by E.Barnes (UCAM) to record bioacoustic data in the field / Estudiantes de la UNAH reciben formación de E. Barnes (UCAM) para registrar datos bioacústicos en el campo.
 
 
 18 - 19 November. Agroecology fieldwork. UNAH staff and students were trained in assessing land cover in the Huanta area.
 
+18 - 19 de noviembre. Trabajo de campo sobre agroecología. Docentes y estudiantes de la UNAH fueron capacitados en la evaluación de la cobertura del suelo en la zona de Huanta.
+
 
 20 November. Project planning. A session for UNAH staff and students to develop project ideas held at UNSACO.
 
+20 de noviembre. Planificación de proyectos. Sesión para que el personal y los estudiantes de la UNAH desarrollen ideas de proyectos celebrada en la UNSACO.
+
 ![November2024Fieldwork](/assets/posts/11.24EBA12.jpg)
 
-UNAH staff and students developing their project ideas in a classroom at UNSACO / 
+UNAH staff and students developing their project ideas in a classroom at UNSACO / Docentes y estudiantes de la UNAH desarrollan sus ideas de proyecto en un aula de la UNSACO.
 
