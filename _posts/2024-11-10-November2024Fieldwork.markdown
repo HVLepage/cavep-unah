@@ -344,7 +344,7 @@ Dry forests above the Mantaro valley /
 UNAH students participate in fieldwork in the dry forests / 
 
 
-![November2024Fieldwork](/assets/posts/11.24EBA3.jpg)
+![November2024Fieldwork](/assets/posts/11.24EBA4.jpg)
 
 A UNAH student examines biological specimens using a Dinolite microscope / 
 
@@ -353,7 +353,7 @@ A UNAH student examines biological specimens using a Dinolite microscope /
 
 7 November. Dry forests fieldwork. UNAH staff and students continued to work in the upper elevation dry forest above La Merced. These forests are now highly fragmented through forest clearance and increasingly degraded through grazing pressure.
 
-![November2024Fieldwork](/assets/posts/11.24EBA4.jpg)
+![November2024Fieldwork](/assets/posts/11.24EBA3.jpg)
 
 Dry forests above the Cachi valley looking towards Huanta / 
 
@@ -407,16 +407,40 @@ Student 4 - An idea of what we might find out and the range of results we might 
 
 You have 1.5 hours. Each project to be presented back at UNSACO.
 
+![November2024Fieldwork](/assets/posts/11.24EBA7.jpg)
+
+UNAH students working in groups at Toctococha / 
+
+
 10 - 13 November. Agroecology & remote sensing fieldwork. UNAH staff and students visited Polylepis woodlands near Vilcashuaman & the Rio Pampas to record agricultural land cover.
+
+![November2024Fieldwork](/assets/posts/11.24EBA7.jpg)
+
+UNAH stduents visiting a polylepis woodland near Vilcashuaman / 
+
 
 15 November. Ecotourism fieldwork. Visit to Vinchos to investigate the possibility for the development of ecotourism. 
 
+![November2024Fieldwork](/assets/posts/11.24EBA9.jpg)
+
+![November2024Fieldwork](/assets/posts/11.24EBA10.jpg)
+
+UNAH students recording data in the field and viisting a guinea-pig farm / 
+
+
 16 November. Bioacoustic fieldwork. UNAH staff and students were trained to use high-specification equipment to record bird song on the lower slopes of the sierra Razuhuillca.
+
+![November2024Fieldwork](/assets/posts/11.24EBA11.jpg)
+
+UNAH students being trained by E.Barnes (UCAM) to record bioacoustic data in the field / 
+
 
 18 - 19 November. Agroecology fieldwork. UNAH staff and students were trained in assessing land cover in the Huanta area.
 
+
 20 November. Project planning. A session for UNAH staff and students to develop project ideas held at UNSACO.
 
+![November2024Fieldwork](/assets/posts/11.24EBA12.jpg)
 
-
+UNAH staff and students developing their project ideas in a classroom at UNSACO / 
 
