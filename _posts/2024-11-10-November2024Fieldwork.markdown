@@ -436,6 +436,8 @@ Tienen 1,5 horas. Cada proyecto se presentará de nuevo en la UNSACO.
 UNAH students working in groups at Toctococha / Estudiantes de la UNAH trabajando en grupos en Toctococha.
 
 
+## Field research and data collection continued / Investigación de campo y recogida de datos continuación:  
+
 10 - 13 November. Agroecology & remote sensing fieldwork. UNAH staff and students visited Polylepis woodlands near Vilcashuaman & the Rio Pampas to record agricultural land cover.
 
 10 - 13 de noviembre. Trabajo de campo sobre agroecología y teledetección. Personal y estudiantes de la UNAH visitaron los bosques de Polylepis cerca de Vilcashuaman y el Río Pampas para registrar la cobertura agrícola de la tierra.
