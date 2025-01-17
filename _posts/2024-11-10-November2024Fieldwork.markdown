@@ -414,14 +414,14 @@ UNAH students working in groups at Toctococha /
 
 10 - 13 November. Agroecology & remote sensing fieldwork. UNAH staff and students visited Polylepis woodlands near Vilcashuaman & the Rio Pampas to record agricultural land cover.
 
-![November2024Fieldwork](/assets/posts/11.24EBA7.jpg)
+![November2024Fieldwork](/assets/posts/11.24EBA8.jpg)
 
-UNAH stduents visiting a polylepis woodland near Vilcashuaman / 
+UNAH students visiting a polylepis woodland near Vilcashuaman / 
 
 
 15 November. Ecotourism fieldwork. Visit to Vinchos to investigate the possibility for the development of ecotourism. 
 
-![November2024Fieldwork](/assets/posts/11.24EBA9.jpg)
+![November2024Fieldwork](/assets/posts/11.24EBA14.jpg)
 
 ![November2024Fieldwork](/assets/posts/11.24EBA10.jpg)
 
@@ -430,7 +430,7 @@ UNAH students recording data in the field and viisting a guinea-pig farm /
 
 16 November. Bioacoustic fieldwork. UNAH staff and students were trained to use high-specification equipment to record bird song on the lower slopes of the sierra Razuhuillca.
 
-![November2024Fieldwork](/assets/posts/11.24EBA11.jpg)
+![November2024Fieldwork](/assets/posts/11.24EBA9.jpg)
 
 UNAH students being trained by E.Barnes (UCAM) to record bioacoustic data in the field / 
 
