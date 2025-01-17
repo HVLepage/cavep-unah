@@ -292,7 +292,7 @@ The UNAH students were trained in using a ultra violet – visible – near infr
 
 
 
-
+## Data Modelling / 
 
 Hugo Lepage gave several lectures during the visit for UNAH staff and students -
 
@@ -318,7 +318,7 @@ A collaborative paper writing meeting was held to finalise the soon-to-be-submit
 Finally, a live TV interview was given along with E.Barnes (UCAM) to a local TV station promoting the project and explaining how the UCAM / UNAH collaborative environmental projects impacts local communities in the Huanta area. It also detailed how UNAH staff and students participate in the project.
 
 
-![November2024Fieldwork](/assets/posts/11.24HLE1.JPG)
+![November2024Fieldwork](/assets/posts/11.24HLE1.png)
 
 Appearance of H.Lepage & E.Barnes on the live TV show.
 
