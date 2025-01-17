@@ -41,6 +41,12 @@ John Forrest (UCAM) presents the latest data obtained from the Huanta area river
 John Forrest (UCAM) presenta los últimos datos obtenidos en la investigación sobre la calidad del agua de los ríos por los alredores de Huanta.
 
 
+![November2024Fieldwork](/assets/posts/11.24EBA11.jpg)
+
+Eustace Barnes, Peter Newton, Hugo Lepage, Julia Porturas & Jasper Barnes (UCAM) with Delia Gamarra Gamarra and an illustrious resident of Huanta.
+
+Eustace Barnes, Peter Newton, Hugo Lepage, Julia Porturas y Jasper Barnes (UCAM) con Delia Gamarra Gamarra y un ilustre vecino de Huanta.
+
 
 
 ## HYDROLOGY
