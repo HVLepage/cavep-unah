@@ -28,7 +28,7 @@ MH01 is located north-west of Huanta amongst the foothills lining the eastern fl
 
 The study site is situated within the manantial, on the edge of one of the larger lagoons towards the centre of the Huaper, where the water samples and water quality measurements were taken. 
 
-Discharge measurements were taken at the Huaper outflow but it should be noted that this is not an accurate measure of the discharge from the Huaper because –
+Discharge measurements were taken at the Huaper outflow but it should be noted that this is not an accurate measure of the natural discharge from the Huaper because –
 -it is a manmade outflow channel, artificially setting the outflow.
 -water may also be lost through subterranean flow.
 
@@ -39,7 +39,7 @@ MH01 está situado al noroeste de Huanta, entre las estribaciones que bordean el
 
 El lugar de estudio está situado dentro del manantial, al borde de una de las lagunas más grandes. Las muestras de agua y las mediciones se tomaron en una laguna situada hacia el centro del Huaper.
 
-Las mediciones de caudal se realizaron en la desembocadura del Huaper. NB. Esta no es una medida exacta de la descarga del Huaper porque ...
+Las mediciones de caudal se realizaron en la desembocadura del Huaper. NB. Esta no es una medida exacta de la descarga natural del Huaper porque ...
 -se trata de un canal de desagüe construido por el hombre, que fija artificialmente el caudal de salida.
 -también puede perderse agua por el flujo subterráneo.
 
