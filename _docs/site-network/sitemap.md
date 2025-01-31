@@ -38,4 +38,3 @@ Water study sites map. (January 2025) (John Forrest)
 |     Q3.3.L         |     Upper Huamanguilla – Cora Cora                 |     -12.985525           |     -74.177900    |     3230          |
 |     MH01           |     Huapar manantial                               |     -12.925453           |     -74.293884    |     2353          |
 
-
