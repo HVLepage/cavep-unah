@@ -2,17 +2,22 @@
 title: Sites map
 permalink: /docs/sitemap/
 ---
+<style scoped>
+table, th, td  {
+  font-size: 12px;
+}
+</style>
 
 
 ### Water: location of the study sites / Agua: ubicacion de los sitios de estudio
 
 
 ![Sites map](/assets/sites/AllsitesHuanta1.jpg)
+
 Water study sites map. (January 2025) (John Forrest)
 
-|      Site code     |      Site name                                     |                  GPS Coordinates             |      Altitude     |
-|--------------------|----------------------------------------------------|--------------------------|-------------------|-------------------|
-|                    |                                                    |     (S)                  |     (W)           |     (m)           |
+|      Site code     |      Site name                                     |      Latitude (S)        |      Longitude (W)       |      Altitude (m) |
+|--------------------|----------------------------------------------------|--------------------------|--------------------------|-------------------|
 |     RC01           |     Lower Cachi - Puente Allccomachay              |     -12.843874           |     -74.328924    |     2158          |
 |     RC02           |     Upper Cachi - Cangari                          |     -12.999640           |     -74.285016    |     2335          |
 |     Q1.1           |     Lower Opanccay - Boca Opanccay                 |     -12.837746           |     -74.296030    |     2266          |
