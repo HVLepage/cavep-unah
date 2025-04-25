@@ -30,6 +30,21 @@ The students began their visit in the new Cavendish Laboratory (Cavendish 3). Th
 
 El grupo de la UNAH comenzó su visita en el nuevo laboratorio Cavendish (Cavendish 3). El nuevo Cavendish se ha inaugurado recientemente y el grupo de la UNAH fueron una de las primeras, si no la primera, delegación de estudiantes extranjeros que se reunió en los nuevos edificios del laboratorio. La visita comenzó con un curso de Salud y Seguridad para explicar los riesgos de trabajar en el laboratorio. Todos los académicos visitantes deben realizar el curso antes de trabajar en el Laboratorio Cavendish. 
 
+## Sediments research / 
+
+
+## Biodiversity research / 
+
+
+## Remote sensing research / 
+
+
+## Microscopy research / Investigación microscópica
+
+The students visited the Cavendish Electron Microscopy Suite. Here, the use of the Helios FIB/SEM was demonstrated by Dr Peter Newton and Dr Richard Langford. In this one-hour session, preparation and measurement of a sample of Morpho butterfly was discussed - this butterfly is familiar to residents of the Ayacucho region. The measurements performed were part of a series looking to improve resolution in FIB/SEM slice-and-view techniques, with the ultimate aim of accurately reconstructing a 3D model of a butterfly wing nanostructure. The students were then shown around many of the other microscopes in the facility, with particular focus on the TEM.
+
+Los estudiantes visitaron la Cavendish Electron Microscopy Suite. Aquí, el Dr. Peter Newton y el Dr. Richard Langford hicieron una demostración del uso del Helios FIB/SEM. En esta sesión de una hora, se discutió la preparación y medición de una muestra de mariposa Morpho - esta mariposa es familiar para los residentes de la región de Ayacucho. Las mediciones realizadas formaban parte de una serie destinada a mejorar la resolución de las técnicas de corte y visión FIB/SEM, con el objetivo final de reconstruir con precisión un modelo 3D de la nanoestructura del ala de una mariposa. A continuación, se mostró a los estudiantes muchos de los microscopios de las instalaciones, con especial atención al TEM.
+
 
 
 ## UNAH students present their research projects to the UCAM team and guests / Estudiantes de la UNAH presentan sus proyectos de investigación al equipo de la UCAM e invitados 
