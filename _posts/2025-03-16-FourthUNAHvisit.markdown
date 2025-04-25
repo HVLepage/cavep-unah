@@ -36,7 +36,7 @@ El grupo de la UNAH comenzó su visita en el nuevo laboratorio Cavendish (Cavend
 
 ## Visit to the historic centre of Cambridge 
 
-![FieldTripSchedule](/assets/posts/3.25Colleges1.jpg)
+![FieldTripSchedule](/assets/posts/3.25Colleges1.JPG)
 
 During their stay the students received a guided tour of the historic centre of Cambridge, which included visiting the Fitzwilliam museum and some of the ancient Colleges such as Selwyn College (See photo).
 
