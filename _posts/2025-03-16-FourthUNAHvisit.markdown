@@ -59,22 +59,22 @@ The next steps are to train the stduents in the -
 and to progress their respective theses and manuscripts for publications.
 
 
-![FieldTripSchedule](/assets/posts/3.25Luis2.JPG)
+![FieldTripSchedule](/assets/posts/3.25Luis2.jpg)
 
 Students Jenny Carbajal and Jhon Ramos being training by Dr. Richard Langford in operating a SEM-EDX  for the morphological and chemical analysis of sediment samples / Estudiantes Jenny Carbajal y Jhon Ramos siendo entrenados por el Dr. Richard Langford en el manejo de un SEM-EDX para el análisis morfológico y químico de muestras de sedimentos.
 
 
-![FieldTripSchedule](/assets/posts/3.25Luis3.JPG)
+![FieldTripSchedule](/assets/posts/3.25Luis3.jpg)
 
 Students Jenny Carbajal and Jhon Ramos being training by Henry Sanchez in how to identify the iron components in sediment samples through magnetic measurements / Los estudiantes Jenny Carbajal y Jhon Ramos reciben formación de Henry Sánchez sobre cómo identificar los componentes de hierro en muestras de sedimentos mediante mediciones magnéticas.
 
 
-![FieldTripSchedule](/assets/posts/3.25Luis5.JPG)
+![FieldTripSchedule](/assets/posts/3.25Luis5.jpg)
 
 Student Jenny Carbajal receiving instruction from Dr L.de los Santos on the preparation of sediment samples for analysis / La estudiante Jenny Carbajal recibiendo instrucciones del Dr. L.de los Santos sobre la preparación de muestras de sedimentos para su análisis.
 
 
-![FieldTripSchedule](/assets/posts/3.25Luis4.JPG)
+![FieldTripSchedule](/assets/posts/3.25Luis4.jpg)
 
 Students Jenny Carbajal and Jhon Ramos working together with Fernanda Paez, a Colombian student, currently studying at the Cavendish / Los estudiantes Jenny Carbajal y Jhon Ramos trabajan junto con Fernanda Paez, una estudiante colombiana, que actualmente estudia en el Cavendish.
 
