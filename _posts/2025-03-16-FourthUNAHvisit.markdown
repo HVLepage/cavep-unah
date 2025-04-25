@@ -79,7 +79,18 @@ Student Jenny Carbajal receiving instruction from Dr L.de los Santos on the prep
 Students Jenny Carbajal and Jhon Ramos working together with Fernanda Paez, a Colombian student, currently studying at the Cavendish / Los estudiantes Jenny Carbajal y Jhon Ramos trabajan junto con Fernanda Paez, una estudiante colombiana, que actualmente estudia en el Cavendish.
 
 
-## Biodiversity research / 
+## Biodiversity research / Investigación sobre biodiversidad
+
+
+![FieldTripSchedule](/assets/posts/3.25Fen1.jpg)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Fen2.jpg)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Fen3.jpg)
 
 
 ## Remote sensing research / Investigación con teledetección
@@ -188,6 +199,15 @@ Ing.Jorge Lozano presenting to the group progress made with his research project
 ![FieldTripSchedule](/assets/posts/3.25Meeting8.JPG)
 
 UNAH students with UCAM staff in the Red room at the Maxwell centre, Cavendish laboratory post-presentations / Estudiantes de la UNAH con personal de la UCAM en la sala Roja del centro Maxwell, laboratorio Cavendish después de las presentaciones.
+
+
+![FieldTripSchedule](/assets/posts/3.25Debriefing1.JPG)
+
+Some of the visitors participate in a plenary to review the expanded learning experiences and achievements resulting from  the visit / Algunos de los visitantes participan en una sesión plenaria para revisar las experiencias de aprendizaje ampliado y los logros derivados de la visita.
+
+![FieldTripSchedule](/assets/posts/3.25Debriefing2.JPG)
+
+Nilomarc Garcia presents his project in english in the final plenary session / Nilomarc Garcia presenta su proyecto en inglés en la sesión plenaria final.
 
 
 
