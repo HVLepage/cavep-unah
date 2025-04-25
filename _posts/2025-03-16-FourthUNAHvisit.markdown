@@ -22,3 +22,14 @@ El 15 de marzo de 2025 seis estudiantes de la UNAH - Jenny Carbajal Palomino, Yu
 Para ver el programa de la visita, por favor utilice el enlace de arriba titulado 'Field Trip Schedule'.
 
 
+## Visit to the historic centre of Cambridge 
+
+![FieldTripSchedule](/assets/posts/3.25Colleges1.jpg)
+
+During their stay the students received a guided tour of the historic centre of Cambridge, which included visiting the Fitzwilliam museum and some of the ancient Colleges such as Selwyn College (See photo).
+
+Durante su estancia, los estudiantes recibieron una visita guiada por el centro histórico de Cambridge, que incluyó la visita al museo Fitzwilliam y a algunos de los antiguos Colleges, como el Selwyn College (Ver foto).
+
+
+
+
