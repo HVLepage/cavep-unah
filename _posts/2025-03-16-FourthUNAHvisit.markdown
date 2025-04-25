@@ -84,6 +84,26 @@ Students Jenny Carbajal and Jhon Ramos working together with Fernanda Paez, a Co
 
 ## Remote sensing research / 
 
+![FieldTripSchedule](/assets/posts/3.25Hugo1.jpg)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Hugo2.jpg)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Hugo3.jpg)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Hugo4.jpg)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Hugo5.jpg)
+
+
+
 
 ## Microscopy research / Investigación microscópica
 
