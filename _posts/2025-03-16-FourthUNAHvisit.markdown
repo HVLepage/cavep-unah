@@ -82,23 +82,63 @@ Students Jenny Carbajal and Jhon Ramos working together with Fernanda Paez, a Co
 ## Biodiversity research / 
 
 
-## Remote sensing research / 
+## Remote sensing research / Investigación con teledetección
+
+*Drone Pilot License / Licencia de piloto de drones -
+The Peruvian visitors began their visit by obtaining their Drone Pilot Licenses from the UK Civial Aviation Authority (CAA). This was done after reading through the various laws and safety measures surrounding drone operation and taking a 40-question exam (in english).
+  The students then flew the drone and used the Live NDVI view to assess vegetation in agricultural fields near the Cavendish Laboratory.  
+  We discussed the use of drones for the students’ projects and how planned missions or manual flights could be used to acquire some of the data relevant to their research.
+
+Cada uno de los visitantes obtuvo su licencia de piloto de drones de la Autoridad de Aviación Civil del Reino Unido (CAA). Esto se hizo después de leer las diversas leyes y medidas de seguridad que rodean la operación de drones y tomar un examen de 40 preguntas (en ingles).
+  A continuación, los estudiantes volaron el dron y utilizaron la vista NDVI en directo para evaluar la vegetación de los campos agrícolas cercanos al Laboratorio Cavendish.  
+  Discutimos el uso de drones para los proyectos de los estudiantes y cómo podrían utilizarse misiones planificadas o vuelos manuales para adquirir algunos de los datos relevantes para su investigación.
 
 ![FieldTripSchedule](/assets/posts/3.25Hugo1.jpg)
 
+The visitors with confirmation that they are licensed to fly drones in the UK / Los visitantes con confirmación de que tienen licencia para volar drones en el Reino Unido.
 
+
+*Google Cloud & Google Earth Engine / Google Cloud y Google Earth Engine - 
+Each visitor created a Google Cloud project from which their remote sensing analysis could be performed. This was the main tool for downloading and processing large amounts of satellite imagery udirng their stay.
+
+Cada visitante creó un proyecto en Google Cloud desde el que podía realizar sus análisis de teledetección. Esta fue la principal herramienta para descargar y procesar grandes cantidades de imágenes de satélite durante su estancia.
+
+
+*Greening & Browning Trends in Cambridgeshire / Tendencias de 'Greening' y 'Browning' en Cambridgeshire -
+Following a Python tutorial on Discord, the visitors used Google Colab to extract time series data from MODIS satellite imagery. Cambridgeshire was chosen as the region of interest, since we could easily follow up remote sensing analysis with ground truth verification. 
+The final output was a map of Cambridgeshire (See image below) showing the regions that had undergone greening and those that had undergone browning. The main driver behind these vegetation changes is human impact and agriculture.
+
+Siguiendo un tutorial de Python en Discord, los visitantes utilizaron Google Colab para extraer datos de series temporales a partir de imágenes de satélite MODIS. Se eligió Cambridgeshire como región de interés, ya que podíamos seguir fácilmente el análisis de teledetección con la verificación de la verdad sobre el terreno. 
+El resultado final fue un mapa de Cambridgeshire (véase la imagen inferior) en el que se mostraban las regiones que habían reverdecido y las que se habían oscurecido. La principal causa de estos cambios en la vegetación es el impacto humano y la agricultura.
 
 ![FieldTripSchedule](/assets/posts/3.25Hugo2.jpg)
 
+Some students modified the code to perform the same analysis on the Ayacucho region instead (See map below).
 
+Algunos estudiantes modificaron el código para realizar el mismo análisis en la región de Ayacucho (véase el mapa más abajo).
 
 ![FieldTripSchedule](/assets/posts/3.25Hugo3.jpg)
 
 
+*Land Cover & Land Classification / Cubierta terrestre y clasificación del terreno -
+The visitors were shown how multispectral and hyperspectral imagery can be applied to classifying land use and land cover. We looked at the USDA’s map of agricultural land in the continental United States.
+
+Se mostró a los visitantes cómo pueden aplicarse las imágenes multiespectrales e hiperespectrales para clasificar el uso y la cubierta del terreno. Observamos el mapa de tierras agrícolas del USDA en el territorio continental de Estados Unidos.
+
+
+*Hyperspectral data analysis / Análisis de datos hiperespectrales -
+First, the visitors were shown how to create an account on EnMAP and request tiles for hyperspectral data analysis.
+They then downloaded a pre-requested EnMAP hyperspectral data covering various land types in Peru. Using another tutorial on Discord, the visitors wrote Python code to extract the spectral signatures of different land types. The spectra for a lake, a glacier, bare soil and various Polylepis woodlands are displayed in the image below. We then analysed the meaning of each spectral signature and why we might see a difference between the different land covers.
+
+En primer lugar, se mostró a los visitantes cómo crear una cuenta en EnMAP y solicitar mosaicos para el análisis de datos hiperespectrales.
+A continuación, descargaron datos hiperespectrales de EnMAP previamente solicitados que cubrían varios tipos de terrenos en Perú. Utilizando otro tutorial en Discord, los visitantes escribieron código Python para extraer las firmas espectrales de diferentes tipos de terreno. En la siguiente imagen se muestran los espectros de un lago, un glaciar, suelo desnudo y varios bosques de Polylepis. A continuación, analizamos el significado de cada firma espectral y por qué podríamos ver una diferencia entre las distintas cubiertas terrestres.
 
 ![FieldTripSchedule](/assets/posts/3.25Hugo4.jpg)
 
 
+The visitors working in the old Cavendish laboratory (Cavendish 2) during its final week before the transfer to the new laboratory (Cavendish 3).
+
+Los visitantes trabajando en el antiguo laboratorio Cavendish (Cavendish 2) durante su última semana antes del traslado al nuevo laboratorio (Cavendish 3).
 
 ![FieldTripSchedule](/assets/posts/3.25Hugo5.jpg)
 
