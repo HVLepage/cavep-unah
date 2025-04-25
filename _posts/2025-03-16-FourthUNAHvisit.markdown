@@ -22,6 +22,18 @@ El 15 de marzo de 2025 seis estudiantes de la UNAH - Jenny Carbajal Palomino, Yu
 Para ver el programa de la visita, por favor utilice el enlace de arriba titulado 'Field Trip Schedule'.
 
 
+## Cavendish Laboratory Health & Safety course / Curso de Salud y Seguridad del Laboratorio Cavendish
+
+![FieldTripSchedule](/assets/posts/3.25Training1.jpg)
+
+The students began their visit in the new Cavendish Laboratory (Cavendish 3). The new Cavendish was only recently opened and the UNAH stduents were one of the first, if not the first, foreign student delegation to meet in the new laboratory buildings. The visit began with a Health & Safety course to explain the risks of working in the laboratory. All visiting academics must undertake the course prior to working in the Cavendish Laboratory.
+
+El grupo de la UNAH comenzó su visita en el nuevo laboratorio Cavendish (Cavendish 3). El nuevo Cavendish se ha inaugurado recientemente y el grupo de la UNAH fueron una de las primeras, si no la primera, delegación de estudiantes extranjeros que se reunió en los nuevos edificios del laboratorio. La visita comenzó con un curso de Salud y Seguridad para explicar los riesgos de trabajar en el laboratorio. Todos los académicos visitantes deben realizar el curso antes de trabajar en el Laboratorio Cavendish. 
+
+
+
+
+
 ## Visit to the historic centre of Cambridge 
 
 ![FieldTripSchedule](/assets/posts/3.25Colleges1.jpg)
