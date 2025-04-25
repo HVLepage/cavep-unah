@@ -32,6 +32,42 @@ El grupo de la UNAH comenzó su visita en el nuevo laboratorio Cavendish (Cavend
 
 
 
+## UNAH students present their research projects to the UCAM team and guests / Estudiantes de la UNAH presentan sus proyectos de investigación al equipo de la UCAM e invitados 
+
+![FieldTripSchedule](/assets/posts/3.25Meeting1.JPG)
+
+Yuliana Cardenas presenting her research project to the group / Yuliana Cardenas presenta su proyecto de investigación al grupo.
+
+
+![FieldTripSchedule](/assets/posts/3.25Meeting3.JPG)
+
+Jenny Carbajal presenting his research project to the group / Jenny Carbajal  presenta su proyecto de investigación al grupo.
+
+
+![FieldTripSchedule](/assets/posts/3.25Meeting5.JPG)
+
+Jhon Cruz presenting to the group progress made with his research project since her arrival at UCAM / Jhon Cruz presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM.
+
+
+![FieldTripSchedule](/assets/posts/3.25Meeting6.JPG)
+
+Nilomarc Garcia presenting to the group progress made with her research project since her arrival at UCAM / Nilomarc Garcia presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM.
+
+
+![FieldTripSchedule](/assets/posts/3.25Meeting7.JPG)
+
+Sariah Ore presenting to the group progress made with her research project since her arrival at UCAM / Sariah Ore presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM.
+
+
+![FieldTripSchedule](/assets/posts/3.25Meeting2.JPG)
+
+Ing.Jorge Lozano presenting to the group progress made with his research project since her arrival at UCAM / Ing.Jorge Lozano presenta al grupo los avances de su proyecto de investigación durante su estancia en la UCAM.
+
+
+![FieldTripSchedule](/assets/posts/3.25Meeting8.JPG)
+
+UNAH students with UCAM staff in the Red room at the Maxwell centre, Cavendish laboratory post-presentations / Estudiantes de la UNAH con personal de la UCAM en la sala Roja del centro Maxwell, laboratorio Cavendish después de las presentaciones.
+
 
 
 ## Visit to the historic centre of Cambridge 
