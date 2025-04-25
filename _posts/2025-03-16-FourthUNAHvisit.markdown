@@ -44,4 +44,54 @@ Durante su estancia, los estudiantes recibieron una visita guiada por el centro 
 
 
 
+## London visit 
+The UNAH visitors made a day trip to London accompanied by John Forrest to visit the Science, Geology and Natural History Museums as well as various tourist sites such as the Houses of Parliament, Buckingham Palace, Big Ben and Tower Bridge.
+
+## Visita a Londres 
+Los visitantes de la UNAH hicieron una excursión de un día a Londres con John Forrest para visitar los Museos de Ciencias, Geologia y de Historia Natural, así como diversos lugares turísticos como la Casa de Parlemento, el Palacio de Buckingham, Big Ben y el Puente de la Torre.
+
+
+![FieldTripSchedule](/assets/posts/3.25London1.JPG)
+
+Arriving at Kings X station in London but not at platform 9 3/4! / Llegada a la estación Kings X de Londres, ¡pero no al andén 9 3/4!
+
+
+![FieldTripSchedule](/assets/posts/3.25London2.JPG)
+
+In the equipment hall at the Science Museum which includes some of the earliest steam engines ever invented / En la sala de equipos del Museo de la Ciencia, que incluye algunas de las primeras máquinas de vapor jamás inventadas.
+
+
+![FieldTripSchedule](/assets/posts/3.25London6.JPG)
+
+Beside the WWII enigma machine exhibit in the Science Museum / Junto a la exposición de la maquina 'Enigma' de la segunda guerra mundial en el museo de Ciencias.
+
+
+![FieldTripSchedule](/assets/posts/3.25London5.JPG)
+
+Beside the DNA model (developed at the Cavendish laboratory) exhibit in the Science Museum/ Junto a la exposición del modelo de ADN (desarrollado en el laboratorio Cavendish)  en el museo de Ciencias.
+
+
+![FieldTripSchedule](/assets/posts/3.25London7.JPG)
+
+Jenny Carbajal operates the 'supercomputer' (Analytical machine) invented by ex-Cambridge University alumni Charles Babbage, originating from 1834 / Jenny Carbajal maneja el «supercomputer» (máquina analítica) inventado por el ex-alumno de la Universidad de Cambridge Charles Babbage, que data de 1834.
+
+
+![FieldTripSchedule](/assets/posts/2.24London8.JPG)
+
+UNAH students dazzled by the gems in the Geology museum / Los estudiantes de la UNAH deslumbrado por las gemas del museo de Geología.
+
+
+![FieldTripSchedule](/assets/posts/3.25London9.JPG)
+
+Students with a complete dinosaur fossil in the Natural History museum / Estudiantes con un fósil completo de dinosaurio en el museo de Historia Natural.
+
+
+![FieldTripSchedule](/assets/posts/3.25London11.JPG)
+
+In front of the Houses of Parliament and Big Ben listening to the 4 o/clock chimes / Frente a las Casas del Parlamento y el Big Ben, escuchando las campanadas de las 4 en punto. 
+
+
+![FieldTripSchedule](/assets/posts/3.25London12.JPG)
+
+Standing on Tower Bridge with the financial 'City of London' in the background and the Tower of London on the right / Encima de Tower Bridge, con la City financiera de Londres al fondo y la Torre de Londres a la derecha.
 
