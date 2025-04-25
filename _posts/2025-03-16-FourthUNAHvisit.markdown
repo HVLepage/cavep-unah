@@ -6,7 +6,7 @@ version: 1.0.0
 category: visits
 ---
 
-Trip Schedule
+### Trip Schedule
 
 [Field Trip Schedule](/assets/posts/UNAHprogrammeMarch25.pdf)
 
