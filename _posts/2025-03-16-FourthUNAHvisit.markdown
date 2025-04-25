@@ -7,3 +7,7 @@ category: visits
 ---
 
 Trip Schedule
+
+[Field Trip Schedule](/assets/posts/UNAHprogrammeMarch25.pdf)
+
+
