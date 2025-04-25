@@ -30,7 +30,48 @@ The students began their visit in the new Cavendish Laboratory (Cavendish 3). Th
 
 El grupo de la UNAH comenzó su visita en el nuevo laboratorio Cavendish (Cavendish 3). El nuevo Cavendish se ha inaugurado recientemente y el grupo de la UNAH fueron una de las primeras, si no la primera, delegación de estudiantes extranjeros que se reunió en los nuevos edificios del laboratorio. La visita comenzó con un curso de Salud y Seguridad para explicar los riesgos de trabajar en el laboratorio. Todos los académicos visitantes deben realizar el curso antes de trabajar en el Laboratorio Cavendish. 
 
-## Sediments research / 
+
+## Sediments research / Investigación de sedimentos
+
+Two students - Jenny Carbajal and Jhon Ramos - worked under the supervision of Dr L.de los Santos. They were trained in the use of equipment to measure the sediment samples they had brought from Peru and were also supervised in analysing the data for their respective theses. 
+
+The main objectives of the visit were for the students to become trained in the -
+-use of the UCAM scanning electronic microscopy by themselves.
+-analysis of the chemical composition of sediment samples.
+-use of an X-ray diffractometer.
+-identification of the mineralogical composition of sediment samples from X-ray diffractograms. 
+
+The activities undertaken included training the students in the -
+-preparation of the samples and the use of a scanning electron microscope (SEM) and Helius FIB adapted with an electron dispersive X-ray spectrometer (EDX) brand Oxford Inc.
+-preparation of the samples and use of an X-ray diffractometer (XRD) Bruker brand.
+-use of the Match program from Crystal Impact (https://www.crystalimpact.com/match/).
+
+In conclusion, over 50 sediment samples were processed. The are now able to -
+-use a scanning electronic microscopy by themselves.
+-analyse EDX spectra for the identification of the chemical composition of soils samples by themselves.
+-identify the mineralogical composition of sediment samples from X-ray diffractograms by themselves. 
+
+The next steps are to train the stduents in the -
+-analysis of samples by Gamma spectroscopy.
+-analysis of samples by differential calorimeter.
+-analysis of samples by Fourier transform spectroscopy.
+-analysis of samples by UV-VIS-NIR spectroscopy.
+and to progress their respective theses and manuscripts for publications.
+
+![FieldTripSchedule](/assets/posts/3.25Luis2.JPG)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Luis3.JPG)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Luis4.JPG)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Luis5.JPG)
+
 
 
 ## Biodiversity research / 
