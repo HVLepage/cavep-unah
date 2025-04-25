@@ -88,15 +88,15 @@ Students Jenny Carbajal and Jhon Ramos working together with Fernanda Paez, a Co
 
 
 
-![FieldTripSchedule](/assets/posts/3.25Hugo2.PNG)
+![FieldTripSchedule](/assets/posts/3.25Hugo2.jpg)
 
 
 
-![FieldTripSchedule](/assets/posts/3.25Hugo3.PNG)
+![FieldTripSchedule](/assets/posts/3.25Hugo3.jpg)
 
 
 
-![FieldTripSchedule](/assets/posts/3.25Hugo4.PNG)
+![FieldTripSchedule](/assets/posts/3.25Hugo4.jpg)
 
 
 
