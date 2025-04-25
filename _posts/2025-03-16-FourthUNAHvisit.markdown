@@ -24,7 +24,7 @@ Para ver el programa de la visita, por favor utilice el enlace de arriba titulad
 
 ## Cavendish Laboratory Health & Safety course / Curso de Salud y Seguridad del Laboratorio Cavendish
 
-![FieldTripSchedule](/assets/posts/3.25Training1.jpg)
+![FieldTripSchedule](/assets/posts/3.25Training1.JPG)
 
 The students began their visit in the new Cavendish Laboratory (Cavendish 3). The new Cavendish was only recently opened and the UNAH stduents were one of the first, if not the first, foreign student delegation to meet in the new laboratory buildings. The visit began with a Health & Safety course to explain the risks of working in the laboratory. All visiting academics must undertake the course prior to working in the Cavendish Laboratory.
 
@@ -76,7 +76,7 @@ Beside the DNA model (developed at the Cavendish laboratory) exhibit in the Scie
 Jenny Carbajal operates the 'supercomputer' (Analytical machine) invented by ex-Cambridge University alumni Charles Babbage, originating from 1834 / Jenny Carbajal maneja el «supercomputer» (máquina analítica) inventado por el ex-alumno de la Universidad de Cambridge Charles Babbage, que data de 1834.
 
 
-![FieldTripSchedule](/assets/posts/2.24London8.JPG)
+![FieldTripSchedule](/assets/posts/3.25London8.JPG)
 
 UNAH students dazzled by the gems in the Geology museum / Los estudiantes de la UNAH deslumbrado por las gemas del museo de Geología.
 
