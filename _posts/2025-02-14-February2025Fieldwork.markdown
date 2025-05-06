@@ -15,80 +15,87 @@ Field Trip Schedule
 
 ## Students in the field / Estudiantes en el campo
 
+![February2025Fieldwork](/assets/posts/2.25Field15.JPG)
+
+Students taking measurements at RC01.
+
+
 ![February2025Fieldwork](/assets/posts/2.25Field1.JPG)
 
-Students
+Students measuring the river width at Q1.1 - recent higher discharge had greatly increased the width of the river comapred to previous visits.
+
 
 ![February2025Fieldwork](/assets/posts/2.25Field2.JPG)
 
-Students
+Students using the Valeport flowmeter to record the velocity of the river at Q1.2N.M.
 
-![February2025Fieldwork](/assets/posts/2.25Field3.JPG)
-
-Students
-
-![February2025Fieldwork](/assets/posts/2.25Field5.JPG)
-
-Students
 
 ![February2025Fieldwork](/assets/posts/2.25Field6.JPG)
 
-Students
+Students recording velocity data at Q1.2S.U.
 
-![February2025Fieldwork](/assets/posts/2.25Field7.JPG)
-
-Students
-
-![February2025Fieldwork](/assets/posts/2.25Field8.JPG)
-
-Students
-
-![February2025Fieldwork](/assets/posts/2.25Field10.JPG)
-
-Students
 
 ![February2025Fieldwork](/assets/posts/2.25Field11.JPG)
 
-Students
+Ing.P.Ceras and students using the Mettler Toledo dissolved oxygen meter to record data at Q2.1.
 
-![February2025Fieldwork](/assets/posts/2.25Field12.JPG)
-
-Students
 
 ![February2025Fieldwork](/assets/posts/2.25Field13.JPG)
 
-Students
+Students using the Valeport flowmeter to take readings at Q2.2L1.
+
 
 ![February2025Fieldwork](/assets/posts/2.25Field14.JPG)
 
-Students
+Students using the Valeport flowmeter to take readings at Q2.3L.
 
-![February2025Fieldwork](/assets/posts/2.25Field15.JPG)
 
-Students
+![February2025Fieldwork](/assets/posts/2.25Field3.JPG)
+
+Students improvise using the multiparameter to take readings from the centre of the fast flowing channel at Q3.1.
+
+
+![February2025Fieldwork](/assets/posts/2.25Field5.JPG)
+
+Students using the Valeport flowmeter to take readings from the bank of the fast flowing channel at RC02.
+
+
+![February2025Fieldwork](/assets/posts/2.25Field8.JPG)
+
+Students using the Valeport flowmeter to record the first of five velocity readings at Q3.2.
+
+
+![February2025Fieldwork](/assets/posts/2.25Field10.JPG)
+
+Students using the Mettler Toledo dissolved oxygen meter to record data at Q3.3L.
+
 
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
 ![February2025Fieldwork](/assets/posts/2.25Lab1.JPG)
 
-D
+UNAH staff and students using the Geopump to filter a water sample prior to further analysis. 
+
 
 ![February2025Fieldwork](/assets/posts/2.25Lab2.JPG)
 
-D
+Students change a filter while using the Geopump.
+
 
 ![February2025Fieldwork](/assets/posts/2.25Lab3.JPG)
 
-D
+Students using the Geopump to filter a water sample that clearly contains a high level of suspended sediments. 
+
 
 ![February2025Fieldwork](/assets/posts/2.25Lab4.JPG)
 
-D
+UNAH staff and students in the early stages (sample is green in colour) of undertaking titration to determine the alkalinity of a sample.
+
 
 ![February2025Fieldwork](/assets/posts/2.25Lab5.JPG)
 
-D
+Students completing the titration process (sample has turned pink in colour) to determine the alkalinity of a sample. 
 
 
 
