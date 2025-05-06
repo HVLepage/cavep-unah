@@ -132,7 +132,7 @@ Dry forest and Polylepis biodiversity, Agro-ecology and vegetation dynamics and 
 
 3-4 de febrero. Trabajo de campo en el bosque seco. Docentes y estudiantes de la UNAH trabajaron en el bosque seco de altura a lo largo de la carretera a Huancavelica. Se ascendió hasta 3100m y se recolectaron especímenes biológicos hasta 2200m.
 
-![February2025Fieldwork](/assets/posts/2.25EBA1.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA1.jpg)
 
 Dry
 
