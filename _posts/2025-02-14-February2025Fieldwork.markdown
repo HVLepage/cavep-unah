@@ -132,62 +132,62 @@ Dry forest and Polylepis biodiversity, Agro-ecology and vegetation dynamics and 
 
 3-4 de febrero. Trabajo de campo en el bosque seco. Docentes y estudiantes de la UNAH trabajaron en el bosque seco de altura a lo largo de la carretera a Huancavelica. Se ascendió hasta 3100m y se recolectaron especímenes biológicos hasta 2200m.
 
-![February2025Fieldwork](/assets/posts/2.25EBA1.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA1.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA2.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA2.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA3.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA3.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA4.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA4.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA5.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA5.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA6.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA6.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA7.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA7.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA8.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA8.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA9.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA9.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA10.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA10.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA11.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA11.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA12.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA12.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA13.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA13.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA14.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA14.JPG)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA15.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA15.JPG)
 
 Dry
