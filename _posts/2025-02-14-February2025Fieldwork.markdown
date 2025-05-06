@@ -136,58 +136,58 @@ Dry forest and Polylepis biodiversity, Agro-ecology and vegetation dynamics and 
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA2.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA2.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA3.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA3.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA4.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA4.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA5.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA5.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA6.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA6.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA7.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA7.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA8.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA8.jpg)
 
 D
 
-![February2025Fieldwork](/assets/posts/2.25EBA9.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA9.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA10.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA10.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA11.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA11.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA12.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA12.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA13.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA13.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA14.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA14.jpg)
 
 Dry
 
-![February2025Fieldwork](/assets/posts/2.25EBA15.JPG)
+![February2025Fieldwork](/assets/posts/2.25EBA15.jpg)
 
 Dry
