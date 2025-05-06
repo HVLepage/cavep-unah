@@ -36,3 +36,15 @@ Dr
 ![November2024Fieldwork](/assets/posts/2.25Soils1.JPG)
 
 Students 
+
+
+## Students in the laboratory / Estudiantes en el laboratorio
+
+![November2024Fieldwork](/assets/posts/11.24Lab4.JPG)
+
+Students
+
+
+
+
+
