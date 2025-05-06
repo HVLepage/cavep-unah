@@ -132,7 +132,62 @@ Dry forest and Polylepis biodiversity, Agro-ecology and vegetation dynamics and 
 
 3-4 de febrero. Trabajo de campo en el bosque seco. Docentes y estudiantes de la UNAH trabajaron en el bosque seco de altura a lo largo de la carretera a Huancavelica. Se ascendió hasta 3100m y se recolectaron especímenes biológicos hasta 2200m.
 
-![November2024Fieldwork](/assets/posts/2.25EBA1.jpg)
+![February2025Fieldwork](/assets/posts/2.25EBA1.jpg)
 
 Dry
 
+![February2025Fieldwork](/assets/posts/2.25EBA2.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA3.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA4.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA5.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA6.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA7.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA8.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA9.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA10.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA11.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA12.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA13.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA14.jpg)
+
+Dry
+
+![February2025Fieldwork](/assets/posts/2.25EBA15.jpg)
+
+Dry
