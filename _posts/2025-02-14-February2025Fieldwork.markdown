@@ -162,7 +162,7 @@ Dry
 
 ![February2025Fieldwork](/assets/posts/2.25EBA8.JPG)
 
-Dry
+D
 
 ![February2025Fieldwork](/assets/posts/2.25EBA9.JPG)
 
