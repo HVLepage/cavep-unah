@@ -11,6 +11,14 @@ Field Trip Schedule
 [Field Trip Schedule](/assets/posts/UCAMscheduleNFeb25.pdf)
 
 
+## HYDROLOGY
+
+## Students in the field / Estudiantes en el campo
+
+![November2024Fieldwork](/assets/posts/2.25Rivers1.JPG)
+
+Students
+
 
 
 
@@ -18,6 +26,6 @@ Field Trip Schedule
 
 ## Students in the field / Estudiantes en el campo
 
-![November2024Fieldwork](/assets/posts/11.24Soils1.JPG)
+![November2024Fieldwork](/assets/posts/2.25Soils1.JPG)
 
 Students 
