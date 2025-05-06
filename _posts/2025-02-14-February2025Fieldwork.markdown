@@ -137,7 +137,7 @@ Students analysing soil samples using Munsell charts.
 
 ## Field research and data collection / Investigación de campo y recogida de datos:  
 
-16 February. Fieldwork above Huanta and Quinua. Nt Huanta. 
+16 February. Fieldwork above Huanta and La Quinua. Nt Huanta. 
 Vising semi-humid scrub and woodland above Huanta on the west facing slope of the Sierra Razuhuillca. Identifying plants and feeding plants used by O.n.albolimbata as part of the broader study of polyphyletic species.  
 
 ![February2025Fieldwork](/assets/posts/2.25EBA1.jpg)
@@ -158,12 +158,12 @@ Dry forest transects above Huanta along the road to Marcas. Relictual groves of 
 
 ![February2025Fieldwork](/assets/posts/2.25EBA4.jpg)
 
-Looking towards Huanta and the Rio Cachi from the left bank of the Rio Cachi. Sample site 2 along transect 2.
+Looking south towards Huanta and the Rio Cachi from the left bank of the Rio Cachi. Sample site 2 along transect 2.
 (E.Barnes)
 
 
-18 February. Dry forest.
-Staff and students visited the upper elevation dry forest along the road to Huancavelica. Leaving early, climbing to 3100m collecting specimens along a trabsect down to 2200m. Collection of plant specimens and vegetation data a part of the aim to develop a herbarium at UNAH for dry forest tree, shrub and flowering plants.
+18 February. Dry forest fieldwork.
+Staff and students visited the upper elevation dry forest along the road to Huancavelica. Leaving early, climbing to 3100m collecting specimens along a trabsect down to 2200m. Collection of plant specimens and vegetation data as part of the aim to develop a herbarium at UNAH for dry forest tree, shrub and flowering plants.
 
 ![February2025Fieldwork](/assets/posts/2.25EBA5.jpg)
 
@@ -171,8 +171,8 @@ Dry forest plant diversity is fully revealed in the wet season.
 (E.Barnes)
 
 
-19 February. Dry forest.
-Huancavelica visit following day in dry forests collecting plants. We intended to find the previoulsy undescribed nest of O.n.albolimbata. After 30 minutes at a known site for the species we found a nest. Subsequently nesting and feeding behaviour was collected for the female feeding two well grown young. This is now being written up for publication and so no photographic and no other details are given here.
+19 February. Dry forest fieldwork.
+Huancavelica visit following day in dry forests collecting plants. We intended to find the previoulsy undescribed nest of O.n.albolimbata. After 30 minutes at a known site for the species we found a nest. Subsequently, nesting and feeding behaviour was recorded for a female feeding two well grown young. This is now being written up for publication and so no photographic and no other details are given here.
 
 ![February2025Fieldwork](/assets/posts/2.25EBA6.jpg)
 
@@ -181,20 +181,20 @@ Huancavelica in the high Andes. One of the catchment headwaters favoured by O.n.
 
 ![February2025Fieldwork](/assets/posts/2.25EBA7.jpg)
 
-O.n.albolimbata food plants and other hummingbirds. 
+O.n.albolimbata and other hummingbirds food plants.
 (E.Barnes)
 
 
-20 February. 
+20 February. Hummingbird fieldwork.
 A full morning collecting behavioural data at the nest site of O.n.albolimbata. Data to be presented in a forthcoming publication. 
 
-21 February. Dry forest.
-Returning to Huanta we determined sample sites 4, 3, 2 and 1 along transect 2. This being a second road to Huancavelica. We have identified three transects that will be sampled and assessed for plant diversity. Three years of data should be sufficient to fully sample these areas across the seasons and will be published after that time.
+21 February. Dry forest fieldwork.
+Returning to Huanta we determined sample sites 4, 3, 2 and 1 along transect 2 along a second road to Huancavelica. We have identified three transects that will be sampled and assessed for plant diversity. Three years of data should be sufficient to fully sample these areas across the seasons and will be published after that time.
 
-22 February. Dry forest.
+22 February. Dry forest fieldwork.
 Heading to Chirquintirca, we stopped in dry forest before arriving to our cloud forest base. The aim here being to photograph and record two undescribed species. These are the subject of forthcoming publications and are not detailed here, as a result. 
 
-23 February. Elfin forest.
+23 February. Elfin forest fieldwork.
 From San Miguel we visited an elfin forest. The principal aim being to identify endemic plants and birds found in this unique habitat as part of our work on biodiversity.  
 
 ![February2025Fieldwork](/assets/posts/2.25EBA8.jpg)
@@ -202,8 +202,8 @@ From San Miguel we visited an elfin forest. The principal aim being to identify 
 Elfin forest. (E.Barnes)
 
 
-24 February. Bioacoustic survey.
-Stopping at Toctococha, instruction was given as to where bioacoustic data should be collected for Troglodytes aedon (House Wren). 
+24 February. Bioacoustic fieldwork.
+Stopping at Toctococha, instruction was given as to where bioacoustic data could be collected for Troglodytes aedon sp. (House Wren). 
 
 ![February2025Fieldwork](/assets/posts/2.25EBA9.jpg)
 
@@ -211,22 +211,23 @@ Bird species data recording with UNAH students and staff.
 (E.Barnes)
 
 
-25-26 February.  Rainforest & Cloudforest.
+25-26 February.  Rainforest & Cloudforest fieldwork.
 Foothill rainforest and cloud forest sites as well as a Psittacid clay lick were visited. Work at these sites divided between ideas for developing ecotourism in the Kimbiri region and determining biodiversity.
 
 ![February2025Fieldwork](/assets/posts/2.25EBA10.jpg)
 
 ![February2025Fieldwork](/assets/posts/2.25EBA11.jpg)
 
-Deforestation in the foothills is taking place a rapid rate. The above images show a now destroyed study site. 
+Deforestation in the foothills is taking place at a rapid rate. The above images show a now destroyed study site. 
 (E.Barnes)
 
 
 27 February.
 Returning to Huanta, departing early in order to return in time for afternoon meeting at UNAH.
 
-28 February.
-Visiting La Merced, we again investigated the value of developing agro-ecological themes in ecotourism. 
+
+28 February. Eco-tourism field visit.
+Visiting La Merced, we again investigated the value of developing agro-ecological themes, on this coccasion associated with the agave plant, in ecotourism. 
 
 ![February2025Fieldwork](/assets/posts/2.25EBA12.jpg)
 
@@ -236,8 +237,9 @@ Agro-ecology investigations at La Merced.
 (W.Castro)
 
 
-1 March.
+1 March. Hummingbird field visit.
 Final visit to Huancavelica to collect the O.n.albolimbata nest. This is now deposited at San Marcos University, in Lima, and is the subject of a publication and so no photographs are included here. 
+
 
 2 March. INIA Ayacucho meeting.
 The INIA agricultural research unit in Huamanga was visited to meet with staff and administrators to determine if suitable research themes could be developed to cement a long standing agreement with UNAH and further develop research into traditional varieties of Andean crops.
