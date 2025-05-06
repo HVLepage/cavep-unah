@@ -20,6 +20,13 @@ Field Trip Schedule
 Students
 
 
+## Students in the laboratory / Estudiantes en el laboratorio
+
+![November2024Fieldwork](/assets/posts/11.24Lab2.JPG)
+
+Dr
+
+
 
 
 ## SOILS
