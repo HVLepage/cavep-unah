@@ -15,16 +15,80 @@ Field Trip Schedule
 
 ## Students in the field / Estudiantes en el campo
 
-![November2024Fieldwork](/assets/posts/2.25Rivers1.JPG)
+![February2025Fieldwork](/assets/posts/2.25Field1.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field2.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field3.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field5.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field6.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field7.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field8.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field10.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field11.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field12.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field13.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field14.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Field15.JPG)
 
 Students
 
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
-![November2024Fieldwork](/assets/posts/2.25Lab2.JPG)
+![February2025Fieldwork](/assets/posts/2.25Lab1.JPG)
 
-Dr
+D
+
+![February2025Fieldwork](/assets/posts/2.25Lab2.JPG)
+
+D
+
+![February2025Fieldwork](/assets/posts/2.25Lab3.JPG)
+
+D
+
+![February2025Fieldwork](/assets/posts/2.25Lab4.JPG)
+
+D
+
+![February2025Fieldwork](/assets/posts/2.25Lab5.JPG)
+
+D
 
 
 
@@ -33,14 +97,26 @@ Dr
 
 ## Students in the field / Estudiantes en el campo
 
-![November2024Fieldwork](/assets/posts/2.25Soils1.JPG)
+![February2025Fieldwork](/assets/posts/2.25Soils1.JPG)
+
+Students 
+
+![February2025Fieldwork](/assets/posts/2.25Soils2.JPG)
+
+Students 
+
+![February2025Fieldwork](/assets/posts/2.25Soils3.JPG)
 
 Students 
 
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
-![November2024Fieldwork](/assets/posts/2.25Lab4.JPG)
+![February2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+
+Students
+
+![February2025Fieldwork](/assets/posts/2.25Soils5.JPG)
 
 Students
 
