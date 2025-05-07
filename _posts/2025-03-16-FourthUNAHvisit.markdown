@@ -158,9 +158,9 @@ Fenlands are peat-rich, low-lying wetlands that support a mosaic of habitats suc
   La biodiversidad de los pantanos es una prioridad de conservación debido a la pérdida de hábitats, el cambio climático y las presiones del uso del suelo. 
   
 
-Students visited two sites: Welney Nature Reserve and Wicken Fen to become familiar with their characteristics - the nature of the landscape as well as the diversity and number of plant and bird species. The students were able to appreciate the fragility of these unique ecosystems and also investigated the management techniques employed in an attempt to conserve the remaining fenlands.
+A day visit was made to two sites: Welney Nature Reserve and Wicken Fen to become familiar with their characteristics - the nature of the landscape as well as the diversity and number of plant and bird species. The students were able to appreciate the fragility of these unique ecosystems and also investigated the management techniques employed in an attempt to conserve the remaining fenlands.
 
-El grupo visito dos lugares: la Reserva Natural de Welney y Wicken Fen para familiarizarse con sus características: la naturaleza del paisaje, así como la diversidad y el número de especies de plantas y aves. El grupo pudo apreciar la fragilidad de estos ecosistemas únicos y también investigaron las técnicas de gestión empleadas en un intento de conservar los pantanos que quedan.
+Se realizó una visita de un día a dos sitios de interes: la Reserva Natural de Welney y Wicken Fen para familiarizarse con sus características: la naturaleza del paisaje, así como la diversidad y el número de especies de plantas y aves. El grupo pudo apreciar la fragilidad de estos ecosistemas únicos y también investigaron las técnicas de gestión empleadas en un intento de conservar los pantanos que quedan.
 
 
 ![FieldTripSchedule](/assets/posts/3.25Fen1.JPG)
