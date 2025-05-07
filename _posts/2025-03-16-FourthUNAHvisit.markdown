@@ -145,15 +145,15 @@ Los visitantes trabajando en el antiguo laboratorio Cavendish (Cavendish 2) dura
 ## Biodiversity research / Investigación sobre biodiversidad
 
 
-![FieldTripSchedule](/assets/posts/3.25Fen1.jpg)
+![FieldTripSchedule](/assets/posts/3.25Fen1.JPG)
 
 
 
-![FieldTripSchedule](/assets/posts/3.25Fen2.jpg)
+![FieldTripSchedule](/assets/posts/3.25Fen2.JPG)
 
 
 
-![FieldTripSchedule](/assets/posts/3.25Fen3.jpg)
+![FieldTripSchedule](/assets/posts/3.25Fen3.JPG)
 
 
 
