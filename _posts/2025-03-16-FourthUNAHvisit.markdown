@@ -144,9 +144,28 @@ Los visitantes trabajando en el antiguo laboratorio Cavendish (Cavendish 2) dura
 
 ## Biodiversity research / Investigación sobre biodiversidad
 
+Field verification and assessing remotely sensed data quantifying land cover changes and biodiversity in the fenlands. 
+
+Verificación sobre el terreno y evaluación de datos obtenidos por teledetección que cuantifican los cambios de la cubierta terrestre y la biodiversidad en los pantanos.
+
+
+Fenlands are peat-rich, low-lying wetlands that support a mosaic of habitats such as reedbeds, wet meadows and open water. These ecosystems are among the most biologically productive in the UK, home to great plant and animal biodiversity. 
+  Fenland biodiversity contributes vital ecosystem services such as water purification, carbon storage, flood mitigation, and pollination. However, over the past centuries, fenlands have been extensively drained for agriculture, leading to habitat loss, soil degradation, and a steep decline in native species. Today, less than 1% of the original fenland area remains.
+  Fenland biodiversity is a conservation priority due to habitat loss, climate change, and land-use pressures. 
+
+  Los fenlands son humedales bajos, ricos en turba que albergan un mosaico de hábitats como cañaverales, praderas húmedas y aguas abiertas. Estos ecosistemas se encuentran entre los más productivos biológicamente del Reino Unido y albergan una gran biodiversidad de animales y plantas.
+  La biodiversidad de Fenland aporta servicios ecosistémicos vitales como la purificación del agua, el almacenamiento de carbono, la mitigación de las inundaciones y la polinización. Sin embargo, en los últimos siglos, los pantanos se han desecado en gran medida para la agricultura, lo que ha provocado la pérdida de hábitats, la degradación del suelo y una fuerte disminución de las especies autóctonas. En la actualidad, queda menos del 1% de la superficie original de los pantanos.
+  La biodiversidad de los pantanos es una prioridad de conservación debido a la pérdida de hábitats, el cambio climático y las presiones del uso del suelo. 
+  
+
+Students visited two sites: Welney Nature Reserve and Wicken Fen to become familiar with their characteristics - the nature of the landscape as well as the diversity and number of plant and bird species. The students were able to appreciate the fragility of these unique ecosystems and also investigated the management techniques employed in an attempt to conserve the remaining fenlands.
+
+El grupo visito dos lugares: la Reserva Natural de Welney y Wicken Fen para familiarizarse con sus características: la naturaleza del paisaje, así como la diversidad y el número de especies de plantas y aves. El grupo pudo apreciar la fragilidad de estos ecosistemas únicos y también investigaron las técnicas de gestión empleadas en un intento de conservar los pantanos que quedan.
+
+
 ![FieldTripSchedule](/assets/posts/3.25Fen1.JPG)
 
-UNAH inside a hide at the Great Fen Nature Reserve observing the huge diversity of birdlife / UNAH en el interior de un hide de la Reserva Natural de Great Fen observando la enorme diversidad de la avifauna.
+UNAH students inside a hide at Welney Nature Reserve observing the huge diversity of birdlife / Estudiantes de la UNAH en el interior de un 'hide' de la Reserva Natural de Welney observando la enorme diversidad de la avifauna.
 
 
 ![FieldTripSchedule](/assets/posts/3.25Fen2.JPG)
