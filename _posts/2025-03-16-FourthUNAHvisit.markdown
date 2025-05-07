@@ -147,14 +147,17 @@ Los visitantes trabajando en el antiguo laboratorio Cavendish (Cavendish 2) dura
 
 ![FieldTripSchedule](/assets/posts/3.25Fen1.JPG)
 
+UNAH inside a hide at the Great Fen Nature Reserve observing the huge diversity of birdlife / UNAH en el interior de un hide de la Reserva Natural de Great Fen observando la enorme diversidad de la avifauna.
 
 
 ![FieldTripSchedule](/assets/posts/3.25Fen2.JPG)
 
+The Great Fen wetlands
 
 
 ![FieldTripSchedule](/assets/posts/3.25Fen3.JPG)
 
+Wicken Fen Nature Reserve - one of the few original 'fens' 
 
 
 ## Microscopy research / Investigación microscópica
