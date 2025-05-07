@@ -148,14 +148,10 @@ Visitando matorrales semihúmedos y bosques sobre Huanta en la ladera oeste de l
 Tree and vine species used by O.n.albolimbata across its large range / Especies de árboles y vides utilizadas por O.n.albolimbata en su amplia área de distribución. (E.Barnes)
 
 
-17 February. Fieldwork above Huanta. 
-Dry forest transects above Huanta along the road to Marcas. Relictual groves of the endangered Jaci are found across the slope.   
+17 February. Laboratorio.
+Attending the inauguration of the new University campus at Intay, followed by fieldwork planning meetings.
 
-Bosque seco transecta por encima de Huanta a lo largo de la carretera a Marcas. A lo largo de la ladera se encuentran arboledas relictuales de Jaci, especie en peligro de extinción.   
-
-![February2025Fieldwork](/assets/posts/2.25EBA4.jpg)
-
-Looking south towards Huanta and the Rio Cachi from the left bank of the Rio Cachi. Sample site 2 along transect 2 / Mirando al sur hacia Huanta y el Río Cachi desde la orilla izquierda del Río Cachi. Sitio de muestreo 2 a lo largo del transecto 2. (E.Barnes)
+Asistencia a la inauguración del nuevo campus universitario de Intay, seguida de reuniones de planificación del trabajo de campo.
 
 
 18 February. Dry forest fieldwork.
@@ -166,6 +162,10 @@ Docentes y estudiantes visitaron el bosque seco de altura a lo largo de la carre
 ![February2025Fieldwork](/assets/posts/2.25EBA5.jpg)
 
 Dry forest plant diversity is fully revealed in the wet season / La diversidad vegetal del bosque seco se revela plenamente en la estación húmeda. (E.Barnes)
+
+![February2025Fieldwork](/assets/posts/2.25EBA4.jpg)
+
+Looking south towards Huanta and the Rio Cachi from the left bank of the Rio Cachi. Sample site 2 along transect 2 / Mirando al sur hacia Huanta y el Río Cachi desde la orilla izquierda del Río Cachi. Sitio de muestreo 2 a lo largo del transecto 2. (E.Barnes)
 
 
 19 February. Dry forest fieldwork.
@@ -183,15 +183,19 @@ O.n.albolimbata and other hummingbirds food plants / O.n.albolimbata y otras pla
 
 
 20 February. Hummingbird fieldwork.
-A full day observing and collecting behavioural data at the nest site of O.n.albolimbata. Data to be presented in a forthcoming publication. 
+A full morning observing and collecting behavioural data at the nest site of O.n.albolimbata. Data to be presented in a forthcoming publication. 
 
-Jornada completa observando y recogiendo de datos sobre el comportamiento en el nido de O.n.albolimbata. Los datos se presentarán en una próxima publicación. 
+Returning to Huanta we determined sample sites 4, 3, 2 and 1 along transect 2 along a second road to Huancavelica. We have identified three transects that will be sampled and assessed for plant diversity. Three years of data should be sufficient to fully sample these areas across the seasons and will be published after that time.
+
+Manana completa observando y recogiendo de datos sobre el comportamiento en el nido de O.n.albolimbata. Los datos se presentarán en una próxima publicación. 
+
+Regresando a Huanta determinamos los sitios de muestreo 4, 3, 2 y 1 a lo largo del transecto 2 por un segundo camino a Huancavelica. Hemos identificado tres transectos que serán muestreados y evaluados para la diversidad de plantas. Tres años de datos deberían ser suficientes para muestrear completamente estas áreas a través de las estaciones y serán publicados después de ese tiempo.
 
 
 21 February. Dry forest fieldwork.
-Returning to Huanta we determined sample sites 4, 3, 2 and 1 along transect 2 along a second road to Huancavelica. We have identified three transects that will be sampled and assessed for plant diversity. Three years of data should be sufficient to fully sample these areas across the seasons and will be published after that time.
+Heading to San Miguel, we stopped in dry forest before arriving to our cloud forest base. The aim here being to photograph and record two undescribed species. These are the subject of forthcoming publications and are not detailed here, as a result. 
 
-Regresando a Huanta determinamos los sitios de muestreo 4, 3, 2 y 1 a lo largo del transecto 2 por un segundo camino a Huancavelica. Hemos identificado tres transectos que serán muestreados y evaluados para la diversidad de plantas. Tres años de datos deberían ser suficientes para muestrear completamente estas áreas a través de las estaciones y serán publicados después de ese tiempo.
+En dirección a San Miguel, nos detuvimos en bosque seco antes de llegar a nuestra base de bosque nublado. El objetivo aquí era fotografiar y registrar dos especies no descritas. Éstas son objeto de próximas publicaciones y, por consiguiente, no se detallan aquí. 
 
 
 22 February. Dry forest fieldwork.
@@ -201,9 +205,9 @@ En dirección a Chirquintirca, nos detuvimos en bosque seco antes de llegar a nu
 
 
 23 February. Elfin forest fieldwork.
-From San Miguel we visited an elfin forest. The principal aim being to identify endemic plants and birds found in this unique habitat as part of our work on biodiversity.  
+From San Miguel we visited an elfin forest en route to Pichari. The principal aim being to identify endemic plants and birds found in this unique habitat as part of our work on biodiversity.  
 
-Desde San Miguel visitamos un bosque enano. El objetivo principal era identificar plantas y aves endémicas de este hábitat único, como parte de nuestro trabajo sobre biodiversidad.  
+Desde San Miguel visitamos un bosque enano en camino a Pichari. El objetivo principal era identificar plantas y aves endémicas de este hábitat único, como parte de nuestro trabajo sobre biodiversidad.  
 
 ![February2025Fieldwork](/assets/posts/2.25EBA8.jpg)
 
@@ -211,9 +215,9 @@ Elfin forest / Bosque enano. (E.Barnes)
 
 
 24 February. Bioacoustic fieldwork.
-Stopping at Toctococha, instruction was given as to where bioacoustic data could be collected for Troglodytes aedon sp. (House Wren). 
+Stopping at Kimbiri, instruction was given as to where bioacoustic data could be collected for Troglodytes aedon sp. (House Wren). 
 
-En la parada de Toctococha, se dieron instrucciones sobre dónde se podían recoger datos bioacústicos de Troglodytes aedon sp. (chochín común). 
+En la parada de Kimbiri, se dieron instrucciones sobre dónde se podían recoger datos bioacústicos de Troglodytes aedon sp. (chochín común). 
 
 ![February2025Fieldwork](/assets/posts/2.25EBA9.jpg)
 
@@ -233,7 +237,9 @@ Deforestation in the foothills is taking place at a rapid rate. The above images
 
 
 27 February.
-Returning to Huanta, departing early in order to return in time for afternoon meeting at UNAH / Retorno a Huanta, saliendo temprano para regresar a tiempo a la reunión de la tarde en la UNAH.
+In Huanta, meetings at UNAH with staff and stduents.
+
+En Huanta, reuniónes en la UNAH con estudiantes y docentes.
 
 
 28 February. Eco-tourism field visit.
