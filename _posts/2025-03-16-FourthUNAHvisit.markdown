@@ -144,7 +144,6 @@ Los visitantes trabajando en el antiguo laboratorio Cavendish (Cavendish 2) dura
 
 ## Biodiversity research / Investigación sobre biodiversidad
 
-
 ![FieldTripSchedule](/assets/posts/3.25Fen1.JPG)
 
 UNAH inside a hide at the Great Fen Nature Reserve observing the huge diversity of birdlife / UNAH en el interior de un hide de la Reserva Natural de Great Fen observando la enorme diversidad de la avifauna.
@@ -152,12 +151,13 @@ UNAH inside a hide at the Great Fen Nature Reserve observing the huge diversity 
 
 ![FieldTripSchedule](/assets/posts/3.25Fen2.JPG)
 
-The Great Fen wetlands
+Wicken Fen - at one of the last surviving untouched 'fens', Eustace Barnes explains the importance of the 'fens' as a sanctuary for biodiversity / Wicken Fen: en uno de los últimos pantanos vírgenes, Eustace Barnes explica la importancia de los pantanos como santuario de la biodiversidad.
 
 
 ![FieldTripSchedule](/assets/posts/3.25Fen3.JPG)
 
-Wicken Fen Nature Reserve - one of the few original 'fens' 
+Wicken Fen Nature Reserve - Eustace Barnes explains to UNAH students how the fragle 'fen' ecosystem is being managed for nature and tourism / Reserva Natural de Wicken Fen - Eustace Barnes explica a los estudiantes de la UNAH cómo se gestiona el frágil ecosistema del pantano para la naturaleza y el turismo.
+
 
 
 ## Microscopy research / Investigación microscópica
