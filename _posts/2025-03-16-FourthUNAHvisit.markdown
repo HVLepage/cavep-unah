@@ -79,20 +79,6 @@ Student Jenny Carbajal receiving instruction from Dr L.de los Santos on the prep
 Students Jenny Carbajal and Jhon Ramos working together with Fernanda Paez, a Colombian student, currently studying at the Cavendish / Los estudiantes Jenny Carbajal y Jhon Ramos trabajan junto con Fernanda Paez, una estudiante colombiana, que actualmente estudia en el Cavendish.
 
 
-## Biodiversity research / Investigación sobre biodiversidad
-
-
-![FieldTripSchedule](/assets/posts/3.25Fen1.jpg)
-
-
-
-![FieldTripSchedule](/assets/posts/3.25Fen2.jpg)
-
-
-
-![FieldTripSchedule](/assets/posts/3.25Fen3.jpg)
-
-
 
 ## Remote sensing research / Investigación con teledetección
 
@@ -154,6 +140,20 @@ Los visitantes trabajando en el antiguo laboratorio Cavendish (Cavendish 2) dura
 
 ![FieldTripSchedule](/assets/posts/3.25Hugo5.jpg)
 
+
+
+## Biodiversity research / Investigación sobre biodiversidad
+
+
+![FieldTripSchedule](/assets/posts/3.25Fen1.jpg)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Fen2.jpg)
+
+
+
+![FieldTripSchedule](/assets/posts/3.25Fen3.jpg)
 
 
 
