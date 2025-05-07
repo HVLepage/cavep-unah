@@ -91,7 +91,7 @@ Cada uno de los visitantes obtuvo su licencia de piloto de drones de la Autorida
   A continuación, los estudiantes volaron el dron y utilizaron la vista NDVI en directo para evaluar la vegetación de los campos agrícolas cercanos al Laboratorio Cavendish.  
   Discutimos el uso de drones para los proyectos de los estudiantes y cómo podrían utilizarse misiones planificadas o vuelos manuales para adquirir algunos de los datos relevantes para su investigación.
 
-![FieldTripSchedule](/assets/posts/3.25EBA8.JPG)
+![FieldTripSchedule](/assets/posts/3.25EBA8.jpg)
 
 ![FieldTripSchedule](/assets/posts/3.25Hugo1.jpg)
 
