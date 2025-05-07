@@ -17,57 +17,57 @@ Field Trip Schedule
 
 ![February2025Fieldwork](/assets/posts/2.25Field15.JPG)
 
-Students taking measurements at RC01.
+Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field1.JPG)
 
-Students measuring the river width at Q1.1 - recent higher discharge had greatly increased the width of the river comapred to previous visits.
+Students measuring the river width at Q1.1 - recent higher discharge had greatly increased the width of the river compared to previous visits / Alumnos midiendo la anchura del río en Q1.1 - la reciente mayor descarga había aumentado mucho la anchura del río en comparación con visitas anteriores.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field2.JPG)
 
-Students using the Valeport flowmeter to record the velocity of the river at Q1.2N.M.
+Students using the Valeport flowmeter to record the velocity of the river at Q1.2N.M while aware that heavy rain the night before might raise the river level rapidly / Los estudiantes utilizan el caudalímetro Valeport para registrar la velocidad del río en Q1.2N.M, conscientes de que las fuertes lluvias de la noche anterior podrían elevar rápidamente el nivel del río.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field6.JPG)
 
-Students recording velocity data at Q1.2S.U.
+Students recording velocity data at Q1.2S.U.  / Estudiantes registrando datos de velocidad en Q1.2S.U.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field11.JPG)
 
-Ing.P.Ceras and students using the Mettler Toledo dissolved oxygen meter to record data at Q2.1.
+Ing.P.Ceras and students using the Mettler Toledo dissolved oxygen meter to record data at Q2.1 / Ing.P.Ceras y estudiantes utilizando el medidor de oxígeno disuelto Mettler Toledo para registrar datos en Q2.1.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field13.JPG)
 
-Students using the Valeport flowmeter to take readings at Q2.2L1.
+An experienced student teaches students new to fieldwork to use the Valeport flowmeter to take readings at Q2.2L1 / Un estudiante experimentado enseña a estudiantes nuevos en el trabajo de campo a utilizar el caudalímetro Valeport para tomar lecturas en Q2.2L1.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field14.JPG)
 
-Students using the Valeport flowmeter to take readings at Q2.3L.
+An experienced student teaches students new to fieldwork to use the Valeport flowmeter to take readings at Q2.3L / Un estudiante experimentado enseña a estudiantes nuevos en el trabajo de campo a utilizar el caudalímetro Valeport para tomar lecturas en Q2.3L.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field3.JPG)
 
-Students improvise using the multiparameter to take readings from the centre of the fast flowing channel at Q3.1.
+Students improvise using the multiparameter to take readings from the centre of the deep and fast flowing channel at Q3.1 / Los estudiantes improvisan utilizando el multiparámetro para tomar medidas desde el centro del canal profundo y de flujo rápido en Q3.1.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field5.JPG)
 
-Students using the Valeport flowmeter to take readings from the bank of the fast flowing channel at RC02.
+Students using the Valeport flowmeter to take readings from the safety of the bank of the fast flowing channel at RC02 / Estudiantes utilizando el caudalímetro Valeport para tomar lecturas desde la seguridad de la orilla del canal de flujo rápido en RC02.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field8.JPG)
 
-Students using the Valeport flowmeter to record the first of five velocity readings at Q3.2.
+Students using the Valeport flowmeter to record the first of five velocity readings (from which an average will be calculated) at Q3.2 / Estudiantes que utilizan el caudalímetro Valeport para registrar la primera de cinco lecturas de velocidad (a partir de las cuales se calculará una media) en Q3.2.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Field10.JPG)
 
-Students using the Mettler Toledo dissolved oxygen meter to record data at Q3.3L.
+Students using the Mettler Toledo dissolved oxygen meter to record data at Q3.3L / Estudiantes utilizando el medidor de oxígeno disuelto Mettler Toledo para registrar datos en Q3.3L.
 
 
 
@@ -75,28 +75,27 @@ Students using the Mettler Toledo dissolved oxygen meter to record data at Q3.3L
 
 ![February2025Fieldwork](/assets/posts/2.25Lab1.JPG)
 
-UNAH staff and students using the Geopump to filter a water sample prior to further analysis. 
+UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
 
 
 ![February2025Fieldwork](/assets/posts/2.25Lab2.JPG)
 
-Students change a filter while using the Geopump.
+Students change a filter while using the Geopump / Un estudiante cambia un filtro mientras utilizan la Geobomba.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Lab3.JPG)
 
-Students using the Geopump to filter a water sample that clearly contains a high level of suspended sediments. 
+Students using the Geopump to filter a water sample that clearly contains a high level of suspended sediments / Estudiantes utilizando la Geobomba para filtrar una muestra de agua que claramente contiene un alto nivel de sedimentos en suspensión.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Lab4.JPG)
 
-UNAH staff and students in the early stages (sample is green in colour) of undertaking titration to determine the alkalinity of a sample.
+UNAH staff and students in the early stages (sample is green in colour) of undertaking titration to determine the alkalinity of a sample / Docentes y estudiantes de la UNAH en las primeras fases (la muestra es de color verde) de la valoración para determinar la alcalinidad de una muestra.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Lab5.JPG)
 
-Students completing the titration process (sample has turned pink in colour) to determine the alkalinity of a sample. 
-
+Students completing the titration process (sample has turned pink in colour) to determine the alkalinity of a sample / Estudiantes completando el proceso de valoración (la muestra ha adquirido un color rosado) para determinar la alcalinidad de una muestra.
 
 
 
