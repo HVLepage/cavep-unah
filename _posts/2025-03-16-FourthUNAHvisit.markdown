@@ -184,6 +184,18 @@ Wicken Fen - at one of the last surviving untouched 'fens', Eustace Barnes expla
 Wicken Fen Nature Reserve - Eustace Barnes explains to UNAH students how the fragle 'fen' ecosystem is being managed for nature and tourism / Reserva Natural de Wicken Fen - Eustace Barnes explica a los estudiantes de la UNAH cómo se gestiona el frágil ecosistema del pantano para la naturaleza y el turismo.
 
 
+![FieldTripSchedule](/assets/posts/3.25EBA3.jpg)
+
+
+![FieldTripSchedule](/assets/posts/3.25EBA4.jpg)
+
+
+![FieldTripSchedule](/assets/posts/3.25EBA5.jpg)
+
+
+![FieldTripSchedule](/assets/posts/3.25EBA6.jpg)
+
+
 
 ## Microscopy research / Investigación microscópica
 
