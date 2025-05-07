@@ -105,17 +105,17 @@ Students completing the titration process (sample has turned pink in colour) to 
 
 ![February2025Fieldwork](/assets/posts/2.25Soils1.JPG)
 
-Students preparing to take a soil sample and other measurements at HS0.14.
+Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Soils2.JPG)
 
-Students preparing to take a soil sample and other measurements at HS3.19.
+Students preparing to take a soil sample and other soil characteristic measurements at HS3.19 / Estudiantes preparándose para tomar una muestra de suelo y otras mediciones de las características del suelo en HS3.19.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Soils3.JPG)
 
-Students preparing to take a soil sample and other measurements at HS3.21.
+Students preparing to take a soil sample and other measurements at HS3.21 / Estudiantes preparándose para tomar una muestra de suelo y otras mediciones en HS3.21.
 
 
 
@@ -123,12 +123,12 @@ Students preparing to take a soil sample and other measurements at HS3.21.
 
 ![February2025Fieldwork](/assets/posts/2.25Soils4.JPG)
 
-Students analysing soil samples using Munsell charts.
+Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
 
 
 ![February2025Fieldwork](/assets/posts/2.25Soils5.JPG)
 
-Students analysing soil samples using Munsell charts.
+Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
 
 
 
