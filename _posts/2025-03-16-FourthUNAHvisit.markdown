@@ -93,6 +93,7 @@ Students Jenny Carbajal and Jhon Ramos working together with Fernanda Paez, a Co
 ![FieldTripSchedule](/assets/posts/3.25Fen3.jpg)
 
 
+
 ## Remote sensing research / Investigación con teledetección
 
 *Drone Pilot License / Licencia de piloto de drones -
