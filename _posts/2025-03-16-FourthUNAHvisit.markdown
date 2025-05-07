@@ -186,14 +186,22 @@ Wicken Fen Nature Reserve - Eustace Barnes explains to UNAH students how the fra
 
 ![FieldTripSchedule](/assets/posts/3.25EBA3.jpg)
 
+Welney Fen map / Mapa de Welney Fen.
+
 
 ![FieldTripSchedule](/assets/posts/3.25EBA4.jpg)
+
+Welney Fen satellite image / Imagen de satellite de Welney Fen.
 
 
 ![FieldTripSchedule](/assets/posts/3.25EBA5.jpg)
 
+NDVI image of Welney Fen but it is barely visible / Imagen NDVI de Welney Fen pero apenas es visible.
+
 
 ![FieldTripSchedule](/assets/posts/3.25EBA6.jpg)
+
+Welney Fen photo taken during the visit / Foto de Welney Fen tomada durante la visita.
 
 
 
