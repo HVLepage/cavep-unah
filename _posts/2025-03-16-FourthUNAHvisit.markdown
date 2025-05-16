@@ -218,7 +218,7 @@ Sariah ha estado recopilando datos vocales del chochín común (Troglodytes aedo
 
 ![FieldTripSchedule](/assets/posts/3.25EBA.jpg)
 
-Sariah Ore in the Cambridge countryside / (E.Barnes)
+Sariah Ore (UNAH) & Eustace Barnes (UCAM) in the Cambridge countryside recording the call of the Winter Wren (Troglodytes troglodytes) / Sariah Ore (UNAH) y Eustace Barnes (UCAM) en el campo de Cambridge grabando la llamada del chochín invernal (Troglodytes troglodytes)(E.Barnes)
 
 
 
