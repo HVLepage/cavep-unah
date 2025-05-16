@@ -204,6 +204,23 @@ NDVI image of Welney Fen but it is barely visible / Imagen NDVI de Welney Fen pe
 Welney Fen photo taken during the visit / Foto de Welney Fen tomada durante la visita.
 
 
+### Developing an interest in bioacoustics at UNAH / Desarrollar el interés por la bioacústica en la UNAH
+
+Bioacoustics is the study of sound production, transmission, and reception in birds, offering insights across a range of disciplines, including ecology, conservation biology and evolutionary theory. In the case of ongoing work at UNAH, it represents a non-invasive, cost effective and highly efficient method of investigating vocal variation of a single species: the House Wren (Troglodytes aedon). This investigation is looking at vocal variation associated with habitat, elevation and proximity to urban areas. 
+
+Sariah has been collecting vocal data for the House Wren (Troglodytes aedon) around Huanta and during her stay in Cambridge collected vocal data for the closely related Winter Wren (Troglodytes troglodytes) in the countryside near the Cavendish laboratory. These provide a useful biological correlate for work being undertaken in Peru using data sets available on the Xenocanto and Macaulay sound libraries. Working on this enables her to become more proficient with bioacoustic recording, acoustic signal comparison, familiarity with the acoustic libraries and also in the use of a range of related software.
+
+
+La bioacústica es el estudio de la producción, transmisión y recepción del sonido en las aves, y ofrece información sobre diversas disciplinas, como la ecología, la biología de la conservación y la teoría evolutiva. En el caso del trabajo en curso en la UNAH, representa un método no invasivo, rentable y altamente eficiente para investigar la variación vocal de una sola especie: el chochín común (Troglodytes aedon). Esta investigación estudia la variación vocal asociada al hábitat, la altitud y la proximidad a zonas urbanas.
+
+Sariah ha estado recopilando datos vocales del chochín común (Troglodytes aedon) en los alrededores de Huanta y, durante su estancia en Cambridge, recopiló datos vocales del chochín invernal (Troglodytes troglodytes), estrechamente emparentado, en el campo, cerca del laboratorio Cavendish. Estos datos proporcionan un correlato biológico útil para el trabajo que se está llevando a cabo en Perú utilizando los conjuntos de datos disponibles en las bibliotecas de sonidos Xenocanto y Macaulay. Trabajar en esto le permite ser más competente con la grabación bioacústica, la comparación de señales acústicas, la familiaridad con las bibliotecas acústicas y también en el uso de una gama de software relacionado.
+
+
+![FieldTripSchedule](/assets/posts/3.25EBA.jpg)
+
+Sariah Ore in the Cambridge countryside / (E.Barnes)
+
+
 
 ## Microscopy research / Investigación microscópica
 
