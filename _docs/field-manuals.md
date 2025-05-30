@@ -7,12 +7,12 @@ permalink: /docs/field-manuals/
 * [Field work risk assessment (EN)](/assets/Risk_Assessment_summary_-_website_-_english_(2022).pdf)
 * [Evaluación del riesgo de trabajo en el campo (ES)](/assets/Risk_Assessment_summary_-_website_-_spanish_(2022).pdf)
 
-### Field manuals
 
-* [Fieldwork & Laboratory Manual - June 2023 (EN)](/UNAH_Fieldwork_manual_V2_June_2023.pdf)
-* [Manual de laboratorio y trabajo de campo - Junio 2023 (ES)](/assets/docs/UNAH_Fieldwork_manual_(spanish)_V2_June_2023.pdf)
-* [Fieldwork & Laboratory Manual (EN)](https://drive.google.com/file/d/1eRdFHEXn_z_1stItIUtUnvcbIpVXTjLT/view?usp=sharing)
-* [Manual de laboratorio y trabajo de campo (ES)](https://drive.google.com/file/d/1eVUN_DHGcy8VkNxAHxVGBajE5HeL61hQ/view?usp=sharing)
+### Field manuals
+* [Fieldwork & Laboratory Manual - June 2023 (EN)](/UNAHFieldworkmanualV4June2025.pdf)
+  
+* [Manual de laboratorio y trabajo de campo - Junio 2023 (ES)](/assets/docs/UNAHFieldworkmanual(spanish)V3Junio2025.pdf)
+
 
 ### Equipment manuals
 * [Valeport - Model 801 EM Operating Manual](https://drive.google.com/file/d/1enudJLRS-wYvhZ1oc0jE0PNgtmdO0EcD/view?usp=sharing)
