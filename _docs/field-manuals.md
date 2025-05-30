@@ -4,7 +4,8 @@ permalink: /docs/field-manuals/
 ---
 
 ### Risk assessments
-* [Field work risk assessment (EN)](/assets/Risk_Assessment_summary_-_website_-_english_(2022).pdf)
+* [Field work risk assessment (EN)](/assets/RiskAssessment(June2025Master).pdf)
+  
 * [Evaluación del riesgo de trabajo en el campo (ES)](/assets/Risk_Assessment_summary_-_website_-_spanish_(2022).pdf)
 
 
