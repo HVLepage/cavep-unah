@@ -10,9 +10,9 @@ permalink: /docs/field-manuals/
 
 
 ### Field manuals
-* [Fieldwork & Laboratory Manual - June 2023 (EN)](/UNAHFieldworkmanualV4June2025.pdf)
+* [Fieldwork & Laboratory Manual - June 2025 (EN)](/UNAHFieldworkmanualV4June2025.pdf)
   
-* [Manual de laboratorio y trabajo de campo - Junio 2023 (ES)](/assets/docs/UNAHFieldworkmanual(spanish)V3Junio2025.pdf)
+* [Manual de laboratorio y trabajo de campo - junio 2025 (ES)](/assets/docs/UNAHFieldworkmanual(spanish)V3Junio2025.pdf)
 
 
 ### Equipment manuals
