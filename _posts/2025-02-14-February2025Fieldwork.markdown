@@ -6,7 +6,7 @@ version: 1.0.0
 category: field-work
 ---
 
-Field Trip Schedule
+## Field Trip Schedule
 
 [Field Trip Schedule](/assets/posts/UCAMscheduleFeb25.pdf)
 
