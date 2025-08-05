@@ -4,7 +4,7 @@ title: The CavEP Team
 permalink: /team/
 ---
 
-## University of Cambridge
+## University of Cambridge (UCAM)
 
 Principal investigator
 * **<a href="https://www.phy.cam.ac.uk/directory/barnesc">Crispin H. W. Barnes</a>**
@@ -22,11 +22,17 @@ Additionally, appropriate expertise will be appointed to fulfil} project objecti
 Project administration:
 * **John Forrest** and **Julia Porturas**.
 
-## Universidad Nacional Autónoma de Huanta
+
+## Universidad Nacional Autónoma de Huanta (UNAH)
 
 Principal investigator
-* **Dra. Delia Palmira Gamarra Gamarra**.
+* **Dra. Delia Gamarra Gamarra (2020-2025)**.
+* **Dra. Hilda Huayhua Mamani (2025-)**.
   
 Co-investigators (or their successors)
-* **Dr. Jorge Isaac Castro Bedriñana**.
-* **Dr. Juvenal Castromonte Salinas**.
+* **Dr. Jorge Castro Bedriñana (Vice-President Investigation)(2020-2025)**.
+* **Dra. Roxani Keewong Zapata (Vice-President Investigation)(2025-)**.
+  
+* **Dr. Juvenal Castromonte Salinas (Vice-President Academic)(2020-2025)**.
+* **Dr. Luis Rivera Vela (Vice-President Academic)(2025-)**.
+
