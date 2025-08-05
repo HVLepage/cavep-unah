@@ -19,6 +19,10 @@ Report No.1  January 2023  /  Informe No.1 enero 2023
 
 Report No.2  August 2023  /  Informe No.2 agosto 2023
 
+Report No.3  August 2024  /  Informe No.3 agosto 2024
+
+Report No.4  August 2025  /  Informe No.4 agosto 2025
+
 
 ## REFERENCES / REFERENCIAS
 The most relevant publications that have been referred to by the project will be listed below.
@@ -92,6 +96,7 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 * Turpo Cayo, Efrain Yury, et al. ["Mapping three decades of changes in the tropical Andean glaciers using landsat data processed in the Earth engine."](https://doi.org/10.3390/rs14091974) Remote Sensing 14.9 (2022): 1974.
 
 * Beck, H.E., McVicar, T.R., Vergopolan, N. et al. [High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections.](https://doi.org/10.1038/s41597-023-02549-6) Sci Data 10, 724 (2023).
+  
 
 ### Bofedales / Bofedales
 * Garcia Dulanto, Jorge Luis. ["Implementación de una metodología para la identificación de bofedales usando datos imágenes satelitales Landsat-caso estudio: bofedal Chunal, cuenca alta del río Chillón."](https://cybertesis.unmsm.edu.pe/handle/20.500.12672/10446) Tesis, Universidad Nacional Mayor de San Marcos (2018).
@@ -103,4 +108,5 @@ A continuación se enumeran las publicaciones más relevantes a las que ha hecho
 
 ### Others / Otras
 * Correa, Sly W., et al. ["Soil erosion risk associated with climate change at Mantaro River basin, Peruvian Andes."](https://www.researchgate.net/publication/305830061_Soil_erosion_risk_associated_with_climate_change_at_Mantaro_River_basin_Peruvian_Andes) Catena 147 (2016): 110-124.
+
 
