@@ -106,7 +106,7 @@ Students Jenny Carbajal and Jhon Ramos working together with Fernanda Paez, a Co
 ## Remote sensing research / Investigación con teledetección
 
 *Drone Pilot License / Licencia de piloto de drones -
-The Peruvian visitors began their visit by obtaining their Drone Pilot Licenses from the UK Civial Aviation Authority (CAA). This was done after reading through the various laws and safety measures surrounding drone operation and taking a 40-question exam (in english).
+The Peruvian visitors began their visit by obtaining their Drone Pilot Licenses from the UK Civil Aviation Authority (CAA). This was done after reading through the various laws and safety measures surrounding drone operation and taking a 40-question exam (in english).
   The students then flew the drone and used the Live NDVI view to assess vegetation in agricultural fields near the Cavendish Laboratory.  
   We discussed the use of drones for the students’ projects and how planned missions or manual flights could be used to acquire some of the data relevant to their research.
 
@@ -122,7 +122,7 @@ The visitors with confirmation that they are licensed to fly drones in the UK / 
 
 
 *Google Cloud & Google Earth Engine / Google Cloud y Google Earth Engine - 
-Each visitor created a Google Cloud project from which their remote sensing analysis could be performed. This was the main tool for downloading and processing large amounts of satellite imagery udirng their stay.
+Each visitor created a Google Cloud project from which their remote sensing analysis could be performed. This was the main tool for downloading and processing large amounts of satellite imagery during their stay.
 
 Cada visitante creó un proyecto en Google Cloud desde el que podía realizar sus análisis de teledetección. Esta fue la principal herramienta para descargar y procesar grandes cantidades de imágenes de satélite durante su estancia.
 
@@ -169,7 +169,7 @@ Los visitantes trabajando en el antiguo laboratorio Cavendish (Cavendish 2) dura
 
 ## Biodiversity research / Investigación sobre biodiversidad
 
-Field verification and assessing remotely sensed data quantifying land cover changes and biodiversity in the fenlands. 
+Field verification and assessing remotely sensed data quantifying land cover changes and biodiversity in the Fenlands. 
 
 Verificación sobre el terreno y evaluación de datos obtenidos por teledetección que cuantifican los cambios de la cubierta terrestre y la biodiversidad en los pantanos.
 
