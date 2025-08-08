@@ -26,14 +26,14 @@ Para ver el programa de la visita, por favor utilice el enlace de arriba titulad
 
 ![FieldTripSchedule](/assets/posts/3.25Training1.JPG)
 
-The students began their visit in the new Cavendish Laboratory (Cavendish 3). The new Cavendish was only recently opened and the UNAH stduents were one of the first, if not the first, foreign student delegation to meet in the new laboratory buildings. The visit began with a Health & Safety course to explain the risks of working in the laboratory. All visiting academics must undertake the course prior to working in the Cavendish Laboratory.
+The students began their visit at the new Cavendish Laboratory (Cavendish 3). The new Cavendish was only recently opened and the UNAH students were one of the first, if not the first, foreign student delegation to meet in the new laboratory buildings. The visit began with a Health & Safety course to explain the risks of working in the laboratory. All visiting academics must undertake the course prior to working in the Cavendish Laboratory.
 
 El grupo de la UNAH comenzó su visita en el nuevo laboratorio Cavendish (Cavendish 3). El nuevo Cavendish se ha inaugurado recientemente y el grupo de la UNAH fueron una de las primeras, si no la primera, delegación de estudiantes extranjeros que se reunió en los nuevos edificios del laboratorio. La visita comenzó con un curso de Salud y Seguridad para explicar los riesgos de trabajar en el laboratorio. Todos los académicos visitantes deben realizar el curso antes de trabajar en el Laboratorio Cavendish. 
 
 
 ## Sediments research / Investigación de sedimentos
 
-Two students - Jenny Carbajal and Jhon Ramos - worked under the supervision of Dr L.de los Santos. They were trained in the use of equipment to measure the sediment samples they had brought from Peru and were also supervised in analysing the data for their respective theses. 
+Two students - Jenny Carbajal and Jhon Ramos - worked under the supervision of Luis de los Santos. They were trained in the use of equipment to measure the sediment samples they had brought from Peru and were also supervised in analysing the data for their respective theses. 
 
 The main objectives of the visit were for the students to become trained in the -
 -use of the UCAM scanning electronic microscopy by themselves.
@@ -46,17 +46,40 @@ The activities undertaken included training the students in the -
 -preparation of the samples and use of an X-ray diffractometer (XRD) Bruker brand.
 -use of the Match program from Crystal Impact (https://www.crystalimpact.com/match/).
 
-In conclusion, over 50 sediment samples were processed. The are now able to -
+In conclusion, over 50 sediment samples were processed. They are now able to -
 -use a scanning electronic microscopy by themselves.
 -analyse EDX spectra for the identification of the chemical composition of soils samples by themselves.
 -identify the mineralogical composition of sediment samples from X-ray diffractograms by themselves. 
 
-The next steps are to train the stduents in the -
+The next steps are to train the students in the -
 -analysis of samples by Gamma spectroscopy.
 -analysis of samples by differential calorimeter.
 -analysis of samples by Fourier transform spectroscopy.
 -analysis of samples by UV-VIS-NIR spectroscopy.
 and to progress their respective theses and manuscripts for publications.
+
+
+Dos estudiantes, Jenny Carbajal y Jhon Ramos, trabajaron bajo la supervisión de Luis de los Santos. Recibieron capacitación en el uso de equipos para medir las muestras de sedimentos que trajeron de Perú y también fueron supervisados en el análisis de los datos para sus respectivas tesis.
+
+Los principales objetivos de la visita fueron que los estudiantes se capacitaran en el uso autónomo de la microscopía electrónica de barrido de la UCAM.
+-Análisis de la composición química de muestras de sedimentos.
+-Uso de un difractómetro de rayos X.
+-Identificación de la composición mineralógica de muestras de sedimentos a partir de difractogramas de rayos X.
+
+Las actividades realizadas incluyeron la capacitación de los estudiantes en la preparación de muestras y el uso de un microscopio electrónico de barrido (MEB) y una sonda Helius FIB adaptada con un espectrómetro de rayos X por dispersión de electrones (EDX) marca Oxford Inc.
+- preparación de muestras y uso de un difractómetro de rayos X (DRX) marca Bruker.
+- uso del programa Match de Crystal Impact (https://www.crystalimpact.com/match/).
+
+En conclusión, se procesaron más de 50 muestras de sedimentos. Ahora pueden:
+-utilizar un microscopio electrónico de barrido por sí mismos;
+-analizar espectros EDX para la identificación de la composición química de muestras de suelos por sí mismos;
+-identificar la composición mineralógica de muestras de sedimentos a partir de difractogramas de rayos X por sí mismos.
+
+Los próximos pasos son capacitar a los estudiantes en el análisis de muestras mediante espectroscopía gamma.
+-análisis de muestras mediante calorímetro diferencial.
+-análisis de muestras mediante espectroscopía por transformada de Fourier.
+-análisis de muestras mediante espectroscopía UV-VIS-NIR.
+y avanzar en sus respectivas tesis y manuscritos para su publicación.
 
 
 ![FieldTripSchedule](/assets/posts/3.25Luis2.jpg)
