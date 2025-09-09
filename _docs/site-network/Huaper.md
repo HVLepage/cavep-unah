@@ -22,11 +22,11 @@ Close up aerial view of study site / Vista muy cerca del aérea del lugar del es
 The main lagoon / La laguna principal  (March 2023) (John Forrest)
 
 
-![Huaper](/assets/sites/Huaperexitchannel.JPG)
+![Huaper](/assets/sites/11.24Huaperexitchannel.JPG)
 The exit channel from the main lagoon / El canal de salida de la laguna principal (November 2024) (John Forrest)
 
 
-![Huaper](/assets/sites/Huaperoutflow.JPG)
+![Huaper](/assets/sites/11.24Huaperoutflow.JPG)
 The controlled outflow from the Huaper / El flujo controlado desde el Huaper (November 2024) (John Forrest)
 
 
