@@ -55,4 +55,19 @@ UNAH staff and students using the Geopump to filter a water sample prior to furt
 
 
 
+## SOILS
+
+## Students in the field / Estudiantes en el campo
+
+![June2025Fieldwork](/assets/posts/2.25Soils1.JPG)
+
+Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
+
+
+![June2025Fieldwork](/assets/posts/2.25Soils1.JPG)
+
+Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
+
+
+
 
