@@ -71,12 +71,12 @@ UNAH staff and students at the end of the titration process (liquid is pink) to 
 
 ## Water data analysis workshop / Taller de análisis de datos sobre el agua
 
-![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
 
 UNAH staff and students 
 
 
-![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
 
 UNAH staff and students 
 
@@ -87,12 +87,12 @@ UNAH staff and students
 
 ## Students in the field / Estudiantes en el campo
 
-![June2025Fieldwork](/assets/posts/2.25Soils1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Soils1.JPG)
 
 Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
 
 
-![June2025Fieldwork](/assets/posts/2.25Soils1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Soils1.JPG)
 
 Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
 
@@ -100,24 +100,24 @@ Students preparing to take a soil sample and soil characteristic measurements at
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
-![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
 
 Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
 
 
-![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
 
 Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
 
 
 ## Soil sample processing and analysis workshops
 
-![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
 
 UNAH staff and students analysing
 
 
-![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
 
 UNAH staff and students analysing
 
