@@ -28,12 +28,12 @@ UNAH staff and students taking dissolved oxygen measurements from the main irrig
 
 ![June2025Fieldwork](/assets/posts/6.25Water9.JPG)
 
-UNAH staff and students  
+UNAH students display the results of an alkalinity test of the water sample taken in sitio at RC02 on the river Cachi / Estudiantes de la UNAH muestran los resultados de una prueba de alcalinidad de la muestra de agua tomada en el sitio RC02 del río Cachi.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water6.JPG)
 
-UNAH staff and students 
+UNAH staff and students at site RC02 using the Valeport flowmeter to measure the depth and veoilcity of the rive Cachi above Cangari so the discharge can be calculated / Estudiantes de la UNAH a sitio RC02 utilizan el caudalímetro Valeport para medir la profundidad y la velocidad del río Cachi, aguas arriba de Cangari, con el fin de calcular el caudal.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water4.JPG)
