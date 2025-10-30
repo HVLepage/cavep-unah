@@ -71,15 +71,19 @@ UNAH staff and students at the end of the titration process (liquid is pink) to 
 
 ## Water data analysis workshop / Taller de análisis de datos sobre el agua
 
-![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25WW1.JPG)
 
 UNAH staff and students 
 
 
-![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25WW2.JPG)
 
 UNAH staff and students 
 
+
+![June2025Fieldwork](/assets/posts/6.25WW3.JPG)
+
+UNAH staff and students 
 
 
 
