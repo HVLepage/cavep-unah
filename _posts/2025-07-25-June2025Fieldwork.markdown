@@ -33,17 +33,17 @@ UNAH students display the results of an alkalinity test of the water sample take
 
 ![June2025Fieldwork](/assets/posts/6.25Water6.JPG)
 
-UNAH staff and students at site RC02 using the Valeport flowmeter to measure the depth and veoilcity of the rive Cachi above Cangari so the discharge can be calculated / Estudiantes de la UNAH a sitio RC02 utilizan el caudalímetro Valeport para medir la profundidad y la velocidad del río Cachi, aguas arriba de Cangari, con el fin de calcular el caudal.
+UNAH staff and students at site RC02 using the Valeport flowmeter to measure the depth and velocity of the river Cachi above Cangari so the discharge can be calculated / Estudiantes de la UNAH a sitio RC02 utilizan el caudalímetro Valeport para medir la profundidad y la velocidad del río Cachi, aguas arriba de Cangari, con el fin de calcular el caudal.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water4.JPG)
 
-UNAH staff and students 
+UNAH staff and students at site Q2.1U using the Valeport flowmeter to measure the depth and velocity of the river Huanta so the discharge can be calculated / Un docente y estudiantes de la UNAH en el sitio Q2.1U utilizando el caudalímetro Valeport para medir la profundidad y la velocidad del río Huanta, con el fin de calcular el caudal. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water10.JPG)
 
-UNAH staff and students 
+UNAH students collecting water samples at site Q3.3M on the river Chihua, high above Huamanguilla / Estudiantes de la UNAH recogiendo muestras de agua en el punto Q3.3M del río Chihua, en las alturas de Huamanguilla.
 
 
 
