@@ -36,3 +36,23 @@ Students taking measurements at RC01 with great care in-line with risk assessmen
 Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
 
 
+
+## Students in the laboratory / Estudiantes en el laboratorio
+
+![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+
+UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
+
+
+![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+
+UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
+
+
+![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+
+UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
+
+
+
+
