@@ -18,30 +18,32 @@ category: field-work
 
 ![June2025Fieldwork](/assets/posts/6.25Water1.JPG)
 
-Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
+UNAH staff and students taking measurements at Q1.1 where rains earlier in the year had greatly changed the course and characteristics of the channel  / Un docente y estudiantes de la UNAH tomando mediciones en Q1.1, donde las lluvias caídas a principios de año habían modificado considerablemente el curso y las características del cauce.  
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water8.JPG)
 
-Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
+UNAH staff and students taking dissolved oxygen measurements from the main irrigation canal that transfers water for 35 kms down the valley from the river Cachi above Cangari to locations bekow Huanta / Un docente y estudiantes de la UNAH tomando mediciones de oxígeno disuelto en el canal principal de riego que transporta agua a lo largo de 35 km por el valle desde el río Cachi, situado sobre Cangari, hasta lugares situados por debajo de Huanta. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water9.JPG)
 
-Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
+UNAH staff and students  
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water6.JPG)
 
-Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
+UNAH staff and students 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water4.JPG)
 
+UNAH staff and students 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Water10.JPG)
 
+UNAH staff and students 
 
 
 
