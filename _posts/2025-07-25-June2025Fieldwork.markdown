@@ -73,17 +73,17 @@ UNAH staff and students at the end of the titration process (liquid is pink) to 
 
 ![June2025Fieldwork](/assets/posts/6.25WW1.JPG)
 
-UNAH staff and students 
+UNAH staff and students analyse all the water data collected to data using cluster analysis / Docentes y estudiantes de la UNAH analizan todos los datos sobre el agua recopilados hasta la fecha mediante análisis de conglomerados.
 
 
 ![June2025Fieldwork](/assets/posts/6.25WW2.JPG)
 
-UNAH staff and students 
+UNAH staff and students analyse all the water data collected to data using cluster analysis / Docentes y estudiantes de la UNAH analizan todos los datos sobre el agua recopilados hasta la fecha mediante análisis de conglomerados.
 
 
 ![June2025Fieldwork](/assets/posts/6.25WW3.JPG)
 
-UNAH staff and students 
+UNAH staff and students analyse all the water data collected to data using cluster analysis / Docentes y estudiantes de la UNAH analizan todos los datos sobre el agua recopilados hasta la fecha mediante análisis de conglomerados.
 
 
 
