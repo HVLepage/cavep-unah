@@ -16,24 +16,32 @@ category: field-work
 
 ## Students in the field / Estudiantes en el campo
 
-![June2025Fieldwork](/assets/posts/2.25Field15.JPG)
+![June2025Fieldwork](/assets/posts/6.25Water1.JPG)
 
 Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
 
 
-![June2025Fieldwork](/assets/posts/2.25Field15.JPG)
+![June2025Fieldwork](/assets/posts/6.25Water8.JPG)
 
 Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
 
 
-![June2025Fieldwork](/assets/posts/2.25Field15.JPG)
+![June2025Fieldwork](/assets/posts/6.25Water9.JPG)
 
 Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
 
 
-![June2025Fieldwork](/assets/posts/2.25Field15.JPG)
+![June2025Fieldwork](/assets/posts/6.25Water6.JPG)
 
 Students taking measurements at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Los estudiantes realizan mediciones en el RC01 con sumo cuidado, de acuerdo con los procedimientos de evaluación de riesgos, junto al caudaloso río. 
+
+
+![June2025Fieldwork](/assets/posts/6.25Water4.JPG)
+
+
+
+![June2025Fieldwork](/assets/posts/6.25Water10.JPG)
+
 
 
 
