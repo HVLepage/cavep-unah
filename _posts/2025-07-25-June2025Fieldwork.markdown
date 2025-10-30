@@ -70,4 +70,16 @@ Students preparing to take a soil sample and soil characteristic measurements at
 
 
 
+## Students in the laboratory / Estudiantes en el laboratorio
+
+![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+
+Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
+
+
+![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+
+Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
+
+
 
