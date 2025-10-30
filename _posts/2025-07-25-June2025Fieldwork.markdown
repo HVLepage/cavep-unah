@@ -142,12 +142,12 @@ UNAH staff and students preparing soil samples for analysis by pulverising and t
 
 ![June2025Fieldwork](/assets/posts/6.25SW2.JPG)
 
-UNAH staff and students preparing the samples to analyse the soil texture / Un docente y estudiantes de la UNAH preparando las muestras para analizar la textura del suelo. 
+UNAH staff and students preparing the samples to analyse the soil texture / Estudiantes de la UNAH preparando las muestras para analizar la textura del suelo. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW3.JPG)
 
-UNAH staff and students using a Munsell chart to assess the soil type / Un docente y estudiantes de la UNAH utilizando una carta Munsell para evaluar el tipo de suelo.
+UNAH staff and students using a Munsell chart to assess the soil type / Un docente y un estudiante de la UNAH utilizando una carta Munsell para evaluar el tipo de suelo.
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW4.JPG)
@@ -157,7 +157,7 @@ UNAH staff and students measuring the pH and conductivity of a soil sample / Un 
 
 ![June2025Fieldwork](/assets/posts/6.25SW6.JPG)
 
-UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content / Un docente y estudiantes de la UNAH preparan una muestra para analizar su contenido de nitrato, potasio y fósforo. 
+UCAM & UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content / Un docente de la UCAM y un docente y estudiantes de la UNAH preparan una muestra para analizar su contenido de nitrato, potasio y fósforo. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW5.JPG)
