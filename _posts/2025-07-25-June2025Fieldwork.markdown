@@ -98,12 +98,12 @@ UNAH students in the field recording the soil depth using an auger / Estudiantes
 
 ![June2025Fieldwork](/assets/posts/6.25Soils2.JPG)
 
-UNAH students in the field analysing the soil type using a Munsell guide / Estudiantes de la UNAH en el campo analizando el tipo de suelo utilizando una guía Munsell. 
+UNAH staff and students in the field analysing the soil type using a Munsell guide / Un docente y estudiantes de la UNAH en el campo analizando el tipo de suelo utilizando una guía Munsell. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Soils3.JPG)
 
-UNAH students in the field analysing the soil type using a Munsell guide / Estudiantes de la UNAH en el campo analizando el tipo de suelo utilizando una guía Munsell. 
+UNAH students in the field analysing the soil type using a Munsell guide while also meaduring the pH and conductivity of the soil / Estudiantes de la UNAH en el campo analizando el tipo de suelo utilizando una guía Munsell, al tiempo que miden el pH y la conductividad del suelo. 
 
 
 
