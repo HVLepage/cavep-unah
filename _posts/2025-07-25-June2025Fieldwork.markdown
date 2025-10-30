@@ -55,6 +55,20 @@ UNAH staff and students using the Geopump to filter a water sample prior to furt
 
 
 
+## Water data analysis workshop / Taller de análisis de datos sobre el agua
+
+![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+
+UNAH staff and students 
+
+
+![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+
+UNAH staff and students 
+
+
+
+
 ## SOILS
 
 ## Students in the field / Estudiantes en el campo
@@ -80,6 +94,18 @@ Students analysing soil samples using Munsell charts / Estudiantes analizando mu
 ![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
 
 Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
+
+
+## Soil sample processing and analysis workshops
+
+![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+
+UNAH staff and students analysing
+
+
+![June2025Fieldwork](/assets/posts/2.25Soils4.JPG)
+
+UNAH staff and students analysing
 
 
 
