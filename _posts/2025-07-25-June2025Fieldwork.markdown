@@ -137,14 +137,37 @@ A full day workshop was offered on three separate days to enable UNAH staff and 
 
 ![June2025Fieldwork](/assets/posts/6.25SW1.JPG)
 
-UNAH staff and students analysing
+UNAH staff and students preparing soil samples for analysis by pulverising and then weighing the samples / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW2.JPG)
 
-UNAH staff and students analysing
+UNAH staff and students preparing the samples 
+
 
 ![June2025Fieldwork](/assets/posts/6.25SW3.JPG)
+
+UNAH staff and students 
+
+
+![June2025Fieldwork](/assets/posts/6.25SW4.JPG)
+
+UNAH staff and students preparing the samples 
+
+
+![June2025Fieldwork](/assets/posts/6.25SW5.JPG)
+
+UNAH staff and students preparing the samples 
+
+
+![June2025Fieldwork](/assets/posts/6.25SW6.JPG)
+
+UNAH staff and students preparing the samples 
+
+
+![June2025Fieldwork](/assets/posts/6.25SW7.JPG)
+
+UNAH staff and students preparing the samples 
 
 
 
