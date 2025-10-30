@@ -54,15 +54,19 @@ UNAH students collecting water samples at site Q3.3M on the river Chihua, high a
 UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
 
 
-![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Lab2.JPG)
 
 UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
 
 
-![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Lab3.JPG)
 
-UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
+UNAH staff and students at the start of the titration process (liquid is green) to assess the alkalinity of a water sample / Un docente y estudiantes de la UNAH al inicio del proceso de titulación (el líquido es verde) para evaluar la alcalinidad de una muestra de agua. 
 
+
+![June2025Fieldwork](/assets/posts/6.25Lab4.JPG)
+
+UNAH staff and students at the end of the titration process (liquid is pink) to assess the alkalinity of a water sample / Un docente y estudiantes de la UNAH al final del proceso de titulación (el líquido es rosado) para evaluar la alcalinidad de una muestra de agua. 
 
 
 ## Water data analysis workshop / Taller de análisis de datos sobre el agua
