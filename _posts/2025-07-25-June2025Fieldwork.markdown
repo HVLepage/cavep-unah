@@ -16,6 +16,8 @@ category: field-work
 
 ## Students in the field / Estudiantes en el campo
 
+UNAH staff and students went in to the field on several days to collect water samples as well as water quality and water channel characteristic data at each site. The preferred protocol is that a student from one day accompanies 2-3 students new to fieldwork the following day to enhance their learning experience / Docentes y estudiantes de la UNAH salieron al campo durante varios días para recoger muestras de agua, así como datos sobre la calidad del agua y las características de los canales en cada sitio. El protocolo preferido es que un estudiante de un día acompañe a 2-3 estudiantes nuevos en el trabajo de campo al día siguiente para mejorar su experiencia de aprendizaje. 
+
 ![June2025Fieldwork](/assets/posts/6.25Water1.JPG)
 
 UNAH staff and students taking measurements at Q1.1 where rains earlier in the year had greatly changed the course and characteristics of the channel  / Un docente y estudiantes de la UNAH tomando mediciones en Q1.1, donde las lluvias caídas a principios de año habían modificado considerablemente el curso y las características del cauce.  
@@ -49,6 +51,8 @@ UNAH students collecting water samples at site Q3.3M on the river Chihua, high a
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
+On returning to the laboratory, UNAH staff and students prepared the water samples for further analysis for coliformes, metals, etc at a later date. However, they did analyse the water for alkalinity using a couple of different techniques / Al regresar al laboratorio, los docentes y estudiantes de la UNAH prepararon las muestras de agua para su posterior análisis de coliformes, metales, etc. Sin embargo, sí analizaron la alcalinidad del agua utilizando un par de técnicas diferentes.
+
 ![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
 
 UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
@@ -69,7 +73,10 @@ UNAH staff and students at the start of the titration process (liquid is green) 
 UNAH staff and students at the end of the titration process (liquid is pink) to assess the alkalinity of a water sample / Un docente y estudiantes de la UNAH al final del proceso de titulación (el líquido es rosado) para evaluar la alcalinidad de una muestra de agua. 
 
 
+
 ## Water data analysis workshop / Taller de análisis de datos sobre el agua
+
+A one day workshop, reduced to a half day due to community commitments, was offered to enable UNAH staff and students to enhance their data analysis skills / Se ofreció un taller de un día, reducido a medio día debido a compromisos comunitarios, para que los docentes y los estudiantes de la UNAH pudieran mejorar sus habilidades de análisis de datos. 
 
 ![June2025Fieldwork](/assets/posts/6.25WW1.JPG)
 
@@ -91,6 +98,8 @@ UNAH staff and students analyse all the water data collected to data using clust
 
 ## Students in the field / Estudiantes en el campo
 
+UNAH staff and students collected soil samples at several new sites during the field visits to complement the soil sample database / Los docentes y estudiantes de la UNAH recogieron muestras de suelo en varios sitios nuevos durante las visitas de campo para complementar la base de datos de muestras de suelo. 
+
 ![June2025Fieldwork](/assets/posts/6.25Soils1.JPG)
 
 UNAH students in the field recording the soil depth using an auger / Estudiantes de la UNAH en el campo registrando la profundidad del suelo con un taladro. 
@@ -109,26 +118,34 @@ UNAH students in the field analysing the soil type using a Munsell guide while a
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
-![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
-
-Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
-
+On returning to the laboratory, UNAH staff and students prepared soil samples for further analysis at a later date / Al regresar al laboratorio, el personal y los estudiantes de la UNAH prepararon muestras de suelo para su posterior análisis en una fecha posterior.
 
 ![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
 
 Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
+
+
+![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
+
+Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
+
 
 
 ## Soil sample processing and analysis workshops
 
-![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
+A full day workshop was offered on three separate days to enable UNAH staff and students to become familiar with the preparation, processing and analysis of soil samples / Se ofreció un taller de un día completo durante tres días distintos para que los docentes y los estudiantes de la UNAH se familiarizaran con la preparación, el procesamiento y el análisis de muestras de suelo.
+
+![June2025Fieldwork](/assets/posts/6.25SW1.JPG)
 
 UNAH staff and students analysing
 
 
-![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
+![June2025Fieldwork](/assets/posts/6.25SW2.JPG)
 
 UNAH staff and students analysing
+
+![June2025Fieldwork](/assets/posts/6.25SW3.JPG)
+
 
 
 
