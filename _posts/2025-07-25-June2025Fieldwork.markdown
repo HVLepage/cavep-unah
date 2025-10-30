@@ -142,33 +142,31 @@ UNAH staff and students preparing soil samples for analysis by pulverising and t
 
 ![June2025Fieldwork](/assets/posts/6.25SW2.JPG)
 
-UNAH staff and students preparing the samples 
+UNAH staff and students preparing the samples to anlyse the soil texture / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW3.JPG)
 
-UNAH staff and students 
+UNAH staff and students using a Munsell chart to assess the soil type / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW4.JPG)
 
-UNAH staff and students preparing the samples 
+UNAH staff and students measuring the pH and conductivity of a soil sample / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW5.JPG)
 
-UNAH staff and students preparing the samples 
+UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW6.JPG)
 
-UNAH staff and students preparing the samples 
+UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content /
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW7.JPG)
 
-UNAH staff and students preparing the samples 
-
-
+UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content / 
 
 
