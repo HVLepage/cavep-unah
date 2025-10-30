@@ -137,36 +137,36 @@ A full day workshop was offered on three separate days to enable UNAH staff and 
 
 ![June2025Fieldwork](/assets/posts/6.25SW1.JPG)
 
-UNAH staff and students preparing soil samples for analysis by pulverising and then weighing the samples / 
+UNAH staff and students preparing soil samples for analysis by pulverising and then weighing the samples / Estudiantes de la UNAH preparan muestras de suelo para su análisis mediante pulverización y posterior pesaje.
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW2.JPG)
 
-UNAH staff and students preparing the samples to anlyse the soil texture / 
+UNAH staff and students preparing the samples to analyse the soil texture / Un docente y estudiantes de la UNAH preparando las muestras para analizar la textura del suelo. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW3.JPG)
 
-UNAH staff and students using a Munsell chart to assess the soil type / 
+UNAH staff and students using a Munsell chart to assess the soil type / Un docente y estudiantes de la UNAH utilizando una carta Munsell para evaluar el tipo de suelo.
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW4.JPG)
 
-UNAH staff and students measuring the pH and conductivity of a soil sample / 
-
-
-![June2025Fieldwork](/assets/posts/6.25SW5.JPG)
-
-UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content / 
+UNAH staff and students measuring the pH and conductivity of a soil sample / Un docente y estudiantes de la UNAH midiendo el pH y la conductividad de una muestra de suelo.
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW6.JPG)
 
-UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content /
+UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content / Un docente y estudiantes de la UNAH preparan una muestra para analizar su contenido de nitrato, potasio y fósforo. 
+
+
+![June2025Fieldwork](/assets/posts/6.25SW5.JPG)
+
+UNAH staff preparing a sample to analyse its nitrate, potassium and phophorous content / Dos docentes de la UNAH preparando una muestra para analizar su contenido de nitrato, potasio y fósforo.
 
 
 ![June2025Fieldwork](/assets/posts/6.25SW7.JPG)
 
-UNAH staff and students preparing a sample to analyse its nitrate, potassium and phophorous content / 
+UNAH students analysing the result of one of the tests / Dos estudiantes de la UNAH analizando el resultado de una de las pruebas.
 
 
