@@ -96,9 +96,13 @@ UNAH staff and students analyse all the water data collected to data using clust
 Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
 
 
-![June2025Fieldwork](/assets/posts/6.25Soils1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Soils2.JPG)
 
 Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
+
+
+![June2025Fieldwork](/assets/posts/6.25Soils3.JPG)
+
 
 
 
