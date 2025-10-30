@@ -49,17 +49,17 @@ UNAH students collecting water samples at site Q3.3M on the river Chihua, high a
 
 ## Students in the laboratory / Estudiantes en el laboratorio
 
-![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
 
 UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
 
 
-![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
 
 UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
 
 
-![June2025Fieldwork](/assets/posts/2.25Lab1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Lab1.JPG)
 
 UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
 
