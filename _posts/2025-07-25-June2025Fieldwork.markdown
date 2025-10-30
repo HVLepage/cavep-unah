@@ -93,16 +93,17 @@ UNAH staff and students analyse all the water data collected to data using clust
 
 ![June2025Fieldwork](/assets/posts/6.25Soils1.JPG)
 
-Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
+UNAH students in the field recording the soil depth using an auger / Estudiantes de la UNAH en el campo registrando la profundidad del suelo con un taladro. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Soils2.JPG)
 
-Students preparing to take a soil sample and soil characteristic measurements at HS0.14 / Estudiantes preparándose para tomar una muestra de suelo y realizar mediciones de las características del suelo en HS0.14.
+UNAH students in the field analysing the soil type using a Munsell guide / Estudiantes de la UNAH en el campo analizando el tipo de suelo utilizando una guía Munsell. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Soils3.JPG)
 
+UNAH students in the field analysing the soil type using a Munsell guide / Estudiantes de la UNAH en el campo analizando el tipo de suelo utilizando una guía Munsell. 
 
 
 
