@@ -184,21 +184,21 @@ A UNAH student working with an academic in the laboratory in the University of S
 
 ![June2025Fieldwork](/assets/posts/6.25Luis3.jpg)
 
-Dr L.de los Santos (UCAM) prepares samples for analysis with UNAH students in the laboratory in the University of San Marcos / 
+Dr L.de los Santos (UCAM) prepares samples for analysis with a UNAH student in the laboratory in the University of San Marcos / Un estudiante de la UNAH trabajando con un académico en el laboratorio de la Universidad de San Marcos, en Lima.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Luis2.jpg)
 
-Dr L.de los Santos (UCAM) prepares samples with UNAH students in the laboratory in the University of San Marcos / 
+Dr L.de los Santos (UCAM) reviews the results of the sediment analysis with UNAH students in the laboratory in the University of San Marcos / El Dr. L. de los Santos (UCAM) revisa los resultados del análisis de sedimentos con estudiantes de la UNAH en el laboratorio de la Universidad de San Marcos.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Luis4.jpg)
 
-Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH students in the UNAH laboratory in Huanta / 
+Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH students in the UNAH laboratory in Huanta / El Dr. L. de los Santos (UCAM) prepara muestras para su análisis con un grupo de estudiantes de la UNAH en el laboratorio de la UNAH en Huanta. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Luis5.jpg)
 
-Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH students in the UNAH laboratory in Huanta / 
+Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH students in the UNAH laboratory in Huanta / El Dr. L. de los Santos (UCAM) prepara muestras para su análisis con un grupo de estudiantes de la UNAH en el laboratorio de la UNAH en Huanta. 
 
 
