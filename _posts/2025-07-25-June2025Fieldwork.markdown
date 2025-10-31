@@ -177,19 +177,19 @@ UNAH students analysing the result of one of the tests / Dos estudiantes de la U
 
 As a result of the links between the University of Cambridge and the University of San Marcos, in Lima, UNAH students have had the opportunity to visit the University of San Marcos on several occasions to further develop their ability to analyse sediment samples using the equipment and training available there.
 
-![June2025Fieldwork](/assets/posts/6.25Luis1.JPG)
+![June2025Fieldwork](/assets/posts/6.25Luis1.jpg)
 
 
-![June2025Fieldwork](/assets/posts/6.25Luis2.JPG)
+![June2025Fieldwork](/assets/posts/6.25Luis2.jpg)
 
 
-![June2025Fieldwork](/assets/posts/6.25Luis3.JPG)
+![June2025Fieldwork](/assets/posts/6.25Luis3.jpg)
 
 
-![June2025Fieldwork](/assets/posts/6.25Luis4.JPG)
+![June2025Fieldwork](/assets/posts/6.25Luis4.jpg)
 
 
-![June2025Fieldwork](/assets/posts/6.25Luis5.JPG)
+![June2025Fieldwork](/assets/posts/6.25Luis5.jpg)
 
 
 
