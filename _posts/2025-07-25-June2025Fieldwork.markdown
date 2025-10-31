@@ -182,23 +182,23 @@ As a result of the links between the University of Cambridge and the University 
 A UNAH student working with an academic in the laboratory in the University of San Marcos, in Lima / 
 
 
-![June2025Fieldwork](/assets/posts/6.25Luis2.jpg)
-
-Dr L.de los Santos (UCAM) prepares samples with UNAH stduents in the laboratory in the University of San Marcos / 
-
-
 ![June2025Fieldwork](/assets/posts/6.25Luis3.jpg)
 
-Dr L.de los Santos (UCAM) prepares samples with UNAH stduents in the laboratory in the University of San Marcos / 
+Dr L.de los Santos (UCAM) prepares samples for analysis with UNAH students in the laboratory in the University of San Marcos / 
+
+
+![June2025Fieldwork](/assets/posts/6.25Luis2.jpg)
+
+Dr L.de los Santos (UCAM) prepares samples with UNAH students in the laboratory in the University of San Marcos / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Luis4.jpg)
 
-Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH stduents in the UNAH laboratory in Huanta / 
+Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH students in the UNAH laboratory in Huanta / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Luis5.jpg)
 
-Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH stduents in the UNAH laboratory in Huanta / 
+Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH students in the UNAH laboratory in Huanta / 
 
 
