@@ -199,6 +199,6 @@ Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH stu
 
 ![June2025Fieldwork](/assets/posts/6.25Luis5.jpg)
 
-Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH students in the UNAH laboratory in Huanta / El Dr. L. de los Santos (UCAM) prepara muestras para su análisis con un grupo de estudiantes de la UNAH en el laboratorio de la UNAH en Huanta. 
+Dr L.de los Santos (UCAM) analysing sediment samples with UNAH students in the University of San Marcos laboratory / El Dr. L. de los Santos (UCAM) analiza muestras de sedimentos con estudiantes de la UNAH en el laboratorio de la Universidad de San Marcos.
 
 
