@@ -215,34 +215,35 @@ The data will enable long-term trends in glacial melt to be calculated and glaci
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier1.JPG)
 
-Preparing to depart at the start of the 5kms trail up to the Huaytaypallana glacier / 
+Preparing to depart at the start of the 5kms trail up to the Huaytaypallana glacier / Preparándonos para partir al inicio del sendero de 5 km hasta el glaciar Huaytaypallana.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier2.JPG)
 
-On the final stretch of the trail approaching the glacier at 4,500 metres / 
+On the final stretch of the ascent approaching the base of the glacier at 4,500 metres / En el tramo final del ascenso, acercándonos a la base del glaciar, a 4500 metros.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier3.JPG)
 
-Preparing the drone for use to survey the glacier and waiting for the clouds to clear / 
+Preparing the drone for use to survey the glacier and waiting for the clouds to clear / Preparando el dron para su uso en el estudio del glaciar y esperando a que se despejen las nubes.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier4.JPG)
 
-Surveying and taking measurements and samples at the base of the glacier / 
+Preparing to survey and take measurements and samples at the base of the glacier / Preparación para realizar mediciones y tomar muestras en la base del glaciar. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier5.JPG)
 
-Surveying and taking measurements and samples at the base of the glacier / 
+Surveying and taking measurements and samples at the base of the glacier / Realización de levantamientos topográficos, mediciones y muestreos en la base del glaciar. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier6.JPG)
 
-The group at the end of the visit to the glacier / 
+UNAH & UCAM staff and students at the end of the visit to the glacier prior to the descent / Docentes y estudiantes de la UNAH y la UCAM al final de la visita al glaciar antes del descenso. 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier7.JPG)
 
-Dr
+UNAH & UCAM staff and students receiving training in drone use at the northern end of the Huaytaypallana cordillera / Docentes y estudiantes de la UNAH y la UCAM reciben capacitación sobre el uso de drones en el extremo norte de la cordillera de Huaytaypallana. 
+
