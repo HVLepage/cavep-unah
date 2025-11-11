@@ -216,3 +216,9 @@ The data will enable long-term trends in glacial melt to be calculated and glaci
 ![June2025Fieldwork](/assets/posts/6.25Glacier1.JPG)
 
 Dr
+
+
+![June2025Fieldwork](/assets/posts/6.25Glacier1.JPG)
+
+Dr
+
