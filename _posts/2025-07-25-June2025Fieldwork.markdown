@@ -202,3 +202,17 @@ Dr L.de los Santos (UCAM) prepares samples for analysis with a group of UNAH stu
 Dr L.de los Santos (UCAM) analysing sediment samples with UNAH students in the University of San Marcos laboratory / El Dr. L. de los Santos (UCAM) analiza muestras de sedimentos con estudiantes de la UNAH en el laboratorio de la Universidad de San Marcos.
 
 
+## REMOTE SENSING
+
+This work uses remote sensing methods to investigate environmental systems and processes linked to climate change.
+
+A field visit was conducted to collect spatial data from the Huaytapallana Nevado, near Huancayo - now the nearest accessible extensive glacial area to Huanta.
+Prior to the visit, maps of glacial melt over the past eight years for the Huaytaypallana glaciers were developed and areas of critical glacial mass loss were identified. Geospatial data for the areas identified as being subject to glacial melt were collected.
+
+The visit was accompanied by the UNAH VPI, a UNAH remote sensing teacher, the UNAH scientific co-ordinator and two students. Appropriate technology - most of it new to UNAH staff & students - purchased for field work such as Mavic 3 Multispectral drone was employed to record glacial melt. The aim of the visit was to validate a model of glacial melt through field observations and by recording ground truthing data. The team descended to the base of the glacier to record ice condition and dimension data.
+
+The data will enable long-term trends in glacial melt to be calculated and glaciers of interest that are at risk of critical melting, with significant consequences for local populations, to be identified.
+
+![June2025Fieldwork](/assets/posts/6.25Glacier1.JPG)
+
+Dr
