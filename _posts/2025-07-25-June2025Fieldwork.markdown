@@ -215,32 +215,32 @@ The data will enable long-term trends in glacial melt to be calculated and glaci
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier1.JPG)
 
-Preparing to depart at theb start of the 5kms trail up to the Huaytaypallana glacier / 
+Preparing to depart at the start of the 5kms trail up to the Huaytaypallana glacier / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier2.JPG)
 
-Dr
+On the final stretch of the trail approaching the glacier at 4,500 metres / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier3.JPG)
 
-Dr
+Preparing the drone for use to survey the glacier and waiting for the clouds to clear / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier4.JPG)
 
-Dr
+Surveying and taking measurements and samples at the base of the glacier / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier5.JPG)
 
-Dr
+Surveying and taking measurements and samples at the base of the glacier / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier6.JPG)
 
-Dr
+The group at the end of the visit to the glacier / 
 
 
 ![June2025Fieldwork](/assets/posts/6.25Glacier7.JPG)
