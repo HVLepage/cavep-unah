@@ -8,7 +8,7 @@ category: field-work
 
 ## Field Trip Schedule
 
-[Field Trip Schedule](/assets/posts/UCAMscheduleNov2025.pdf)
+[Field Trip Schedule](/assets/posts/UCAMscheduleNov25.pdf)
 
 
 ## HYDROLOGY
