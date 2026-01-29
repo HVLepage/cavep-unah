@@ -10,12 +10,14 @@ Principal investigator
 * **<a href="https://www.phy.cam.ac.uk/directory/barnesc">Crispin H. W. Barnes</a>**
   
 Project managers and Co-Investigators
-* **Luis de Los Santos Valladares** - Physicist; sediment analysis.
-* **Eustace Barnes** - Bio-geographer; bioindicators and environmental quality.
+* **Luis de Los Santos Valladares** - Physicist. Sediment analysis.
+* **Eustace Barnes** - Bio-geographer. Bioindicators and environmental quality.
 
 Co-investigators
 * **<a href="https://scholar.google.com/citations?user=PFszXTEAAAAJ&hl=en">Hugo Lepage</a>** - Physicist. Remote sensing and systems modelling.
 * **Peter Newton** - Physicist. Applications for nature's Nano/microstructures.
+* **Daria Radu** - Physicist. Remote sensing and machine learning.
+* **John Forrest** - Geographer. Hydrology.
 
 Additionally, appropriate expertise will be appointed to fulfil} project objectives as determined.
 
