@@ -115,7 +115,6 @@ UNAH staff and students in the field analysing the soil type using a Munsell gui
 UNAH students in the field analysing the soil type using a Munsell guide while also meaduring the pH and conductivity of the soil / Estudiantes de la UNAH en el campo analizando el tipo de suelo utilizando una guía Munsell, al tiempo que miden el pH y la conductividad del suelo. 
 
 
-
 ## Students in the laboratory / Estudiantes en el laboratorio
 
 On returning to the laboratory, UNAH staff and students prepared soil samples for further analysis at a later date / Al regresar al laboratorio, el personal y los estudiantes de la UNAH prepararon muestras de suelo para su posterior análisis en una fecha posterior.
@@ -128,7 +127,6 @@ Students analysing soil samples using Munsell charts / Estudiantes analizando mu
 ![June2025Fieldwork](/assets/posts/6.25Soils4.JPG)
 
 Students analysing soil samples using Munsell charts / Estudiantes analizando muestras de suelo con el libro Munsell.
-
 
 
 ## Soil sample processing and analysis workshops
