@@ -179,7 +179,7 @@ As a result of the links between the University of Cambridge and the University 
 
 ![June2025Fieldwork](/assets/posts/6.25Luis1.jpg)
 
-A UNAH student working with an academic in the laboratory in the University of San Marcos, in Lima / 
+A UNAH student working with an academic in the laboratory in the University of San Marcos, in Lima / Un estudiante de la UNAH trabaja con un académico en el laboratorio de la Universidad de San Marcos, en Lima.
 
 
 ![June2025Fieldwork](/assets/posts/6.25Luis3.jpg)
