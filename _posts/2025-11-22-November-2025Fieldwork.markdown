@@ -139,32 +139,31 @@ Luis de los Santos supervising UNAH students to analyse data / Luis de los Santo
 
 ## Dry Forest
 
-![November2025Fieldwork](/assets/posts/11.25Bio1.jpg)
-
-UNAH staff and students
-
-
 ![November2025Fieldwork](/assets/posts/11.25Bio2.jpg)
 
-UNAH staff and students
+UNAH staff and students visiting a dry forest site above Cangari / Un docente y estudiantes de la UNAH visitan un sitio de bosque seco sobre Cangari.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Bio3.jpg)
 
-UNAH staff and students
+UNAH staff and students discussing biodiversity at one of our high elevation dry forest study sites near La Vega / Un docente y estudiantes de la UNAH discutiendo sobre biodiversidad en uno de nuestros sitios de estudio de bosque seco de gran altitud cerca de La Vega.
 
 
-![November2025Fieldwork](/assets/posts/11.25Bio4.JPG)
+![November2025Fieldwork](/assets/posts/11.25Bio1.jpg)
 
-UNAH staff and students with E.Barnes 
-
+UNAH staff and students assemble for a group photo after attending a seminar discussing biodiversity analytics / Docentes y estudiantes de la UNAH se reúnen para una foto grupal después de asistir a un seminario sobre análisis de la biodiversidad.
 
 
 ## Bioacoustics
 
+![November2025Fieldwork](/assets/posts/11.25Bio4.JPG)
+
+UNAH staff and students with E.Barnes (UCAM) discussing how to set up a bioacoustic experiment in the field / Un docente y estudiantes de la UNAH con E. Barnes (UCAM) discutiendo cómo montar un experimento bioacústico en el campo.
+
+
 ![November2025Fieldwork](/assets/posts/11.25Bio5.jpeg)
 
-UNAH staff and students
+D.Radu (UCAM) training UNAH staff and students in the use of bird song recording equipment / Dr. Radu (UCAM) capacita a personal y estudiantes de la UNAH en el uso de equipos de grabación de cantos de aves.
 
 
 
