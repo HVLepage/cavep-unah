@@ -119,15 +119,16 @@ As a result of the links between the University of Cambridge and the University 
 
 ![November2025Fieldwork](/assets/posts/11.25Sediments1.jpg)
 
-A UNAH student working with an academic in the laboratory in the University of San Marcos, in Lima / Un estudiante de la UNAH trabaja con un académico en el laboratorio de la Universidad de San Marcos, en Lima.
+UNAH students working with Luis de los Santos in the laboratory in the University of San Marcos, in Lima / Estudiantes de la UNAH trabaja con Luis de los Santos en el laboratorio de la Universidad de San Marcos, en Lima.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Sediments2.jpg)
 
+UNAH students working with Luis de los Santos in the laboratory in the University of San Marcos, in Lima / Estudiantes de la UNAH trabaja con Luis de los Santos en el laboratorio de la Universidad de San Marcos, en Lima.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Sediments3.jpg)
 
-
+UNAH students working with Luis de los Santos to analyse data / Estudiantes de la UNAH trabaja con Luis de los Santos para analizar datos.
 
 
