@@ -71,12 +71,12 @@ UNAH staff and students carrying out titration to assess the alkalinity level of
 
 ![November2025Fieldwork](/assets/posts/11.25Lab3.JPG)
 
-UNAH staff and students carrying out titration to assess the alkalinity level of water sample / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+UNAH staff and students carrying out titration to assess the alkalinity level of water sample - green while undergoing the titration process and pink once complete / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua - verde durante el proceso de titulación y rosa una vez completado.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Lab4.JPG)
 
-UNAH staff and students carrying out titration to assess the alkalinity level of water sample - green while undergoing the titration process and pink once complete / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua - verde durante el proceso de titulación y rosa una vez completado.
+UNAH staff and students carrying out titration to assess the alkalinity level of water sample / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Lab5.JPG)
