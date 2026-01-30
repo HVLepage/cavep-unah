@@ -30,12 +30,12 @@ Students using a DO meter at site Q1.1L to record levels of dissolved oxygen in 
 Students using a Valeport flowmeter at site Q1.1L to record the depth and velocity of the river / Estudiantes utilizando un medidor de flujo Valeport en el sitio Q1,1L1 para registrar la profundidad y la velocidad del río.
 
 
-![November2025Fieldwork](/assets/posts/11.25Field6.JPG)
+![November2025Fieldwork](/assets/posts/11.25Field7.JPG)
 
 Students using a Geopacks flowmeter at site Q2.1L2 to record the depth and velocity of the river / Estudiantes utilizando un medidor de flujo Geopacks en el sitio Q2.1L2 para registrar la profundidad y la velocidad del río.
 
 
-![November2025Fieldwork](/assets/posts/11.25Field7.JPG)
+![November2025Fieldwork](/assets/posts/11.25Field6.JPG)
 
 Students using a Valeport flowmeter at site Q2.2L1 to record the depth and velocity of the river / Estudiantes utilizando un medidor de flujo Valeport en el sitio Q2.2L1 para registrar la profundidad y la velocidad del río.
 
