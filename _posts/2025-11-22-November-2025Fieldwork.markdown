@@ -85,6 +85,8 @@ John Forrest (UCAM) outlines to UNAH staff and students how the SMART approach c
 
 
 
+## SOILS
+
 ## Soil sample processing and analysis workshop
 
 Two half day workshop were offered to enable UNAH staff and students to become familiar with the preparation, processing and analysis of soil samples / Se ofrecieron dos talleres de medio día para que los docentes y los estudiantes de la UNAH se familiarizaran con la preparación, el procesamiento y el análisis de muestras de suelo.
@@ -131,5 +133,8 @@ Luis de los Santos in the laboratory in the University of San Marcos, in Lima, t
 
 Luis de los Santos supervising UNAH students to analyse data / Luis de los Santos supervisa a estudiantes de la UNAH para analizar datos.
 
+
+
+## BIODIVERSITY
 
 
