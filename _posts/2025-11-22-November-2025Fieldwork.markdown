@@ -137,7 +137,38 @@ Luis de los Santos supervising UNAH students to analyse data / Luis de los Santo
 
 ## BIODIVERSITY
 
-## Transect investigation
+## Dry Forest
+
+![November2025Fieldwork](/assets/posts/11.25Bio1.JPG)
+
+UNAH staff and students
+
+
+![November2025Fieldwork](/assets/posts/11.25Bio2.JPG)
+
+UNAH staff and students
+
+
+![November2025Fieldwork](/assets/posts/11.25Bio3.JPG)
+
+UNAH staff and students
+
+
+
+## Bioacoustics
+
+![November2025Fieldwork](/assets/posts/11.25Bio4.JPG)
+
+UNAH staff and students
+
+
+![November2025Fieldwork](/assets/posts/11.25Bio5.JPG)
+
+UNAH staff and students
+
+
+
+## Vegetation \& Soil Transect investigation
 
 A full day field activity was offered to enable UNAH staff and students to become more familiar with field investigations of vegetation and soil types. The participants spent the morning in the field visiting three sites in close proximity but distinctive in their soil and vegetation characteristics which they had to investigate. In the afternoon, in the laboratory, they had to analyse and present their findings and conclusions. 
 
