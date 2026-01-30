@@ -15,6 +15,9 @@ category: field-work
 
 ## Students in the field / Estudiantes en el campo
 
+UNAH staff and students went in to the field on several days to collect water samples as well as water quality and water channel characteristic data at each site. This data will be used to establish a water quality database which UNAH can continue to develop. The preferred protocol is that a student from one day accompanies 2-3 students new to fieldwork the following day to enhance their learning experience / Docentes y estudiantes de la UNAH salieron al campo durante varios días para recoger muestras de agua, así como datos sobre la calidad del agua y las características de los canales en cada sitio. Estos datos se utilizarán para crear una base de datos sobre la calidad del agua que la UNAH podrá seguir desarrollando. El protocolo preferido es que un estudiante de un día acompañe a 2-3 estudiantes nuevos en el trabajo de campo al día siguiente para mejorar su experiencia de aprendizaje. 
+
+
 ![November2025Fieldwork](/assets/posts/11.25Field1.JPG)
 
 Students collecting water samples at RC01 with great care in-line with risk assessment procedures beside the fast flowing river / Estudiantes recogiendo muestras de agua en RC01 con mucho cuidado, siguiendo los procedimientos de evaluación de riesgos junto al río de corriente rápida.
