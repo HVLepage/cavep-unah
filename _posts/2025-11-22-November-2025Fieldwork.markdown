@@ -81,7 +81,29 @@ UNAH staff and students carrying out titration to assess the alkalinity level of
 
 ![November2025Fieldwork](/assets/posts/11.25Lab5.JPG)
 
-John Forrest (UCAM) outlines to UNAH staff and students how the SMART approach can support them to establish their thesis project / John Forrest (UCAM) explica al personal y a los estudiantes de la UNAH cómo el enfoque SMART puede ayudarles a desarrollar su proyecto de tesis.
+John Forrest (UCAM) outlines to UNAH staff and students how the SMART approach can support them to establish their thesis project / John Forrest (UCAM) explica a los docentes y estudiantes de la UNAH cómo el enfoque SMART puede ayudarles a desarrollar su proyecto de tesis.
+
+
+
+## Soil sample processing and analysis workshop
+
+Two half day workshop were offered to enable UNAH staff and students to become familiar with the preparation, processing and analysis of soil samples / Se ofrecieron dos talleres de medio día para que los docentes y los estudiantes de la UNAH se familiarizaran con la preparación, el procesamiento y el análisis de muestras de suelo.
+
+
+![November2025Fieldwork](/assets/posts/11.25Soils1.JPG)
+
+UNAH staff and students preparing soil samples for analysis by pulverising and then weighing the samples / Estudiantes de la UNAH preparan muestras de suelo para su análisis mediante pulverización y posterior pesaje.
+
+
+![November2025Fieldwork](/assets/posts/11.25Soils2.JPG)
+
+
+
+![November2025Fieldwork](/assets/posts/11.25Soils3.JPG)
+
+
+
+![November2025Fieldwork](/assets/posts/11.25Soils4.JPG)
 
 
 
