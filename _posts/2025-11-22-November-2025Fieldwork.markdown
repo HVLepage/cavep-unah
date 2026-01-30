@@ -139,17 +139,17 @@ Luis de los Santos supervising UNAH students to analyse data / Luis de los Santo
 
 ## Dry Forest
 
-![November2025Fieldwork](/assets/posts/11.25Bio1.JPG)
+![November2025Fieldwork](/assets/posts/11.25Bio1.jpg)
 
 UNAH staff and students
 
 
-![November2025Fieldwork](/assets/posts/11.25Bio2.JPG)
+![November2025Fieldwork](/assets/posts/11.25Bio2.jpg)
 
 UNAH staff and students
 
 
-![November2025Fieldwork](/assets/posts/11.25Bio3.JPG)
+![November2025Fieldwork](/assets/posts/11.25Bio3.jpg)
 
 UNAH staff and students
 
@@ -162,7 +162,7 @@ UNAH staff and students with E.Barnes
 
 ## Bioacoustics
 
-![November2025Fieldwork](/assets/posts/11.25Bio5.JPEG)
+![November2025Fieldwork](/assets/posts/11.25Bio5.jpeg)
 
 UNAH staff and students
 
