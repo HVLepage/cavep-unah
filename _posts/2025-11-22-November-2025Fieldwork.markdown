@@ -146,7 +146,7 @@ UNAH staff and students visiting a dry forest site above Cangari / Un docente y 
 
 ![November2025Fieldwork](/assets/posts/11.25Bio3.jpg)
 
-UNAH staff and students discussing biodiversity at one of our high elevation dry forest study sites near La Vega / Un docente y estudiantes de la UNAH discutiendo sobre biodiversidad en uno de nuestros sitios de estudio de bosque seco de gran altitud cerca de La Vega.
+UNAH staff and students recording biodiversity data at one of our high elevation dry forest study sites near La Vega / Un docente y estudiantes de la UNAH grabando datos de la biodiversidad en uno de nuestros sitios de estudio de bosque seco de gran altitud cerca de La Vega.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Bio1.jpg)
@@ -212,3 +212,36 @@ UNAH staff and students collating the data from the three sites and looking for 
 
 One group of UNAH staff and students presenting their findings and conclusions to the rest of the participants / Un grupo de personal y estudiantes de la UNAH presentan sus hallazgos y conclusiones al resto de los participantes.
 
+
+## CONFERENCES
+
+## UNAH VIII International Conference
+
+![November2025Fieldwork](/assets/posts/11.25Conf1.JPG)
+
+UCAM and other participants are warmly thanked post-presentation at the VIII UNAH International Conference / Agradecimientos a la UCAM y otros participantes tras su presentación en el VIII Congreso Internacional de la UNAH.
+
+
+![November2025Fieldwork](/assets/posts/11.25Conf2.JPEG)
+
+UCAM and other participants are warmly thanked post-presentation at the VIII UNAH International Conference / Agradecimientos a la UCAM y otros participantes tras su presentación en el VIII Congreso Internacional de la UNAH.
+
+
+![November2025Fieldwork](/assets/posts/11.25Conf3.JPG)
+
+Daria Radu (UCAM) is interviewed post-presentation at the VIII UNAH International Conference about her Phd research and working with UNAH students / Daria Radu (UCAM) es entrevistado después de su presentación en la VIII Conferencia Internacional de la UNAH sobre su investigación de doctorado y su trabajo con estudiantes de la UNAH.
+
+
+## Workshops / Talleres
+
+![November2025Fieldwork](/assets/posts/11.25Taller1.JPEG)
+
+HLE and DRA delivered two tutorials for the UNAH staff and students on Object Oriented Programming and Google Earth Engine – useful tools in their future environmental research.
+
+
+![November2025Fieldwork](/assets/posts/11.25Taller2.JPEG)
+
+Dra.Roxani Keewong Zapata (UNAH VPI) and Daria Radu (UCAM) discuss a coding exercise during the first programming tutorial / Dra. Roxani Keewong Zapata (UNAH VPI) y Daria Radu (UCAM) discuten un ejercicio de codificación durante el primer tutorial de programación.
+
+
+![November2025Fieldwork](/assets/posts/11.25Taller3.JPEG)
