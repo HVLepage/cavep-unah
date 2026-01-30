@@ -137,4 +137,41 @@ Luis de los Santos supervising UNAH students to analyse data / Luis de los Santo
 
 ## BIODIVERSITY
 
+## Transect investigation
+
+A full day field activity was offered to enable UNAH staff and students to become more familiar with field investigations of vegetation and soil types. The participants spent the morning in the field visiting three sites in close proximity but distinctive in their soil and vegetation characteristics which they had to investigate. In the afternoon, in the laboratory, they had to analyse and present their findings and conclusions. 
+
+Se ofreció una actividad de campo de un día completo para que el personal y los estudiantes de la UNAH se familiarizaran con las investigaciones de campo sobre vegetación y tipos de suelo. Los participantes pasaron la mañana en el campo visitando tres sitios cercanos, pero con características de suelo y vegetación únicas, que debían investigar. Por la tarde, en el laboratorio, analizaron y presentaron sus hallazgos y conclusiones.
+
+![November2025Fieldwork](/assets/posts/11.25Transect1.JPG)
+
+UNAH staff and students 
+
+
+![November2025Fieldwork](/assets/posts/11.25Transect2.JPG)
+
+
+
+![November2025Fieldwork](/assets/posts/11.25Transect3.JPG)
+
+
+
+![November2025Fieldwork](/assets/posts/11.25Transect4.JPG)
+
+
+
+![November2025Fieldwork](/assets/posts/11.25Transect5.JPG)
+
+
+
+![November2025Fieldwork](/assets/posts/11.25Transect6.JPG)
+
+
+
+![November2025Fieldwork](/assets/posts/11.25Transect7.JPG)
+
+
+
+![November2025Fieldwork](/assets/posts/11.25Transect8.JPG)
+
 
