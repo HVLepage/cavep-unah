@@ -145,40 +145,40 @@ Se ofreció una actividad de campo de un día completo para que el personal y lo
 
 ![November2025Fieldwork](/assets/posts/11.25Transect1.JPG)
 
-UNAH staff and students collecting samples and data at the first site
+UNAH staff and students collecting samples and data at the first site - note the colour of the soil / Docentes y estudiantes de la UNAH recolectando muestras y datos en el primer sitio: observe el color del suelo.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect2.JPG)
 
-UNAH staff and students collecting samples and data at the first site
+UNAH staff and students collecting samples and data at the first site - note the colour of the soil / Docentes y estudiantes de la UNAH recolectando muestras y datos en el primer sitio: observe el color del suelo.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect3.JPG)
 
-UNAH staff and students collecting samples and data at the second site
+UNAH staff and students collecting samples and data at the second site - note the amount of vegetation / Docentes y estudiantes de la UNAH recolectando muestras y datos en el segundo sitio: observe la cantidad de vegetación.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect4.JPG)
 
-UNAH staff and students collecting samples and data at the second site
+UNAH staff and students collecting samples and data at the second site - note the amount of vegetation / Docentes y estudiantes de la UNAH recolectando muestras y datos en el segundo sitio: observe la cantidad de vegetación.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect5.JPG)
 
-UNAH staff and students collecting samples and data at the third site
+UNAH staff and students collecting samples and data at the third site - note the terrain / Docentes y estudiantes de la UNAH recolectando muestras y datos en el tercer sitio - note el terreno.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect6.JPG)
 
-UNAH staff and students collecting samples and data at the third site
+UNAH staff and students collecting samples and data at the third site - note the terrain / Docentes y estudiantes de la UNAH recolectando muestras y datos en el tercer sitio - note el terreno.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect7.JPG)
 
-UNAH staff and students collating the data from the three sites and looking for correlations between the soil and vegetation data
+UNAH staff and students collating the data from the three sites and looking for correlations between the soil and vegetation data / Docentes y estudiantes de la UNAH recopilan los datos de los tres sitios y buscan correlaciones entre los datos del suelo y la vegetación.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect8.JPG)
 
-One group of UNAH staff and students presenting their findings and conclusions to the rest of the participants 
+One group of UNAH staff and students presenting their findings and conclusions to the rest of the participants / Un grupo de personal y estudiantes de la UNAH presentan sus hallazgos y conclusiones al resto de los participantes.
 
