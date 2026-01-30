@@ -119,16 +119,17 @@ As a result of the links between the University of Cambridge and the University 
 
 ![November2025Fieldwork](/assets/posts/11.25Sediments1.jpg)
 
-UNAH students working with Luis de los Santos in the laboratory in the University of San Marcos, in Lima / Estudiantes de la UNAH trabaja con Luis de los Santos en el laboratorio de la Universidad de San Marcos, en Lima.
+Luis de los Santos in the laboratory in the University of San Marcos, in Lima, training UNAH students about the TG-FTIR measurements of sediments / Luis de los Santos en el laboratorio de la Universidad Mayor de San Marcos, en Lima, capacitando a estudiantes de la UNAH sobre las mediciones TG-FTIR de sedimentos.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Sediments2.jpg)
 
-UNAH students working with Luis de los Santos in the laboratory in the University of San Marcos, in Lima / Estudiantes de la UNAH trabaja con Luis de los Santos en el laboratorio de la Universidad de San Marcos, en Lima.
+Luis de los Santos in the laboratory in the University of San Marcos, in Lima, training UNAH students about the TG-FTIR measurements of sediments / Luis de los Santos en el laboratorio de la Universidad Mayor de San Marcos, en Lima, capacitando a estudiantes de la UNAH sobre las mediciones TG-FTIR de sedimentos.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Sediments3.jpg)
 
-UNAH students working with Luis de los Santos to analyse data / Estudiantes de la UNAH trabaja con Luis de los Santos para analizar datos.
+Luis de los Santos supervising UNAH students to analyse data / Luis de los Santos supervisa a estudiantes de la UNAH para analizar datos.
+
 
 
