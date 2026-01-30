@@ -217,6 +217,8 @@ One group of UNAH staff and students presenting their findings and conclusions t
 
 ## UNAH VIII International Conference
 
+Once again UCAM researchers were pleased to participate and contribute to the UNAH International Conference / Un año más los investigadores de la UCAM tuvieron el placer de participar y contribuir al Congreso Internacional de la UNAH.
+
 ![November2025Fieldwork](/assets/posts/11.25Conf1.jpg)
 
 Hugo Lepage (UCAM) (4th from right) and other participants are warmly thanked post-presentation at the VIII UNAH International Conference / Agradecimientos a Hugo Lepage (UCAM) (4º desde la derecha) y otros participantes tras su presentación en el VIII Congreso Internacional de la UNAH.
@@ -233,6 +235,8 @@ Daria Radu (UCAM) is interviewed post-presentation at the VIII UNAH Internationa
 
 
 ## Workshops / Talleres
+
+As on previous visits To Huanta, UCAM researchers offered specialist workshops to UNAH staff and students / Al igual que en visitas anteriores a Huanta, investigadores de la UCAM ofrecieron talleres especializados a personal y estudiantes de la UNAH.
 
 ![November2025Fieldwork](/assets/posts/11.25Taller1.jpeg)
 
