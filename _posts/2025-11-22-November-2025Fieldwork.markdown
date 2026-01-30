@@ -54,4 +54,21 @@ Students using a Valeport flowmeter at site RC02 to record the depth and velocit
 
 
 
+## Students in the laboratory / Estudiantes en el laboratorio
+
+On returning to the laboratory, UNAH staff and students prepared the water samples for further analysis for coliformes, metals, etc at a later date. They then analysed the water samples for alkalinity using a couple of different techniques / Al regresar al laboratorio, los docentes y estudiantes de la UNAH prepararon las muestras de agua para su posterior análisis de coliformes, metales, etc. Sin embargo, sí analizaron la alcalinidad del agua utilizando un par de técnicas diferentes.
+
+![November2025Fieldwork](/assets/posts/11.25Lab1.JPG)
+
+UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
+
+![November2025Fieldwork](/assets/posts/11.25Lab2.JPG)
+
+![November2025Fieldwork](/assets/posts/11.25Lab3.JPG)
+
+![November2025Fieldwork](/assets/posts/11.25Lab4.JPG)
+
+![November2025Fieldwork](/assets/posts/11.25Lab5.JPG)
+
+
 
