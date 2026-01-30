@@ -217,34 +217,34 @@ One group of UNAH staff and students presenting their findings and conclusions t
 
 ## UNAH VIII International Conference
 
-![November2025Fieldwork](/assets/posts/11.25Conf1.JPG)
+![November2025Fieldwork](/assets/posts/11.25Conf1.jpg)
 
 Hugo Lepage (UCAM) (4th from right) and other participants are warmly thanked post-presentation at the VIII UNAH International Conference / Agradecimientos a Hugo Lepage (UCAM) (4º desde la derecha) y otros participantes tras su presentación en el VIII Congreso Internacional de la UNAH.
 
 
-![November2025Fieldwork](/assets/posts/11.25Conf2.JPEG)
+![November2025Fieldwork](/assets/posts/11.25Conf2.jpeg)
 
 E.Barnes (4th from right), Luis de los Santos (3rd from right) & Daria Radu (2nd from right) (all UCAM) and other participants are warmly thanked post-presentation at the VIII UNAH International Conference / Agradecimientos a E.Barnes (3º desde la derecha), Luis de los Santos (2º desde la derecha) y Daria Radu (1ª desde la derecha) (todos UCAM) y otros participantes tras su presentación en el VIII Congreso Internacional de la UNAH.
 
 
-![November2025Fieldwork](/assets/posts/11.25Conf3.JPG)
+![November2025Fieldwork](/assets/posts/11.25Conf3.jpg)
 
 Daria Radu (UCAM) is interviewed post-presentation at the VIII UNAH International Conference about her Phd research and working with UNAH students / Daria Radu (UCAM) es entrevistado después de su presentación en la VIII Conferencia Internacional de la UNAH sobre su investigación de doctorado y su trabajo con estudiantes de la UNAH.
 
 
 ## Workshops / Talleres
 
-![November2025Fieldwork](/assets/posts/11.25Taller1.JPEG)
+![November2025Fieldwork](/assets/posts/11.25Taller1.jpeg)
 
 Hugo Lepage and Daria Radu (UCAM) delivering two tutorials to the UNAH staff and students on 'Object Oriented Programming and Google Earth Engine' – useful tools for their future environmental research / Hugo Lepage y Daria Radu (UCAM) imparten dos tutoriales a docentes y estudiantes de la UNAH sobre 'Programación Orientada a Objetos y Google Earth Engine': herramientas útiles para su futura investigación ambiental.
 
 
-![November2025Fieldwork](/assets/posts/11.25Taller2.JPEG)
+![November2025Fieldwork](/assets/posts/11.25Taller2.jpeg)
 
 Dra.Roxani Keewong Zapata (UNAH VPI) and Daria Radu (UCAM) discuss a coding exercise during the first programming tutorial / Dra. Roxani Keewong Zapata (UNAH VPI) y Daria Radu (UCAM) discuten un ejercicio de codificación durante el primer tutorial de programación.
 
 
-![November2025Fieldwork](/assets/posts/11.25Taller3.JPEG)
+![November2025Fieldwork](/assets/posts/11.25Taller3.jpeg)
 
 Hugo Lepage and Daria Radu (UCAM) with UNAH staff and students at the end of the second programming tutorial / Hugo Lepage y Daria Radu (UCAM) con docentes y estudiantes de la UNAH al final del segundo tutorial de programación.
 
