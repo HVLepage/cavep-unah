@@ -92,18 +92,22 @@ Two half day workshop were offered to enable UNAH staff and students to become f
 
 ![November2025Fieldwork](/assets/posts/11.25Soils1.JPG)
 
-UNAH staff and students preparing soil samples for analysis by pulverising and then weighing the samples / Estudiantes de la UNAH preparan muestras de suelo para su análisis mediante pulverización y posterior pesaje.
+UNAH staff and students preparing soil samples for analysis by pulverising, sieving and then weighing the samples / Estudiantes de la UNAH preparan muestras de suelo para su análisis mediante pulverización, tamización y posterior pesaje.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Soils2.JPG)
 
+UNAH staff and students analysing the texture and colour of soil samples using a Munsell guide / Docentes y estudiantes de la UNAH analizan la textura y el color de muestras de suelo utilizando una guía Munsell.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Soils3.JPG)
 
+UNAH staff and students analysing soil samples for levels of nitrates, phosphorous and potassium / Docentes y estudiantes de la UNAH analizan muestras de suelo para detectar niveles de nitratos, fósforo y potasio.
 
 
 ![November2025Fieldwork](/assets/posts/11.25Soils4.JPG)
+
+UNAH staff and students participating in the analysis of soil samples for levels of nitrates, phosphorous and potassium / Docentes y estudiantes de la UNAH participando en el analisis de muestras de suelo para detectar niveles de nitratos, fósforo y potasio.
 
 
 
