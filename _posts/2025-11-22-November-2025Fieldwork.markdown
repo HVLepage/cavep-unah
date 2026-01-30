@@ -154,15 +154,15 @@ UNAH staff and students
 UNAH staff and students
 
 
+![November2025Fieldwork](/assets/posts/11.25Bio4.JPG)
+
+UNAH staff and students with E.Barnes 
+
+
 
 ## Bioacoustics
 
-![November2025Fieldwork](/assets/posts/11.25Bio4.JPG)
-
-UNAH staff and students
-
-
-![November2025Fieldwork](/assets/posts/11.25Bio5.JPG)
+![November2025Fieldwork](/assets/posts/11.25Bio5.JPEG)
 
 UNAH staff and students
 
