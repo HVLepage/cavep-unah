@@ -145,33 +145,40 @@ Se ofreció una actividad de campo de un día completo para que el personal y lo
 
 ![November2025Fieldwork](/assets/posts/11.25Transect1.JPG)
 
-UNAH staff and students 
+UNAH staff and students collecting samples and data at the first site
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect2.JPG)
 
+UNAH staff and students collecting samples and data at the first site
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect3.JPG)
 
+UNAH staff and students collecting samples and data at the second site
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect4.JPG)
 
+UNAH staff and students collecting samples and data at the second site
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect5.JPG)
 
+UNAH staff and students collecting samples and data at the third site
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect6.JPG)
 
+UNAH staff and students collecting samples and data at the third site
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect7.JPG)
 
+UNAH staff and students collating the data from the three sites and looking for correlations between the soil and vegetation data
 
 
 ![November2025Fieldwork](/assets/posts/11.25Transect8.JPG)
 
+One group of UNAH staff and students presenting their findings and conclusions to the rest of the participants 
 
