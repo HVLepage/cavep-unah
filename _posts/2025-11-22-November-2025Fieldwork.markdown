@@ -58,17 +58,30 @@ Students using a Valeport flowmeter at site RC02 to record the depth and velocit
 
 On returning to the laboratory, UNAH staff and students prepared the water samples for further analysis for coliformes, metals, etc at a later date. They then analysed the water samples for alkalinity using a couple of different techniques / Al regresar al laboratorio, los docentes y estudiantes de la UNAH prepararon las muestras de agua para su posterior análisis de coliformes, metales, etc. Sin embargo, sí analizaron la alcalinidad del agua utilizando un par de técnicas diferentes.
 
+
 ![November2025Fieldwork](/assets/posts/11.25Lab1.JPG)
 
 UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
 
+
 ![November2025Fieldwork](/assets/posts/11.25Lab2.JPG)
+
+UNAH staff and students carrying out titration to assess the alkalinity level of water sample / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+
 
 ![November2025Fieldwork](/assets/posts/11.25Lab3.JPG)
 
+UNAH staff and students carrying out titration to assess the alkalinity level of water sample / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+
+
 ![November2025Fieldwork](/assets/posts/11.25Lab4.JPG)
 
+UNAH staff and students carrying out titration to assess the alkalinity level of water sample - green while undergoing the titration process and pink once complete / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua - verde durante el proceso de titulación y rosa una vez completado.
+
+
 ![November2025Fieldwork](/assets/posts/11.25Lab5.JPG)
+
+John Forrest (UCAM) outlines to UNAH staff and students how the SMART approach can support them to establish their thesis project / John Forrest (UCAM) explica al personal y a los estudiantes de la UNAH cómo el enfoque SMART puede ayudarles a desarrollar su proyecto de tesis.
 
 
 
