@@ -55,9 +55,11 @@ NB. Esta no es necesariamente una medida exacta de caudal natural del Huaper por
 
 ### Data analysis / Análisis de datos
 
-NB.The water quality data is taken from one of the lagoons within the manantial while the river characteristic data recorded to obtain a discharge figure was taken from the outflow from the manantial.
+NB.The water quality data is taken from one of the lagoons within the manantial while the river characteristic data recorded to obtain the discharge was taken from the outflow from the manantial.
 
-NB: Los datos de calidad del agua proceden de una de las lagunas del manantial, mientras que los datos característicos del río registrados para obtener una medida de caudal se tomaron de la desembocadura del manantial.
+NB: Los datos de calidad del agua proceden de una de las lagunas del manantial, mientras que los datos característicos del río registrados para obtener el caudal se tomaron de la desembocadura del manantial.
+
+
 
 
 ### River & water quality data / Datos fluviales y de calidad del agua
