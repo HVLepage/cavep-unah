@@ -59,7 +59,9 @@ NB.The water quality data is taken from one of the lagoons within the manantial 
 
 NB: Los datos de calidad del agua proceden de una de las lagunas del manantial, mientras que los datos característicos del río registrados para obtener el caudal se tomaron de la desembocadura del manantial.
 
+The results obtained across five visits are consistent. A discharge of approximately 30 litres per second was recorded in both dry and wet seasons. A pH of close to 7 is low compared to recordings at nearby river sites. Conductivity around 900 (µS/cm) is on the high side comapred to river recordings as is alkalinity at around 350. ORP recordings are always negative indicating that the water is not ideal for acquatic life though aquatic life - fish species, frogs, birds .... - were observed in and around the lagoons.
 
+Los resultados obtenidos en cinco visitas son consistentes. Se registró un caudal de aproximadamente 30 litros por segundo tanto en la estación seca como en la húmeda. Un pH cercano a 7 es bajo en comparación con los registros de los ríos cercanos. La conductividad, en torno a 900 (µS/cm), es elevada en comparación con los registros de los ríos, al igual que la alcalinidad, que ronda los 350. Los registros de ORP son siempre negativos, lo que indica que el agua no es ideal para la vida acuática, aunque se observaron especies acuáticas (peces, ranas, aves...) en las lagunas y sus alrededores.
 
 
 ### River & water quality data / Datos fluviales y de calidad del agua
