@@ -22,9 +22,9 @@ permalink: /docs/field-manuals/
   
 * [Hanna HI98494 multiparemter manual (EN)](/assets/docs/HI98494_Manual.pdf)
 
-* [Hach 16900 Titrator manual (EN)](\assets/docs/Hach16900_Manual.pdf)
+* [Hach 16900 Titrator manual (EN)](/assets/docs/Hach16900_Manual.pdf)
 
-* [Hach 16900 Titrator tables (EN)](\assets/docs/Hach16900_Tables.pdf)
+* [Hach 16900 Titrator tables (EN)](/assets/docs/Hach16900_Tables.pdf)
 
 * [MS H280 Magnetic stirrer (EN)](\assets/docs/MSH280.pdf)
 
