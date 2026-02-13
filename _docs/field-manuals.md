@@ -17,6 +17,15 @@ permalink: /docs/field-manuals/
 
 ### Equipment manuals
 * [Valeport - Model 801 EM Operating Manual](https://drive.google.com/file/d/1enudJLRS-wYvhZ1oc0jE0PNgtmdO0EcD/view?usp=sharing)
+  
 * [Hanna HI98194 multiparemter manual (ES)](https://drive.google.com/file/d/1eYM9pRnRae-7sCKer84MZGDBjRAgFS7K/view?usp=sharing)
+  
 * [Hanna HI98494 multiparemter manual (EN)](/assets/docs/HI98494_Manual.pdf)
 
+* [Hach 16900 Titrator manual (EN)](\assests/docs/Hach16900_Manual.pdf)
+
+* [Hach 16900 Titrator tables (EN)](\assests/docs/Hach16900_Tables.pdf)
+
+* [MS H280 Magnetic stirrer (EN)](\assets/docs/MSH280.pdf)
+
+* [MT FiveGo DO Meter (EN)](\assets/docs/MTFiveGo.pdf)
