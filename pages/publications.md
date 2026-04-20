@@ -11,7 +11,7 @@ Las publicaciones en revistas derivadas del acuerdo de investigación UNAH/UCAM 
 
 
 ## PROJECT REPORTS / INFORMES DEL PROYECTO
-Project reports will be listed below as the project advances.
+Project reports will be listed below as the project progresses.
 
 Los informes de los proyectos se irán enumerando a medida que avance el proyecto.
 
@@ -22,6 +22,8 @@ Report No.2  August 2023  /  Informe No.2 agosto 2023
 Report No.3  August 2024  /  Informe No.3 agosto 2024
 
 Report No.4  August 2025  /  Informe No.4 agosto 2025
+
+Report No.5               /  Informe No.5 
 
 
 ## REFERENCES / REFERENCIAS
