@@ -10,9 +10,9 @@ permalink: /docs/field-manuals/
 
 
 ### Field manuals
-* [Fieldwork & Laboratory Manual - June 2025 (EN)](/assets/docs//UNAHFieldworkmanualV4June2025.pdf)
+* [Fieldwork & Laboratory Manual - June 2025 (EN)](/assets/docs//UNAHFieldworkmanualV5March2026.pdf)
   
-* [Manual de laboratorio y trabajo de campo - junio 2025 (ES)](/assets/docs/UNAHFieldworkmanual(spanish)V3Junio2025.pdf)
+* [Manual de laboratorio y trabajo de campo - junio 2025 (ES)](/assets/docs/UNAHFieldworkmanual(spanish)V4March2026.pdf)
 
 
 ### Equipment manuals
@@ -29,3 +29,6 @@ permalink: /docs/field-manuals/
 * [MS H280 Magnetic stirrer (EN)](\assets/docs/MSH280.pdf)
 
 * [MT FiveGo DO Meter (EN)](\assets/docs/MTFiveGo.pdf)
+
+* [Hanna HI99121 Soil pH meter manual (EN)](\assets/docs/HI99121_-_SoilpHmanual,pdf)
+
