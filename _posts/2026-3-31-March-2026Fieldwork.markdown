@@ -81,3 +81,17 @@ Students using a multiparameter at site RC02, on the river Cachi. / Los estudian
 
 Students using a Mettler Toledo FiveGo meter to record dissolved oxygen levels in the water of the main irrigation canal at IC01. / Los estudiantes utilizando un medidor FiveGo de Mettler Toledo para registrar los niveles de oxígeno disuelto en el agua en el canal de irrigacion grande, en el sitio IC01.
 
+
+## Students in the laboratory / Estudiantes en el laboratorio
+
+On returning to the laboratory, UNAH staff and students prepared the water samples for further analysis for coliformes, metals, etc at a later date. They then analysed the water samples for alkalinity using a couple of different techniques / Al regresar al laboratorio, los docentes y estudiantes de la UNAH prepararon las muestras de agua para su posterior análisis de coliformes, metales, etc. Sin embargo, sí analizaron la alcalinidad del agua utilizando un par de técnicas diferentes.
+
+
+![March2026Fieldwork](/assets/posts/3.26Lab1.JPG)
+
+UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
+
+
+![March2026Fieldwork](/assets/posts/3.26Lab2.JPG)
+
+UNAH staff and students carrying out titration to assess the alkalinity level of water sample / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua.
