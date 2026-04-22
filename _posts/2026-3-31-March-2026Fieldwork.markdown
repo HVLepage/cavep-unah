@@ -67,7 +67,7 @@ Students collecting water samples at site Q2.2L1, from the river Huanta. / Los e
 Students using a multiparameter at site Q3.2, on the river Chihua. / Los estudiantes usando un multiparametro en Q3.2, en el rio Chihua.
 
 
-![March2026Fieldwork](/assets/posts/3.26Field12.jpg)
+![March2026Fieldwork](/assets/posts/3.26Field12.JPG)
 
 Students using a Valeport velocity meter to record the depth and velocity of the river Cachi at RC02 (note the man crossing the bridge). / Los estudiantes utilizan un medidor de velocidad Valeport para registrar la profundidad y la velocidad del rio Cachi en el sitio RC02 (Nota el hombre cruzando el puente).
 
@@ -77,7 +77,7 @@ Students using a Valeport velocity meter to record the depth and velocity of the
 Students using a multiparameter at site RC02, on the river Cachi. / Los estudiantes usando un multiparametro en RC02, en el rio Cachi.
 
 
-![March2026Fieldwork](/assets/posts/3.26Field13.jpg)
+![March2026Fieldwork](/assets/posts/3.26Field13.JPG)
 
 Students using a Mettler Toledo FiveGo meter to record dissolved oxygen levels in the water of the main irrigation canal at IC01. / Los estudiantes utilizando un medidor FiveGo de Mettler Toledo para registrar los niveles de oxígeno disuelto en el agua en el canal de irrigacion grande, en el sitio IC01.
 
