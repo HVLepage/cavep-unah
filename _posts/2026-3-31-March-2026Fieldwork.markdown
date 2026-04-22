@@ -37,17 +37,17 @@ Students collecting water samples at site Q1.1, river Opanccay. / Los estudiante
 Students using a Valeport velocity meter to record the depth and velocity of the river at site Q1.1, river Opanccay. / Los estudiantes utilizan un medidor de velocidad Valeport para registrar la profundidad y la velocidad del río en el sitio Q1.1, rio Opanccay. 
 
 
-![March2026Fieldwork](/assets/posts/3.26Field5A.JPG)
+![March2026Fieldwork](/assets/posts/3.26Field5A.jpg)
 
 Students using a Valeport velocity meter to record the depth and velocity of the river at site Q1.2N, just upriver from the ford on the river Luricocha. / Los estudiantes utilizando un medidor FiveGo de Mettler Toledo para registrar los niveles de oxígeno disuelto en el agua en el sitio Q1.2N, rio arriba del baden en el río Luricocha.
 
 
-![March2026Fieldwork](/assets/posts/3.26Field5B.JPG)
+![March2026Fieldwork](/assets/posts/3.26Field5B.jpg)
 
 Students using a Mettler Toledo FiveGo meter to record dissolved oxygen levels in the water at site Q1.2N, river Luricocha. / Los estudiantes utilizando un medidor FiveGo de Mettler Toledo para registrar los niveles de oxígeno disuelto en el agua en el sitio Q1.2N, río Luricocha.
 
 
-![March2026Fieldwork](/assets/posts/3.26Field5C.JPG)
+![March2026Fieldwork](/assets/posts/3.26Field5C.jpg)
 
 Students using a multiparameter at site Q1.2S, just above the ford, on the river Opanccay. / Los estudiantes usando un multiparametro en Q1.2S, poco rio arriba del baden en el rio Opanccay.
 
