@@ -89,9 +89,30 @@ On returning to the laboratory, UNAH staff and students prepared the water sampl
 
 ![March2026Fieldwork](/assets/posts/3.26Lab1.JPG)
 
-UNAH staff and students using the Geopump to filter a water sample prior to further analysis / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
+UNAH students using the Geopump to filter a water sample prior to further analysis. / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
 
 
 ![March2026Fieldwork](/assets/posts/3.26Lab2.JPG)
 
-UNAH staff and students carrying out titration to assess the alkalinity level of water sample / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+UNAH students using the Geopump to filter a water sample prior to further analysis. / Un docente  y estudiantes de la UNAH utilizando la Geobomba para filtrar una muestra de agua antes de su posterior análisis. 
+
+
+![March2026Fieldwork](/assets/posts/3.26Lab3.JPG)
+
+UNAH students carrying out titration to assess the alkalinity level of water sample. / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Lab4.JPG)
+
+UNAH students carrying out titration to assess the alkalinity level of water sample. / Docentes y estudiantes de la UNAH realizando una titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Lab5.JPG)
+
+UNAH students holding the results of their titration to assess the alkalinity level of a water sample. / Los estudiantes de la UNAH con los resultados de su titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Lab6.JPG)
+
+UNAH students holding the results of their titration to assess the alkalinity level of a water sample. / Los estudiantes de la UNAH con los resultados de su titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+
