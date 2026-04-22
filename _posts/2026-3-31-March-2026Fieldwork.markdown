@@ -19,7 +19,7 @@ UNAH staff and students went in to the field on several days to collect water sa
 
 ![March2026Fieldwork](/assets/posts/3.26Field1.JPG)
 
-Dr Santos & students collecting water samples at RC01 with great care in-line with risk assessment procedures in the wide but shallow river. / Dr Santos y estudiantes recogiendo muestras de agua en RC01 con mucho cuidado, siguiendo los procedimientos de evaluación de riesgos en el rio ancho pero poco profundo.
+Dr Santos & students using a multiparameter at RC01 with great care in-line with risk assessment procedures in the wide but shallow river. / Dr Santos y estudiantes usando un  ultiparametro en RC01 con mucho cuidado, siguiendo los procedimientos de evaluación de riesgos en el rio ancho pero poco profundo.
 
 
 ![March2026Fieldwork](/assets/posts/3.26Field3.JPG)
