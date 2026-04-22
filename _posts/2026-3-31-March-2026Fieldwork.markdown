@@ -30,3 +30,23 @@ Students using a field tester at site RC01 to analyse alkalinity levels in the w
 ![March2026Fieldwork](/assets/posts/3.26Field4.JPG)
 
 Students using a field tester at site RC01 to analyse alkalinity levels in the water. / Estudiantes utilizando un medidor de campo en el sitio RC01 para analizar los niveles de alcalinidad del agua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field5.JPG)
+
+Students using a field tester at site RC01 to analyse alkalinity levels in the water. / Estudiantes utilizando un medidor de campo en el sitio RC01 para analizar los niveles de alcalinidad del agua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field5A.JPG)
+
+Students using a field tester at site RC01 to analyse alkalinity levels in the water. / Estudiantes utilizando un medidor de campo en el sitio RC01 para analizar los niveles de alcalinidad del agua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field5B.JPG)
+
+Students using a field tester at site RC01 to analyse alkalinity levels in the water. / Estudiantes utilizando un medidor de campo en el sitio RC01 para analizar los niveles de alcalinidad del agua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field5C.JPG)
+
+Students using a field tester at site RC01 to analyse alkalinity levels in the water. / Estudiantes utilizando un medidor de campo en el sitio RC01 para analizar los niveles de alcalinidad del agua.
