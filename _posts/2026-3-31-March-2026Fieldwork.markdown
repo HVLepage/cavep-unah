@@ -29,7 +29,7 @@ Students using a field tester at site RC01 on the river Cachi to analyse alkalin
 
 ![March2026Fieldwork](/assets/posts/3.26Field4.JPG)
 
-Students collecting water samples at site Q1.1, river Opanccay. / Los estudiantes recogiendo de muestras de agua en el sitio Q1.1, rio Opanncay.
+Students collecting water samples at site Q1.1, from the river Opanccay. / Los estudiantes recogiendo de muestras de agua en el sitio Q1.1, del rio Opanccay.
 
 
 ![March2026Fieldwork](/assets/posts/3.26Field5.JPG)
@@ -39,7 +39,7 @@ Students using a Valeport velocity meter to record the depth and velocity of the
 
 ![March2026Fieldwork](/assets/posts/3.26Field5A.jpg)
 
-Students using a Valeport velocity meter to record the depth and velocity of the river at site Q1.2N, just upriver from the ford on the river Luricocha. / Los estudiantes utilizando un medidor FiveGo de Mettler Toledo para registrar los niveles de oxígeno disuelto en el agua en el sitio Q1.2N, rio arriba del baden en el río Luricocha.
+Students using a Valeport velocity meter to record the depth and velocity of the river at site Q1.2N, just upriver from the ford on the river Luricocha. / Los estudiantes utilizan un medidor de velocidad Valeport para registrar la profundidad y la velocidad del rio en el sitio Q1.2N, rio arriba del baden en el río Luricocha.
 
 
 ![March2026Fieldwork](/assets/posts/3.26Field5B.jpg)
@@ -47,7 +47,37 @@ Students using a Valeport velocity meter to record the depth and velocity of the
 Students using a Mettler Toledo FiveGo meter to record dissolved oxygen levels in the water at site Q1.2N, river Luricocha. / Los estudiantes utilizando un medidor FiveGo de Mettler Toledo para registrar los niveles de oxígeno disuelto en el agua en el sitio Q1.2N, río Luricocha.
 
 
-![March2026Fieldwork](/assets/posts/3.26Field5C.jpg)
+![March2026Fieldwork](/assets/posts/3.26Field5C.JPG)
 
 Students using a multiparameter at site Q1.2S, just above the ford, on the river Opanccay. / Los estudiantes usando un multiparametro en Q1.2S, poco rio arriba del baden en el rio Opanccay.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field5A.jpg)
+
+Students using a Geopacks velocity meter to record the depth and velocity of the river at site Q2.1, on the river Huanta. / Los estudiantes utilizan un medidor de velocidad Geopacks para registrar la profundidad y la velocidad del rio en el sitio Q2.1, en el río Huanta.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field8.JPG)
+
+Students collecting water samples at site Q2.2L1, from the river Huanta. / Los estudiantes recogiendo de muestras de agua en el sitio Q2.2L1, del rio Huanta.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field10.JPG)
+
+Students using a multiparameter at site Q3.2, on the river Chihua. / Los estudiantes usando un multiparametro en Q3.2, en el rio Chihua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field12.jpg)
+
+Students using a Valeport velocity meter to record the depth and velocity of the river Cachi at RC02 (note the man crossing the bridge). / Los estudiantes utilizan un medidor de velocidad Valeport para registrar la profundidad y la velocidad del rio Cachi en el sitio RC02 (Nota el hombre cruzando el puente).
+
+
+![March2026Fieldwork](/assets/posts/3.26Field11.JPG)
+
+Students using a multiparameter at site RC02, on the river Cachi. / Los estudiantes usando un multiparametro en RC02, en el rio Cachi.
+
+
+![March2026Fieldwork](/assets/posts/3.26Field13.jpg)
+
+Students using a Mettler Toledo FiveGo meter to record dissolved oxygen levels in the water of the main irrigation canal at IC01. / Los estudiantes utilizando un medidor FiveGo de Mettler Toledo para registrar los niveles de oxígeno disuelto en el agua en el canal de irrigacion grande, en el sitio IC01.
 
