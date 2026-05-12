@@ -54,7 +54,7 @@ Students using a multiparameter at site Q1.2S, just above the ford, on the river
 
 ![March2026Fieldwork](/assets/posts/3.26Field15.JPG)
 
-Students using a Geopacks velocity meter to record the depth and velocity of the river at site Q2.1, on the river Huanta. / Los estudiantes utilizan un medidor de velocidad Geopacks para registrar la profundidad y la velocidad del rio en el sitio Q2.1, en el río Huanta.
+Students using a Valeport velocity meter to record the depth and velocity of the river at site Q2.1, on the river Huanta. / Los estudiantes utilizan un medidor de velocidad Valeport para registrar la profundidad y la velocidad del rio en el sitio Q2.1, en el río Huanta.
 
 
 ![March2026Fieldwork](/assets/posts/3.26Field8.JPG)
