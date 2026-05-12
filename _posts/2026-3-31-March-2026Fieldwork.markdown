@@ -49,7 +49,7 @@ Students using a Mettler Toledo FiveGo meter to record dissolved oxygen levels i
 
 ![March2026Fieldwork](/assets/posts/3.26Field5C.JPG)
 
-Students using a multiparameter at site Q1.2S, just above the ford, on the river Opanccay. / Los estudiantes usando un multiparametro en Q1.2S, poco rio arriba del baden en el rio Opanccay.
+Students using a Valeport velocity meter to record the depth and velocity of the riverr at site Q1.2S, just above the ford, on the river Opanccay. / Los estudiantes utilizan un medidor de velocidad Valeport para registrar la profundidad y la velocidad del rio en Q1.2S, poco rio arriba del baden en el rio Opanccay.
 
 
 ![March2026Fieldwork](/assets/posts/3.26Field15.JPG)
