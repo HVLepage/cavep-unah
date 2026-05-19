@@ -142,26 +142,124 @@ Se realizaron cuatro caminatas desde distintos puntos en los que cada una descie
 
 El objetivo principal de las caminatas era identificar nuevas entradas y salidas de agua a lo largo de estos tramos de cada río que pudieran explicar la ausencia o la presencia de agua. Sin embargo, también se registraron otros aspectos relacionados con los cambios a lo largo de sus cursos, tales como los cambios en la vegetación natural, la biodiversidad y el uso del suelo. Cualquiera de estas variables podría servir de base para estudios más detallados.
 
+
 ## Walk 1 - River Luricocha 
+
 Start / Inicio: Bridge & Ford above Luricocha / El Puente y Baden sobre Luricocha
+
 End / Termino: Recreo Napolis
+
+![March2026Fieldwork](/assets/posts/3.26Walk1.1.JPG)
+
+View downstream from the start point at the bridge and ford above Luricocha / Vista río abajo desde el punto de partida, en el puente y el baden situados río arriba de Luricocha. (Photo J.Forrest March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk1.2.JPG)
+
+The river flowing passed Recreo El Negrito at Luricocha / El río que pasa por Recreo El Negrito, en Luricocha. (Photo J.Forrest March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk1.3.JPG)
+
+The river just above (100m) the Huanta to Huancayo road / El río situado justo por encima (a 100 m) de la carretera de Huanta a Huancayo. (Photo J.Forrest March 2026)	
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk1.4.JPG)
+
+A small irrigation control point on the river below (300 metres) the Huanta to Huancayo road / Un pequeño punto de control de riego situado en el río, 300 metros más abajo de la carretera que va de Huanta a Huancayo. (Photo J.Forrest March 2026)
 
 
 ## Walk 2 - River Opanccay 
+
 Start / Inicio: Sirenaccayoc waterfall / Catarata Sirenaccayoc
+
 End / Termino: Recreo Napolis
+
+![March2026Fieldwork](/assets/posts/3.26Walk2.1.JPG)
+
+View upstream just below the Sirenaccayoc waterfall (NB. Access path on the left has been completely eroded away) / Vista río arriba, justo debajo de la cascada de Sirenaccayoc (Nota: el sendero de acceso de la izquierda ha quedado completamente erosionado). (Photo J.Forrest March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk2.2.JPG)
+
+Rustic river crossing point below the old Molino and Sirenaccayoc car park / Cruce rústico del río, situado debajo del antiguo molino y del estacionamiento de Sirenaccayoc. (Photo J.Forrest March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk2.3.JPG)
+
+Descending the valley beside the irrigation canal towards the Huanta to Luricocha roads / Bajando por el valle junto al canal de riego hacia las carreteras de Huanta a Luricocha. (Photo J.Forrest March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk2.4.JPG)
+
+View downstream towards the old Huanta to Luricocha road bridge / Vista río abajo hacia el antiguo puente de la carretera de Huanta a Luricocha. (Photo J.Forrest March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk2.6.JPG)
+
+View downstream from where the track to Recreo Napolis crosses the river / Vista río abajo desde el punto donde el camino que lleva a Recreo Napolis cruza el río. (Photo J.Forrest March 2026)
 
 
 ## Walk 3 - River Huanta 
+
 Start / Inicio: Occachaca waterfall / Catarata Occachaca
+
 End / Termino: Bocatoma San Luis
+
+![March2026Fieldwork](/assets/posts/3.26Walk3.1.JPG)
+
+View downstream at one of two bocatomas below Huanccayoc and above Huanta / Vista río abajo desde uno de los dos bocatomas situados rio abajo de Huanccayoc y rio arriba de Huanta.
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk3.2.JPG)
+
+View downstream from the Huanta to Huamanga road, towards boca Rosatoma / Vista desde la carretera de Huanta a Huamanga, en dirección a Boca Rosatoma.
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk3.5.JPG)
+
+Confluence of the river Huanta (left)  and another major tributary (right) below Huanta / Confluencia del río Huanta (izquierda) y otro afluente importante (derecha) debajo de Huanta.
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk3.6.JPG)
+
+Confluence of the river Huanta (left)  and the 'El Bosque' tributary (right) below Huanta / Confluencia del río Huanta (izquierda) y del afluente ‘El Bosque’ (derecha) debajo de Huanta.
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk3.7.JPG)
+
+The lower of two bocatomas below San Luis / El más bajo de los dos bocatomas situados debajo de San Luis.
 
 
 ## Walk 4 - River Chihua
+
 Start / Inicio: Old bridge on the old Cangari road / El viejo puente de la antigua carretera de Cangari.
+
 End / Termino: The ford on the Viru Viru to Cangari road / El baden en la carretera de Viru Viru a Cangari.
 
+![March2026Fieldwork](/assets/posts/3.26Walk4.1.JPG)
 
+View upstream of the river Chihua from the old bridge on the Huanta to Cangari road / Vista río arriba del río Chihua desde el antiguo puente de la carretera de Huanta a Cangari.
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk4.2.JPG)
+
+View downstream of the river Chihua just after it crosses the main irrigation canal / Vista rio abajo después de que cruza el canal principal de riego.
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk4.4.JPG)
+
+View downstream just upstream from the ford on the Huanta to Cangari direct road / Vista rio abajo justo rio arriba del baden de la carretera directa de Huanta a Cangari.
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk4.6.JPG)
+
+The river flowing passed a river cliff on the lower river Chihua / El río fluye cerca a un acantilado en el curso inferior del río Chihua.
+
+
+![March2026Fieldwork](/assets/posts/3.26Walk4.7.JPG)
+
+The ford on the Viru Viru to Cangari direct road / El baden de la carretera directa de Viru Viru a Cangari.
 
 
 
