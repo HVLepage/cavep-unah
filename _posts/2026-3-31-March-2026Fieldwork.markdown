@@ -8,6 +8,8 @@ category: field-work
 
 ## Field Trip Schedule
 
+[Field Trip Schedule](/assets/posts/UCAMitineraryMarch2026.pdf)
+
 
 ## HYDROLOGY
 
