@@ -208,7 +208,7 @@ End / Termino: Bocatoma San Luis
 
 ![March2026Fieldwork](/assets/posts/3.26Walk3.1.JPG)
 
-View downstream at one of two bocatomas below Huanccayoc and above Huanta / Vista río abajo desde uno de los dos bocatomas situados rio abajo de Huanccayoc y rio arriba de Huanta. (Photo J.Forrest March 2026)
+View downstream at the Occachaca waterfall / Vista río abajo de la cascada de Occachaca. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk3.2.JPG)
