@@ -13,8 +13,7 @@ category: field-work
 
 ## Students in the field / Estudiantes en el campo
 
-UNAH staff and students went in to the field on several days to collect water samples as well as water quality and water channel characteristic data at each site. This data will be used to establish a water quality database which UNAH can continue to develop. Despite being on holiday, there were plenty of student volunteers to participate in the trips. These trips are often the students first detailed experience of collecting detailed environmental data and samples in the field.
-/ Docentes y estudiantes de la UNAH salieron al campo durante varios días para recoger muestras de agua, así como datos sobre la calidad del agua y las características de los canales en cada sitio. Estos datos se utilizarán para crear una base de datos sobre la calidad del agua que la UNAH podrá seguir desarrollando. A pesar de estar de vacaciones, hubo muchos estudiantes voluntarios que participaron en las salidas. Estos viajes suelen ser la primera experiencia concreta que tienen los estudiantes en la recopilación de datos medioambientales detallados y la toma de muestras sobre el campo.
+UNAH staff and students went in to the field on several days to collect water samples as well as water quality and water channel characteristic data at each site. This data will be used to establish a water quality database which UNAH can continue to develop. Despite being on holiday, there were plenty of student volunteers to participate in the trips. These trips are often the students first detailed experience of collecting detailed environmental data and samples in the field / Docentes y estudiantes de la UNAH salieron al campo durante varios días para recoger muestras de agua, así como datos sobre la calidad del agua y las características de los canales en cada sitio. Estos datos se utilizarán para crear una base de datos sobre la calidad del agua que la UNAH podrá seguir desarrollando. A pesar de estar de vacaciones, hubo muchos estudiantes voluntarios que participaron en las salidas. Estos viajes suelen ser la primera experiencia concreta que tienen los estudiantes en la recopilación de datos medioambientales detallados y la toma de muestras sobre el campo.
 
 
 ![March2026Fieldwork](/assets/posts/3.26Field1.JPG)
@@ -115,4 +114,55 @@ UNAH students holding the results of their titration to assess the alkalinity le
 ![March2026Fieldwork](/assets/posts/3.26Lab6.JPG)
 
 UNAH students holding the results of their titration to assess the alkalinity level of a water sample. / Los estudiantes de la UNAH con los resultados de su titulación para evaluar el nivel de alcalinidad de una muestra de agua.
+
+
+
+## Investigative River Walks
+
+After ten visits to the four main river Cachi tributaries close to Huanta, further investigation was required to explain, for example, why there is often water flowing in the tributaries at their confluence with the river Cachi but the same tributaries are dry in their middle sections.
+
+Four walks were conducted from a point where each descends from the sierra Razuhuillca towards the river Cachi -
+-River Luricocha: from above Luricocha to Recreo Napolis.
+-River Opanccay: from the Sirenaccayoc waterfall to Recreo Napolis.
+-River Huanta: from the Occachaca waterfall to San Luis.
+-River Chihua: from the old road bridge above Cangari to Cangari.
+
+The main focus of the walks was to identify new inflows and outflows along these sections of each river which might explain the absence or presence of water. However, other aspects of change along their courses such as changes in natural vegetation, biodiversity and land use were also recorded. Any one of these variables could form the basis of more in depth studies.
+
+
+## Paseos de investigación por los ríos
+
+Tras diez visitas a los cuatro principales afluentes del río Cachi cercanos a Huanta, se hizo necesario realizar más investigaciones para explicar, por ejemplo, por qué a menudo hay agua fluyendo en los afluentes en su confluencia con el río Cachi, pero esos mismos afluentes están secos en sus tramos intermedios.
+
+Se realizaron cuatro caminatas desde distintos puntos en los que cada una desciende desde la sierra Razuhuillca hacia el río Cachi:
+-Río Luricocha: desde la parte alta de Luricocha hasta Recreo Nápoles.
+-Río Opanccay: desde la cascada de Sirenaccayoc hasta Recreo Nápoles.
+-Río Huanta: desde la cascada de Occachaca hasta San Luis.
+-Río Chihua: desde el antiguo puente de la carretera a Cangari hasta Cangari.
+
+El objetivo principal de las caminatas era identificar nuevas entradas y salidas de agua a lo largo de estos tramos de cada río que pudieran explicar la ausencia o la presencia de agua. Sin embargo, también se registraron otros aspectos relacionados con los cambios a lo largo de sus cursos, tales como los cambios en la vegetación natural, la biodiversidad y el uso del suelo. Cualquiera de estas variables podría servir de base para estudios más detallados.
+
+## Walk 1 - River Luricocha 
+Start / Inicio: Bridge & Ford above Luricocha / El Puente y Baden sobre Luricocha
+End / Termino: Recreo Napolis
+
+
+## Walk 2 - River Opanccay 
+Start / Inicio: Sirenaccayoc waterfall / Catarata Sirenaccayoc
+End / Termino: Recreo Napolis
+
+
+## Walk 3 - River Huanta 
+Start / Inicio: Occachaca waterfall / Catarata Occachaca
+End / Termino: Bocatoma San Luis
+
+
+## Walk 4 - River Chihua
+Start / Inicio: Old bridge on the old Cangari road / El viejo puente de la antigua carretera de Cangari.
+End / Termino: The ford on the Viru Viru to Cangari road / El baden en la carretera de Viru Viru a Cangari.
+
+
+
+
+
 
