@@ -208,27 +208,27 @@ End / Termino: Bocatoma San Luis
 
 ![March2026Fieldwork](/assets/posts/3.26Walk3.1.JPG)
 
-View downstream at one of two bocatomas below Huanccayoc and above Huanta / Vista río abajo desde uno de los dos bocatomas situados rio abajo de Huanccayoc y rio arriba de Huanta.
+View downstream at one of two bocatomas below Huanccayoc and above Huanta / Vista río abajo desde uno de los dos bocatomas situados rio abajo de Huanccayoc y rio arriba de Huanta. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk3.2.JPG)
 
-View downstream from the Huanta to Huamanga road, towards boca Rosatoma / Vista desde la carretera de Huanta a Huamanga, en dirección a Boca Rosatoma.
+View downstream at one of two bocatomas below Huanccayoc and above Huanta / Vista río abajo desde uno de los dos bocatomas situados rio abajo de Huanccayoc y rio arriba de Huanta. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk3.5.JPG)
 
-Confluence of the river Huanta (left)  and another major tributary (right) below Huanta / Confluencia del río Huanta (izquierda) y otro afluente importante (derecha) debajo de Huanta.
+Confluence of the river Huanta (left)  and another major tributary (right) below Huanta / Confluencia del río Huanta (izquierda) y otro afluente importante (derecha) debajo de Huanta. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk3.6.JPG)
 
-Confluence of the river Huanta (left)  and the 'El Bosque' tributary (right) below Huanta / Confluencia del río Huanta (izquierda) y del afluente ‘El Bosque’ (derecha) debajo de Huanta.
+Confluence of the river Huanta (left)  and the 'El Bosque' tributary (right) below Huanta / Confluencia del río Huanta (izquierda) y del afluente ‘El Bosque’ (derecha) debajo de Huanta. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk3.7.JPG)
 
-The lower of two bocatomas below San Luis / El más bajo de los dos bocatomas situados debajo de San Luis.
+The lower of two bocatomas below San Luis / El más bajo de los dos bocatomas situados debajo de San Luis. (Photo J.Forrest March 2026)
 
 
 ## Walk 4 - River Chihua
@@ -239,28 +239,25 @@ End / Termino: The ford on the Viru Viru to Cangari road / El baden en la carret
 
 ![March2026Fieldwork](/assets/posts/3.26Walk4.1.JPG)
 
-View upstream of the river Chihua from the old bridge on the Huanta to Cangari road / Vista río arriba del río Chihua desde el antiguo puente de la carretera de Huanta a Cangari.
+View upstream of the river Chihua from the old bridge on the Huanta to Cangari road / Vista río arriba del río Chihua desde el antiguo puente de la carretera de Huanta a Cangari. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk4.2.JPG)
 
-View downstream of the river Chihua just after it crosses the main irrigation canal / Vista rio abajo después de que cruza el canal principal de riego.
+View downstream of the river Chihua just after it crosses the main irrigation canal / Vista rio abajo después de que cruza el canal principal de riego. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk4.4.JPG)
 
-View downstream just upstream from the ford on the Huanta to Cangari direct road / Vista rio abajo justo rio arriba del baden de la carretera directa de Huanta a Cangari.
+View downstream just upstream from the ford on the Huanta to Cangari direct road / Vista rio abajo justo rio arriba del baden de la carretera directa de Huanta a Cangari. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk4.6.JPG)
 
-The river flowing passed a river cliff on the lower river Chihua / El río fluye cerca a un acantilado en el curso inferior del río Chihua.
+The river flowing passed a river cliff on the lower river Chihua / El río fluye cerca a un acantilado en el curso inferior del río Chihua. (Photo J.Forrest March 2026)
 
 
 ![March2026Fieldwork](/assets/posts/3.26Walk4.7.JPG)
 
-The ford on the Viru Viru to Cangari direct road / El baden de la carretera directa de Viru Viru a Cangari.
-
-
-
+The ford on the Viru Viru to Cangari direct road / El baden de la carretera directa de Viru Viru a Cangari. (Photo J.Forrest March 2026)
 
