@@ -263,3 +263,38 @@ The river flowing passed a river cliff on the lower river Chihua / El río fluye
 
 The ford on the Viru Viru to Cangari direct road / El baden de la carretera directa de Viru Viru a Cangari. (Photo J.Forrest March 2026)
 
+
+
+## BIODIVERSITY / BIOACOUSTICS
+
+![March2026Fieldwork](/assets/posts/3.26Biodiv.1.JPG)
+
+Outlining the fieldwork objectives and protocols to be followed when recording bird calls, to UNAH staff and students / 
+(E.Barnes March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Biodiv.2.JPG)
+
+Deploying the new ultrasonic microphone system to record high quality bird and insect calls for the database 
+/ 
+(E.Barnes March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Biodiv.3.JPG)
+
+Outlining the field work objectives for a visit to a dry forest site to record ambient bird and insect calls to add to the database 
+/ 
+(E.Barnes March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Biodiv.4.JPG)
+
+A dry forest site below Marcas, visited to record floral diversity /
+(E.Barnes March 2026)
+
+
+![March2026Fieldwork](/assets/posts/3.26Biodiv.5.JPG)
+
+UNAH staff and students at  a viewpoint above the river Mantaro, at the end of day spent undertaking fieldwork in the dry forest / 
+(E.Barnes March 2026)
+
