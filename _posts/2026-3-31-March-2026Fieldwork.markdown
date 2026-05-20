@@ -267,6 +267,7 @@ The ford on the Viru Viru to Cangari direct road / El baden de la carretera dire
 
 ## BIODIVERSITY / BIOACOUSTICS
 
+Visits were made over several days to dry forest sites with UNAH staff and students. The work to create an inventory of flowering plants and cactuses in the Huanta area continued. A new ultrasonic microphone system designed by the Cavendish Laboratory, in Cambridge, was used successfully in the field for the first time to record bird and insect sounds in the countryside surrounding Huanta.
 
 
 ![March2026Fieldwork](/assets/posts/3.26Biodiv.1.JPG)
