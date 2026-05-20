@@ -270,27 +270,27 @@ The ford on the Viru Viru to Cangari direct road / El baden de la carretera dire
 Visits were made over several days to dry forest sites with UNAH staff and students. The work to create an inventory of flowering plants and cactuses in the Huanta area continued. A new ultrasonic microphone system designed by the Cavendish Laboratory, in Cambridge, was used successfully in the field for the first time to record bird and insect sounds in the countryside surrounding Huanta.
 
 
-![March2026Fieldwork](/assets/posts/3.26Biodiv.1.JPG)
+![March2026Fieldwork](/assets/posts/3.26Biodiv.1.jpg)
 
 Outlining the fieldwork objectives and protocols to be followed when recording bird calls, to UNAH staff and students / Explicación de los objetivos y protocolos del trabajo de campo que se deben seguir al grabar cantos de aves, dirigida a los docentes y a los estudiantes de la UNAH. (E.Barnes March 2026)
 
 
-![March2026Fieldwork](/assets/posts/3.26Biodiv.2.JPG)
+![March2026Fieldwork](/assets/posts/3.26Biodiv.2.jpg)
 
 Deploying the new ultrasonic microphone system to record high quality bird and insect calls for the database / Implementación del nuevo sistema de micrófonos ultrasónicos para grabar cantos de aves e insectos de alta calidad para la base de datos. (E.Barnes March 2026)
 
 
-![March2026Fieldwork](/assets/posts/3.26Biodiv.3.JPG)
+![March2026Fieldwork](/assets/posts/3.26Biodiv.3.jpg)
 
 Outlining the field work objectives for a visit to a dry forest site to record ambient bird and insect calls to add to the database / Descripción de los objetivos del trabajo de campo para una visita a un bosque seco con el fin de grabar los cantos de aves e insectos del entorno para incorporarlos a la base de datos. (E.Barnes March 2026)
 
 
-![March2026Fieldwork](/assets/posts/3.26Biodiv.4.JPG)
+![March2026Fieldwork](/assets/posts/3.26Biodiv.4.jpg)
 
 A dry forest site below Marcas, visited to record floral diversity / Un sitio de bosque seco situado más abajo de Marcas, que se visitó para registrar la diversidad floral. (E.Barnes March 2026)
 
 
-![March2026Fieldwork](/assets/posts/3.26Biodiv.5.JPG)
+![March2026Fieldwork](/assets/posts/3.26Biodiv.5.jpg)
 
 UNAH staff and students at  a viewpoint above the river Mantaro, at the end of day spent undertaking fieldwork in the dry forest / Los docentes y estudiantes de la UNAH en un mirador sobre el río Mantaro, al final de una jornada dedicada al trabajo de campo en el bosque seco. (E.Barnes March 2026)
 
