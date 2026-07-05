@@ -38,4 +38,3 @@ Authorities / Autoridades
   
 * **Dr. Juvenal Castromonte Salinas (Vice-President Academic)(2020-2025)**.
 * **Dr. Luis Rivera Vela (Vice-President Academic)(2025-)**.
-
