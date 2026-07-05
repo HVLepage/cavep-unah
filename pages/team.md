@@ -27,11 +27,12 @@ Project administration:
 
 ## Universidad Nacional Autónoma de Huanta (UNAH)
 
-Principal investigator
+Organising Commission / Comision Organizadora
+Presidente
 * **Dra. Delia Gamarra Gamarra (2020-2025)**.
 * **Dra. Hilda Huayhua Mamani (2025-)**.
   
-Co-investigators (or their successors)
+Authorities / Autoridades
 * **Dr. Jorge Castro Bedriñana (Vice-President Investigation)(2020-2025)**.
 * **Dra. Roxani Keewong Zapata (Vice-President Investigation)(2025-)**.
   
