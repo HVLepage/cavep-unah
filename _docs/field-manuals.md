@@ -12,11 +12,11 @@ permalink: /docs/field-manuals/
 ### Field manuals
 * [Fieldwork & Laboratory Manual (EN)](/assets/docs//UNAHFieldworkmanualFinal.pdf)
   
-* [Manual de laboratorio y trabajo de campo (ES)](/assets/docs/UNAHFieldworkmanual(spanish)Final.pdf)
+* [Manual de trabajo de campo y de laboratorio (ES)](/assets/docs/UNAHFieldworkmanual(spanish)Final.pdf)
 
 * [Soils Handbook (EN)](/assets/docs/SoilsHandbook.pdf)
 
-* [Manual de Suelos (Spanish)](/assets/docs/SoilsHandbook(Spanish).pdf)
+* [Manual de Suelos (ES)](/assets/docs/SoilsHandbook(Spanish).pdf)
 
 
 ### Equipment manuals
