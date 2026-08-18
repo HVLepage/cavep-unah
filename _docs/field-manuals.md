@@ -14,6 +14,10 @@ permalink: /docs/field-manuals/
   
 * [Manual de laboratorio y trabajo de campo - marzo 2026 (ES)](/assets/docs/UNAHFieldworkmanual(spanish)V4March2026.pdf)
 
+* [Soils Handbook (EN)](/assets/docs/SoilsHandbook.pdf)
+
+* [Manual de Suelos (Spanish)](/assets/docs/SoilsHandbook(Spanish).pdf)
+
 
 ### Equipment manuals
 * [Valeport - Model 801 EM Operating Manual](https://drive.google.com/file/d/1enudJLRS-wYvhZ1oc0jE0PNgtmdO0EcD/view?usp=sharing)
