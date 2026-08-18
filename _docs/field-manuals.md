@@ -36,4 +36,5 @@ permalink: /docs/field-manuals/
 
 * [Hanna HI99121 Soil pH meter manual (EN)](\assets/docs/HI98331conductivitymanual,pdf)
 
-* [Optoma projector (EN)]
+* [Optoma projector (EN)](\assets/docs/Optomaprojectormanual.pdf)
+  
