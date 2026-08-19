@@ -83,13 +83,21 @@ John Forrest (UCAM) clarifies coding details at the Hydrology data analysis work
 
 At the end of the project a meeting was held with local community representatives from Huanta to outline project activities and achievements.
 
-Al finalizar el proyecto, se llevó a cabo una reunión con representantes de la comunidad local de Huanta para presentar las actividades y los logros del proyecto.)
+Al finalizar el proyecto, se llevó a cabo una reunión con representantes de la comunidad local de Huanta para presentar las actividades y los logros del proyecto.
+
+
+![July2026Fieldwork](/assets/posts/7.26Community2.jpg)
+
+Members of the community attending the presentation / 
+
 
 ![July2026Fieldwork](/assets/posts/7.26Community1.jpg)
 
-![July2026Fieldwork](/assets/posts/7.26Community2.jpg)
+Hugo Lepage (UCAM) 
 
-![July2026Fieldwork](/assets/posts/7.26Community2.jpg)
+
+![July2026Fieldwork](/assets/posts/7.26Community3.jpg)
+
 
 
 ## LABORATORY / LABORATORIO
@@ -98,45 +106,50 @@ At the end of the project an inventory was undertaken to confirm the details of 
 
 Al finalizar el proyecto, se realizó un inventario para confirmar los detalles de todo el equipo y los materiales que se entregarían a la UNAH.
 
+
 ![July2026Fieldwork](/assets/posts/7.26Lab1.jpg)
 
-(Representatives of the UCAM and the UNAH confirm the details of the inventory / Representantes de la UCAM y de la UNAH confirman los detalles del inventario.)
+Representatives of the UCAM and the UNAH confirm the details of the inventory / Representantes de la UCAM y de la UNAH confirman los detalles del inventario.
+
 
 
 ## CONFERENCE / CONFERENCIA
 
-At the end of the project a day long Conference was organised by the UNAH at which UCAM rseearchers presented details of their research and its outcomes / Al finalizar el proyecto, la UNAH organizó una conferencia de un día de duración en la que los investigadores de la UCAM presentaron los detalles de su investigación y sus resultados.)
+At the end of the project a day long Conference was organised by the UNAH at which UCAM rseearchers presented details of their research and its outcomes.
+
+Al finalizar el proyecto, la UNAH organizó una conferencia de un día de duración en la que los investigadores de la UCAM presentaron los detalles de su investigación y sus resultados.
+
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations1.JPG)
 
-(The UNAH authorities at the opening of the Conference / Las autoridades de la UNAH en la inauguración de la conferencia.)
+The UNAH authorities at the opening of the Conference / Las autoridades de la UNAH en la inauguración de la conferencia.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations2.JPG)
 
-(Fabian Lema Rivero of the UNAH welcomes the UCAM and the UNAH participants to the Conference / Fabian Lema Rivero, de la UNAH, da la bienvenida a los participantes de la UCAM y de la UNAH a la conferencia.)
+Fabian Lema Rivero of the UNAH welcomes the UCAM and the UNAH participants to the Conference / Fabian Lema Rivero, de la UNAH, da la bienvenida a los participantes de la UCAM y de la UNAH a la conferencia.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations3.jpeg)
 
-(John Forrest opens the Conference with a presentation on the establishment of a water quality database for several rivers in the viciinity of Huanta / John Forrest inaugura la conferencia con una presentación sobre la creación de una base de datos sobre la calidad del agua de varios ríos en las cercanías de Huanta.)
+John Forrest opens the Conference with a presentation on the establishment of a water quality database for several rivers in the viciinity of Huanta / John Forrest inaugura la conferencia con una presentación sobre la creación de una base de datos sobre la calidad del agua de varios ríos en las cercanías de Huanta.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations4.JPG)
 
-(Hugo Lepage preaents
+Hugo Lepage preaents
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations5.jpeg)
 
-(Daria Radu presents
+Daria Radu presents
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations6.jpg)
 
-(Eustace Barnes presents 
+Eustace Barnes presents 
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations7.jpeg)
 
-(UCAM and UNAH participants at the closure of the end of project Conference / Participantes de la UCAM y la UNAH en la clausura de la conferencia de fin de proyecto.)
+UCAM and UNAH participants at the closure of the end of project Conference / Participantes de la UCAM y la UNAH en la clausura de la conferencia de fin de proyecto.
