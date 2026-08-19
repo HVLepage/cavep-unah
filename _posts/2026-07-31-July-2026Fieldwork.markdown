@@ -22,3 +22,31 @@ UNAH staf
 
 Dr 
 
+
+![July2026Fieldwork](/assets/posts/7.26Bofedales2.jpeg)
+
+Dr 
+
+
+![July2026Fieldwork](/assets/posts/7.26Bofedales3.jpeg)
+
+Dr 
+
+
+![July2026Fieldwork](/assets/posts/7.26Bofedales3.jpeg)
+
+
+
+![July2026Fieldwork](/assets/posts/7.26Bofedales6.jpeg)
+
+Dr 
+
+
+![July2026Fieldwork](/assets/posts/7.26Bofedales7.jpeg)
+
+Dr 
+
+
+
+Dr 
+
