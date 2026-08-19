@@ -16,3 +16,9 @@ category: field-work
 ## UNAH Students in the field / Estudiantes de la UNAH en el campo
 
 UNAH staf
+
+
+![July2026Fieldwork](/assets/posts/7.26Bofedales1.jpeg)
+
+Dr 
+
