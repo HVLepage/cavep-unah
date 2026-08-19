@@ -48,6 +48,53 @@ Dr
 Dr 
 
 
+## Workshops
+
+![July2026Fieldwork](/assets/posts/7.26Workshops1.jpeg)
+
+
+![July2026Fieldwork](/assets/posts/7.26Workshops2.jpeg)
+
+
+![July2026Fieldwork](/assets/posts/7.26Workshops3.jpg)
+
+
+![July2026Fieldwork](/assets/posts/7.26Workshops4.jpg)
+
+
+
+
+##Community meeting
+
+![July2026Fieldwork](/assets/posts/7.26Ciommunity1.jpg)
+
+![July2026Fieldwork](/assets/posts/7.26Ciommunity2.jpg)
+
+![July2026Fieldwork](/assets/posts/7.26Ciommunity2.jpg)
+
+
+##Laboratory
+
+![July2026Fieldwork](/assets/posts/7.26CLaboratory1.jpg)
+
+
+
+##Final presentations
+
+![July2026Fieldwork](/assets/posts/7.26Presentations1.jpg)
+
+![July2026Fieldwork](/assets/posts/7.26Presentations2.jpg)
+
+![July2026Fieldwork](/assets/posts/7.26Presentations3.jpeg)
+
+![July2026Fieldwork](/assets/posts/7.26Presentations4.jpg)
+
+![July2026Fieldwork](/assets/posts/7.26Presentations5.jpeg)
+
+![July2026Fieldwork](/assets/posts/7.26Presentations6.jpg)
+
+![July2026Fieldwork](/assets/posts/7.26Presentations7.jpeg)
+
 
 Dr 
 
