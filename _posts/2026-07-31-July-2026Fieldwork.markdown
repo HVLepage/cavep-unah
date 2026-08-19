@@ -11,9 +11,7 @@ category: field-work
 [Field Trip Schedule](/assets/posts/UCAMscheduleJuly2026.pdf)
 
 
-## BOFEDALES FIELDWORK / TRABAJO DE CAMPO DE LOS BOFEDALES
-
-## UNAH Students in the field / Estudiantes de la UNAH en el campo
+## BOFEDALES FIELDWORK: UNAH students in the field  / TRABAJO DE CAMPO DE LOS BOFEDALES: los estudiantes de la UNAH en el campo
 
 UNAH staff and students participated in three days of fieldwork studying bofedales in the sierra Razuhuillca to gain a greater understanding of the chararcteristics of bofedales in the Huanta region. Bofedales have been studied in detail via satellite images but their remote and high altitude locations mean that there is a lack of ground-truthing linked data to confirm the satellite image based studies. This fieldwork provided a rare but excellent opportunity to gain an indepth understanding of the vegetation, soil and water characteristics of some bofedales.
 
