@@ -33,7 +33,7 @@ Dr
 Dr 
 
 
-![July2026Fieldwork](/assets/posts/7.26Bofedales3.jpg)
+![July2026Fieldwork](/assets/posts/7.26Bofedales4.jpg)
 
 
 
