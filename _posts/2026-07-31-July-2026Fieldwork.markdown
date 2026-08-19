@@ -50,16 +50,16 @@ Dr
 
 ## Workshops
 
-![July2026Fieldwork](/assets/posts/7.26Worshops1.JPEG)
+![July2026Fieldwork](/assets/posts/7.26Worshops1.jpeg)
 
 
-![July2026Fieldwork](/assets/posts/7.26Worshops2.JPEG)
+![July2026Fieldwork](/assets/posts/7.26Worshops2.jpeg)
 
 
-![July2026Fieldwork](/assets/posts/7.26Worshops3.JPG)
+![July2026Fieldwork](/assets/posts/7.26Worshops3.jpg)
 
 
-![July2026Fieldwork](/assets/posts/7.26Worshops4.JPG)
+![July2026Fieldwork](/assets/posts/7.26Worshops4.jpg)
 
 
 
@@ -75,7 +75,7 @@ Dr
 
 ##Laboratory
 
-![July2026Fieldwork](/assets/posts/7.26Lab1.JPG)
+![July2026Fieldwork](/assets/posts/7.26Lab1.jpg)
 
 
 
