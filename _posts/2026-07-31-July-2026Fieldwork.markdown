@@ -66,16 +66,16 @@ Dr
 
 ##Community meeting
 
-![July2026Fieldwork](/assets/posts/7.26Ciommunity1.jpg)
+![July2026Fieldwork](/assets/posts/7.26Community1.jpg)
 
-![July2026Fieldwork](/assets/posts/7.26Ciommunity2.jpg)
+![July2026Fieldwork](/assets/posts/7.26Community2.jpg)
 
-![July2026Fieldwork](/assets/posts/7.26Ciommunity2.jpg)
+![July2026Fieldwork](/assets/posts/7.26Community2.jpg)
 
 
 ##Laboratory
 
-![July2026Fieldwork](/assets/posts/7.26CLaboratory1.jpg)
+![July2026Fieldwork](/assets/posts/7.26CLaboratory1.JPG)
 
 
 
