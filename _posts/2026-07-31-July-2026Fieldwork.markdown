@@ -27,7 +27,7 @@ Daria Radu (UCAM) outlines the fieldwork to be undertaken on arrival at a bofeda
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales2.jpg)
 
-UCAM and UNAH participants spread out at a site on the bofedale to record field data / Los participantes de la UCAM y la UNAH se distribuyeron por un sitio en el Bofedale para registrar datos de campo.
+UCAM and UNAH participants spread out at one of the sites on the bofedale to record field data / Los participantes de la UCAM y la UNAH se distribuyeron por uno de los sitios en el Bofedale para registrar datos de campo.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales3.jpg)
@@ -38,6 +38,11 @@ UNAH participants record bofedale soil and vegetation characteristic data / Los 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales4.jpg)
 
 UNAH participants record bofedale water quality data / Los participantes de la UNAH registran datos sobre la calidad del agua en Bofedale.
+
+
+![July2026Fieldwork](/assets/posts/7.26Bofedales5.jpg)
+
+UNAH participants record bofedale water quality data / Los participantes de la UNAH registran datos sobre la calidad del agua en un Bofedale.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales6.jpg)
