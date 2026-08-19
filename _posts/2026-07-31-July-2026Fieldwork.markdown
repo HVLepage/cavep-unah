@@ -117,7 +117,7 @@ Representatives of the UCAM and the UNAH confirm the details of the inventory / 
 
 ## CONFERENCE / CONFERENCIA
 
-At the end of the project a day long Conference was organised by the UNAH at which UCAM rseearchers presented details of their research and its outcomes.
+To end the project a day long Conference was organised by the UNAH at which UCAM rseearchers presented details of their research and its outcomes.
 
 Al finalizar el proyecto, la UNAH organizó una conferencia de un día de duración en la que los investigadores de la UCAM presentaron los detalles de su investigación y sus resultados.
 
@@ -144,7 +144,7 @@ Hugo Lepage (UCAM) and Yumi Gomez (UNAH) present details of research undertaken 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations5.jpeg)
 
-Daria Radu presents her research to the Conference / Daria Radu presenta su investigación en la conferencia.
+Daria Radu presents her research into bofedales to the Conference / Daria Radu presenta su investigación de los bofedales en la conferencia.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations6.jpg)
