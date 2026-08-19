@@ -51,7 +51,7 @@ UCAM and UNAH participants after completing the survey of a bofedale / Participa
 
 
 
-## WPRKSHOPS / TALLERES
+## WORKSHOPS / TALLERES
 
 UCAM researchers held a series of practical workshops for UNAH staff and students.
 
@@ -65,23 +65,25 @@ Daria Radu (UCAM) in discussion with the UNAH Bofedales research group / Daria R
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop3.jpg)
 
-Luis de los Santos (UCAM) opens the Sediments workshop / Luis de los Santos (UCAM) inaugura el taller sobre sedimentos.
+Luis de los Santos (UCAM) presenting to one of the Sediments workshops / Luis de los Santos (UCAM) durante su presentación en uno de los talleres sobre sedimentos.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop2.jpeg)
 
-UNAH partiicpants in the Sediments workshop / )
+Dina Huallanca of the UNAH, makes a practical presentation to participants in one of the Sediments workshops / Dina Huallanca, de la UNAH, realiza una presentación práctica ante los participantes de uno de los talleres sobre sedimentos.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop4.jpg)
 
-(John Forrest (UCAM) clarifies coding details at the Hydrology data analysis workshop / John Forrest (UCAM) aclara detalles de programación en el taller de análisis de datos hidrológicos.)
+John Forrest (UCAM) clarifies coding details at the Hydrology data analysis workshop / John Forrest (UCAM) aclara detalles de programación en el taller de análisis de datos hidrológicos.
 
 
 
 ## COMMUNITY MEETING / REUNION CON LA COMUNIDAD
 
-At the end of the project a meeting was held with local community representatives from Huanta to outline project activities and achievements / Al finalizar el proyecto, se llevó a cabo una reunión con representantes de la comunidad local de Huanta para presentar las actividades y los logros del proyecto.)
+At the end of the project a meeting was held with local community representatives from Huanta to outline project activities and achievements.
+
+Al finalizar el proyecto, se llevó a cabo una reunión con representantes de la comunidad local de Huanta para presentar las actividades y los logros del proyecto.)
 
 ![July2026Fieldwork](/assets/posts/7.26Community1.jpg)
 
