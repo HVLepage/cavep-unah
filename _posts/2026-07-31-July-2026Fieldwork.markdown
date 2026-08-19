@@ -81,13 +81,13 @@ Dr
 
 ##Final presentations
 
-![July2026Fieldwork](/assets/posts/7.26Presentations1.jpg)
+![July2026Fieldwork](/assets/posts/7.26Presentations1.JPG)
 
-![July2026Fieldwork](/assets/posts/7.26Presentations2.jpg)
+![July2026Fieldwork](/assets/posts/7.26Presentations2.JPG)
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations3.jpeg)
 
-![July2026Fieldwork](/assets/posts/7.26Presentations4.jpg)
+![July2026Fieldwork](/assets/posts/7.26Presentations4.JPG)
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations5.jpeg)
 
