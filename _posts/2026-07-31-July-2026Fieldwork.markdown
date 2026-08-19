@@ -50,16 +50,16 @@ Dr
 
 ## Workshops
 
-![July2026Fieldwork](/assets/posts/7.26Workshops1.jpeg)
+![July2026Fieldwork](/assets/posts/7.26Workshops1.JPEG)
 
 
-![July2026Fieldwork](/assets/posts/7.26Workshops2.jpeg)
+![July2026Fieldwork](/assets/posts/7.26Workshops2.JPEG)
 
 
-![July2026Fieldwork](/assets/posts/7.26Workshops3.jpg)
+![July2026Fieldwork](/assets/posts/7.26Workshops3.JPG)
 
 
-![July2026Fieldwork](/assets/posts/7.26Workshops4.jpg)
+![July2026Fieldwork](/assets/posts/7.26Workshops4.JPG)
 
 
 
