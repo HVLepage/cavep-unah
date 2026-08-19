@@ -8,7 +8,7 @@ category: field-work
 
 ## Field Trip Schedule
 
-[Field Trip Schedule](/assets/posts/UCAMscheduleJuly2026.pdf)
+[Field Trip Schedule](/assets/posts/UCAMscheduleJuly_2026.pdf)
 
 
 ## BOFEDALES
