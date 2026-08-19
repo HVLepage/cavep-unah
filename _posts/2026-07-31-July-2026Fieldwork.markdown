@@ -50,16 +50,16 @@ Dr
 
 ## Workshops
 
-![July2026Fieldwork](/assets/posts/7.26Worshops1.jpeg)
+![July2026Fieldwork](/assets/posts/7.26Worshop1.jpeg)
 
 
-![July2026Fieldwork](/assets/posts/7.26Worshops2.jpeg)
+![July2026Fieldwork](/assets/posts/7.26Worshop2.jpeg)
 
 
-![July2026Fieldwork](/assets/posts/7.26Worshops3.jpg)
+![July2026Fieldwork](/assets/posts/7.26Worshop3.jpg)
 
 
-![July2026Fieldwork](/assets/posts/7.26Worshops4.jpg)
+![July2026Fieldwork](/assets/posts/7.26Worshop4.jpg)
 
 
 
