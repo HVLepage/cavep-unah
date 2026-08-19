@@ -15,7 +15,7 @@ category: field-work
 
 ## UNAH Students in the field / Estudiantes de la UNAH en el campo
 
-UNAH staf
+UNAH staff and students participated in three days of fieldwork studying bofedales in the sierra Razhuillca to gain a greater understanding of the chararcteristics of bofedales in the Huanta region. Bofedales have been studied in detail via satellite images but their remote and high altitude locations mean that there is a lack of ground-truthing linked data to confirm the satellite image based studies. This fieldwork provided a rare but excellent opportunity to gain an indepth understanding of the vegetation, soil and water characteristics of bofedales.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales1.jpeg)
@@ -50,13 +50,15 @@ Dr
 
 ## Workshops
 
+UCAM researchers held a series of practical workshops for UNAH staff and students / )
+
 ![July2026Fieldwork](/assets/posts/7.26Worshop1.jpeg)
 
 
-![July2026Fieldwork](/assets/posts/7.26Worshop2.jpeg)
-
-
 ![July2026Fieldwork](/assets/posts/7.26Worshop3.jpg)
+
+
+![July2026Fieldwork](/assets/posts/7.26Worshop2.jpeg)
 
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop4.jpg)
@@ -65,6 +67,8 @@ Dr
 
 
 ##Community meeting
+
+At the end of the project a meeting was held with local community representatives from Huanta to outline project activities and achievements / )
 
 ![July2026Fieldwork](/assets/posts/7.26Community1.jpg)
 
@@ -75,11 +79,16 @@ Dr
 
 ##Laboratory
 
+At the end of the project an inventory was undertaken to confirm the details of all the equipment and materials being handed over to the UNAH.
+
 ![July2026Fieldwork](/assets/posts/7.26Lab1.jpg)
 
+(Representatives of the UCAM and the UNAH confirm the details of the inventory / )
 
 
 ##Final presentations
+
+At the end of the project a day long Conference was organised by the UNAH at which UCAM rseearchers presented details of their research and its outcomes / )
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations1.JPG)
 
