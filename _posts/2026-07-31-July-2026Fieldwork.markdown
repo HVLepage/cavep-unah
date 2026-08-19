@@ -15,58 +15,62 @@ category: field-work
 
 ## UNAH Students in the field / Estudiantes de la UNAH en el campo
 
-UNAH staff and students participated in three days of fieldwork studying bofedales in the sierra Razhuillca to gain a greater understanding of the chararcteristics of bofedales in the Huanta region. Bofedales have been studied in detail via satellite images but their remote and high altitude locations mean that there is a lack of ground-truthing linked data to confirm the satellite image based studies. This fieldwork provided a rare but excellent opportunity to gain an indepth understanding of the vegetation, soil and water characteristics of bofedales.
+UNAH staff and students participated in three days of fieldwork studying bofedales in the sierra Razhuillca to gain a greater understanding of the chararcteristics of bofedales in the Huanta region. Bofedales have been studied in detail via satellite images but their remote and high altitude locations mean that there is a lack of ground-truthing linked data to confirm the satellite image based studies. This fieldwork provided a rare but excellent opportunity to gain an indepth understanding of the vegetation, soil and water characteristics of some bofedales.
 
-Los docentes y los estudiantes de la UNAH participaron en tres días de trabajo de campo para estudiar los bofedales de la sierra de Razhuillca, con el fin de comprender mejor las características de los bofedales en la región de Huanta. Los bofedales se han estudiado en detalle mediante imágenes satelitales, pero su ubicación remota y a gran altitud hace que falten datos verificados sobre el terreno para confirmar los estudios basados en imágenes satelitales. Este trabajo de campo brindó una oportunidad única y excelente para obtener un conocimiento profundo de las características de la vegetación, el suelo y el agua de los bofedales.
+Los docentes y los estudiantes de la UNAH participaron en tres días de trabajo de campo para estudiar los bofedales de la sierra de Razhuillca, con el fin de comprender mejor las características de los bofedales en la región de Huanta. Los bofedales se han estudiado en detalle mediante imágenes satelitales, pero su ubicación remota y a gran altitud hace que falten datos verificados sobre el terreno para confirmar los estudios basados en imágenes satelitales. Este trabajo de campo brindó una oportunidad única y excelente para obtener un conocimiento profundo de las características de la vegetación, el suelo y el agua de algunos bofedales.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales1.jpeg)
 
-(Dara Radu (UCAM) outlines the fieldwork to be undertaken on arrival at a bofedale / Dara Radu (UCAM) describe el trabajo de campo que se llevará a cabo al llegar a un bofedale)
+Daria Radu (UCAM) outlines the fieldwork to be undertaken on arrival at a bofedale / Dara Radu (UCAM) describe el trabajo de campo que se llevará a cabo al llegar a un bofedale.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales2.jpg)
 
-(UCAM and UNAH participants spread out at a site on the bofedale to record field data / Los participantes de la UCAM y la UNAH se distribuyeron por un sitio en el Bofedale para registrar datos de campo.) 
+UCAM and UNAH participants spread out at a site on the bofedale to record field data / Los participantes de la UCAM y la UNAH se distribuyeron por un sitio en el Bofedale para registrar datos de campo.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales3.jpg)
 
-(UNAH participants record bofedale soil and vegetation characteristic data / Los participantes de la UNAH registran datos sobre las características del suelo y de vegetación de Bofedale.)
+UNAH participants record bofedale soil and vegetation characteristic data / Los participantes de la UNAH registran datos sobre las características del suelo y de vegetación de Bofedale.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales4.jpg)
 
-(UNAH participants record bofedale water quality data / Los participantes de la UNAH registran datos sobre la calidad del agua en Bofedale.)
+UNAH participants record bofedale water quality data / Los participantes de la UNAH registran datos sobre la calidad del agua en Bofedale.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales6.jpg)
 
-(UNAH participants record bofedale water quality data / Los participantes de la UNAH registran datos sobre la calidad del agua en un Bofedale.)
+UNAH participants record bofedale water quality data / Los participantes de la UNAH registran datos sobre la calidad del agua en un Bofedale.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales7.jpeg)
 
-(UCAM and UNAH participants after completing the survey of a bofedale / Participantes de la UCAM y la UNAH tras completar el estudio de un bofedale.)
+UCAM and UNAH participants after completing the survey of a bofedale / Participantes de la UCAM y la UNAH tras completar el estudio de un bofedale.
 
 
-## Workshops
 
-UCAM researchers held a series of practical workshops for UNAH staff and students / Investigadores de la UCAM organizaron una serie de talleres prácticos para los docentes y los estudiantes de la UNAH.)
+## WPRKSHOPS / TALLERES
+
+UCAM researchers held a series of practical workshops for UNAH staff and students.
+
+Investigadores de la UCAM organizaron una serie de talleres prácticos para los docentes y los estudiantes de la UNAH.
+
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop1.jpeg)
 
-(Daria Radu (UCAM) in discussion with the UNAH Bofedales research group / Daria Radu (UCAM) en una charla con el grupo de investigación «Bofedales» de la UNAH.)
+Daria Radu (UCAM) in discussion with the UNAH Bofedales research group / Daria Radu (UCAM) en una charla con el grupo de investigación «Bofedales» de la UNAH.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop3.jpg)
 
-(Luis de los Santos (UCAM) opens the Sediments workshop / Luis de los Santos (UCAM) inaugura el taller sobre sedimentos.)
+Luis de los Santos (UCAM) opens the Sediments workshop / Luis de los Santos (UCAM) inaugura el taller sobre sedimentos.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop2.jpeg)
 
-(UNAH partiicpants in the Sediments workshop / )
+UNAH partiicpants in the Sediments workshop / )
 
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop4.jpg)
@@ -75,7 +79,7 @@ UCAM researchers held a series of practical workshops for UNAH staff and student
 
 
 
-## Community meeting
+## COMMUNITY MEETING / REUNION CON LA COMUNIDAD
 
 At the end of the project a meeting was held with local community representatives from Huanta to outline project activities and achievements / Al finalizar el proyecto, se llevó a cabo una reunión con representantes de la comunidad local de Huanta para presentar las actividades y los logros del proyecto.)
 
@@ -86,7 +90,7 @@ At the end of the project a meeting was held with local community representative
 ![July2026Fieldwork](/assets/posts/7.26Community2.jpg)
 
 
-## Laboratory
+## LABORATORY / LABORATORIO
 
 At the end of the project an inventory was undertaken to confirm the details of all the equipment and materials being handed over to the UNAH.
 
@@ -97,7 +101,7 @@ Al finalizar el proyecto, se realizó un inventario para confirmar los detalles 
 (Representatives of the UCAM and the UNAH confirm the details of the inventory / Representantes de la UCAM y de la UNAH confirman los detalles del inventario.)
 
 
-## Final presentations
+## CONFERENCE / CONFERENCIA
 
 At the end of the project a day long Conference was organised by the UNAH at which UCAM rseearchers presented details of their research and its outcomes / Al finalizar el proyecto, la UNAH organizó una conferencia de un día de duración en la que los investigadores de la UCAM presentaron los detalles de su investigación y sus resultados.)
 
