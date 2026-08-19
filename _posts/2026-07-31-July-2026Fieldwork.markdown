@@ -88,15 +88,17 @@ Al finalizar el proyecto, se llevó a cabo una reunión con representantes de la
 
 ![July2026Fieldwork](/assets/posts/7.26Community2.jpg)
 
-Members of the community attending the presentation / 
+Members of the Huanta community arriving to listen to the presentations / Miembros de la comunidad de Huanta que llegan para escuchar las presentaciones.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Community1.jpg)
 
-Hugo Lepage (UCAM) 
+Hugo Lepage (UCAM) presents details of his research / Hugo Lepage (UCAM) presenta los detalles de su investigación.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Community3.jpg)
+
+A member of the community puts a question to the UCAM researchers / Un miembro de la comunidad formula una pregunta a los investigadores de la UCAM.
 
 
 
@@ -122,7 +124,7 @@ Al finalizar el proyecto, la UNAH organizó una conferencia de un día de duraci
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations1.JPG)
 
-The UNAH authorities at the opening of the Conference / Las autoridades de la UNAH en la inauguración de la conferencia.
+The Vice-President of Investigation - Dra Roxani Keewong Zapata - at the opening of the Conference welcomes the attendees / La vicepresidenta de Investigación — la Dra. Roxani Keewong Zapata — da la bienvenida a los asistentes en la inauguración de la conferencia.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations2.JPG)
@@ -137,17 +139,17 @@ John Forrest opens the Conference with a presentation on the establishment of a 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations4.JPG)
 
-Hugo Lepage preaents
+Hugo Lepage (UCAM) and Yumi Gomez (UNAH) present details of research undertaken using remote sensing / Hugo Lepage (UCAM) y Yumi Gómez (UNAH) presentan detalles de una investigación realizada mediante teledetección.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations5.jpeg)
 
-Daria Radu presents
+Daria Radu presents her research to the Conference / Daria Radu presenta su investigación en la conferencia.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations6.jpg)
 
-Eustace Barnes presents 
+Eustace Barnes presents details of the biodiversity related research, including the incredible news that a new species of bird has been discovered in the vicinity of Huanta / Eustace Barnes presenta detalles de la investigación relacionada con la biodiversidad, incluida la increíble noticia de que se ha descubierto una nueva especie de ave en las cercanías de Huanta.
 
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations7.jpeg)
