@@ -35,11 +35,6 @@ UCAM and UNAH participants spread out at one of the sites on the bofedale to rec
 UNAH participants record bofedale soil and vegetation characteristic data / Los participantes de la UNAH registran datos sobre las características del suelo y de vegetación de Bofedale.
 
 
-![July2026Fieldwork](/assets/posts/7.26Bofedales4.jpg)
-
-UNAH participants record bofedale water quality data / Los participantes de la UNAH registran datos sobre la calidad del agua en Bofedale.
-
-
 ![July2026Fieldwork](/assets/posts/7.26Bofedales5.jpg)
 
 UNAH participants record bofedale water quality data / Los participantes de la UNAH registran datos sobre la calidad del agua en un Bofedale.
