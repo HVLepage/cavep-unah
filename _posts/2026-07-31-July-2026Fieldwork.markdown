@@ -20,32 +20,32 @@ UNAH staff and students participated in three days of fieldwork studying bofedal
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales1.jpeg)
 
-Dr 
+(Dara Radu (UCAM) outlines the fieldwork to be undertaken on arrival at a bofedale / )
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales2.jpg)
 
-Dr 
+(UCAM and UNAH participants spread out at a site on the bofedale to record field data / ) 
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales3.jpg)
 
-Dr 
+(UNAH participants record bofedale soil characteristic data / )
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales4.jpg)
 
-
+(UNAH participants record bofedale water quality data / )
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales6.jpg)
 
-Dr 
+(UNAH participants record bofedale water quality data / )
 
 
 ![July2026Fieldwork](/assets/posts/7.26Bofedales7.jpeg)
 
-Dr 
+(UCAM and UNAH participants aafter completing the survey of a bofedale / )
 
 
 ## Workshops
@@ -54,19 +54,26 @@ UCAM researchers held a series of practical workshops for UNAH staff and student
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop1.jpeg)
 
+(Daria Radu (UCAM) in discussion with the UNAH Bofedales research group / )
+
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop3.jpg)
+
+(Luis de los Santos (UCAM) opens the Sediments workshop / )
 
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop2.jpeg)
 
+(UNAH partiicpants in the Sediments workshop / )
+
 
 ![July2026Fieldwork](/assets/posts/7.26Worshop4.jpg)
 
+(John Forrest (UCAM) clarifies coding details at the Hydrology data analysis workshop / )
 
 
 
-##Community meeting
+## Community meeting
 
 At the end of the project a meeting was held with local community representatives from Huanta to outline project activities and achievements / )
 
@@ -77,7 +84,7 @@ At the end of the project a meeting was held with local community representative
 ![July2026Fieldwork](/assets/posts/7.26Community2.jpg)
 
 
-##Laboratory
+## Laboratory
 
 At the end of the project an inventory was undertaken to confirm the details of all the equipment and materials being handed over to the UNAH.
 
@@ -86,24 +93,40 @@ At the end of the project an inventory was undertaken to confirm the details of 
 (Representatives of the UCAM and the UNAH confirm the details of the inventory / )
 
 
-##Final presentations
+## Final presentations
 
 At the end of the project a day long Conference was organised by the UNAH at which UCAM rseearchers presented details of their research and its outcomes / )
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations1.JPG)
 
+(The UNAH authorities at the opening of the Conference / )
+
+
 ![July2026Fieldwork](/assets/posts/7.26Presentations2.JPG)
+
+(Fabian Lema Rivero of the UNAH welcomes the UCAM and the UNAH participants to the Conference / )
+
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations3.jpeg)
 
+(John Forrest opens the Conference with a presentation on the establishment of a water quality database for several rivers in the viciinity of Huanta / )
+
+
 ![July2026Fieldwork](/assets/posts/7.26Presentations4.JPG)
+
+(Hugo Lepage preaents
+
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations5.jpeg)
 
+(Daria Radu presents
+
+
 ![July2026Fieldwork](/assets/posts/7.26Presentations6.jpg)
+
+(Eustace Barnes presents 
+
 
 ![July2026Fieldwork](/assets/posts/7.26Presentations7.jpeg)
 
-
-Dr 
-
+(UCAM and UNAH participants at the closure of the end of project Conference / )
