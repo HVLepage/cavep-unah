@@ -145,7 +145,7 @@ Hugo Lepage (UCAM) and Yumi Gomez (UNAH) present details of research undertaken 
 Daria Radu presents her research into bofedales to the Conference / Daria Radu presenta su investigación de los bofedales en la conferencia.
 
 
-![July2026Fieldwork](/assets/posts/7.26Presentations8.JPG)
+![July2026Fieldwork](/assets/posts/7.26Presentations8.jpg)
 
 A UNAH student presents project research into bofedales to the Conference / Un estudiante d ela UNAH presenta algunos detalles de la investigación de los bofedales en la conferencia.
 
