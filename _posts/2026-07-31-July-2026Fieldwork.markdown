@@ -145,6 +145,11 @@ Hugo Lepage (UCAM) and Yumi Gomez (UNAH) present details of research undertaken 
 Daria Radu presents her research into bofedales to the Conference / Daria Radu presenta su investigación de los bofedales en la conferencia.
 
 
+![July2026Fieldwork](/assets/posts/7.26Presentations8.jpeg)
+
+A UNAH student presents project research into bofedales to the Conference / Un estudiante d ela UNAH presenta algunos detalles de la investigación de los bofedales en la conferencia.
+
+
 ![July2026Fieldwork](/assets/posts/7.26Presentations6.jpg)
 
 Eustace Barnes presents details of the biodiversity related research, including the incredible news that a new species of bird has been discovered in the vicinity of Huanta / Eustace Barnes presenta detalles de la investigación relacionada con la biodiversidad, incluida la increíble noticia de que se ha descubierto una nueva especie de ave en las cercanías de Huanta.
