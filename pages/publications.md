@@ -14,7 +14,7 @@ Las publicaciones en revistas derivadas del acuerdo de investigación UNAH/UCAM 
 The UNAH & UCAM identify a new bird species for science in the Andes of Huanta / La UNAH y la UCAM identifican una nueva especie de ave para la ciencia en los Andes de Huanta
 
 
-## Publications / Publicaciones 
+## Papers / Publicaciones 
 
 Beyond the size: Assessing the influence of synthesis parameters on ZIF-8 monolith degradation in aqueous environments / (Más allá del tamaño: evaluación de la influencia de los parámetros de síntesis en la degradación del monolito de ZIF-8 en entornos acuosos)
 
