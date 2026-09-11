@@ -9,11 +9,31 @@ Journal publications resulting from the UNAH/UCAM research agreement will be lis
 
 Las publicaciones en revistas derivadas del acuerdo de investigación UNAH/UCAM se enumerarán a continuación a medida que se publiquen.
 
+## Articles / Articulos 
+
+The UNAH & UCAM identify a new bird species for science in the Andes of Huanta / La UNAH y la UCAM identifican una nueva especie de ave para la ciencia en los Andes de Huanta
+
+
+## Publications / Publicaciones 
+
+Beyond the size: Assessing the influence of synthesis parameters on ZIF-8 monolith degradation in aqueous environments / Más allá del tamaño: evaluación de la influencia de los parámetros de síntesis en la degradación del monolito de ZIF-8 en entornos acuosos
+
+Geochemical, hydrochemical and remote sensing study of an Andean calcareous wetland in Huanta, Peru / Estudio geoquímico, hidroquímico y de teledetección de un humedal calcáreo andino en Huanta, Perú
+
+Potentially toxic elements and radionuclides contamination in soils from the vicinity of an ancient mercury mine in Huancavelica, Peru / Contaminación por elementos potencialmente tóxicos y radionucleidos en suelos de las inmediaciones de una antigua mina de mercurio en Huancavelica, Perú
+
+Soil moisture persistence and integrated drought-state variability in a semi-arid Andean region / Persistencia de la humedad del suelo y variabilidad integrada del estado de sequía en una región andina semiárida
+
+The AI use gap: Visibility management of generative AI Use in Higher Education in the Peruvian Andes / La brecha en el uso de la IA: gestión de la visibilidad del uso de la IA generativa en la educación superior en los Andes peruanos
+
+The Razuhuillca micro-watershed in dispute: hydromorphological dynamics and territorial resistance to mining concessions in the Peruvian Andes / La microcuenca del Razuhuillca en conflicto: dinámica hidromorfológica y resistencia territorial a las concesiones mineras en los Andes peruanos
+
+Three-Dimensional imaging of Morpho butterfly wing nanostructuresusing FIB-SEM techniques / Imágenes tridimensionales de las nanoestructuras de las alas de la mariposa Morpho mediante técnicas de FIB-SEM
+
+Water security and hydrosocial resilience in the Peruvian Andes: Remote sensing and cultural governance in the Razuhuillca watershed / Seguridad hídrica y resiliencia hidrosocial en los Andes peruanos: Teledetección y gobernanza cultural en la cuenca del Razuhuillca
+
 
 ## PROJECT REPORTS / INFORMES DEL PROYECTO
-Project reports will be listed below as the project progresses.
-
-Los informes de los proyectos se irán enumerando a medida que avance el proyecto.
 
 Report No.1  January 2023  /  Informe No.1 enero 2023
 
@@ -23,7 +43,7 @@ Report No.3  August 2024  /  Informe No.3 agosto 2024
 
 Report No.4  August 2025  /  Informe No.4 agosto 2025
 
-Report No.5               /  Informe No.5 
+Report No.5  Jukly 2026   /  Informe No.5 julio 2026
 
 
 ## REFERENCES / REFERENCIAS
