@@ -16,21 +16,21 @@ The UNAH & UCAM identify a new bird species for science in the Andes of Huanta /
 
 ## Publications / Publicaciones 
 
-Beyond the size: Assessing the influence of synthesis parameters on ZIF-8 monolith degradation in aqueous environments / Más allá del tamaño: evaluación de la influencia de los parámetros de síntesis en la degradación del monolito de ZIF-8 en entornos acuosos
+Beyond the size: Assessing the influence of synthesis parameters on ZIF-8 monolith degradation in aqueous environments / (Más allá del tamaño: evaluación de la influencia de los parámetros de síntesis en la degradación del monolito de ZIF-8 en entornos acuosos)
 
-Geochemical, hydrochemical and remote sensing study of an Andean calcareous wetland in Huanta, Peru / Estudio geoquímico, hidroquímico y de teledetección de un humedal calcáreo andino en Huanta, Perú
+Geochemical, hydrochemical and remote sensing study of an Andean calcareous wetland in Huanta, Peru / (Estudio geoquímico, hidroquímico y de teledetección de un humedal calcáreo andino en Huanta, Perú)
 
-Potentially toxic elements and radionuclides contamination in soils from the vicinity of an ancient mercury mine in Huancavelica, Peru / Contaminación por elementos potencialmente tóxicos y radionucleidos en suelos de las inmediaciones de una antigua mina de mercurio en Huancavelica, Perú
+Potentially toxic elements and radionuclides contamination in soils from the vicinity of an ancient mercury mine in Huancavelica, Peru / (Contaminación por elementos potencialmente tóxicos y radionucleidos en suelos de las inmediaciones de una antigua mina de mercurio en Huancavelica, Perú)
 
-Soil moisture persistence and integrated drought-state variability in a semi-arid Andean region / Persistencia de la humedad del suelo y variabilidad integrada del estado de sequía en una región andina semiárida
+Soil moisture persistence and integrated drought-state variability in a semi-arid Andean region / (Persistencia de la humedad del suelo y variabilidad integrada del estado de sequía en una región andina semiárida)
 
-The AI use gap: Visibility management of generative AI Use in Higher Education in the Peruvian Andes / La brecha en el uso de la IA: gestión de la visibilidad del uso de la IA generativa en la educación superior en los Andes peruanos
+The AI use gap: Visibility management of generative AI Use in Higher Education in the Peruvian Andes / (La brecha en el uso de la IA: gestión de la visibilidad del uso de la IA generativa en la educación superior en los Andes peruanos)
 
-The Razuhuillca micro-watershed in dispute: hydromorphological dynamics and territorial resistance to mining concessions in the Peruvian Andes / La microcuenca del Razuhuillca en conflicto: dinámica hidromorfológica y resistencia territorial a las concesiones mineras en los Andes peruanos
+The Razuhuillca micro-watershed in dispute: hydromorphological dynamics and territorial resistance to mining concessions in the Peruvian Andes / (La microcuenca del Razuhuillca en conflicto: dinámica hidromorfológica y resistencia territorial a las concesiones mineras en los Andes peruanos)
 
-Three-Dimensional imaging of Morpho butterfly wing nanostructuresusing FIB-SEM techniques / Imágenes tridimensionales de las nanoestructuras de las alas de la mariposa Morpho mediante técnicas de FIB-SEM
+Three-Dimensional imaging of Morpho butterfly wing nanostructuresusing FIB-SEM techniques / (Imágenes tridimensionales de las nanoestructuras de las alas de la mariposa Morpho mediante técnicas de FIB-SEM)
 
-Water security and hydrosocial resilience in the Peruvian Andes: Remote sensing and cultural governance in the Razuhuillca watershed / Seguridad hídrica y resiliencia hidrosocial en los Andes peruanos: Teledetección y gobernanza cultural en la cuenca del Razuhuillca
+Water security and hydrosocial resilience in the Peruvian Andes: Remote sensing and cultural governance in the Razuhuillca watershed / (Seguridad hídrica y resiliencia hidrosocial en los Andes peruanos: Teledetección y gobernanza cultural en la cuenca del Razuhuillca)
 
 
 ## PROJECT REPORTS / INFORMES DEL PROYECTO
