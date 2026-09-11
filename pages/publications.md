@@ -17,42 +17,34 @@ The UNAH & UCAM identify a new bird species for science in the Andes of Huanta /
 ## Papers / Publicaciones 
 
 Beyond the size: Assessing the influence of synthesis parameters on ZIF-8 monolith degradation in aqueous environments / (Más allá del tamaño: evaluación de la influencia de los parámetros de síntesis en la degradación del monolito de ZIF-8 en entornos acuosos)
-
 https://www.researchgate.net/publication/396104079_Size_matters_limitations_of_the_ZIF-8_monolith_and_its_Ni-_Co-_and_Cu-doped_variants_for_the_adsorption_of_rhodamine_B
 
 
 Geochemical, hydrochemical and remote sensing study of an Andean calcareous wetland in Huanta, Peru / (Estudio geoquímico, hidroquímico y de teledetección de un humedal calcáreo andino en Huanta, Perú)
-
 https://www.sciencedirect.com/science/article/pii/S2214581825005968
 
 
 Potentially toxic elements and radionuclides contamination in soils from the vicinity of an ancient mercury mine in Huancavelica, Peru / (Contaminación por elementos potencialmente tóxicos y radionucleidos en suelos de las inmediaciones de una antigua mina de mercurio en Huancavelica, Perú)
-
 https://www.semanticscholar.org/paper/Potentially-toxic-elements-and-radionuclides-in-the-Corzo-Rodr%C3%ADguez/2093897e5e42bd759eb4e2867008dadcd78aacbf
 
 
 Soil moisture persistence and integrated drought-state variability in a semi-arid Andean region / (Persistencia de la humedad del suelo y variabilidad integrada del estado de sequía en una región andina semiárida)
-
 https://www.mdpi.com/2306-5338/13/9/237
 
 
 The AI use gap: Visibility management of generative AI Use in Higher Education in the Peruvian Andes / (La brecha en el uso de la IA: gestión de la visibilidad del uso de la IA generativa en la educación superior en los Andes peruanos)
-
 https://www.mdpi.com/2071-1050/18/12/5923
 
 
 The Razuhuillca micro-watershed in dispute: hydromorphological dynamics and territorial resistance to mining concessions in the Peruvian Andes / (La microcuenca del Razuhuillca en conflicto: dinámica hidromorfológica y resistencia territorial a las concesiones mineras en los Andes peruanos)
-
 https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2025.1614847/full
 
 
 Three-Dimensional imaging of Morpho butterfly wing nanostructuresusing FIB-SEM techniques / (Imágenes tridimensionales de las nanoestructuras de las alas de la mariposa Morpho mediante técnicas de FIB-SEM)
-
 https://www.researchgate.net/publication/408020216_Three-dimensional_imaging_of_Morpho_butterfly_wing_nanostructures_using_FIB-SEM_techniques
 
 
 Water security and hydrosocial resilience in the Peruvian Andes: Remote sensing and cultural governance in the Razuhuillca watershed / (Seguridad hídrica y resiliencia hidrosocial en los Andes peruanos: Teledetección y gobernanza cultural en la cuenca del Razuhuillca)
-
 https://www.sciencedirect.com/science/article/pii/S2352938526000534
 
 
