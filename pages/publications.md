@@ -25,7 +25,6 @@ https://www.sciencedirect.com/science/article/pii/S2214581825005968
 
 
 Magnetic Iron Oxide Nanoparticles: Synthesis, Stabilization, Vectorization, Physicochemical Characterizations, and Biological Applications
-
 https://pubs.acs.org/chreay/article-abstract/108/6/2064/198011/Magnetic-Iron-Oxide-Nanoparticles-Synthesis?redirectedFrom=fulltext
 
 
