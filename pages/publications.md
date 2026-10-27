@@ -24,6 +24,10 @@ Geochemical, hydrochemical and remote sensing study of an Andean calcareous wetl
 https://www.sciencedirect.com/science/article/pii/S2214581825005968
 
 
+Magnetic Iron Oxide Nanoparticles: Synthesis, Stabilization, Vectorization, Physicochemical Characterizations, and Biological Applications
+https://pubs.acs.org/chreay/article-abstract/108/6/2064/198011/Magnetic-Iron-Oxide-Nanoparticles-Synthesis?redirectedFrom=fulltext
+
+
 Potentially toxic elements and radionuclides contamination in soils from the vicinity of an ancient mercury mine in Huancavelica, Peru / (Contaminación por elementos potencialmente tóxicos y radionucleidos en suelos de las inmediaciones de una antigua mina de mercurio en Huancavelica, Perú)
 https://www.semanticscholar.org/paper/Potentially-toxic-elements-and-radionuclides-in-the-Corzo-Rodr%C3%ADguez/2093897e5e42bd759eb4e2867008dadcd78aacbf
 
