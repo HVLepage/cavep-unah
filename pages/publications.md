@@ -24,6 +24,10 @@ Geochemical, hydrochemical and remote sensing study of an Andean calcareous wetl
 https://www.sciencedirect.com/science/article/pii/S2214581825005968
 
 
+Green reduction synthesis of zinc oxide nanoparticles for the remediation of environmental pollutant dyes
+
+
+
 Magnetic Iron Oxide Nanoparticles: Synthesis, Stabilization, Vectorization, Physicochemical Characterizations, and Biological Applications
 https://pubs.acs.org/chreay/article-abstract/108/6/2064/198011/Magnetic-Iron-Oxide-Nanoparticles-Synthesis?redirectedFrom=fulltext
 
@@ -46,6 +50,10 @@ https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2025.1614847/fu
 
 Three-Dimensional imaging of Morpho butterfly wing nanostructuresusing FIB-SEM techniques / (Imágenes tridimensionales de las nanoestructuras de las alas de la mariposa Morpho mediante técnicas de FIB-SEM)
 https://www.researchgate.net/publication/408020216_Three-dimensional_imaging_of_Morpho_butterfly_wing_nanostructures_using_FIB-SEM_techniques
+
+
+Trace-element enrichment in agricultural soils under wastewater-influenced surface-water irrigation: a plot-scale study in an Andean micro-watershed
+https://link.springer.com/article/10.1186/s42834-026-00301-4
 
 
 Water security and hydrosocial resilience in the Peruvian Andes: Remote sensing and cultural governance in the Razuhuillca watershed / (Seguridad hídrica y resiliencia hidrosocial en los Andes peruanos: Teledetección y gobernanza cultural en la cuenca del Razuhuillca)
