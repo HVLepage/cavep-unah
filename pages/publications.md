@@ -25,7 +25,7 @@ https://www.sciencedirect.com/science/article/pii/S2214581825005968
 
 
 Green reduction synthesis of zinc oxide nanoparticles for the remediation of environmental pollutant dyes
-
+https://www.tandfonline.com/doi/full/10.1080/25787616.2026.2754570
 
 
 Magnetic Iron Oxide Nanoparticles: Synthesis, Stabilization, Vectorization, Physicochemical Characterizations, and Biological Applications
