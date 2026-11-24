@@ -28,6 +28,10 @@ Green reduction synthesis of zinc oxide nanoparticles for the remediation of env
 https://www.tandfonline.com/doi/full/10.1080/25787616.2026.2754570
 
 
+Integrating Ecological Vulnerability, Actor-Level Mention Frequency, and Market Representation for Sustainable Management of Medicinal Plant Resources in the Peruvian Andes 
+https://www.mdpi.com/2079-9276/15/11/155/pdf
+
+
 Magnetic Iron Oxide Nanoparticles: Synthesis, Stabilization, Vectorization, Physicochemical Characterizations, and Biological Applications
 https://pubs.acs.org/chreay/article-abstract/108/6/2064/198011/Magnetic-Iron-Oxide-Nanoparticles-Synthesis?redirectedFrom=fulltext
 
